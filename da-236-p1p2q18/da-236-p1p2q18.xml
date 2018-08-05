@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 2, Quaestio 18</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 2, Quaestio 18</head>
+                <p>Octauadecima questio est, cum in libro <title>De anima</title> determinetur, de uirtutibus sensibilibus et in libro <title>De sensu et sensato</title> et in <title>Medicina</title> et in libro <title>Animalium</title> queritur quomodo differenter</p>
+                <p>Solutio. Dicendum est quod uirtutes sensibiles multipliciter considerantur. Vno modo a parte suarum operationum et prout ad animam referuntur, et sic determinatur de illis in libro <title>De anima</title>. Secundo modo per comparationem ad organa et obiecta et ad eorum naturam secundum quod in quolibet organo est dominium alicuius qualitatis elementaris uel dispositionis elementaris secundum cuius exigentiam et proportionem medii et obiecti operatur uirtus in organo existens, et sic determinatur de illis in libro <title>De sensu et sensato</title>. Terci<cb ed="#K" n="51rb"/>o modo considerantur a parte ortus quem habent ab organis et a parte formationis organorum et situs eorum, prout sunt partes animalium, et sic determinatur de illis in libro de naturis animalium. Quarto modo considerantur per comparationem ad partes corporis et dispositiones earum secundum quod per dispositiones organorum recipiunt dispositiones saluas uel lesas, ut in saluis possint conseruari et a lesis remoueri per anthidota exhibita exterius, et sic determinatur de illis in <title>Medicina</title>.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

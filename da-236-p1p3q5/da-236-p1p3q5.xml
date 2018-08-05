@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 3, Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 3, Quaestio 5</head>
+                <p>Quinta questio est principium abstractionis in rebus naturalibus. Et ostenditur quod necesse est quod non habeant speciale principium abstractionis: quelibet sciencia habet modum abstrahendi, set modus uniuersalis est ille qui est uniuersalis a particulari, ergo supra modum illum addit sciencia naturalis alium modum specialiter et non appropriat illum sibi, ergo habet alium modum, set non est alius modus abstractionis nisi ille qui est forme a materia secundum quem mathematice sciencie procedunt et modus separationis secundum quem procedit sciencia mechanica. Nullum autem talium modorum habet sciencia naturalis, ergo uidetur quod nullo modo abstrahat, ergo non habet principium abstractionis. </p>
+                <p>Alia autem ratio talis est sciencia<cb ed="#K" n="53ra"/> naturalis est de corporibus mundi. Corpora mundi sunt ista sola particularia que sunt partes uniuersi, unde non est aliud celum nisi hoc celum, non est alius ignis nisi hic ignis et sic de aliis corporibus elementatis que sunt fixa unum solum indiuiduum habentia. Ergo cum sit de talibus non est de uniuersalibus, ergo non abstrahit abstractione que est uniuersalis a particulari nec alia abstractione, ut uisum est. </p>
+                <p>Tercia ratio hec est, sciencia naturalis est de rebus mobilibus in quantum mobilia sunt et generabilibus et corruptibilibus, set talia non sunt uniuersalia set singularia, quia iste operationes circa singularia sunt, ergo sciencia naturalis non habet modum abstractionis. </p>
+                <p>Ad oppositum, omnis sciencia est de rebus prout cadunt in cognitionem anime secundum modum necessitatis et fixionis earum et certitudinis. Si ergo res naturales cadunt in scienciam necesse est quod habeant huiusmodi statum set illum non habent nisi secundum modum abstractionis, ergo habent modum abstractionis.</p>
+                <p>Solutio. Dicendum est quod sciencia naturalis habet modum abstractionis et principium illius est uniuersale. Non enim abstrahit abstractione forme a materia nec separatione set sola illa que est uniuersalis a particulari.</p>
+                <p>Ad primam rationem in contrarium dicendum est quod sciencia naturalis non habet alium modum abstractionis nisi illum qui est uniuersalis a particulari, set illum sibi appropriat per exigentiam rerum quas considerat, et hec abstractio est contractio materialis et non addit alium modum supra illum modum set illum considerat et contrahit.</p>
+                <p>Ad secundam rationem dicendum est quod, sicut dicit <name>Aristoteles</name> in <title>Posterioribus</title>, non fit demonstratio de hoc sole uel de hac luna in quantum hic sol uel hec luna set in quantum luna simpliciter uel sol simpliciter, et hoc est in quantum habet naturam uniuersalis. Eodem autem modo sciencia naturalis considerat hec corpora sub ratione uniuersalis sui et ideo hec abstrahit considerando rationem uniuersalis et causarum uniuersalium. </p>
+                <p>Ad terciam rationem dicendum est quod dupliciter est loqui de corporibus. Vno modo a parte nature singularis ipsorum, et hoc modo non cadunt in sciencia per se set per accidens. Eodem modo nec operationes nec generationes ipsorum cadunt in scienciam alio modo considerantur a parte sui uniuersalis per quod cognoscuntur et per quod cadunt in certitudinem et scienciam et hoc modo cadunt in scienciam, sicut enim hoc modo abstrahuntur similiter et ipsorum generationes et operationes et motus. </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

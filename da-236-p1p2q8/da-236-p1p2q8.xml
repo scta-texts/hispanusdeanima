@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 2, Quaestio 8</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 2, Quaestio 8</head>
+                <p>Octaua questio est propter quid in libro <title>De sensu et sensato </title>non determinatur complete de uoce sicut de aliis obiectis aliorum sensuum, nec fit tractatus specialis de illa. Similiter queritur propter quid in libro <title>De sensu et sensato</title> non fit tractatus specialis completus de obiecto tactus, quod est quattuor qualitates. </p>
+                <p>Solutio. Dicendum est ad hoc quod obiecta habent duplicem generationem: primam, scilicet per quam alterant corpora in quibus sunt; secunda est per quam sensus. In quibusdam autem obiectis eadem est prima generatio cum secunda, in quibusdam autem non est eadem quod patet. Prima enim generatio coloris est ex quattuor qualitatibus. Secunda autem est per irradiationem lucis ducentis colores de potencia ad actum, et per hanc alterat color uisum et inmutat, et aliud agens est in prima generatione et in secunda. In sono autem uel uoce, quod idem est hic, utraque generatio est eadem et ab eodem agente, quia utraque est a percutiente et percusso et aere interempto. Dicendum ergo quod in libro<title> De sensu et sensato</title> determinatur de obiectis quantum ad primam generationem; in libro autem <title>De anima</title> determinatur de illis quantum ad secundam generationem. Et quia in colore et in aliis obiectis quibusdam alia est prima generatio quam secunda, ideo de illis fit specialis tractatus completus in libro <title>De sensu et sensato</title> quantum ad primam generationem et in libro <title>De anima</title> quantum ad secundam. Quia autem in sono uel uoce eadem est prima generatio cum secunda, cum determinatum sit complete de ipsa in libro <title>De anima</title> quantum ad secundam generationem non debuit de ipsa fieri tractatus specialis completus in libro <title>De sensu et sensato</title> quantum ad primam uel secundam generationem, cum una sit eadem cum altera, nec debet ibi determinari de uoce nisi sub epylogo. Et de obiecto tactus iam patebit solutio.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+    

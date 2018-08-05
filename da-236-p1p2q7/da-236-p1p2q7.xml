@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 2, Quaestio 7</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 2, Quaestio 7</head>
+               <p> Septima questio est quomodo differenter determinatur de uoce in libro De anima et in libro <title>De sensu et sensato</title> et in <title>Gramatica</title> et in libro <title>De animalibus</title> et in <title>Musica</title>.</p> 
+                <p>Solutio. Dicendum quod multiplex est loqui de uoce: uno modo a parte illa qua formatur naturalibus instrumentis et suis principis, quae in quibusdam animalibus sunt et in quibusdam non sunt. Et sic in libro <title> De animalibus</title> determinatur de uoce, in quo determinatur de naturis animalium. Secundo modo consideratur uox secundum quod mouet auditum et est obiectum eius, et sic determinatur de uoce in libro <title>De anima</title>. Tercio modo consideratur uox a parte proportionis <cb ed="#K" n="49vb"/> sue, et sic determinatur de ipsa in <title>Musica</title>. Quarto modo consideratur uox secundum quod instituitur ad significandum et secundum suas differentias, et sic determinatur de uoce in <title>Gramatica</title>. Quinto modo consideratur uox secundum quod est signum attestans complexioni humane bene uel male se habenti, et sic determinatur de uoce in <title>Medicina</title>. In libro autem <title>De sensu et sensato </title>determinatur de illa in quodam transcursu secundum quod a parte prime sue generationis consideratur.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 1, Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            
+            <head>Preambula, Problema 1, Quaestio 4</head>
+            <p>Quarto queritur utrum hec cognitio sit inna<cb ed="#K" n="47ra"/>ta anime aut acquisita. Et uidetur quod sit innata, quia in anima cognitio precedit amorem, set amor anime sui ipsius innatus est ei, ergo et cognitio sui ipsius innata est ei. Amor patet, quia sicut uult <name>Boetius</name> anima maxime optat bonum sui ipsius.</p> 
+            <p>Secunda ratio hec est, sicut dicit <name>Boetius</name>, <quote>anima se ipsam ignorare non potest, quia semper est sibi presens</quote>. Ergo cum sit sibi presens semper et in principio et in fine se semper cognoscit, ergo sua cognitio est ignata et non acquisita.</p>
+            <p>Ad oppositum, sicut habetur in tercio <title>De anima</title>, anima cognoscit se alia cognoscendo, quia inuenit se informatam aliis. Set cognitio aliorum est acquisita ipsi anime, ergo cognitio sui ipsius est acquisita ipsi anime et non innata.</p> 
+            <p>Solutio. Dicendum est quod cognitio anime quam habet sui ipsius est innata ei, et hanc habet per sui presentiam.</p> 
+            <p>Ad rationem in contrarium dicendum est siue iam patebit solutio.
+         </p>
+               
+
+            
+         </div>
+      </body>
+  </text>
+  
+ 
+</TEI>

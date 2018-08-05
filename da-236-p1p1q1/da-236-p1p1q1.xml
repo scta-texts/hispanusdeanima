@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 1, Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            <head>Preambula, Problema 1, Quaestio 1</head>
+            <p>Prima autem questio est utrum sit sciencia de anima et que est necessitas sciencie de anima. Et uidetur quod sciencia de anima sit necessaria sic:
+               <app>
+                  <lem>omnis substantia spiritualis cuius obiecta, operationes et uirtutes maxime offeruntur cogitationem maxime cadit in scienciam. Set anima est huiusmodi, ergo anima maxime cadit in scienciam, necesse est ergo haberi scienciam de anima. Maior patet quia substantie spirituales manifestantur per suas operationes. Minor patet quia, sicut uult  
+                     <ref>
+                        <name>Aristoteles</name> 
+                        in libro 
+                        <title>De anima</title>
+                     </ref>, 
+                     <cit>
+                        <quote>operationes animalium 
+                           <app>
+                              <lem>maiores</lem>
+                              <rdg wit="#V">manifestiores</rdg> 
+                           </app>
+                           sunt quam operationes uegetalium, et uegetalium, quam lapidum.
+                        </quote>
+                        <bibl>Aristoteles, De anima...</bibl>
+                     </cit>
+                     Hoc autem est a parte anime ipsorum.</lem>
+                  <rdg wit="#V" type="omission"/>  
+              </app>
+            </p> 
+            <p>Secunda ratio hec est, omnis substantia cuius notitia excellit alias quantum ad nobilitatem subiecti et certitudinem cognitionis maxime cadit in scienciam, et maxime est necessaria et digna ad hoc ut de ipsa habeatur sciencia. Anima est huiusmodi, ergo necessarium est 
+               <app>
+                  <lem>de anima</lem>
+                     <rdg wit="#V #Kbis" type="omission"/>
+                  
+               </app> 
+               habere scienciam. Maior per se patet, minor similiter patet ab <name>Aristotele</name> hoc probante et dicente in principio libri <title>De anima</title>.</p>
+            <p>
+               <app>
+                  <lem>
+                     Tercia ratio hec est, omnis substantia cuius cognitio affert maxime iuuamentum ad omnem philosophiam naturalem maxime cadit in scienciam. Set anima est huiusmodi, ergo de anima maxime decet esse sciencia. Maior patet de se, minor patet ab <name>Aristotele</name>  in principio <title>De anima</title>.
+                  </lem>
+                     <rdg wit="#V" type="omission"/>
+                 
+               </app>
+            </p><p>
+               <app>
+                  <lem>Quarta ratio hec est, in anima sunt duo, scilicet, substantia eius et operationes, set operationes eius maxime manifeste sunt sensui, ergo anima maxime cadit in sensu quantum ad suas operationes. Set sciencia oritur a sensu, ergo de ipsa maxime debet esse sciencia a parte suarum operationum. Item sua substantia est maxime similis anime cognoscenti, quia est sibi similis, et ex similibus resultat cognitio, cum enim in anima maxime represententur similitudines rerum, et propter hoc ipsa cognoscit res; cum ipsa maxime sibi representetur, maxime cadit in cognitione. Omne autem tale cadit in scienciam maxime.</lem> 
+                   <rdg wit="#V" type="omission"/>
+                
+               </app>
+            </p>
+            
+            <p>Quinta ratio hec est, sicut dicit <name>Augustinus</name> in 
+         
+               <app>
+                  <lem>principio</lem>
+                   <rdg wit="#V #Kbis">principio libri</rdg>
+               </app>
+               <title>De anima</title>, <quote>iniunctum est ut me ipsum cognoscam, turpe est michi si me ipsum ignorem</quote>. Causa autem per quam cognoscimus est anima, ergo necesse est animam per hoc se ipsam cognoscere. Ergo ipsa cadit in cognitionem et ita in scienciam, et ita de anima necesse est habere scienciam.
+            </p><p>Ad oppositum sunt rationes: prima talis est, sicut habetur in tercio <title>De anima</title>, nichil quod non prius fuerit in sensu cadit in intellectu. Set anima non cadit in sensu, cum sit substantia spiritualis, ergo nullo modo cadit in intellectu. Omne autem illud de quo est sciencia cadit in intellectu et offert se cognitioni intelligentie, ergo de anima non potest esse sciencia.
+            </p><p>Secunda ratio hec est, uirtus anime nostre dependet a materia corporali, intellectus enim dependet a sensu et sensus ab organis; set omnis uirtus dependens a materia corporali solum cognoscit res corporales, quia talis uirtus coartatur a materia et non extenditur ultra illam. Set anima non est res corporalis set spiritualis, ergo intellectus non potest cognoscere animam. De nullo autem tali est sciencia, ergo de anima non est sciencia.
+            </p><p>Solutio. Dicendum est quod sciencia de anima est necessaria, et hoc propter multas causas. Vna causa est propter subiecti nobilitatem et certitudinem cognitionis. Secunda causa est propter iuuamentum quod affert omni sciencie et maxime <cb ed="#K" n="45rb"/> naturali sciencie, quia anima est principium omnium animalium, et propter hoc necesse est ad cognitionem animalium habere cognitionem uirtutum et operationum ipsius anime, quia ignorato principio, necesse est ignorare et ea quorum est principium. Tercia causa est propter utilitatem quam affert aliis scienciis. Affert enim utilitatem morali et illi sciencie que est de regimine ciuitatum, quia tota sciencia moralis est de uirtutibus anime. Affert etiam utilitatem theologie, sicut uult commentator, quia per scienciam de anima cognoscuntur uirtutes anime que sunt necessarie ad cognoscendum habitus theologos. Quarta causa est manifestatio operationum anime, quia licet substantia eius sit occulta, tamen operationes eius sunt manifeste in animalibus, sicut uult Aristoteles. 
+            Concedimus autem rationes que probant scienciam de anima esse necessariam.</p>
+           <p>Ad primam rationem in contrarium dicendum est quod aliquid cognoscitur ab intellectu VII modis: uno modo per speciem quam habet prius in sensu, et sic res corporalis cognoscitur ab intellectu et de hac bene obicit. Secundo modo cognoscitur aliquid ab intellectu non per speciem, set quia est species alterius, et sic species que sunt in anima cognoscuntur se ipsis, unde sunt illud quo cognoscuntur. Tercio modo per effectus sensibiles, et sic substantie separate et prima causa cognoscuntur ab intellectu. Quarto modo per sui presentiam et sic anima  illuminata non obumbrata mole carnis se per se cognoscit, quia apparet sibi nuda et presens. Deus enim se ipsum cognoscit, quia est sibi presens, quia inter ipsum et ipsum non cadit medium, sicut uult <name>Algazel</name>, et similiter est de anima. Quinto enim modo per priuationem aliorum, et sic dicit <name>Dyonisus</name> in <title>Ierarchia</title>  quod Deus cognoscitur per priuationem causarum et omnium rerum, quia non est hec res nec illa. Sexto modo per proportionem, et sic materia scibilis est secundum analogiam, ut sicut ex ligno fit scamnum, sic ex primordiali materia fiunt omnia elementa. Septimo modo per similitudinem alterius, et sic uniuersale cognoscitur per similitudinem et ydolum singulorum; et sic anima cognoscitur per essentiam ab intellectu nec cadit quantum ad hoc in sensu, set solum quantum ad operationes cadit in sensu.</p> 
+            <p>Ad secundam rationem dicendum est quod operationes anime et substantie cadunt in sciencia. Tamen operationes prius cadunt in sensu et informant ipsum et post informant intellectum, et intellectus informatus cognoscit principium a quo fluunt ille operationes. Hoc autem est anima per sui substantiam. Et propter hoc intellectus cognoscit animam et suas operationes, et sic de ipsa est sciencia. In primo autem e conuerso est: primum enim primo cognoscit se ipsum et cognoscit se esse causam, et propter hoc in ipso relucent omnia tamquam in causa, et sic per se omnia cognoscit.</p> 
+           
+            
+         </div>
+      </body>
+  </text>
+  
+ 
+</TEI>

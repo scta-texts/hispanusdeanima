@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 2, Quaestio 20</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 2, Quaestio 20</head>
+                <p>Vicessima questio est que est causa distinctionis sciencie a sciencia et partium sciencie ad inuicem. </p>
+                <p>Solutio. Dicendum est quod diuersitas ista prouenit a parte subiecti et a parte eorumque in subiecto indicantur, set hec diuersitas multiplex est. Etenim quoddam subiectum distinguitur ab altero subiecto secundum genus abstractionis, sicut res coniuncta motui et materie distinguitur a re omnino separata a materia et a motu et ab illa que est coniuncta secundum esse separata secundum distinctionem, et hec diuersitas facit diuersitatem distinctionum in scienciis principalibus sicut in partibus philosophie principalibus. Est autem alia diuersitas que est per additionem dispositionis supra subiectum que dispositio est alterius nature, et sic linea uisualis addit supra <cb ed="#K" n="51va"/>lineam simpliciter, et hec diuersitas facit separationem sciencie per modum subalternationis. Linea enim uisualis addit supra lineam simpliciter aliud principium, scilicet uisibile, quod est alterius nature, quia est a principio nature et subalternatur sciencia de linea uisuali sciencie de linea simpliciter. Tercia diuersitas est que attenditur inter partes integrales ipsius subiecti alicuius uel eorum que ad principale subiectum concurrunt que partes addunt aliquas proprietates et passiones supra subiectum que tamen sunt eiusdem abstractionis, et hec diuersitas facit separationem librorum principalium, qui ad inuicem diuersas passiones habent que partes continentur sub diuersis partibus principalibus et hec facit diuersitatem capitulorum. Quarta diuersitas est que est ratione diuersarum conclusionum et passionum que probantur de eadem parte subiecti et hec facit distintionem in paragraphis in sciencia. Hec autem distinctio sciencie penes diuersitates predictas non procedit secundum exigentiam traditionis nostre, set secundum exigentiam rerum et status sciencie et rationem ipsius. </p>
+                <p>Et sic patet uerificatio et notificatio eorum que circa secundum probleuma principale propositum inquiruntur.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

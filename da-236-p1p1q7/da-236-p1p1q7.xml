@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 1, Quaestio 7</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            
+            <head>Preambula, Problema 1, Quaestio 7</head>
+            <p>Septimo queritur propter quid ita est in uirtute intellectiua quod eadem uirtus intellectiua cognoscit se ipsam, in uirtute autem sensitiua non est ita quod se ipsa possit cognosci set per aliam sibi superiorem, sicut sensus particulares et operationes eorum cognoscuntur per sensum communem, qui est uirtus illis superior.</p> 
+            <p>Ad istas duas questiones dicendum est, et primo ad primam. Dicit enim <name>Auicenna</name> quod quedam uirtus non alligatur organo et sibi presens est, et non est medium inter ipsam et se ipsam, nec obumbratur aliqua caligine. Et quia intellectiua talis est <cb ed="#K" n="47rb"/>, ideo cognoscit se ipsam per se ipsam. Virtus autem sensibilis obumbratur umbra organi, et non est ita sibi presens nec sibi lucet, quia inter ipsam et se est organum medium, unde non est sibi unita nec presens nec sibi lucens. Et propter hoc anima sensibilis se ipsam per se non potest cognoscere nec apprehendere, nec potest reflecti supra se nec supra se suum actum, et propter hoc soluitur ratio in contrarium.</p>
+                 <p>Et per hoc patet solutio ad septimum. Sensus enim obfuscatus est organo, et propter hoc suam operationem non cognoscit set alia uirtus interior abstractior est et potencior, scilicet, sensus communis, qui est superior ad sensus particulares. Sic autem non est de anima intellectiua, quia sic non est obumbrata, et propter hoc ipsa se et suum actum potest apprehendere.</p> 
+ 
+         </div>
+      </body>
+  </text>
+  
+ 
+</TEI>

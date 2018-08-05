@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 1, Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            
+            <head>Preambula, Problema 1, Quaestio 3</head>
+            <p>Tercio queritur utrum anima se ipsam cognoscat. Et ostenditur quod sic, quia, sicut dicit <name>Algazel</name>, ad hoc ut aliquid cognoscatur requiruntur tria: primum est ut substantia cognoscens sit inmunis a materia corporali; secundum est ut res cognita sit denudata a materia corporali; tercium est ut sit unio rei denudate et inmunis a materia et presentia. Et propter hoc etiam primum cognoscit se, quia est inmune a materia, propter hoc cognoscit, et quia est denudatum et separatum a materia, ideo cognoscitur, et quia est sibi presens, ideo cognoscit se ipsum. Ergo cum anima intellectiua sit huiusmodi et habeat istas proprietates necesse est quod anima intellectiua se ipsam cognoscat.</p>
+            <p>Secunda ratio hec est, sicut dicit <name>Algazel</name> , quanto aliqua substantia est magis simplex et spiritualis tanto manifestius cognoscit res et sub plenari luce et cum maiori delectatione. Et ideo primum sub plenissima luce cognoscit res et magis delectatur. Ergo cum anima intellectiua sit substantia spiritualis et sibi maxime luceat, quia est sibi maxime presens, patet quod si cognoscit res alias propter hoc multo magis se cognoscet. Anima ergo intellectiva se ipsam cognoscit. </p>
+            <p>Ad oppositum dicit <name>Aristoteles</name> : obiecta precedunt actus et actus primi sunt potenciis, et potencie precedunt substantias. Ergo si anima cognoscit se, cognoscet se per sua obiecta, per suas potencias et per suos actos. Ergo non cognoscit se per se, set est primo cognoscitiua suarum operationum, et si sui sit cognoscitiua, hoc est per suas operationes et a posteriori, et non simpliter nec per se.</p> 
+            <p>Solutio. Dicendum est quod anima cognoscit se per se, sicut uult <name>Boetius</name> in libro <title>De consolatione</title>, duo sunt que anima non potest ignorare, scilicet uerum et se. Verum non potest ignorare quia tam cito ignorat uerum decipitur. Se autem non potest ignorare, quia semper est sibi presens. Item <name>Augustinus</name> dicit quod cum anima omnia alia cognoscat se non debet non cognoscere; et sic patet per <name>Boetium</name> et per <name>Augustinum</name> quod anima cognoscit se ipsam.</p>
+            <p>Ad rationem in contrarium dicendum est quod duplex est cognitio anime: una que oritur a sensu, et hec incipit ab obiectis et terminatur ad potencias, et a potenciis ad substantias, set hec non est cognitio anime que sit de se uel sui. Est autem alia per reflectionem supra se, et hanc habet anima de se, et de hac non est uerum quod obicit.</p>
+        
+         </div>
+      </body>
+  </text>
+ 
+</TEI>

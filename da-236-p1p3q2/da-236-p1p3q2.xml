@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 3, Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <div>
+              <head>Preambula, Problema 3, Quaestio 2</head>
+              <p>Secunda questio est propter quid quelibet sciencia utitur prima abstractione que est uniuersalis a particulari; mathematice uero spiritualiter utuntur illa que est illa que est forme a materia.</p>
+              <p>Videtur enim oppositum hac ratione, quia omnis forma que inmediatius adheret siue inheret materie et dispositionibus materialibus minime abstrahit a materia. Set quantitas est huiusmodi, ergo quantitas minime abstrahit a materia; ergo si abstrahat, abstrahet solum abstractione que est uniuersalis a particulari.</p>
+              <p>Secunda ratio hec est, inmediatum subiectum motus est continuum, sicut patet in libro <title>Phisicorum</title>. Omnes enim dispositiones motus in continuo fundantur, ergo continuum minime abstrahit a motu. Set numerus resultat ex decisione continui, ut habetur in <title>Phisicis</title>, ergo eodem modo non abstrahit numerus, sicut nec continuum. Ergo sciencia, que est de utraque differentia quantitatis, scilicet continua et discreta, minime<cb ed="#K" n="52ra"/> abstrahit abstractione que est forma a materia, ergo si abstrahat, abstrahit abstractione que est uniuersalis a particulari.</p>
+              <p>Ad oppositum, ille res abstrahunt que habent principia preter materiam per que possunt intelligi et diffiniri preter materiam et passiones et proprietates preter materiam et motum. Set quantitates sunt huiusmodi, ergo abstrahunt illa abstractione que est forme a materia. </p>
+              <p>Solutio. Dicendum est quod sciencie mathematice abstrahunt abstractione, que est uniuersalis a particulari, que est communis omnibus scienciis, et alia abstractione que est forme a materia. Et causa huius est quia inter omnia accidentia sola quantitas habet principia diffinitionis et essentie preter materiam et proprietates consequentes ipsam, unde dicit <name>Aristoteles</name> quod alia est diffinitio circuli et circuli cuprei. Potest enim diffinitioni circulus preter materiam. Caro uero et quelibet forma naturalis non possunt diffiniri nisi per relationem ad materiam, et ideo res naturales non abstrahunt nisi abstractione una que est uniuersalis a particulari, et non abstractione que es forme a materia, cum suum totum esse fundetur in materia. Res autem mathematice utraque abstractione abstrahunt.</p> 
+              <p>Ad  rationes autem dicendum est quod quantitates dupliciter considerantur. Primo modo secundum esse essentie qua sunt id quod sunt, et secundum quod sunt entes, et cadunt in speculatione mathematica. Secundo modo considerantur secundum quod sunt ordinabiles in genere, et cadunt super eos aspectus rationis et sic cadunt in speculatione logica. Tercio modo considerantur secundum quod causantur a principiis subiecti mobilis et concernunt motum et materiam, et sic cadunt in speculatione philosophie naturalis. Quarto modo considerantur a parte principiorum que habent preter aspectationem (?) ad materiam per que diffiniuntur et per que in sua essentia consistunt preter applicationem ad materiam prout sine relatione ad materiam diffiniuntur et considerantur. Et sic abstrahunt abstractione forme a materia, et sic cadunt in speculatione sciencie matematice, et per hoc soluuntur rationes. Horum autem uerificatio et cum supra questiones phisici negocii dicte sunt.</p>
+          </div>
+      </body>
+  </text>
+</TEI>
+
+
+
+
+            

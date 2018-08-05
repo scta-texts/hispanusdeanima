@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 2, Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 2, Quaestio 1</head>
+                <p>Prima questio est de comparatione huius sciencie ad scienciam animalium et plantarum, et uidetur quod sic: eadem cum sciencia animalium et plantarum, quia eiusdem sciencie sunt materia et forma, ergo cum anima sit forma corporis animati eiusdem sciencie erit <cb ed="#K" n="49ra"/>anima et corpus animatum. Set in hac sciencia determinatur de anima secundum omnem sui differentiam. In libro autem <title>Animalium</title>  et <title>Vegetabilium</title> determinatur de corporibus animatis istis animabus, ergo hec sciencia est eadem cum istis siue cum illis.</p> 
+                <p>Secunda ratio hec est, sicut uult <name>Aristoteles</name>, passiones anime sunt de consideratione physici, quia concernunt materiam. Sunt enim communes anime et corpori, ergo, prout in hac sciencia determinatur, sunt communes anime et corpori, ergo debent cadere in sciencia de anima et corpore. Hec ergo sciencia in qua determinatur de anima et de operationibus eius est eadem cum illis in quibus determinatur de corpore.</p>  
+                <p>Ad oppositum est illud quod uult <name>Aristoteles</name>, qui in diuersis scienciis, ut uisum est, de hiis determinat.</p> 
+                <p>Solutio. Dicendum est quod in diuersis scienciis determinatur de anima et corpore animato, quia in corpore animato sunt multa. Primum est corpus et dispositiones eius et suarum partium et diuersitas earum, et diuerse nature animalium et plantarum et diuerse complexiones eorum et diuersa loca in quibus habitant et sunt, et a parte ista determinatur de corpore animato in libro <title>Animalium</title> et in libro <title>Vegetabilium</title>. Secundum est natura anime, qua informatur, et operationes anime, que egrediuntur ab anima supra corpus, et sic de ipso determinantur in sciencia<title>De anima</title> et propter hoc intitulatur ab anima, quia determinatur in illa sciencia de corpore animato a parte operationum egredientium ab anima determinatarum supra ipsum. Tercium est natura operationum quas habet corpus a parte corporis et que contrahunt naturam ab eo; et sic de eo in minoribus libris, sicut in libro <title> De sensu et sensato</title>, <title>De morte et uita</title>, <title>De sompno et uigilia</title>. Diuersitas autem istarum scienciarum est a diuersitate diuersorum principiorum, quia alia sunt principia et rationes corporis a parte operationum anime quam a parte suarum operationum, et iterum operationes que egrediuntur a corpore addunt rationes et principia supra complexiones corporum, et sic patet diuersitas huius sciencie ab aliis.</p>  
+                    <p>Ad primam rationem in contrarium dicendum est quod duplex est forma, scilicet forma que est forma tantum, et forma que est forma et substantia. Forma que est forma tantum nichil habet nisi illud quod habet a materia, et ideo non habet alias rationes nec passiones nisi cum materia. Immo quantum ad omnes dependet a materia, et ideo cadit in eadem sciencia cum materia. Forma autem que est forma et substantia habet alias rationes et passiones preter illas quas contrahit a materia uel cum materia, et ideo potest cadere in alia sciencia quam sua materia. Talis autem forma est anima respectu corporis animati, et ideo hec sciencia diuersa est a scienciis de corpore animato.</p>
+                    <p>Ad secundam rationem dicendum est quod hec sciencia considerat passiones communes anime et corpori. Tamen separata est ab aliis que sunt de corpore animato, quia considerant complexionem corporis et formationem eius et dispositiones suarum partium, et hec non sunt communia anime et corpori, set insunt corpori solum, et ideo est separatio istarum scienciarum.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+                   
+                

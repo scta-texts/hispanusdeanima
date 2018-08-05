@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 2, Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 2, Quaestio 3</head>
+                <p>Tercia questio est propter quid in eadem sciencia determinatur de corpore animato sensibili, humano et bruto, non autem de uegetabili in eadem sciencia cum aliquo istorum, unde non cadit corpus humanum cum uegetabili in sciencia nec brutum similiter. Et obicitur sic: secantur sciencie sicut et subiecta, cum ergo corpus humanum sit diuersum a bruto, debet determinari in alia sciencia quam brutum et non cum bruto. </p>
+                   <p> Solutio. Dicendum est quod corpus uegetale non determinatur cum bruto nec cum humano in eadem sciencia, set brutum et humanum simul, et hoc est propter duas causas, prima causa est quia complexio corporis bruti et humani communicant in eisdem principiis, scilicet in carne et osse et organis. Vtrumque enim habet carnem et ossa et organa formata. Vegetale autem corpus non habet hanc naturam, et propter hoc non habet communicantiam cum corpore bruto et humano, et ideo in eadem sciencia cum illis non determinatur. Corpus autem brutum et humanum habent communicantiam prehibitam, et ideo simul determinantur. Secunda causa est quia, sicut uult <name>Aristoteles</name> in libro <title> De sensu et sensato</title>, per complexionem hominis regulamur in cognitionem complexionis animalium, quia partes hominis manifeste sunt. Set non est regulatio ab animali circa cognitionem complexionis partium plantarum nec e conuerso, quia non possunt partes animalium comparari ad partes plantarum. Et ita quia regulamur in cognitionem complexionis animalium per complexionem humanam, ideo in eadem sciencia determinatur de complexione corporis humani et bruti et non corporis uegetabilis; et per hoc patet solutio ad rationem.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+                    
+                    

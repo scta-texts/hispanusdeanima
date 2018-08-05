@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 2, Quaestio 15</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 2, Quaestio 15</head>
+                <p>Quintadecima questio est de comparatione huius sciencie ad scienciam <title>De memoria et reminiscentia</title>, et queritur utrum sciencia de memoria et reminiscentia sit eadem cum sciencia de anima. Et ostenditur quod sic: quedam sunt operationes anime que egrediuntur ab anima supra corpus, quedam sunt que habent causam a parte corporis. Prime autem operationes cadunt in eadem sciencia cum anima, cum ergo memoria et reminiscentia sint de illis operationibus que ab anima egrediuntur, patet quod sciencia de memoria et reminiscentia erit eadem cum sciencia de anima. </p>
+                <p>Secunda ratio hec est, uirtutum quedam sunt apprehensiue specierum, quedam autem conseruatiue illarum, apprehensiue sunt ut quinque sensus, conseruatiue autem sunt ut memoria et reminiscentia, set eiusdem sciencie sunt apprehensiue uirtutes specierum et uirtutes conseruatiue earum, ergo <cb ed="#K" n="50vb"/>eiusdem sciencie sunt quinque sensus et memoria et reminiscentia, cum ergo in ista sciencia determinetur de quinque sensibus patet quod sciencia de memoria et reminiscentia erit eadem cum ista sciencia de anima.</p>
+                <p>Tercia ratio hec est, uirtutum quedam sunt exteriores, quedam interiores. Virtutes exteriores sunt quinque sensus. Virtutes autem interiores sunt sensus communis ymaginatio et fantasia, memoria et reminiscentia, set in libro <title>De anima</title> determinat <name>Aristoteles</name> de uirtutibus interioribus et exterioribus que sunt sensus communis, fantasia, ymaginatio, ergo debet similiter determinare in libro <title>De anima</title> de uirtutibus interioribus que sunt memoria et reminiscentia, ergo sciencia de memoria et reminiscentia est eadem cum sciencia de anima.</p>
+                <p>Ad oppositum est hoc quod <name>Aristoteles</name> in libro <title>De sensu et sensato</title> enumerat scienciam de memoria et reminiscentia inter sciencias separatas a sciencia de anima, ostendens quod in sciencia de anima dictum est quod secundum se et in sequentibus dicendum est de operationibus eius inter quas sciencias enumerat scienciam de memoria et reminiscentia, et sic sciencia de memoria et reminiscentia alia est a sciencia de anima. </p>
+                <p>Secunda ratio hec est, quia <name>Aristoteles</name> continuat librum <title>De memoria et reminiscentia</title> ad librum <title>De sensu et sensato</title> dicens: <quote>ex quo de sensibus et sensibilibus dictum est relictum est ut determinetur de memoria et reminiscentia</quote>. Et sic, si liber <title>De sensu et sensato</title> non est eadem sciencia cum sciencia de anima, patet quod nec sciencia de memoria et reminiscentia. </p>
+                <p>Tercia ratio hec est, quedam operationes comparantur ad animam, sicut ad causam a qua egrediuntur. Quedam autem habent causam et diuersitatem a parte corporis. Prime autem operationes determinantur in eadem sciencia cum anima, relinque autem in alia, set memoria et reminiscentia habent diuersitatem a parte corporis. Ponit enim <name>Aristoteles</name> in libro <title>De memoria et reminiscentia</title> diuersitatem memorie a parte corporis. Sciencia ergo de memoria et reminiscentia alia est sciencia de anima. </p>
+                <p>Solutio. Dicendum est quod quidam ponunt tractatum <title>De memoria et reminiscentia</title> esse de continuatione sciencie <title>De anima</title>. Dicendum autem est quod non continuatur sciencie libri <title>De anima</title>, set continuatur sciencie libri <title>De sensu et sensato</title>. Liber autem <title>De sensu et sensato</title> continuatur sciencie de anima, nec tamen una est sciencia, set consequens ad scienciam de anima et ordinata ad ipsam. </p>
+                <p>Ad primam rationem in contrarium dicendum est quod memoria et reminiscentia dupliciter possunt considerari. Vno modo considerantur prout referuntur ad animam, et sic determinantur in eadem sciencia cum anima et debent determinari. Alio modo considerantur prout recipiunt diuersitatem secundum diuersas dispositiones corporis, et sic addunt alia principia et dispositiones supra animam, et sic cadunt in alia sciencia ab anima, sic autem determinatur de illis in sciencia que appellatur de memoria et reminiscentia, et ideo sciencia de memoria et reminiscentia diuersa est a sciencia de anima, per hoc patet solutio ad secundam rationem. </p>
+                <p>Ad terciam dicendum est quod uirtutes interiores dupliciter considerantur: uno modo per relationem ad scienciam, et sic in eadem sciencia determinantur cum illa. Alio modo considerantur per relationem ad corpus a cuius principiis et dispositionibus diuersitatem recipiunt, et sic deter<cb ed="#K" n="51ra"/>minantur in alia sciencia ab anima. Sic autem determinatur de memoria et reminiscentia in libro suo, et ideo illa sciencia est alia a sciencia de anima. </p>
+            </div>
+            </body>
+    </text>
+</TEI>
+

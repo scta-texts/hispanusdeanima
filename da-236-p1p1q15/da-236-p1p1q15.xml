@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 1, Quaestio 15</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            
+            <head>Preambula, Problema 2, Quaestio 15</head>
+            <p>Quintadecima questio est propter quid hec forma, cum sit forma corporis, potius facit scienciam separatam quam aliqua alia forma. Obicitur enim sic: sicut se habet materia uniuersalis et forma uniuersalis ad scienciam ita se habet materia particularis et forma particularis ad scienciam. Set in eadem sciencia determinatur de principiis nature, que sunt materia et forma, et non faciunt scienciam separatam, ergo similiter corpus et anima non faciunt scienciam separatam. Hoc autem falsum est, quia in libro <title>De animalibus</title>  et <title>De uegetalibus</title>  determinatur de corpore non referendo ipsum ad animam, sicut uisum est. </p> 
+            <p>Ad oppositum, patet per hoc quod in libro <title>Vegetalium</title> et <title>Animalium</title>  determinatur de corpore animato. Hic autem de anima et de operationibus eius. </p> 
+             <p>  Solutio. Dicendum est quod duplex est forma, scilicet forma que est forma tantum, et forma que est forma et substantia. Forma que est forma tantum non habet operationes nec passiones que ab ipsa egrediantur sine materia. Forma autem que est substantia habet operationes et pasiones preter materiam tamen in materia, et item materia sua habet alias dispositiones suarum partium a suis principiis causatis que faciunt scienciam separatam, quas non est necesse quod simul cadant cum sciencia de forma sua. Et ideo potest esse sciencia separata de anima et de sua materia, que est corpus. Non autem sic est de forma que est forma tantum, que est principium nature, et propter hoc talis forma non facit scienciam separatam a materia, set simul in eadem sciencia determinatur, scilicet in sciencia physicorum.
+               Et sic patet iustificatio eorum que queruntur de problemate principali et cetera.
+            </p> 
+                  
+            
+         </div>
+      </body>
+  </text>
+  
+ 
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 1, Quaestio 12</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            
+            <head>Preambula, Problema 1, Quaestio 12</head>
+            <p><cb ed="#V" n="54va"/>Duodecima questio est de anima unita corpori ad quam scienciam spectet, et uidetur quod spectet ad naturalem. Anima enim unita corpori habet passiones et operationes que diffiniuntur per naturam et in materia sunt. Ergo spectat ad illam scienciam que considerat passiones in motu et materia et probat illas de suo subiecto. Hec autem est naturalis, ergo | anima unita corpori spectat ad naturalem scienciam. Maior patet ab <name>Aristotele</name>  dicente in principio <title>De anima</title> quod anima habet passiones communes corpori.</p> 
+            <p>Ad oppositum est hec ratio, omnis forma cadens in sciencia naturali est forma materie. Omnis autem forma materie est actus alicuius partis corporis, ergo omnis forma que cadit in sciencia naturali est forma materie et est actus alicuius partis corporis. Set anima intellectiua unita corpori non spectat ad scienciam naturalem. Maior patet quia talis forma coniuncta est solum motui et materie.</p> 
+               <p>Secunda ratio hec est, sicut scribitur in libro <title>De ortu scienciarum</title>, subiectum sciencie naturalis est corpus generabile et corruptibile, uariabile uariis mutationibus. Set anima intellectiua non est huiusmodi, ergo anima intellectiua non potest esse subiectum in sciencia naturali; ergo anima intellectiua unita corpori non spectat ad naturalem scienciam. Minor patet, quia anima intellectiua non est generabilis et corruptibilis, est iterum inuariabilis.</p>
+            <p>Solutio. Dicendum quod dupliciter est loqui de anima intellectiua: uno modo a parte sue substantie et uite separate, et sic est de consideratione metaphysice. Alio modo contingit loqui de anima a parte unionis eius cum corpore et existentie eius in corpore secundum quod mouet corpus et habet operationes communes cum corpore, et sic spectat ad naturalem scienciam, quia naturalis sciencia considerat passiones et operationes in materia; et ita hec sciencia de anima, que est presentis speculationis, naturalis est, quia est de anima unita corpori.</p>
+            <p>Ad primam rationem in contrarium dictam dicendum est quod forma materie est duplex: quedam est que distenditur secundum distensionem materie, et hec est forma elementi uel mixti que dicitur corporalis. Alia autem est forma materie que non distenditur secundum distensionem materie, et hec est duplex, quia quedam est que determinat sibi partem in corpore quantum ad operationes, sicut anima uegetabilis et sensibilis. Alia autem est que non determinat sibi partem in corpore quantum ad operationes> set operatur non determinando sibi partem materie et non alligatur organo; et talis est anima intellectiua, et ideo dicitur in secundo nullius partis corporis esse actus. Et de omni tali necesse est quod sit sciencia naturalis propter operationes quas habet communicantes cum materia et quas excercet in materia.</p> 
+             <p>Ad secundam rationem dicendum est quod dupliciter est loqui de anima unita corpori, uel a parte sue substantie uel a parte illa qua est forma et a parte operationum quas exercet in corpore. Primo modo est anima intellectiua inuariabilis et sic non spectat ad scienciam naturalem. Secundo modo uariabilis est et etiam corporalis aliquo modo, et propter hoc isto modo spectat ad scienciam naturalem, et a parte illa est unita corpori, scilicet, a parte illa qua est forma.</p>
+                  
+             
+
+            
+         </div>
+      </body>
+  </text>
+  
+ 
+</TEI>

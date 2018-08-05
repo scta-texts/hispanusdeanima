@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 1, Quaestio 13</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            
+            <head>Preambula, Problema 1, Quaestio 13</head>
+            <p>Terciadecima questio est utrum anima sit subiectum in sciencia de anima aut corpus animatum. Et uidetur quod corpus animatum sit subiectum in sciencia de anima. Sciencia enim ista non considerat passiones anime separate set passiones communes anime et corporis. Hee autem passiones causantur ab anima cum corpore, ergo passiones hic inquisite causantur ab anima cum corpore et non ab anima solum. Set illud est subiectum in sciencia a quo causantur passiones inquisite et probate in illa, ergo anima solum non erit subiectum huius sciencie, set anima cum corpore. Hoc autem est corpus animatum, ergo corpus animatum est subiectum huius sciencie.</p> 
+            <p>Secunda ratio hec est, nulla forma in quantum forma considerata per relationem ad ma<cb ed="#K" n="48rb"/>teriam habet quod denotetur in sciencia sine materia, nec materia sine illa. Set anima considerata in hac sciencia est forma corporis per relationem ad corpus, ergo anima hic non determinatur nisi per relationem ad corpus, ergo compositum ex anima et corpore hic determinatur. <cb ed="#V" n="54vb"/> Hoc autem est corpus animatum, ergo corpus animatum est subiectum in hac sciencia.</p> 
+            <p>Tercia ratio hec est, uniuersale subiectum per predicationem totius sciencie denominat omnia substantia in illa sciencia. Set sicut uult <name>Algazel</name> et <name>Avicenna</name>, subiectum sciencie naturalis est corpus mobile in quantum mobile, ergo in qualibet parte sciencie naturalis subiectum est corpus mobile cum alia differentia superadita. Ergo in hac sciencia subiectum est corpus mobile cum alia supraddita. Non autem nisi cum ista que est animatum, ergo subiectum in hac sciencia est corpus animatum et non anima.</p> 
+               <p> Ad oppositum est hec ratio, primo dicit <name>Aristoteles</name>  quod hec sciencia est de anima et inquisitio in hac sciencia est de anima, et hoc dicit in principio De anima, nullam faciens mentionem de corpore. Set illud est subiectum in sciencia de quo est inquisitio in sciencia, ergo anima subiectum est in hac sciencia et non animatum corpus.</p> 
+            <p>Secunda ratio talis est, scribitur in principio <title>De sensu et sensato</title> quod in libro <title>De anima</title> dictum est de anima secundum se. Set dicere de anima secundum se est dicere quod anima sit subiectum in hac sciencia. Ergo anima est subiectum in hac sciencia et non corpus animatum.</p> 
+               <p>Solutio. Dicendum est quod corpus animatum est subiectum in hac sciencia, set intelligendum est quod subiectum in sciencia est multis modis: uno modo appellatur subiectum in sciencia illud indiuisibile ad quod reducuntur et a quo fluunt omnia in illa sciencia; et sic primum est subiectum in metaphysica, quia ad ipsum reducuntur omnia in illa sciencia tamquam ad primum principium indiuisibile, sicut uult <name>ristoteles</name> A. Solus enim Deus uidetur esse principium omnium.
+               Secundo modo appellatur subiectum in sciencia illud commune per predicationem communem ad omnia in illa sciencia, et sic ens in quantum ens est subiectum in metaphysica.
+               Tercio modo appellatur subiectum in sciencia illud in quo radicantur omnia in illa sciencia, et de quo illud commne per prius predicatur. Et sic substantia subiectum est in metaphysica, quia in substantia fundantur omnia, et de hac predicatur ens per prius.
+               Quarto modo appellatur subiectum in sciencia circa illud quod et ad quod applicatur sciencia. Et sic causa uel questio ciuilis subiectum est in rethorica, quia circa ipsam intensio eius inuoluitur.
+               Quinto modo appellatur subiectum in sciencia illud quod est subiectum eius in quantum speculatur et instrumentum eius in quantum utitur. Et sic sillogismus est subiectum in logica et oratio in gramatica et oratio rethorica in retorica.
+               Sexto modo appellatur subiectum in sciencia illud ratione cuius formaliter aliquid est subiectum in sciencia illa. Et sic anima est subiectum in sciencia ista, non de quo est sciencia set ratione cuius de aliquo est ista sciencia. Est enim de corpore animato non ratione corporis set ratione qua comparatur ad animam. De corpore enim animato in <title>Vegetalibus</title> determinatur, set non in quantum refertur ad animam set in quantum refertur ad partes suas et dispositiones suarum partium. Et in libro <title>De animalibus</title>  determinatur de corpore animato non in quantum refertur ad animam set in quantum refertur ad complexionem suam et dispositiones suarum partium. In hac autem sciencia determinatur de corpore animato <cb ed="#K" n="48va"/> in quantum refertur ad animam et ad operationes anime, et per hoc soluitur prima ratio in contrarium.</p>
+               <p>Ad secundam dicendum est quod determinare de anima secundum se est dupliciter: uno modo sine relatione ad corpus, et sic non determinatur in hac sciencia secundum se. Alio modo est determinare de anima secundum se ut est in corpore a parte operationum que ab ipsa incipiunt et diffunduntur ad corpus, et non a parte operationum que habent ortum a corpore, set habent ortum in corpore. Et sic determinatur in hac sciencia de anima secundum se non tamen sine corpore, et sic corpus animatum est subiectum in hac sciencia.</p> 
+               
+
+            
+         </div>
+      </body>
+  </text>
+  
+ 
+</TEI>

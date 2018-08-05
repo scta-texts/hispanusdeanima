@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 2, Quaestio 16</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 2, Quaestio 16</head>
+                <p>Sextadecima questio est propter quid quedam operationes anime faciunt scienciam separatam, quedam autem non. Queritur enim propter quid motus progressiuus non facit aliam scienciam separatam ab anima, sicut et alie quedam operationes anime. </p>
+                <p>Solutio. Dicendum est quod quedam operationes anime oriuntur ab anima et ad ipsam referuntur, et tales in eadem sciencia determinantur cum anima. Talis enim est motus progressiuus, quia motus progressiuus comparatur ad uirtutem appetitiuam a qua habet ortum precedentibus operationibus uirtutum sensibilium apprehendentium a longe. In solis enim illis est motus progresssiuus in quibus est uirtus appetitiua et uirtutes sensibiles apprehendentes a longe. Alie sunt operationes que oriuntur a parte corporis et que addunt illas dispositiones et causas preter illas quas contrahunt ab anima, et tales propter illa principia faciunt scienciam ab anima separatam. Tales autem sunt operationes anime que determinantur in minoribus libris. Dicendum est tamen quod dupliciter est loqui de motu progressiuo. Vno modo per comparationem ad animam, et sic determinatur de ipso in libro <title>De anima</title>. Alio modo est loqui de ipso per comparationem ad organa et dispositiones animalium per que excercetur, et sic determinatur de ipso in libro quem narrat <name>Averroys</name> supra librum physicorum quem facit <name>Aristoteles</name> de motibus animalium, qui non est in latino. </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

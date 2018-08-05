@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 3, Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Preambula, Problema 3, Quaestio 3</head>
+                <p>Tercia questio est ex qua causa proueniat necessitas abstractionis, utrum ex parte anime uel ex parte rerum. Et ostenditur quod ex parte anime, quia proportio est obiecti ad uirtutem. Virtus autem anime intellectiue est spiritualis, ergo necesse est obiectum eius esse spirituale. Res autem de se non sunt spirituales nisi a parte speciei ab ipsis abstracte. Ergo necesse est ab eis abstrahi speciem, ergo cum substantie ipsarum cognoscantur ab anima, hec cognitio est per abstractionem speciei que est natura spiritualis in rebus, ergo a parte exigentie anime est abstractio in rebus, quia alio modo non cognosceret. </p>
+                <p>Secunda ratio hec est, distinguunt in substantiis corporalibus et spiritualibus, quia in corporalibus sunt secundum suam diffinitionem, et partes appropriantur partibus et sunt in eis et totum in toto, sicut patet in existentia partium corporalium. Hoc autem propter corporalitatem et partialitatem earum. In spiritualibus autem sunt tote non secundum partium distinctionem quia anima totum cognoscit per se totam, et hoc est propter simplicitatem et spiritualitatem substantiarum spiritualium cognoscentium. Ergo cum in anima<cb ed="#K" n="52rb"/> sint res, secundum modum existent in ipsa, set res habent huiusmodi existentiam ratione simplicitatis per quam in suo simplici esse totaliter apprehenduntur. Hec autem est species spiritualis uniuscuiusque per quam existunt in anima secundum modum abstractionis, ergo secundum exigentiam anime et existentiam in ipsa est abstractio rerum.</p>
+                <p>Tercia ratio hec est, sicut uult <name>Aristoteles</name>, res non sunt in anima, set species rerum, et iterum dicit <name>Augustinus</name> in libro <title>De anima</title> et spiritualis anima ad similitudinem totius sapientie facta omnium species in se gerit. Similitudinibus uero res cognoscuntur, et iterum obiecta sensibilia materialiter sunt in propriis substantiis; magis autem spiritualiter sunt in memoria et plus in organo et maxime in uirtute et multo plus in uirtute intellectiua que magis est spiritualis. Hec autem spiritualitas non datur rebus nisi per abstractionem specierum ab ipsis, ergo necesse est in rebus ponere abstractionem secundum exigentiam anime et uirtutis eius. </p>
+                <p>Quarta ratio hec est, secundum illius exigentiam est abstractio in rebus cuius uirtutes sunt principium abstractionis in ipsis. Set in anima intellectiua sunt due uirtutes, quarum una est in qua nata sunt omnia fieri per cognitionem. Alia est per quam est omnia facere abstrahendo et ponendo res in esse spirituali, que uirtus est intelllectus agens, ergo secundum exigentiam anime est abstractio in rebus.</p>
+                <p>Ad oppositum, omnis intellectus accipiens res alio modo quam sint et ultra earum exigentiam est falsus, ergo si acciperet res secundum exigentiam suam et non secundum exigentiam rerum, esset falsus. Ergo in qualibet abstractione esset falsitas quod est inconueniens inconsequens, ergo hec abstractio non est a parte anime set a parte rerum.</p>
+                <p>Secunda ratio hec est, omne agens posterius ordinatum agit secundum exigentiam rei prioris, set anima est agens posterius in natura cum sit ultimum in natura, ergo anima agit secundum exigentiam rerum priorum, ergo si abstrahit, abstrahet secundum exigentiam rerum, ergo non erit solum abstractio in rebus secundum exigentiam anime, set etiam secundum rerum exigentiam. </p>
+                <p>Tercia ratio hec est, actio anime est duplex, quedam secundum quam operatur secundum sui exigentiam, et hec est actio uoluntaria uel fantastica que nichil ponit in re, et ista non est uia in cognitionem nec principium cognitionis. Alia est secundum quam operatur secundum exigentiam rerum et ordinem, et per illam procedit anima in scienciam, et hec est actio rationis et intellectus ordinati cognoscentis res secundum omnium statum, et etiam secundum istam actionem est in anima abstractio. Aliter enim esset actio inordinata et uana, ergo cum secundum istam actionem operetur secundum exigentiam rerum, abstractio in rebus est non solum secundum exigentiam anime set rerum.</p>
+                <p>Solutio. Dicendum est quod abstractio est in rebus secundum exigentiam anime et secundum exigentiam rerum, sicut ostendumt rationes. Est enim aliquid in rebus quod est principium abstractionis<cb ed="#K" n="52va"/> in ipsis, quod est proportionale ipsi anime cum res per illud ab anima abstrahuntur, quod mouet animam secundum ipsius statum et dispositionem, et hec est simplex species ipsius rei. Necessitas uero ista est propter exigentiam recipientis anime secundum quam recipit res sub esse spirituali et huic necessitati respondet exigentia in rebus a parte sui principii spiritualis. Res enim non solum habent operationem ad inuicem set ad animam. Sunt enim entes et cognoscibiles, et sic habent aliquid per quod sunt et per quod cognoscuntur, et hoc est idem differens secundum maiorem spiritualitatem, quia spiritualis essentia qua sunt id quod sunt est principium uere cognitionis in ipsis, sicut postea patebit. </p>
+                <p>Ad primam rationem in contrarium dicendum est quod intellectus dupliciter considerat res aut secundum sui exigentiam et proportionem, et talis ordinatus, alius ultra rerum exigentiam et talis est extraneus. Intellectus autem abstrahens non considerant res ultra suum statum immo aliquid est in rebus proportionale intellectui per quod intellectus abstrahit res. Rationes autem et relique iterum concludunt quod non solum abstractio est secundum exigentiam anime, set secundum proportionem et exigentiam ipsarum rerum secundum quam proportionatur anime per suam similitudinem ut ab ipsa cognoscantur.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+                

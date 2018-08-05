@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preambula, Problema 1, Quaestio 10</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <date when="2016-07-10">July 10, 2016</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-07-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+            
+            <head><supplied>Preambula, Problema 1, Quaestio 10 </supplied></head>
+            <p>Decimo queritur utrum de anima separata a corpore aliqua possit esse sciencia. Et ostenditur quod sic per talem rationem: cuiuslibet substantie spiritualis cui competunt operationes et proprietates preter inclinationem ad materiam possibile est esse sciencia. Set anima separata a corpore est huiusmodi, ergo de anima separata a corpore potest esse sciencia. Maior patet, quia sciencia habetur de spirituali substantia a parte suarum proprietatum et operationum. Minor patet, quia dicit <name>Aristoteles</name> in primo <title>De anima </title> quod anima habet passiones proprias et operationes per quas possit a corpore separari.</p>
+               <p>Ad oppositum est talis, substantie separate non cadunt in cognitionem nisi per operationes et motus quos exercent in corporibus naturalibus. Set anima separata non dirigit motus nec operationes supra corpora naturalia, ergo anima separata non cadit in cognitionem. De nullo autem tali est sciencia, ergo de anima separata non potest esse sciencia. Maior patet quia <name>Aristoteles</name>  non determinat de substantiis separatis nec naturam ipsarum nisi per numerum motuum et mobilium.</p> 
+                  <p>Solutio. Ad hoc dicendum est quod anima separata cadit in scienciam et cognitionem. </p> 
+            <p>Ad rationem in contrarium dicendum est quod sciencia respicit duo, scilicet naturam rerum, et respicit indigentiam inquisitionis nostre. A parte autem nature rerum potest esse sciencia de anima separata. A parte autem inquisitionis nostre supra res cadit anima separata in cognitionem nostram multis modis: uno modo considerando ordinem rerum corporalium et spiritualium. Considerando enim ordinem rerum corporalium et spiritualium consideramus nos ipsam animam in sciencia tanquam rem spiritualem. Secundo modo cadit in cognitionem nostram a parte inquisitionis nostre considerando operationes eius, quas primo in corpore acquisiuit, et modum. Per hoc enim quod ipsa existens in <cb ed="#K" n="47vb"/> corpore prius non erat alicuius partis corporis actus, per hoc cognoscimus ipsam esse recte separabilem. Tercio modo per ymaginationem aliarum rerum sensibilium, unde sicut per ymaginationem rerum inferiorum cognoscimus substantias separatas ita per ymaginationem rerum sensibilium cognoscimus substantiam spiritualem que est anima. </p> 
+            
+               
+               
+         
+               
+
+            
+         </div>
+      </body>
+  </text>
+  
+ 
+</TEI>
