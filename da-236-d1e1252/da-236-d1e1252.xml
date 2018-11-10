@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1252">
+        <head>Quaestio 1</head>
+        <p xml:id="da-236-d1e1252-d1e1257">[lec4 q1] Circa autem primam questionem sic proceditur.
+          Osten|ditur autem quod anima sit partibilis per potentias diuersas tali ratione. Quelibet
+          substantia creata operatur mediante sua potentia, set duplex est potentia, quedam est
+          potentia coartata, quedam uero non coartata. Potentia autem non coartata est ut potentia
+          creatoris et potentia intelligentie quodam modo in suo genere. Potentia autem anime
+          coartata est sicut patet de potentia uisiua que ita est coartata ad colorem quod non ad
+          aliud se extendit et hoc est propter exigentiam et proportionem obiecti ad organum.
+          Potentia autem non coartata manens una et eadem ad multa se extendit opera et obiecta.
+          Potentia autem coartata non. Set substantia que habet potentiam coartatam per plures et
+          diuersas potentias plures habet operationes. Set anima est substantia coartata in potentia
+          et corpori alligata est et est principium multarum operationum, ergo habet multas
+          potentias et diuersas. Est ergo anima partibilis in potentias diuersas. Et confirmatur hec
+          ratio in hunc modum, quia potentie sensibiles magis communicant quam potentia intellectiua
+          uegetabili et sensibili. Set potentie sensibiles habent diuersitatem inter se et sunt
+          multe et diuerse, et hoc propter hoc coartationem obiectorum, organorum et operationum,
+          ergo multo fortius potentia intellectiua, uegetabilis, sensibilis differunt inter se et
+          sunt potentie anime. Ergo anima est partibilis per multas potentias. </p>
+        <p xml:id="da-236-d1e1252-d1e1260">Ad oppositum sunt due rationes, prima talis est: ab uno
+          simplici et impartibili omnino necesse est unum egredi per se, nec est in ipso ponere
+          diuersitatem nec partibilitatem, set anima est simplex et una, ergo ab ipsa necesse est
+          unum egredi, ergo ab ipsa non egrediuntur diuerse potentie set una, ergo non est
+          partibilis per potentias. </p>
+        <p xml:id="da-236-d1e1252-d1e1263">Secunda ratio talis est: substantie spirituales
+          simpliciores sunt quam corporales et uelociores ad suas operationes, unde scribitur in
+          libro <hi>Fontis uitae</hi> quod quanto aliqua substantia magis est spiritualis tanto
+          uelocior est ad suam operationem et magis operatur extra tempus. Set substantia
+          corporalis, sicut sol per eandem potentiam, multas exercet operationes et similiter ignis
+          per eandem uirtutem multa operatur sicut per uirtutem calidi. Ergo multo fortius anima que
+          est substantia spiritualis per eandem potentiam potest multa excedere, ergo anima non est
+          partibilis in potentias. </p>
+        <p xml:id="da-236-d1e1252-d1e1269">Solutio. Ad hoc dicendum est quod anima habet
+          multitudinem potentiarum et est partibilis per potentias per quas ad corpus applicata
+          multa exercet operationes. </p>
+        <p xml:id="da-236-d1e1252-d1e1273">Ad primam rationem in contrarium dicendum est quod duplex
+          est agens. Quoddam enim est agens per cognitionem, quoddam autem per naturam. Ab agente
+          autem per cognitionem manente uno in essentia diuersa possunt agredi. Ab agente autem per
+          naturam manente uno unum producitur. Set exitus est duplex, quiddam enim est exitus
+          potentie a substantia; alius est exitus effectus a causa, sicut ergo ab anima plures
+          possunt exire in corpore effectus similiter ab anima plures possunt exire potentie. Causa
+          autem huius est propter coartationem operationum suarum et potentiarum. </p>
+        <p xml:id="da-236-d1e1252-d1e1276">Ad secundam rationem dicendum est quod principium
+          multarum operationum est duplex. Quoddam enim est principium multarum operationum propter
+          sui indifferentiam ad multa per que non coartatur, et propter sui independentiam ad
+          aliquid aliud, et sic primum est principium | multarum operationum. Aliud est principum
+          multarum operationum propter uniuersalitatem et diuersitatem materie ad quam exercet suam
+          operationem, et sic sol secundum unam potentiam multa operatur propter diuersitatem
+          materie uirtutum inferiorum et in talibus non est ponere multitudinem potentiarum propter
+          multitudinem operationum. Tercium est principium multarum operationum propter coartationem
+          sue potentie ad diuersos effectus et diuersa obiecta et diuersa organa per que coartatur,
+          et talis diuersitas effectuum ponit diuersitatem in potentia. Hoc autem modo est anima
+          principium diuersarum operationum. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

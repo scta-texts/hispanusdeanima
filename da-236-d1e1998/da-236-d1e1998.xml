@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1998">
+        <head>Quaestio 1</head>
+        <p xml:id="da-236-d1e1998-d1e2003">[lec8 q1] Circa primam questionem sic proceditur.
+          Ostenditur autem quod animatum corpus et inanimatum communicent intensione modi, et si
+          differant quod huius sit solum in motu sufficienti per duas rationes, quarum prima talis
+          est: omnis substantia que in natura non habet operationem propriam est ociosa in natura,
+          ergo quelibet substantia habet suam propriam operationem in natura per quam contrahitur et
+          dirigitur suum esse in natura. Set operatio sequitur substantiam cuius est et debetur ei
+          secundum exigentiam illius substantie, ergo substantie corporali cum sit partibilis
+          debetur operatio partibilis et corporalis. Substantie autem spirituali operatio simplex.
+          Operatio autem partibili et que habet prius et posterius est motus, ergo cuilibet
+          substantie corporali debetur motus, ergo quelibet substantia corporalis siue animata siue
+          inanimata communicat cum altera in motu. </p>
+        <p xml:id="da-236-d1e1998-d1e2006">Secunda ratio talis est: sicut uult Aristoteles in
+          secundo <hi>De anima</hi>, uniuersale est multis modis: est enim uiuere quod est moueri et
+          est uiuere quod est augeri et nutriri, et uiuere quod est sentire et uiuere quod est
+          intellligere. Viuere autem quod est moueri est commune ad uiuere quod est augeri et
+          alimento uti et ad sentire et ad intelligere. Vnde commune est ad omnia genera uiuendi,
+          quia omnia alia genera uiuendi se habent ex additione ad ipsum. Ergo cum sit commune ad
+          omnia genera uiuendi, quia per additionem se habent ad ipsum, necesse est quod in omnibus
+          uiuentibus reperiatur et etiam in pluribus de genere eodem quibus possint conuenire illa
+          que sunt in eodem genere cum illis, remoto dico sicut sunt corpora inanimata, ergo
+          corporalibus inanimatis debetur corporis motus, corpora ergo inanimata participant motum,
+          sicut et corpora inanimata.</p>
+        <p xml:id="da-236-d1e1998-d1e2012">Ad oppositum sunt due rationes, quarum prima talis est:
+          res naturales inanimate, si habent motum, habent ipsum a natura mouente ipsa. Set natura
+          est principium passiuum, ergo in animatis accidit solum mouere passiue et non proprie.
+          Ergo ipsis non debetur motus proprie ut se ipsis dicantur moueri aliquo mouente, ergo cum
+          animatis motum non participant que animata per se habent motum. </p>
+        <p xml:id="da-236-d1e1998-d1e2015">Secunda ratio talis est: nulla forma corporalis que est
+          forma tantum habet operationem propriam preter materiam, set quod habet habet simul cum
+          sua materia in qua est. Set omnis forma inanimata est forma corporalis que est forma
+          tantum, ergo non habet uirtutem per quam supra materiam suam influat aliquid et ipsam
+          moueat. Set si moueat, mouebit aliam non per se set cum sua materia aliam mouebit, quia
+          non est sufficiens ad mouendum, ergo si a forma contingit rei quod moueatur, patet quod in
+          animatis nul|lo modo debetur motus, qua sua forma non potest mouere suam materiam, set si
+          moueat hoc est aliam. </p>
+        <p xml:id="da-236-d1e1998-d1e2019">Solutio. Ad hoc dicendum est quod animatum communicat cum
+          inanimato in motu. Commune enim est omni corpori naturali motus et omne corpus naturale
+          per motum diffinitur, set differenter tamen est in illis, | quia<hi> </hi>motus in
+          corporibus animatis est a sufficienti principio, scilicet ab anima que est sufficiens
+          principium ad mouendum. Sic enim non mouentur inanimata, set a forma sua que est forma
+          tantum et corporalis et alligata materie, et ideo non est sufficiens ad mouendum, et ideo
+          dicit Aristoteles quod motus et operationes manifesti sunt in animalibus uel in animatis,
+          in inanimatis uero non. </p>
+        <p xml:id="da-236-d1e1998-d1e2025">Ad primam rationem dicendum est quod principium passiuum
+          dicitur duobus modis: quodam enim est ita passiuum quod non agit, et sic materia est
+          principium. Aliud est principium passiuum quod non est ita passiuum quin etiam agat et
+          moueat, set tamen insuficienter. Et sic natura secundum quod apropriatur forme et secundum
+          quod est uirtus insita forme est principium passiuum, forme dico corporalis corporis
+          inanimati, et sic forma corporis inanimati ad minus est principium insuffficiens
+          motus.</p>
+        <p xml:id="da-236-d1e1998-d1e2028">Ad secundam rationem dicendum est quod operatio
+          attribuitur aliqui duobus modis: uno modo tanquam principio per se et sufficienti, et hoc
+          modo attribuitur motus et operatio ipsi anime aut tanquam principio insufficienti, et sic
+          attribuitur motus forme corporali que habet operationem insufficientem a parte sui et non
+          sufficientem nisi prout eam communicat cum materia sua, et sic inanimata per formam suam
+          communicant motum, set non sufficienter set insufficienter. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

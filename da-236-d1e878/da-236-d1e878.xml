@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e878">
+        <head>Quaestio 8</head>
+        <head type="question-title">Quo modo anima sit natura et substantia</head>
+        <p xml:id="da-236-d1e878-d1e883">[lec2 q8] Circa octauam questionem sit proceditur, et
+          queritur quo modo anima sit natura et substantia. Ostenditur autem quod anima non sit
+          natura per duas rationes. Prima talis est: in secundo <hi>Physicorum</hi> diffinitur
+          natura per principium motus et status. Natura est principium insufficiens motus et
+          passiuum. Anima autem est principium sufficiens motus et actum, ergo anima non est natura. </p>
+        <p xml:id="da-236-d1e878-d1e889">Secunda ratio talis est: sicut uult Aristoteles proprium
+          est animatorum se ipsis moueri, quia habent intra se principium sufficiens sui motus.
+          Inanimata autem se ipsis non mouentur, quia non habent intra se principium sufficiens sui
+          motus, ergo cum corpora animata moueantur ab anima, inanimata autem moueantur natura,
+          patet quod anima non est natura. </p>
+        <p xml:id="da-236-d1e878-d1e892">&lt;Tercia hec est: natura mouet et ad unam partem, anima
+          autem mouet ad diuersas partes, ergo anima non est natura.</p>
+        <p xml:id="da-236-d1e878-d1e895">Quarta ratio talis: natura est uirtus corporalis anima
+          alligata materie corporali. Anima autem non est omnino alligata et est substantia
+          spiritualis, ergo anima non est nata.&gt;</p>
+        <p xml:id="da-236-d1e878-d1e899">Ad hoc dicendum est quod circa locum istum multiplex est
+          expositio: dicunt quidam quod anima duobus modis considerantur: uno modo a parte essentie,
+          alio modo est in quantum forma corporis perficiens ipsam substantialiter. A parte autem
+          essentie competit anime ratio nature, quia natura duplex est: est enim natura principium
+          motus. Item natura est essentia rei, et hoc modo ultimo est anima natura a parte essentie.
+          In quantum autem est forma substantialis corporis perficiens ipsum sic est substantia, est
+          enim substantialis forma. Alia expositio est quod anima dicitur natura in quantum perficit
+          corpus naturale. Dicitur autem substantia in quantum est motor distans a mobili secundum
+          substantiam, quia motor et mobile distant secundum substantiam.</p>
+        <p xml:id="da-236-d1e878-d1e902">Aliter autem dicendum est quod anima dat esse completiuum
+          corpori et est principium operationis in illo. A parte autem qua dat esse completiuum
+          corpori est substantia. A parte autem qua est principium operationis dicitur natura, quia
+          sic est principium motus et operationis in corpore.</p>
+        <p xml:id="da-236-d1e878-d1e905">Rationes autem soluuntur per hoc quod natura dicitur
+          equiuoce de anima et de formis corporalibus. Hic enim accipitur natura pro intensione
+          anime secundum quod anima est principium operationis. In physicis autem accipitur natura
+          secundum quod est principium operationis in corporalibus. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

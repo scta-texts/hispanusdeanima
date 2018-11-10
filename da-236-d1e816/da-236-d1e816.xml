@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e816">
+        <head>Quaestio 7</head>
+        <div>
+          <head>1</head>
+          <p xml:id="da-236-d1e816-d1e826">[lec2 q7.1] Circa septimam questionem sic proceditur, et
+            queritur quo modo competat anime diffinitio et quo modo habeat diffinitionem et utrum
+            habeat diffinitionem. Et uidetur siue ostenditur quod sic per duas rationes, quarum
+            prima talis est: sicut testatur Aristoteles in libro <hi>Metaphysice</hi>, diffinitio
+            competit substantie, demonstratio autem accidentibus, set anima est substantia, ergo
+            anime competit diffinitio.</p>
+          <p xml:id="da-236-d1e816-d1e832">Secunda ratio talis est: substantie spirituales
+            diffiniuntur per relationem ad creatorem a quo recipiunt influentiam et respectu
+            superioris sunt, sicut passibiles. Respectu autem inferiorum sunt sicut agentes, set
+            anima est substantia spiritualis habens istas duas comparationes, ergo hiis duobus modis
+            potest diffiniri anima, ergo anima potest diffiniri. </p>
+          <p xml:id="da-236-d1e816-d1e835">Ad oppositum est hec ratio: ille substantie sunt
+            diffinibiles que recto ordine cadunt in genere. Hec autem proprie sunt species. Relinque
+            autem que cadunt in genere per reductionem non diffinuntur. Talia autem sunt principia
+            ut materia et forma. Materia ergo et forma non habent diffinitionem, set anima est
+            forma, ergo non habet definitionem. </p>
+          <p xml:id="da-236-d1e816-d1e838">Ad hoc dicendum est quod anima nata est diffiniri, et
+            loquimur primo de anima intellectiua in qua est maior manifestatio et ratio diffiniendi.
+            Ipsa enim diffinitur secundum multiplicem uiam. Habet enim aspectum ad creatorem a quo
+            recipit influentiam et esse et conseruationem, et habet aspectum ad corpus sibi
+            subiectum quod perficit et conseruat et supra quod dirigit operationes, et habet
+            aspectum ad suam essentiam, et habet comparationem ad diuersa a se respectu quorum
+            diffinitur per priuationem, et hiis quatuor cognoscit quelibet substantia spiritualis,
+            scilicet per aspectum ad creatorem, et per comparationem ad illud supra quod influit, et
+            in sui essentia, et per priuationem aliorum. Anima igitur per relationem ad creatorem
+            sic diffinitur: anima est substantia spiritualis incorporea illuminationum que sunt a
+            primo ultima receptione receptiua, et sic diffinitur per relationem ad aliquas creaturas
+            secundum ordinem ad creatorem. Per comparationem autem ad corpus diffinitur | sic: anima
+            est actus corporis organici physici potentia uitam habentis. Et quia physicus considerat
+            eam per comparationem ad corpus, ideo hoc modo eam diffinit in principio <hi>De
+              anima</hi> secundi. A parte autem sue substantie habet anima rationem diffinitionis.
+            Set illa oculta nobis ratione sue simplicitatis. Per relationem autem ad alias creaturas
+            diffinitur per priuationem earum, sicut quodlibet principium et quodlibet simplex hoc
+            modo diffinitur, et propter hoc soluuntur rationes preter ultimam, ad quam intelligendum
+            est quod quamuis anima ex nichilo facta sit, tamen diffinitur per comparationem ad ea
+            respectu quorum habet compositionem, sicut per comparationem ad primum. Iterum anima
+            habet quo est et quod est, que cum ipsa producta fuerunt, et sic per illa et ratione
+            illorum potest anima diffiniri sic, ergo patet quo modo anima habeat diffinitionem et
+            per hoc patet quo modo habeat simplex diffiniri ut forma uel aliquid tale ut materia. </p>
+          <p xml:id="da-236-d1e816-d1e845">Materia enim diffinitur per relationem ad compositum,
+            sicut patet in fine primi <hi>Physicorum</hi>, sic: materia est ex qua fit res.
+            Diffinitur enim per rem factam. Hoc autem est compositum et manifestatur eius essentia
+            et essentia anime per relationem ad alia a quibus reicipiunt et supra que influunt.</p>
+        </div>
+        <div>
+          <head>2</head>
+          <p xml:id="da-236-d1e816-d1e857">[lec2 q7.2] Postea queritur circa hoc, quo modo difficile
+            sit cognoscere substantiam et quidditatem anime, et ostenditur quod non. Sicut enim uult
+            Aristoteles, scientia de anima est nobilior alia nobilitate subiecti et nobilitate
+            demonstrationis et certitudine utriusque, set ubi est certitudo demonstrationis est
+            facilis cognitio, ergo in scientia de anima est facilis cognitio eorum que in ipsa
+            determinantur, ergo est facile determinare de ipsa et cognoscere substantiam et
+            quidditatem anime. </p>
+          <p xml:id="da-236-d1e816-d1e860">Secunda ratio hec est: sicut uult Aristoteles,
+            operationes corporum animatorum sunt manifeste, unde uita in animalibus est manifesta.
+            Item uult Aristoteles quod proprium est animatorum se ipsis mouere, unde motus et
+            operationes eorum sunt manifeste, et hoc est propter animam, que est substantia
+            spiritualis que habet &lt;multas operationes. Set omnis substantia spiritualis que
+            habet&gt; manifestas operationes est facilis ad cognoscendum in sua quidditate et
+            substantia, ergo anima facilis ad cognoscendum est in sua quidditate est substantia.</p>
+          <p xml:id="da-236-d1e816-d1e863">Ad oppositum est hec ratio: cognitio nostra habet ortum a
+            sensu, ergo que sunt remota a sensu sunt remota a cognitione nostra. Set anima est
+            remota a sensu, ergo anima est remota a cognitione nostra. Omne autem tale est difficile
+            ad cognoscendum in sua substantia et quidditate, ergo anima difficilis est ad
+            cognoscendum in sua substantia et quidditate.</p>
+          <p xml:id="da-236-d1e816-d1e866">Solutio. Ad hoc dicendum est quod cognitio anime et
+            diffinitionis eius est difficilis, et hoc est propter multas causas: una causa est
+            propter modum procedendi in scientia, quia questio communis est questio quod quid est in
+            qualibet scientia. Difficile autem est modum communem accipere ab aliqua communi
+            scientia propter diuersitatem et appropriationem cuiuslibet scientie in sua
+            diffinitione, et propter hoc difficile est accipere questionem | quod quid est in
+            scientia. Iterum difficile est hoc quia si scientia inferior non recipit modum
+            diffiniendi a superiori, oportet quod diffiniat et inquirat. Hoc autem est difficile et
+            propter hoc est difficile in scientia cognoscere quidditatem anime. Alia autem causa est
+            a parte anime propter sim|plicitatem eius. Est enim remota a cognitione nostra, quia
+            simplex est non cadit in eam nisi per operationes suas. Est ergo duplex causa: prima est
+            quia questio quid est, difficilis est ad cognoscendum et inuestigandum in scientia.
+            Secunda autem causa est propter simplicitatem anime.</p>
+          <p xml:id="da-236-d1e816-d1e870">Ad rationes in contrarium dicendum est quod uia in
+            cognitionem anime est duplex: quedam procedit per obiecta et operationes et hec est
+            manifesta. Alia est que procedit ad substantiam anime et hec est oculta, quia substantia
+            anime maxime est remota a sensu. Secundum primam procedit ratio, quia hec scientia est
+            nobilior et certior in modo demonstrationis quia procedit per obiecta et operationes
+            anime. Hoc autem modo procedendo facilis est anime cognitio. </p>
+          <p xml:id="da-236-d1e816-d1e873">Ad secundam rationem dicendum est quod diffinitio
+            quidditatis anime non competit operationibus anime nec obiectis, set competit substantie
+            eius que nobis est occulta et inmanifesta, et ideo cognoscere quidditatem anime est
+            difficile.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

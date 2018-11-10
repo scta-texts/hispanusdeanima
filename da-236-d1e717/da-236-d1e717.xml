@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e717">
+        <head>Quaestio 5</head>
+        <div>
+          <head>1</head>
+          <p xml:id="da-236-d1e717-d1e727">[lec2 q5.1] Circa quintam questionem queritur, et primo
+            sic proceditur et queritur per quam uiam habeatur diffinitio, utrum, scilicet per
+            diuisionem aut per compositionem, et ostenditur quod habeatur per diuisionem hac
+            rationem: diffinitio | procedit descendendo a genere generalissimo differentias
+            colligendo et eas coartando. Set omnis talis processus est processus diuisionis.
+            Processus autem in ascendendo est procesus collectionis et compositionis, ergo si per
+            primum processum habetur diffinitio, diffinitio habetur per uiam diuisionis et non per
+            uiam collectionis et compositionis. </p>
+          <p xml:id="da-236-d1e717-d1e730">Ad oppositum est talis ratio: uia diffinitiua procedit ad
+            constitutionem rei ex suis principiis. Constitutio autem rei ex suis principiis habetur
+            per compositionem, ergo diffinitio habetur per compositionem. </p>
+        </div>
+        <div>
+          <head>2</head>
+          <p xml:id="da-236-d1e717-d1e739">[lec2 q5.2] Postea queritur utrum diffinitio habeatur per
+            uiam demonstrationis et utrum procedat uia demonstrationis, sicut procedit uia
+            compositionis uel diuisionis, et ostenditur quod sic: diffinitio datur per causas et per
+            uera rei principia, set talis processus est demonstratiuus, ergo diffinitio datur et
+            procedit uia demonstrationis, habetur ergo per demonstrationem. </p>
+          <p xml:id="da-236-d1e717-d1e742">Ad oppositum est talis ratio: omnis demonstratio competit
+            accidenti prout subiecto inheret per causam in subiecto radicatam. Diffinitio autem
+            datur per principia rei in suo genere, ergo cum iste uie sunt opposite diffinitio non
+            habetur per uiam demonstrationis. </p>
+          <p xml:id="da-236-d1e717-d1e745">Ad primam rationem dicendum est quod, sicut dicit
+            Auerroys circa hoc supra principium libri <hi>De anima</hi>, tres fuerunt positiones
+            philosophorum de diffinitione: una fuit quod demonstratio habetur per demonstrationem et
+            per causas et hanc positionem posuit Ypocras. Secunda fuit quod diffinitio habetur per
+            uiam diuisiuam et hec fuit positio Platonis. Tercia est quod diffinitio habetur per uiam
+            compositiuam per quam diffinitio ex suis principiis componitur et hec est positio
+            Aristotelis in secundo <hi>Posteriorum</hi>.</p>
+          <p xml:id="da-236-d1e717-d1e754">Ad rationes uero in contrarium dicendum est quod duplex
+            est uia in diffinitionem. Vna est remota, et hec est uia in uiam, et hec est uia
+            diuisiua | per quam extrahuntur partes a toto et postea componuntur et diffiniunt totum,
+            et sic uia diuisiua est uia in diffinitionem. Alia autem est uia proxima et hec est uia
+            compositiua secundum quam partes constituentes in diffinitione ponuntur. Et cum uia
+            diuisiua sit uia in hanc, propter hoc dicitur esse uia in uiam et non principalis uia
+            set remota. </p>
+          <p xml:id="da-236-d1e717-d1e758">Ad secundam questionem dicendum est quod demonstratio non
+            est proprie uia in diffinitionem.</p>
+          <p xml:id="da-236-d1e717-d1e761">Ad rationem in contrarium dicendum est quod cognitio per
+            causas est duplex: una est que procedit secundum constitutionem rei ex suis principiis
+            et hec est diffinitiua. Alia est que est et procedit ad cognitionem rei inherentis
+            subiecto per causas sue inherentie que causant rem in subiecto propter quas causas res
+            in subiecto inherent, et hec est cognitio demonstratiua et sic diffinitio non habetur
+            nec procedit uia demonstratiua. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

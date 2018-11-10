@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1119">
+        <head>Quaestio 3</head>
+        <head type="question-title">Utrum anima uegetabilis et sensibilis sint forme tantum uel
+          forme et hoc aliquid composite ex quo est et quod est</head>
+        <p xml:id="da-236-d1e1119-d1e1124">[lec3 q3] | Circa terciam questionem sic proceditur et
+          queritur utrum anima uegetabilis et sensibilis sint forme tantum uel forme et hoc aliquid
+          composite ex quo est et quod est.</p>
+        <!-- inconsistent paragraph break -->
+        <p xml:id="da-236-d1e1119-d1e1127">Ostenditur autem quod sint forme et substantie per duas
+          rationes, quarum prima talis est: forma que est forma tantum nichil habet preter illud
+          quod habet cum materia, et non habet a materia operationem preter illam quam habet cum
+          materia, et ideo non mouet sine materia, nec mouet materiam, in qua est, set simul cum sua
+          materia mouet aliam materiam respectu cuius cum sua materia est hoc aliquid. Ergo necesse
+          est quod forma que mouet sufficienter sit forma hoc aliquid uel substantia. Set anima est
+          huiusmodi secundum omnem sui differentiam, ergo anima uegetabilis et sensibilis sunt forme
+          et substantie.</p>
+        <p xml:id="da-236-d1e1119-d1e1130">Secunda ratio talis est: omnis forma uel substantia in
+          qua est distinctio potentiarum actiuarum et passiuarum est hoc aliquid, quia soli illi
+          quod est substantia et hoc aliquid competit distinctio. Set anima uegetabilis et
+          sensibilis habent potentias actiuas et passiuas distinctas, ergo sunt forme et substantie
+          que sunt hoc aliquid.</p>
+        <p xml:id="da-236-d1e1119-d1e1133">Ad oppositum due sunt rationes, prima talis est: omnis
+          substantia que est hoc aliquid habet principia sufficientia in suo genere. Set anima
+          uegetabilis et sensibilis non habent principia sufficientia in suo genere per que stent,
+          quia sic haberent proprias | operationes, et sic essent separabiles, ergo non sunt
+          substantie hoc aliquid. </p>
+        <p xml:id="da-236-d1e1119-d1e1137">Secunda ratio hec est: ex corpore et anima fit unum,
+          sicut ex cera et figura. Set unio cere cum figura est uera unio compositionis que est ex
+          materia et forma. Ergo ex anima et corpore resultat compositio ex materia et forma, set
+          nichil ex quo cum altero resultat compositum sicut cum materia uel forma est hoc aliquid,
+          ergo anima nullo modo est substantia que sit hoc aliquid.</p>
+        <p xml:id="da-236-d1e1119-d1e1140">Solutio. Ad hoc dicendum est quod quidam posuerunt quod
+          anima uegetabilis et sensibilis sint forme tantum et non forme et substantie que sint hoc
+          aliquid. Posuerunt autem animam intellectiuam esse formam et substantiam que est hoc
+          aliquid, et in quantum est forma posuerunt ipsam esse separabilem. Dicendum est autem quod
+          anima uegetabilis et sensibilis sunt forme et substantie que sunt hoc aliquid, sicut
+          ostendunt rationes ad hoc posite. Determinare uero utrum in eis differat quo est et quod
+          est alterius est negotii in quo determinatur de principiis substantiarum corporalium, set
+          intelligendum est quod hoc aliquid multis modis dicitur: uno modo dicitur hoc aliquid
+          substantia composita ex uera materia et ex uera forma, sicut homo. Alio modo dicitur hoc
+          aliquid quodlibet singulare siue simplex siue compositum, et sic materia signata est hoc
+          aliquid, id est, singulare. Tercio modo dicitur hoc aliquid res que per quam essentiam
+          complete mouet et operatur et est completa licet non componatur, et sic anima uegetalis et
+          sensibilis est hoc aliquid tamen sicut in aliis spiritualibus differt quo est et quod est,
+          ita et in istis. </p>
+        <p xml:id="da-236-d1e1119-d1e1143">Ad rationes in contrarium respondendum est, et primo ad
+          primam, quia substantia completa est duobus modis: uno modo est substantia completa cuius
+          principium dependet a materia corporali et que habet radicem in materia corporali et
+          coartatur secundum exigentiam partis materie corporalis, et sic talis non est separabilis
+          et tales sunt anima uegetabilis et sensibilis. Alia est que non habet radicem in materia
+          nec sua principia, set solum dependet ab eo quantum ad exitum et quantum ad quasdam
+          operationes et talis est separabilis et talis est anima intellectiua. </p>
+        <p xml:id="da-236-d1e1119-d1e1146">Ad secundam rationem dicendum est quod unio anime cum
+          corpore est tribus modis: una est sicut materie cum forma, et secundum hanc comparatur
+          anima ad corpus sicut cera ad figuram et e conuerso, et de hac loquitur Aristoteles, et
+          secundum hanc est anima forma et ab hac solum habet quod sit forma. Alia est unio eius cum
+          corpore tanquam unio substantie spiritualis cum substantia corporali uel spirituali et a
+          qua distat per essentiam et ab hac habet anima quod sit hoc aliquid. Tercia est sicut
+          motoris cum mobili et ab hac habet anima similiter, quod sit completa et hoc aliquid, quia
+          secundum hanc distat a corpore per substantiam et sic anima uegetabilis et sensibilis est
+          forma et hoc aliquid. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

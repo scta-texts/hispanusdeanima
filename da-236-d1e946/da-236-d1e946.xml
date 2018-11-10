@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 10</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 10</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e946">
+        <head>Quaestio 10</head>
+        <head type="question-title">De modo cognoscendi animam in scientia ista et quo modo
+          reguletur ista scientia in cognitione ipsius anime, utrum, scilicet debeat incipere ab
+          operationibus anime uel a substantia anime</head>
+        <p xml:id="da-236-d1e946-d1e951">[lec2 q10] Circa decimam questionem sic proceditur et
+          queritur de modo cognoscendi animam in scientia ista et quo modo reguletur ista scientia
+          in cognitione ipsius anime, utrum, scilicet debeat incipere ab operationibus anime uel a
+          substantia anime. Et uidetur quod incipiat ab operationibus: omnis substantia spiritualis
+          cognoscitur per suas uirtutes et operationes, set anima est huiusmodi, ergo cognoscitur
+          per suas uirtutes | et operationes, ergo hec scientia in cognitione anime incipit ab
+          operationibus eius. </p>
+        <p xml:id="da-236-d1e946-d1e954">Secunda ratio hec est: in secundo <hi>De anima</hi> habetur
+          quod actus primi sunt et priores potentiis in uia cognitionis, e conuerso autem est in uia
+          generationis et incompletionis, set a prioribus in uia cognitionis incohandum est in
+          scientia, ergo in hac scientia inchoandum est ab actibus uel operationibus ipsius anime et
+          non a substantia eius. </p>
+        <p xml:id="da-236-d1e946-d1e960">Ad oppositum dicit Aristoteles quod incipiet a substantia
+          eius. </p>
+        <p xml:id="da-236-d1e946-d1e963">Secunda ratio hec est: quia in secundo <hi>De anima
+          </hi>prius incipit Aristoteles a substantia anime et diffinitione eius et postea
+          determinat de obiectis potentiis et operationibus anime, ergo incipiendum est a substantia
+          anime. </p>
+        <p xml:id="da-236-d1e946-d1e970">Solutio. Ad hoc dicendum est quod tria requiruntur de
+          anima, scilicet substantia anime et manifesta existentia eius in corpore et cognitio
+          singularium potentiarum eius et obiectorum et operationum. Dicendum est ergo quod actor in
+          scientia ista prius incipit a substantia anime et ab eius diffinitione, sicut patet in
+          secundo <hi>De anima</hi>, postea determinat de existentia eius in corpore quam probat per
+          actus et operationes et maxime per uitam. Postea uero determinat de potentiis eius et
+          incipit ab obiectis et actibus quia prima sunt potentiis, et diffinitur anima per actum.
+          Set duplex est actus, scilicet primus et secundus. Primus est uita et quasi esentialis
+          anime et propter hoc per illum diffinit animam et non per secundum qui est accidens, unde
+          dicendum est quod actor incipit ab illis omnibus, set secundum diuersos respectus, quia
+          ponendo diffinitionem anime incipit ab eius substantia hoc est necesse. Probando autem
+          eius existentiam in corpore incipit ab actibus, postea quia per actus probatur etiam illa
+          existentia incipit etiam ab obiectis et operationibus, sicut ostendunt rationes inquirendo
+          potentias ipsius anime, quia incipit ab obiectis quia prima sunt potentiis, et sic
+          secundum diuersos respectus incipit ab omnibus illis. Et sic procedunt rationes ad
+          utramque partem. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

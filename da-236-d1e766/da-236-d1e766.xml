@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e766">
+        <head>Quaestio 6</head>
+        <p xml:id="da-236-d1e766-d1e771">[lec2 q6] Circa sextam questionem sic proceditur et
+          queritur cui proprie et per se competat demonstratio, et circa hoc duo queruntur: prima
+          autem questio est cui proprie et per se competat demonstratio, et ostenditur quod
+          accidenti duabus rationibus quarum prima talis est: omni illi et soli competit
+          demonstratio cuius diffinitiones dantur per additamenta et per causas alterius generis.
+          Demonstratio enim procedit per causas alterius generis. Hoc autem est solum accidens, ergo
+          solum accidens de|monstratur. </p>
+        <p xml:id="da-236-d1e766-d1e774">Secunda ratio hec est: et est ab auctoritate, quia, sicut
+          testatur Aristoteles in <hi>Metaphysica</hi>, solius substantie est diffinitio, solius
+          autem accidentis est demonstratio, solum ergo accidens demonstratur. </p>
+        <p xml:id="da-236-d1e766-d1e780">Ad oppositum sunt due rationes, prima talis est: sicut
+          dictum est, illi competit demonstratio quod alicui inheret et inter quod et relicuum cadit
+          medium. Set inter formas substantiales et materiam cadit medium, scilicet dispositiones
+          materie, et inter<hi> </hi>genus et speciem cadunt differentie medie et inter speciem et
+          indiuiduum cadunt principia media. Hec ergo possunt demonstrari, set hec cadunt in genere
+          substantie, ergo substantia potest demonstrari. </p>
+        <p xml:id="da-236-d1e766-d1e786">&lt;Secunda ratio est hec: principia demonstrationis
+          fundantur in principiis nature et ab eis causantur ut rationale fundatur in anima
+          rationali et causatur ab illa, et sensibile fundatur in anima sensibili et uiuens in anima
+          uegetabili, ergo cum fundentur in eis tanquam in causis possunt per ea demonstrari de
+          substantia tanquam per causas. Set huius principia rationis sunt de genere substantie ut
+          si queratur propter quid est homo rationale demonstretur quod propter animam rationalem,
+          ergo illud quod est in genere substantie demonstratur et non solum accidens.&gt;</p>
+        <p xml:id="da-236-d1e766-d1e790">Solutio. Ad hoc dicendum est quod demonstratio solum soli
+          competit inherenti quod habet causam sue inherentie in subiecto in quo est inter quod et
+          illud cui inheret cadit causa media. Diffinitio autem competit rei fixe aggregate ex suis
+          propriis principiis et quia illud quod primo modo se habet est accidens uel modum eius
+          habens. Illud autem quod secundo modo se habet est substantia uel modum substantie habens,
+          ideo solum accidens demonstratur. Sola uero substantia diffinitur.</p>
+        <p xml:id="da-236-d1e766-d1e793">Ad rationem in contrarium dicendum est quod forma
+          dupliciter comparatur ad materiam: uno modo in uia compositionis in genere substantie
+          prout cum ea conficit compositum. Alio modo comparatur ad materiam per uiam generationis
+          et introductionis sue in materiam per comparationem nature. Primo modo non monstratur
+          forma de materia nec sic cadit medium inter ipsas, et sic consideratur forma in genere
+          substantie. Secundo autem modo habet intensionem accidentis, quia sic inheret materie per
+          dispositiones medias per quas demonstratur de materia. </p>
+        <p xml:id="da-236-d1e766-d1e796">&lt;Ad secundam rationem dicendum quod si ostendantur
+          principia rationis de composito per principia nature in quibus fundantur, hec non est
+          proprie demonstratio, set potius diffinitio et uia diffinitiua quam diffinitionem una
+          diffinitio alteram declarat, quare una est sicut radix alterius, quia diffinitio que fit
+          per principia non est radix diffinitionis que fit per principia rationis et declaratur una
+          per alteram, sicut si dicatur quod hic homo est sensibilis rationalis quia homo habet
+          animam rationalem et sensibilem, uel dicendum est aliter quod principia rationis non
+          demonstrantur in quantum habent rationem scientie, set in quantum habent rationem
+          inherentem et quantum ad hoc habent rationem accidentis.&gt;</p>
+        <p xml:id="da-236-d1e766-d1e799">Secunda questio circa hoc est utrum cuilibet accidenti
+          competat demonstratio tam communi quam proprio. Ostenditur autem quod sic unica ratione
+          que talis est: subiecta materia et forma est causa omnium accidentium, sicut habetur in
+          fine primi <hi>Physicorum</hi>, set quedam accidentium consequuntur communem materiam ut
+          quantitas. Quedam autem accidentia consequuntur subiecta propria, ut risibile consequitur
+          hominem. Sicut ergo accidentia propria de proprio subiecto per causam propriam
+          demonstratur ita accidentia communia de communi subiecto per commumen causam demonstrantur
+          et per illud de subiectis propriis communia accidentia sunt demostrabilia. </p>
+        <p xml:id="da-236-d1e766-d1e805">Ad oppositum est hec ratio: communia accidentia insunt toti
+          subiecto demonstrationis, ergo si de communibus accidentibus fieret demonstratio, fieret
+          demonstratio de toto subiecto scientie. Hoc autem est inconueniens, quia non fit
+          demonstratio de toto subiecto scientie set de partibus eius et sic accidentia communia non
+          sunt demonstrabilia. Propter hoc queritur que accidentia sunt demonstrabilia et que non
+          sunt demonstrabilia.</p>
+        <p xml:id="da-236-d1e766-d1e808">Ad hoc dicendum est quod duplex est accidens. Est enim
+          quoddam accidens commune et quodam proprium. Accidens autem proprium est quod habet
+          propriam causam in subiecto proprio et tali accidenti competit demonstratio. Tale enim
+          demonstrabile est de subiecto proprio per causam propriam. Accidens autem commune duplex
+          est: quodam enim est quod acusatur a principio transmutabili in subiecto, quodam autem est
+          quod non. Accidens autem quod causatur in subiecto a causa transmutabili duplex est:
+          quodam enim est quod fit a causa inordinata sicut illud accidens quod est a casu et a
+          fortuna. Aliud autem est quod fit | a causa ordinata interminata tamen operante ad
+          opposita, sicut accidentia que causantur a uoluntate. Voluntas enim ordinata est, tamen ad
+          opposita operatur, et hec accidentia communia que causantur a casu et fortuna et a
+          uoluntate de subiecto aliquo non sunt demonstrabilia. Si autem sint accidentia que non
+          causantur a principio transmutabili, set a causa determinata et ordinata, talia sunt
+          duobus modis, quia quedam illorum sunt a causa super coniuncta actui secundum omne tempus,
+          quedam autem sunt coniuncta actui | secundum tempus determinatum producente effectum, et
+          de utroque istorum est possibilis demonstratio. Set de illis que sunt a causa semper
+          coniuncta actui secundum tempus determinatum est demonstratio ut semper cum tamen fiant
+          sepe. Vnde dicit Aristoteles quod eorum que sepe fiunt sunt demonstrationes non ut sepe
+          set ut semper. </p>
+        <p xml:id="da-236-d1e766-d1e812">Hec autem omnia considerantur dupliciter: uno modo prout
+          comparantur ad subiecta propria cum quibus non sunt conuertibilia, sicut habere tres non
+          est conuertibile cum ysocele, et de illis non demonstrantur nisi per accidens. Alio modo
+          considerantur per comparationem ad subiectum commune cum quo sunt conuertibilia et cuius
+          sunt propria et de illo sunt demonstrabilia proprie et per se, sicut habere tres proprie
+          et per se demostratur de triangulo.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

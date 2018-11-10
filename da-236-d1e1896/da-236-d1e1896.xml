@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1896">
+        <head>Praeambulum</head>
+        <p xml:id="da-236-d1e1896-d1e1901">Tractatus primus huius scientie de opinionibus circa
+          animam ab antiquis editis continens duo capitula. Primum est de opinionibus antiquorum.
+          Secundum est de improbationibus ipsarum. Primum autem tres continet partes. Prima autem
+          est de opinionibus diffinientium animam per motum. Secunda de opinionibus diffinientium
+          animam per cognitionem. Tercia est de opinionibus diffinientium per utrumque. Prima autem
+          continet tres paragraphos, quorum primus est de communitate opinionum circa motum.
+          Continuatio intensionis.</p>
+        <p xml:id="da-236-d1e1896-d1e1904">
+          <hi>Intendentes de anima necesse est simul dubitare de quibus bene du|</hi>
+          <hi>bitare oportet </hi>et cetera. Completa est intentio philosophi circa ea que
+          substantiam huius scientie antecedunt in quibus tetigit necessitatem et nobilitatem huius
+          scientie, et intensionem eius circa subiectum suum et passiones et proprietates ipsius et
+          tetigit ea que de subiecto sunt inquirenda et modum ordinis sui processus, et questiones
+          incidentes circa hoc et circa passiones anime et circa proprietatem et communitatem
+          ipsarum. Et conclusit quod anima cum suis proprietatibus ad scientiam pertinet naturalem
+          et assignauit differentiam modorum considerandi et diffiniendi phisici et logici. Et
+          distinctionem facit circa diuersas considerationes diuersorum artificum, et omnia que
+          antecedunt necessitatem et substantiam huius scientie, postquam igitur in omnibus
+          predictis terminauit suam intensionem. Aggreditur intensionem principalem huius scientie
+          determinans de anima et suis differentiis et potentiis et actibus et obiectis. </p>
+        <p xml:id="da-236-d1e1896-d1e1911">Diuisio. Recipit autem ista pars diuisionem in duas
+          partes, in quarum prima continente primum tractatum determinat philosophus de anima
+          secundum opiniones aliorum philosophorum recitans eorum opiniones et earum intentiones et
+          eos in benedictis imitatur eorum uero erroribus contradicit. In secunda continente duos
+          tractatus secundum, scilicet et tercium, | determinatur de anima et eius proprietatibus
+          secundum uiam ueritatis et incipit hic, <hi>hec quidem de anima a prioribus tradita dicta
+            sunt</hi> et cetera, et terminatur usum ad finem totius negotii. </p>
+        <p xml:id="da-236-d1e1896-d1e1917">Primus autem tractatus recipit diuisionem in duas partes
+          in quarum prima manifestat philosophus intensionem suam circa ea que determinare intendit.
+          In secunda, scilicet in hac, <hi>animatum igitur ab inanimato duobus modis differe
+            uidetur</hi> et cetera, prosequitur intensionem suam circa opiniones philosophorum quas
+          ediderunt de anima. Omissa igitur prime partis diuisione, diuisioni separatis principalis
+          insistamus. Recipit autem diuisionem in duas partes, in quarum prima recitat philosophus
+          opiniones aliorum, quas ediderunt de anima. In secunda, scilicet in hac, <hi>considerandum
+            autem hic quidem primum de motu est</hi> et cetera, contradicit eorum opinionibus eas
+          improbans et etiam alias opiniones interserit. </p>
+        <p xml:id="da-236-d1e1896-d1e1927">Prima autem pars recipit diuisionem in duas partes, quia
+          philosophi per duas considerationes diffiniunt animam, scilicet per motum et per
+          cognitionem. Rebus enim animatis solum inter res naturales debetur &lt;per se mutus&gt; ut
+          eis sit proprium se ipsis moueri sicut habetur in VIII <hi>Phisicorum</hi>. Et eis solum
+          competit cognitio propter animam que ipsarum est principium. Et ideo dicit philosophus
+          quod animatum differt ab animato in motu et sensu, idest in cognitione.</p>
+        <p xml:id="da-236-d1e1896-d1e1933">In prima igitur parte recitat opiniones diffinientium
+          animam per motum. In secunda, scilicet in hac, <hi>quique</hi>
+          <hi> autem in cognoscendo et sciendo ea que sunt</hi> et cetera, recitat diffinientium
+          opiniones animam | per cognitionem. Prima autem pars recipit diuisionem in partes duas, in
+          quarum prima recitat opiniones diffinientium animam per motum in uniuersali tangens illud
+          in quo omnes eorum opiniones communicant, quia in diffiniendo animam per motum. In
+          secunda, scilicet in hac, <hi>unde Democritus ignem quendam autem calorem dicit eam
+            esse</hi> et cetera, tangit opiniones eorum in speciali singularum diuersas recitans
+          opiniones. Prima autem pars cum parte prohemiali spectat ad speculationem presentem. </p>
+        <p xml:id="da-236-d1e1896-d1e1944">Sunt igitur in lectione presenti due partes, in quarum
+          prima manifestat philosophus intensionem suam circa ea que intendit. In secunda tangit
+          intensionem diffinientium animam per motum in uniuersali. Prima autem pars diuiditur in
+          partes tres, in quarum prima proponit philosophus intensionem suam. In secunda, scilicet
+          in hac, <hi>attendentes priorum opiniones comprehendere</hi> et cetera, tangit modum
+          procedendi circa philosophorum opiniones. In tercia, scilicet in hac, <hi>principium autem
+            questionis est apponere que maxime uidentur ipsi inesse secundum naturam</hi> et cetera,
+          tangit ordinem sui processus. Tangit enim ea a quibus in hoc opere proponit inchoare.
+          Secunda autem pars principalis recipit diuisionem in duas partes, in quarum prima tangit
+          illud in quo fundatur intensio omnium de anima diffinientium, quia in motu et sensu. In
+          secunda, scilicet in hac, <hi>accepimus autem et que a genitoribus fere due hec de
+            anima</hi> et cetera, tangit opiniones eorum antiquorum iuxta hoc diffinientium per
+          motum in uniuersali. </p>
+        <p xml:id="da-236-d1e1896-d1e1956">Diuisionis recollectio. Sunt igitur in presenti lectione
+          quibus partes, in quarum prima proponit philosophus intensionem suam. In secunda tangit
+          modum procedendi circa opiniones philosophorum. In tercia tangit ordinem processus. In
+          quarta tangit illud in quo fundatur intensio omnium philosophorum de anima diffinientium.
+          In quinta tangit iuxta hoc opiniones antiquorum diffinientium animam per motum in
+          uniuersali. </p>
+        <p xml:id="da-236-d1e1896-d1e1959">Hec autem est diuisio huius partis.</p>
+        <p xml:id="da-236-d1e1896-d1e1962">Sententia prime partis de intensionis manifestatione
+          circa primam partem sic procedit philosophus hoc modo dicens quod cum sit intensio sua
+          determinare de anima non reputat esse inutile cum aliis philosophis simul dubitare et
+          circa ipsam de illis de quibus rationabile est dubitare. </p>
+        <p xml:id="da-236-d1e1896-d1e1966">Sententia secunde partis de modo processus. Et deinde
+          tangit modum procedendi circa antiquorum opiniones dicens quod proponit intendere eorum
+          opinionibus ut omnia que de<hi> </hi>anima bene et rationabiliter ediderunt familiariter
+          acceptet. Si autem aliquid de ipsa non recte tradiderunt, docebit fugiendum et omnino
+          responendum. </p>
+        <p xml:id="da-236-d1e1896-d1e1972">Sententia tercie partis de ordine processus. Consequenter
+          tangit ordinem processus dicens quod principium uie inquisitiue secundum quam procedere
+          circa anima intendit est primo tangere illa que primo uidentur anime competere secundum
+          naturam, et hec quidem sunt motus et sensus per que duo philosophi fere omnes animam
+          diffinire moti sunt. </p>
+        <p xml:id="da-236-d1e1896-d1e1975">Sententia quar|te partis de eo in quo communicant
+          predicte omnes opiniones. Consequenter accedens ad secundam partem tangit ea que maxime
+          uidentur competere per naturam per que omnes fere philosophi eam diffiniuerunt. Hec autem
+          sunt sensus et motus. Dicit igitur quod animatum ab inanimato uidetur differre per hec
+          duo, | scilicet per motum et sensum, idest per cognitionem communiter acceptam, et innuit
+          talem rationem: illa uidentur maxime in esse anime per naturam per que animatum ab
+          inanimato differt, et causa huius est quia animatum per animam et per ea que ei competunt
+          ab inanimato quod anima caret differre necesse est. Hec autem sunt motus et sensus, ergo
+          motus et sensus maxime uidentur in esse anime per naturam. </p>
+        <p xml:id="da-236-d1e1896-d1e1978">Sententia quinte partis de ratione in qua concordant.
+          Consequenter iuxta hoc tangit consensum omnium philosophorum in suis opinionibus
+          diffinientium animam per hec duo, dicens quod nos suscepimus ab antiquis patribus ista duo
+          de anima que maxime ei competunt, scilicet motum et sensum. Tangit positionem
+          diffinientium ipsam per motum cum dicit, <hi>dicunt enim quia et maxime et primo anima
+            esse id quod est secundum se mouens </hi>et cetera, dicit igitur quod philosophi
+          dixerunt animam esse rem se ipsam mouentem et ita diffinierunt ipsam per motum, deinde,
+          cum dicit, <hi>estimatur quod non mouetur non contigere mouere alterum</hi> et cetera,
+          tangit eorum rationem per quam ostendunt animam moueri, et sic ei motum maxime competere
+          et est eorum ratio talis, omne quod mouet alterum per se mouetur per se, quia nichil mouet
+          alterum quin moueatur et ipsum, set anima mouet alterum per se, quia corpus ergo mouetur
+          per se. Per hec enim differt animatum ab inanimato, quia ipsum per se mouetur, in animatum
+          autem non. Set causa huius est anima, ergo anime conuenit maxime et per se mouere et
+          maxime moueri per se, cum nichil moueat nec et ipsum moueatur, et sic motus maxime
+          competit anime per materiam. </p>
+        <p xml:id="da-236-d1e1896-d1e1987">Et sic patet intensio huius partis. Postquam determinata
+          sunt ea que prexiguntur ante anime substantie cognitionem. </p>
+        <p xml:id="da-236-d1e1896-d1e1990">Post hec inquerende sunt questiones circa substantiam
+          anime, et primo querendum est circa eam secundum opiniones philosophum, postea secundum
+          ueritatem. Circa opiniones philosophorum circa animam querenda sunt duo: primum est de
+          opinionibus; secundum de improbationibus illarum. De opinionibus autem duo duximus
+          inquirenda: quidam enim diffiniunt animam per motum; quidam per sensum. Primo enim
+          queritur de opinionibus diffinientium animam per motum. Secundo autem queritur de
+          opinionibus diffinientium animam per sensum. De opinionibus autem diffinientium animam per
+          motum, primo queritur in uniuersali, secundo uero im speciali. In uniuersali autem quatuor
+          uel quinque de illis quantum ad presentem lectionem sine* qua pertinent sunt inquirenda. </p>
+        <p xml:id="da-236-d1e1896-d1e1994">Primum [lec8 q1] est utrum animatum differat ab inanimato
+          per motum ita quod animatum participet motum, inanimatum uero non, uel utrum utrumque
+          participet motum, et sic eis commune motus simpliciter. Secundum [lec8 q2] est cuius
+          corporis est per se moueri et sufficienter | utrum animati aut inanimati et utrum motus
+          perfectus et sufficiens debeatur in anima uel non. Tercium [lec8 q3] est que est causas
+          propter quid quidam motores mouent sufficienter, quidam non, utrum causa huiusmodi sit,
+          quia sint hoc aliquid aut quia distant a materia et a mobili. Quartum [lec8 q4] est utrum
+          cuilibet animato conueniat motus per se et sufficiens. Quintum [lec8 q5] est utrum necesse
+          sit omne mouens moueri et quibus motoribus conueniat moueri et quibus non. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

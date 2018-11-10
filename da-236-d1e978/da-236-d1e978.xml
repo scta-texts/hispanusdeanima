@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e978">
+        <head>Praeambulum</head>
+        <p xml:id="da-236-d1e978-d1e983">Distinctio tercia de manifestatione eorum que de anima
+          inquerenda sunt circa substantiam anime et eius differentias. Continuatio intensionis.
+            <hi>Primum autem fortassis necessarium est uidere in quo genere sit et quid sit</hi> et
+          cetera. Postquam manifesta est intensio huius scientie circa subiectum et passiones
+          uniuersaliter et tacta est difficultas incidens in cognitione substantie anime, In hac
+          parte tanguntur ea que circa animam et substantiam et naturam ipsius et eius proprietates
+          primo sunt inquirenda et queritur modus procedendi circa inuestigationem ipsorum. </p>
+        <p xml:id="da-236-d1e978-d1e989">Diuisio. Recipit autem hec pars diuisionem in duas partes,
+          in quarum prima tanguntur ea que circa anime substantiam et naturam et eius proprietates
+          sunt inquirenda. In secunda, scilicet in hac, <hi>dubitationes autem habent et passiones
+            anime</hi> et cetera, tangit dubitationem incidentem circa passiones anime secundum
+          comparationem ipsarum | ad animam et coniunctum in communitate et appropriatione, et etiam
+          tangit appropriationem determinationis ipsarum in scientia naturali. </p>
+        <p xml:id="da-236-d1e978-d1e995">Prima autem pars recipit diuisionem in tres partes, in
+          quarum prima tanguntur questiones incidentes circa substantiam anime. In secunda, scilicet
+          in hac, <hi>considerandum autem est et si partibilis est</hi> et cetera, tanguntur
+          questiones incidentes circa eius partes uel differentias. In tercia, scilicet in hac,
+            <hi>amplius autem si non multe sint anime</hi> et cetera, tanguntur questiones
+          incidentes circa potentias anime et operationes ipsarum et circa comparationem partium
+          anime et obiectorum et operationum ad inuicem ratione ordinis in processu cognitionis in
+          scientia. </p>
+        <p xml:id="da-236-d1e978-d1e1004">Due autem prime partes spectant ad presentem lectionem,
+          secundum quas recipit presens lectio diuisionem in duas partes, in quarum prima tanguntur
+          questiones circa substantiam anime incidens. In secunda tanguntur questiones incidentes
+          circa differentias anime. Prima autem pars diuiditur in duas partes secundum duas
+          operationes que de substantia anime tanguntur, quarum una est de reductione eius ad genus
+          determinatum, altera de intensione principiorum substantie que sunt materia et forma, unde
+          prima est in quo genere sit anima. Secunda est supposito quod sit in genere substantie,
+          utrum, scilicet, potentia an actus. </p>
+        <p xml:id="da-236-d1e978-d1e1008">Prima pars incipit hic: <hi>primum autem fortassis</hi> et
+          cetera. Secunda hic: <hi>adhuc autem utrum eorum que sunt potentia</hi> et cetera. Secunda
+          autem pars in qua tanguntur questiones circa differentias anime diuiditur in quinque
+          particulas, in quarum prima mouetur prima questio circa partibilitatem et impartibilitatem
+          anime. In secunda, scilicet in hac, <hi>et utrum similis speciei omnis anima</hi> et
+          cetera, tangitur secunda questio circa idemptitatem et diuersitatem partium anime. In
+          tercia, scilicet in hac, <hi>si autem non est similis speciei</hi> et cetera, tangitur
+          questio circa modum diuersitatis partium anime secundum genus uel speciem. In quarta,
+          scilicet in hac, <hi>nunc quid enim querentes et dicentes de anima</hi> et cetera,
+          ostendit quod non solum de anima humana perscrutantum est siue considerandum est set etiam
+          de differentiis aliis anime per quas anima diuiditur. In quinta, scilicet in hac,
+            <hi>querendum est autem quo modo non lateat</hi> et cetera, tangitur questio de communi
+          diffinitione anime, utrum eadem, scilicet diffinitio omnibus anime partibus conueniat. </p>
+        <p xml:id="da-236-d1e978-d1e1030">| Diuisionis recollectio. Sunt igitur in presenti lectione
+          partes VII, in quarum prima tangitur hec questio in quo genere sit anima utrum substantia
+          uel accidens. In secunda tangitur ista utrum sit actus an potentia. In tercia tangitur
+          hec, utrum sit partibilis an impartibilis. In quarta tangitur hec, utrum partes anime sint
+          diuerse an eedem. In quinta tangitur utrum sint differentes secundum genus an secundum
+          speciem. In sexta ostenditur quod non solum de una differentia anime, scilicet humana est
+          perscrutandum set de omni. In septima tangitur sexta questio que est utrum eadem
+          diffinitio communis conueniat omni anime an diuersa. Hec est diuisio huius partes.</p>
+        <p xml:id="da-236-d1e978-d1e1033">Sententia prime partis de duabus questionibus circa
+          substantiam anime. Circa autem primam partem proceditur hoc modo: inquit philosophus,
+          inter omnia que de anima sunt inquirenda primo diuidendo querendum est in quo genere anima
+          sit, utrum in genere substantie an in genere accidentis siue in genere quantitatis | an
+          qualitatis, et hoc modo querendum est de aliis, et sic queritur utrum anima sit substantia
+          uel accidens. </p>
+        <p xml:id="da-236-d1e978-d1e1036">Consequenter tangit secundam questionem circa substantiam
+          anime que est supposito quod anima sit substantia, utrum sit potentia an actus. Hec enim
+          sunt differentie substantie et per potentiam potest intelligi materia, per actum ante
+          forma, deinde ostendit questionem esse rationabilem dicens se querere recte eo quod magna
+          est differentia inter potentiam et actum et inter materiam et formam.</p>
+        <p xml:id="da-236-d1e978-d1e1039">Sententia secunde partis de questionibus est circa
+          differentias anime, consequenter aggreditur auctor secundum partem in qua inquit
+          philosopus questiones de partibus anime et querit primo utrum anima sit partibilis an
+          impartibilis, et hec est prima questio. Et intelligatur de partibilitate anime per suas
+          potentias uel differentias et de diuersitate ipsarum secundum appropriationem partium
+          corporis organicarum. Deinde tangit secundam questionem circa differentias anime que est
+          de ipsarum diuersitate et etiam utrum partes anime omnes sint eedem an diuerse. Deinde
+          tangit terciam questionem que est de modo diuersitatis ipsarum ad inuicem et est utrum
+          differant genere an specie, solum supposito quod differant. Consequenter ostendit quod hec
+          diuersitas in scientia consideranda est circa multitudinem partium anime. Propterea enim
+          quia non discernebatur diuersitas partium anime aput antiquos qui non determinarunt in
+          scientia nisi de sola anima humana que est anima rationalis. Et ideo dicit quod nonne
+          considerantes de anima de sola humana anima considerauerunt quasi dicat de omnibus
+          considerandum est, ut omnium pateat diuersitas. Deinde tangit quartam questionem circa
+          partes anime, et hec est questio de communitate diffinitionis anime circa differentias
+          anime et processus in illa parte talis est:</p>
+        <p xml:id="da-236-d1e978-d1e1042">Primo enim mouet questionem dicens quod supposita
+          differentia partium anime ad inuicem non oportet nos latere ut queramus utrum eadem
+          diffinitio communis conueniat omni differentie anime. An secundum proprias et diuersas
+          eius differentias adaptentur proprie et diuerse diffinitiones. Deinde secundo questionem
+          suam declarat per exemplum dicens sicut patet si queratur de diffinitione specierum aliis,
+          utrum sit aliqua diffinitio communis hominis et equi et leonis prout comunicant in
+          animali, et eodem modo sit aliqua diffinitio communis omni parti anime secundum rationem
+          communem in omnibus uniuocam, an ut species hominis et equi et leonis habent diuersas
+          diffinitiones proprias easdem prout a quolibet singularium participantur. Eodem modo
+          queritur an singule partes anime habeant proprias diffinitiones diuersas a singulis
+          particularibus animalibus in sua specie participatis. Tercio autem ostendit quod non est
+          aliqua diffinitio communis in natura nisi per aspectum ad singularia, ut per hoc ostendat
+          quod uniuersalis anima nichil est nisi per particulares animas, et uniuersalis diffinitio
+          anime nichil est nisi ad particulares adaptetur et innuit talem rationem. Nullius quod
+          preter singularia aut nichil est aut posterius est, est aliqua diffinitio propria preter
+          aspectum quem habet ad singularia. &lt;Set uniuersale et quodilibet commune siue sit
+          animal siue anima est huiusmodi, ergo nullius talis est aliqua distinctio propria preter
+          aspectum ad singularia&gt;. </p>
+        <p xml:id="da-236-d1e978-d1e1046">Anima igitur non habet communem diffinitionem nisi ad
+          animas particulares applicetur et eis communicat, et per hoc datur intelligi quod si
+          diffinitio communis anime inquiratur oportet ut animabus particularibus adaptetur, et si
+          eis conueniat an non inquirendum est et quo modo eis conueniat, et si non potest | eis
+          omnibus proprie adaptari tunc proprie singularium animarum proprie inquirant singulis
+          adaptande, et sic declaratur intensio huius partis.</p>
+        <p xml:id="da-236-d1e978-d1e1049">Questiones. Circa partem istam quatuor sunt questiones
+          inquirende: prima [lec3 q1] est quid sit anima, utrum, scilicet substantia uel accidens.
+          Secunda [lec3 q2] questio est utrum anima simpliciter forma sit uel materia uel
+          compositum. Tercia [lec3 q3] questio est utrum anima uegetabilis et sensibilis sint forme
+          tantum uel forme et hoc aliquid, composite et quo est et quod est, id est utrum sint forme
+          et substantie. Quarta [lec3 q4] questio est utrum anima intellectiua sit forma et hoc
+          aliquid, hoc est composita ex quo est et quod est.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

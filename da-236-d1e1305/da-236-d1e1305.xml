@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1305">
+        <head>Quaestio 3</head>
+        <head type="question-title">Utrum iste tres differentie anime que sunt uegetabilis,
+          sensibilis, rationalis sint una substantia in homine et diuerse potentie</head>
+        <p xml:id="da-236-d1e1305-d1e1310">[lec4 q3] Circa terciam questionem sic proceditur, et
+          queritur utrum iste tres differentie anime que sunt uegetabilis, sensibilis, rationalis
+          sint una substantia in homine et diuerse potentie. Ostenditur autem quod sic tali ratione:
+          sicut dicit Auicenna, cum una potentia anime uiget et operatur retrahit aliam a sua
+          operatione et debilitatur alia, et retrahitur ad operationem illius, ut quando
+          intellectiua intendit sue operationi retrahit alias ad suam operationem. Unde cum intendit
+          studium non bene diggeritur cibus nec bene operatur anima sensibilis. Iterum quando
+          uegetabilis uiget debilitatur sensibilis, ut patet in sopno. Vegetabilis enim nutrit et
+          auget, sensibilis autem cessat ab operationibus ad minus exterioribus, set quecumque ad
+          inuicem se retrahunt in suis operationibus habent unam radicem in qua habent colligentiam,
+          que radix quando unum dimittit aliud dirigit. Set potentie anime sunt huiusmodi in homine,
+          ergo habent unam radicem. Hec autem radix non est nisi substantia anime que contrahitur ad
+          unam et operatio alterius retrahitur. Potentie ergo anime in homine radicantur in una
+          substantia anime et sunt una anima per essentiam, licet diuerse potentie. </p>
+        <p xml:id="da-236-d1e1305-d1e1313">Ad oppositum sunt due rationes, prima talis est: omnes
+          ille substantie differunt per essentiam quarum una precedit reliqua tempore et natura. Set
+          tres anime sunt huiusmodi respectu hominis, ergo in homine differunt per essentiam. Minor
+          patet, quia in libro <hi>De animalibus</hi> scriptum est quod anima cibatiua est prius in
+          embrione et postea sensitiua. Intellectus uero est ab extrinseco et datus est diuinitus. </p>
+        <p xml:id="da-236-d1e1305-d1e1319">Secunda ratio talis est: omnes forme que in diuersis
+          perfectibilibus secundum genus et secundum speciem nate sunt reperiri diuerse ad inuicem
+          et differentes per essentiam si sint in aliquo perfectibili eodem adhuc differunt per
+          essentiam, quia que differunt specie in diuersis in eodem non possunt esse unum, quia
+          diuersitas specie non potest reduci ad idemptitatem. Set iste anime nate sunt reperiri in
+          diuersis perfectibilibus | secundum speciem et genus, ergo in homine non possunt esse
+          eedem per essentiam. Minor patet, quia uegetabilis reperitur in planta | et sensibilis in
+          bruto et intellectiua in homine. Hec autem omnia differunt genere et specie. </p>
+        <p xml:id="da-236-d1e1305-d1e1322">Et confirmatur hec ratio in hunc modum: differentie enim
+          fundantur in principiis nature ut rationale fundatur in anima rationali, sensibile in
+          sensibili. Per istas autem essentias differimus et communicamus cum aliis essentialiter,
+          quia per animatum communicamus cum planta essentialiter, per sensibile differimus
+          essentialiter ab ipsa et essentialiter per sensibile communicamus cum bruto. Per rationale
+          autem differimus essentialiter ab hiis omnibus. Ergo necesse est istas differentias anime
+          fundari super essentialia in homine, set potentia est de genere accidentium, ergo non
+          fundantur in homine super potentias anime, fundantur ergo super substantiam anime. Hee
+          autem differentie sunt diuerse essentialiter in homine et essentialiter non faciunt
+          differre, ergo fundantur supra diuersas substantias anime et non super unam in homine,
+          ergo necesse est ponere diuersas animas per essentiam. </p>
+        <p xml:id="da-236-d1e1305-d1e1326">Solutio. Ad hoc dicendum est quod circa hanc questionem
+          multiplex est positio. Quidam enim ponunt quod hee anime in homine sunt idem in
+          substantia, differentes autem in potentiis. Alii ponunt quod differunt in homine et in
+          potentiis et in substantiis. Alii ponunt quod anima uegetabilis et sensibilis sunt idem in
+          substantia in homine et diuerse in potentiis, quia sunt ab eodem principio quod est
+          natura. Intellectiua autem diuersa est ab illis et in substantia et in potentia. Alii
+          ponunt quod anima intellectiua et sensibilis sunt idem per essentiam in homine, et propter
+          hoc communicationem cognitionis. Vegetabilis autem omnino differt ab illis. Eligatur autem
+          que istarum positionum uidebitur preualere. Et quia ueritas istius questionis perspicatius
+          determinabitur in secundo sustineatur ad presens gratia disputationis prima positio,
+          scilicet quod tres anime sunt una per essentiam in homine, diuerse autem solum in
+          potentiis. </p>
+        <p xml:id="da-236-d1e1305-d1e1329">Ad primam rationem in contrarium dicendum est quod
+          uegetabilis et sensibilis prius sunt in embrione et prius est uegetabilis nutriens et
+          operans et postea sensibilis et ultimo rationalis. Set ille due, scilicet uegetabilis et
+          sensibilis non sunt substantie set potentie, quia sicut testantur auctores, cum spermate
+          deciduntur sue potentie que sunt uegetabilis et sensibilis, uirtus et spiritus et calor
+          cum eis que sunt instrumenta illarum uirtutum et uirtus operatur in semine, sicut artifex
+          ad productionem fetus, quia illa uirtus operatur sicut anima patris generantis et
+          decidentis que ei confert uirtutem, quia sicut dicit Nicholaus in questionibus suis, si
+          primum conferat uirtutem suam secundo, secundum operatur sicut primum, unde si faber
+          conferret uirtutem suam martello, martellus operaretur sicut faber. Similiter autem est de
+          ista uirtute que operatur in semine regulatur etiam illa uirtus et conseruatur et
+          dirigitur a uirtute maturis, et uirtus uegetabilis operatur secundum regulationem
+          sensibilis. Sensibilis autem secundum regulationem intellectiue que debet aduenire, quia
+          omnes dispositiones operantur secundum exigentiam forme ultime. Completo autem corpore
+          infunditur anima intellectiua cum tribus potentiis et tunc cessant alie due que ibi erant
+          et operantur iste et sic omnino se habent secundum | prius et posterius in tempore
+          secundum quod sunt differentie unius anime, et potentie que prius sunt non sunt eius
+          potentie, set decise a patre cum semine. Et si obiciatur quod accidens non est sine
+          subiecto, potentia autem est accidens anime, ergo potentia non est sine anima. Potentia
+          autem uegetabilis et sensibilis non sunt prius in semine decise sine anima. Et dicendum ad
+          hoc quod duplex est accidens: quoddam est quod comparatur ad subiectum ut ad illud in quo
+          est solum, et tale non est sine subiecto illo. Aliud est quod comparatur ad subiectum ut
+          ad illud a quo fluit supra alterum et tale potest esse sine subiecto a quo fluit et erit
+          supra alterum in quo fluit. Sic autem est potentia uel uirtus, unde potentia est tale
+          accidens. </p>
+        <p xml:id="da-236-d1e1305-d1e1332">Ad secundam rationem dicendum est quod illa ratio in
+          procedendo supponit quod tres anime secundum essentiam sint in homine et probat quod ex
+          illis tribus essentiis non fit una. Certe hoc bene concedendum est quod si tres secundum
+          essentiam essent in homine ex illis non fieret una, set sic non est, quia non est nisi una
+          substantia anime et potentie diuerse. Unde sicut in diuersis est diuersitas istarum
+          potentiarum ita non est in homine. Ad confirmationem dicendum quod iste potentie ad
+          substantiam reducuntur et sic in ipsis possunt fundari differentie essentiales uel in
+          substantia anime per illas potentias.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1775">
+        <head>Quaestio 1</head>
+        <p xml:id="da-236-d1e1775-d1e1780">[lec7 q1] Circa primam questionem sic proceditur, et
+          ostenditur quod phisicus diffiniat per omnes causas per duas rationes, prima talis est:
+          sicut se habet unumquodque ad esse ita se habet ad ueram cognitionem et completam. Set
+          unumquodque consistit et perfectum habet esse per cursum omnium causarum in natura, ergo
+          unumquodque cognoscitur perfectione in natura per causas quatuor, set diffinitio naturalis
+          est perfecta cognitio rei naturalis, ergo diffinitio naturalis debet dari per omnes
+          causas. Diffinit ergo phisicus per omnes causas. </p>
+        <p xml:id="da-236-d1e1775-d1e1783">Secunda ratio hec est: | ostenditur enim quod phisicus
+          possit diffinire per finem sic: unumquodque a quo habet necessitatem sui esse ab illo
+          habet necessitatem sue cognitionis. Set res naturales a fine habent necessitatem sui esse
+          sicut uult Aristoteles in libro <hi>Phisicorum</hi>. Ergo res naturales debent diffiniri
+          per finem. Phisicus ergo per finem potest diffinire. </p>
+        <p xml:id="da-236-d1e1775-d1e1789">&lt;Tercia ratio hec est: ad ostendum quod physicus
+          possit diffinire per causam efficientem omnis scientia considerans rem prout est in motu
+          et fieri maxime diffinit per illam causam | que est primus modus et fieri, set naturalis
+          scientia considerat res prout sunt in motu et fieri, ergo maxime debet diffinire per illam
+          causam que est principium motus et fieri et hoc autem est efficiens quia efficiens est
+          unde motus et est principium in fieri et generatione rei, ergo maxime potest phisicus
+          diffinire per causam efficientem. </p>
+        <p xml:id="da-236-d1e1775-d1e1792">Quarta ratio talis est: ad ostendum quod possit diffinire
+          per formalem per illud quo unumquodque in naturalibus habet complementum et speciem et
+          certam cognitionem sue essentie per illud habet diffiniri et in natura, set res naturales
+          hoc habent a forma, ergo maxime per forma possunt res naturales diffiniri. Set phisicus
+          diffinit eas, ergo phyisicus potest diffinire per causam formalem. Item potest diffinire
+          per causam materialem, sicut dicit philosophus in principio libri <hi>De anima</hi>. Ex
+          hiis ergo rationibus colligitur quod physicus possit diffinire per quamlibet
+          causam.&gt;</p>
+        <p xml:id="da-236-d1e1775-d1e1799">Ad oppositum sunt <hi>due</hi> rationes, prima talis est:
+          sicut dicit Auicenna in secundo sue <hi>Metaphisice</hi>, quedam sunt forme quas cum
+          apprehendit intellectus non appropriat eis materiam nec ante nec post, sicut quantitates.
+          Alie autem sunt forme quibus in principio non appropriat intellectus materiam set per
+          nimiam diligentiam, postea eis appropriat et huiusmodi sunt accidentia communia, ut
+          albedo. Et propter hoc quod communia sunt, sunt autem alie forme quibus statim appropriat
+          materiam, et huiusmodi sunt ut forme naturales ut forma ignis. Res ergo naturales
+          apprehenduntur per aspectum ad materiam, set sicut se habent res per aspectum ad
+          intellectum ita se habent ad diffinitionem, set res naturales comprehenduntur uel
+          cognoscuntur ab intellectu solum per applicationem uel relationem ad materiam, ergo solum
+          debent diffiniri per relationem ad materiam, ergo phisicus debet solum diffinire per
+          materiam. </p>
+        <p xml:id="da-236-d1e1775-d1e1808">Secunda ratio talis est: tria sunt negotia, unum est de
+          rebus separatis omnino, sicut metaphysica; alterum est de rebus aliquo modo abstractis
+          sicut mathematice; tercium est de rebus omnino coniuncti&lt;sicut scientia naturalis. Est
+          enim de omnino coniunctis&gt; motui et materie. Necesse est ergo quod diffiniat per motum
+          et materiam uel per aspectum ad illa, ergo phisicus diffinit solum per materiam uel per
+          aspectum ad illam, scilicet ad materiam. </p>
+        <p xml:id="da-236-d1e1775-d1e1811">&lt;Tercia ratio talis est: quoniam sicut habetur in
+          septimo <hi>Metaphisice</hi> quedam res sunt quarum esse et ratio est a metaphisica, sicut
+          caro et circulus eneus. Alie sunt quarum esse aliquo modo est sine admixtione ad materiam
+          quantum ad alia, ut esse iunde* mathematice. Primum autem esse est esse rerum naturalium,
+          igitur esse rerum naturalium est per admixtionem ad materiam. Omne autem tale habet
+          diffiniri solum per materiam, ergo solum debet phisicus diffinire per materiam et non per
+          alias causas. </p>
+        <p xml:id="da-236-d1e1775-d1e1817">Quarta ratio talis est: scientia naturalis est de corpore
+          mobili in quantum mobile, ergo debet diffinire per illud a quo mobile est mobile. Illud
+          autem est possibile et materiale et subiectum transmutationis et contrarietatis. Hoc autem
+          est materia, ergo scientia naturalis debet solum diffinire per materiam et ita phisicus
+          solum per materiam diffinit. Cum autem finis non sit principium motus nisi methaphorice
+          non debet proprie diffinire per finem. Iterum si diffiniat per formam et efficientem hoc
+          est per relationem ad materiam. Confirmatio autem istius rationis talis est: omnis
+          scientia considerans omnes causas, considerat illas per reductionem ad unam principaliter,
+          set naturalis scientia est huiusmodi, ergo considerat omnes causas per reductionem ad unam
+          principaliter. Hec autem est illa causa in qua omnes alie tunc confundantur in genere
+          illo. Hec autem est naturalis, ergo naturalis considerat omnes causas per aspectum ad
+          materiam, ergo solum diffinit per aspectum ad ipsam. Physicus ergo solum per causam
+          materialem omnes causas diffinit.&gt;</p>
+        <p xml:id="da-236-d1e1775-d1e1820">Solutio. Ad hoc dicendum est quod phisicus diffinit et
+          demonstrat per omnes causas, set aliqua scientia considerat causas multiplicer: uno modo,
+          quia per illas equaliter diffinit et demonstrat et sic non diffinit phisicus per omnes
+          causas. Alio modo dicitur aliqua scientia considerare omnes causas non quia omnes illas
+          equaliter consideret, set quia considerat eas per reductionem et relationem ad unam, et
+          hoc modo phisicus considerat omnes causas et diffinit tunc per omnes, quia considerat
+          omnes causas per relationem ad causam materialem, et propter hoc cum diffinit per omnes
+          causas diffinit per eas per aspectum ad materiam &lt;et motum. Vnde si diffiniat per
+          efficientem, hoc est per aspectum ad materiam&gt; et sic diffinit per omnes per
+          relationem, tamen ad materiam et non equaliter et propter hoc dicitur diffinire per
+          materiam, quia semper per aspectum ad materiam diffinit. Vnde notandum est quod tribus
+          modis dicitur aliqua scientia diffinire per causam aliquam: uno modo quia per illam solam
+          diffinit non considerando alias, et hoc modo nulla scientia diffinit per unam causam. Alio
+          modo potest dici scientia diffinire per unam causam, quia per omnes diffinit per aspectum
+          ad illam et per relationem ad illam non tamen per illam solam diffinit, et sic scientia
+          naturalis dicitur diffinire per materiam. Tercio modo dicitur aliqua scientia diffinire
+          per aliam causam, quia licet plures causas consideret tamen omnes se habent in uno genere
+          respectu causarum quas considerat alia scientia, et hoc modo naturalis adhuc diffinit per
+          materiam, quia omnes cause quas considerat sunt naturales respectu causarum quas
+          considerat alia scientia, sicut logica. Et hoc modo dif|finit naturalis per materiam, quia
+          duplex est diffinitio: quedam enim est per principia dantia esse et numerum, sicut
+          diffinitio logica. Alia est per principia dantia esse solum sicut illa diffinitio in qua
+          cadit materia et forma que est naturalis diffinitio et materialis, quia in ipsa | cadunt
+          materia et forma, que sunt materialia respectu generis et differentie, que sunt principia
+          diffinitionis logice. Non sunt similiter materialia principia diffinitionis naturalis, et
+          hoc est quod dicit Commentator quod non considerat naturalis solam materiam quin etiam
+          alias causas in diffiniendo consideret, set diffinitio sua dicitur materialis respectu
+          diffinitionis logice et hoc modo concendende sunt rationes hoc probantes quod per omnes
+          causas hoc modo diffiniat phisicus, scilicet per reductionem ad unam. Alie rationes
+          soluuntur per istam distinctionem, quia diffinit per materiam reducendo omnes causas ad
+          materiam, in qua motus est, et sic patet solutio ad rationes utriusque partis et
+          uerificatio. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

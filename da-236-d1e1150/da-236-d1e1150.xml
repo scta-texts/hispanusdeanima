@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1150">
+        <head>Quaestio 4</head>
+        <head type="question-title">De anima intellectiua utrum ipsa sit forma et hoc aliquid ita
+          quod in ea differat quo est et quod est</head>
+        <p xml:id="da-236-d1e1150-d1e1155">[lec3 q4] Circa quartam questionem sic proceditur, et
+          queritur de anima intellectiua utrum ipsa sit forma et hoc aliquid ita quod in ea differat
+          quo est et quod est. Ostenditur autem quod sic per duas rationes, quarum prima talis est:
+          omnis substantia completa et fixa cuius existentia est ita hic quod non extenditur alibi
+          est habens in se aliquod principium coartationis per quod existentia coartatur hic ita |
+          quod non extenditur alibi. Set anima intellectiua coniuncta corpori et separata a corpore
+          et etiam quelibet intelligentia et substantia spiritualis preter primum est huiusmodi,
+          ergo quelibet substantia spiritualis habet in se principium coartationis. Principium autem
+          coartationis est materia et non forma, quia forma nata est multiplicari et extendi in
+          infinitum, ergo in intelligentia uel in anima est aliquod possibile uel materia quod est
+          principium sue existentie in illa. Iterum ille substantie sunt complete. Non est autem res
+          completa sine forma, ergo cum habeant materiam habent formam. Substantie ergo spirituales
+          et anima composite sunt ex materia et forma uel ex quo est et quod est. </p>
+        <p xml:id="da-236-d1e1150-d1e1158">Secunda ratio talis est: omnis substantia limitata
+          quantum ad existentiam et operationem et simplicitatem et statum et ordinem habet
+          principium sue limitationis et coartationis. Set quelibet substantia creata completa est
+          huiusmodi, ergo quelibet substantia creata habet in se principium sue limitationis, ergo
+          anima intellectiua habet in se illud principium, cum habeat limitationem respectu
+          creatoris. Primum autem non habet illud quia non sic est limitatum nec coartatum. Primum
+          enim omnino distat a materia et propter hoc nullo modo limitatum est. Quanto enim plus
+          distat creatura a natura materie tanto minus limitata est. Unde intelligentia minus
+          limitata est quam anima et magis extenditur sua potentia quam anime potentia. Materia ergo
+          secundum maiorem et minorem accessum ad ipsum est principium illius limitationis, ergo
+          anima et omnis substantia spiritualis habet illam preter primum. Iterum quelibet
+          substantia | spiritualis cum sit completa habet formam que complet ipsam, ergo anima
+          intellectiua habet formam et materiam de sui compositione. </p>
+        <p xml:id="da-236-d1e1150-d1e1161">&lt;Tercia ratio hec est: omnis substantia spiritualis
+          separabilis a materia corporali per essentiam est fixa per essentiam. Set anima
+          intellectiua est huiusmodi, ergo anima intellectiua est fixa per essentiam aut per
+          principia sue essentie. Set anima intellectiua non stat per suam essentiam, quia omne tale
+          est omnino simplex, et quia nichil est omnino simplex nisi primum, ideo nichil stat per
+          essentiam suam nisi primum, ergo anima intellectiua separata stat per principia sue
+          essentie. Habet ergo principia sue essentie. Item anima intellectiua est in genere
+          substantie sicut substantie in corpore. Set omne quod proprie et per se ordinatur in
+          genere compositum, quia sicut dicit Boetius, dicendum est de usya, id est de substantia
+          composita, quia illa sola facit genus, ergo anima intellectia est composita, ergo si stat
+          per essentiam stat per principia sue essentie. Principia autem essentie substantie sunt
+          materia et forma, siue ex quod est et quo est.&gt;</p>
+        <p xml:id="da-236-d1e1150-d1e1164">Ad oppositum est hec ratio, et sumitur per locum ab
+          auctoritate. Aristoteles enim diuidens substantiam in secundo. Ponit anima esse
+          substantiam formam solum et non substantiam materiam nec substantiam que sit compositum,
+          ergo anima non est composita. </p>
+        <p xml:id="da-236-d1e1150-d1e1168">Solutio. Ad hoc dicendum est quod multiplex est opinio
+          circa animam intellectiuam et circa substantias spirituales ex parte sue positionis uel
+          compositionis. Quidam enim posuerunt quod in quolibet quod est citra primum differt quod
+          est et quo est et posuerunt compositionem secundum diuersos modos. Quidam enim posuerunt
+          quod compositio ex quo est et quod est est compositio ex uniuersali et particulari et
+          uniuersale appellauerunt quo est et singulare quod est. Et hoc modo posuerunt esse
+          compositionem ex quo est et quod est in quolibet quod est citra primum, set hec opinio
+          errat, quod uniuersale est forma resultans ex compositione forme cum materia. Hanc ergo
+          compositionem precederet alia si esset ex uniuersali et particulari. Iterum peccat quia
+          essentia uniuersalis que est uere natura est tota substantia singularis totum singulare
+          complectens et non differt a singulari per essentiam. Si autem differat hoc est secundum
+          quod uniuersale est similitudo multorum et relatum ad multa, et sic secundum istam
+          compositionem non differet quo est et quod est in natura, quia uniuersale et particulare a
+          parte essentie que est uere natura non differunt. </p>
+        <p xml:id="da-236-d1e1150-d1e1171">Secunda positio fuit quod in quolibet quod est citra
+          primum est compositio ex quo est et quod | est et illud quod est uera substantia rei.
+          Illud autem quo est potentia rei et hec peccat quia potentia est accidens in respectu
+          substantie et propter hoc compositio potentie cum substantia est compositio accidentis cum
+          subiecto. Hanc autem non querimus, set querimus illam que est ex ueris rei principiis
+          constituentibus rem in esse. Iterum in creatis distinguuntur potentie secundum principia
+          rei ita quod potentia passiua fundetur supra materiam, potentia actiua supra formam. Si
+          igitur in creatis est potentia receptiua et actiua, in eis est intensio materie et forme
+          et sic habent materiam et formam et non substantiam et potentiam. Set principia supra que
+          fundatur illa potentia, et sic illam compositionem precedit alia. </p>
+        <p xml:id="da-236-d1e1150-d1e1174">Tercia positio est quod in quolibet completo differt quo
+          est et quod est, set illud quod est appellatur ipsa res uel ipsa creatura. Illud autem quo
+          est appellatur creator uel efficiens, set de hac non loquimur, quia non loquimur de
+          comparatione creatoris ad creaturas, set loquimur de principiis rei et non de comparatione
+          creature ad creatorem. </p>
+        <p xml:id="da-236-d1e1150-d1e1177">Quarta positio est quod in quolibet est quo est et quod
+          est, set ista non sunt principia nature set rationis ut genus et differentia et quod est
+          ipsum genus quo est autem est ipsa differentia, set nulla est, quia principia rationis
+          fundantur in principiis nature, sicut animal in homine sequitur corpus et uitam et sensum.
+          Rationale autem quod est differentia sequitur naturam anime rationalis, ergo hanc
+          compositionem semper precederet alia.</p>
+        <p xml:id="da-236-d1e1150-d1e1180">Quinta positio est quod in quolibet creato est quo est et
+          quod est et quo est et quod est appelantur uera forma et materia et per essentiam eandem
+          posuerunt materiam in omnibus creaturis tam spiritualibus quam corporalibus. Set hec
+          positio nulla est, quia idemptitas essentie est multiplex: quedam est idemptitas essentie
+          que est idemptitas proportionis et intensionis, qua multa communicant in eodem, et sic
+          omnes substantie communicant substantiam et hanc idemptitatem in substantia et in materia
+          et forma secundum proportionem et intensionem et hoc modo est eadem materia per essentiam
+          in omnibus. Hanc autem idemptitatem non est considerare in naturalibus. Est autem alia
+          idemptitas secundum essentiam que est a parte modi accidenti et cognoscendi secundum quod
+          dicitur quod omnia sunt nunc secundum modum accipiendi et cognoscendi, et sic materia.
+          Iterum est eadem per essentiam in omnibus, set hec idemptitas non est idemptitas nature
+          nec uere. Tercia est idemptitas essentie que est idemptitas nature secundum quod dicimus
+          quod omnis aqua est eadem per essentiam cum alia aqua, quia sunt eiusdem nature et hoc
+          modo est eadem materia omnium elementorum per essentiam, quia materia elementorum est
+          eiusdem nature et uniformis, et non differt nisi in formis et dispositionibus, set sic
+          omnium que sunt non est eadem materia per essentiam quod illi ponebant. Quarta idemptitas
+          essentie est prout essentia est natura fixa et determinata sicut ponimus aquam
+          determinatam uel hominem determinatum esse naturam fixam, et sic non est eadem materia in
+          omnibus per essentiam, et sic decepti sunt secundum idemptitatem et diuersitatem
+          diuersitatis et idemptitatis essentie. </p>
+        <p xml:id="da-236-d1e1150-d1e1183">| Sexta positio scribitur in libro <hi>Fontis uite</hi>
+          quia in omnibus natura forme et natura materie siue sint corporalia siue spiritualia. Set
+          triplex est materia, scilicet materia spiritu|alis et materia corporalis et materia media.
+          In substantiis autem spiritualibus est materia spiritualis, in corporalibus est materia
+          corporalis. In corporibus autem superioribus est materia media.</p>
+        <p xml:id="da-236-d1e1150-d1e1190">Corporalis autem dicitur materia que habet naturam
+          partitionis et dimentionis et que est subiecta transmutationi et quia hec est in elementis
+          propter hoc in eis est materia corporalis. In corporibus autem superioribus est materia
+          habens naturam partitionis et dimentionis, non tamen est subiecta transmutationi, et
+          propter hoc dicitur media, quia a parte illa qua habet naturam dimentionis dicitur
+          coporalis, a parte illa qua non est subiecta transmutationi dicitur spiritualis, quia
+          materia spiritualis nec habet dimensionem nec est subiecta transmutationi. Huic autem
+          opinioni uel positioni adherentes dicimus et ponimus quod in omnibus substantiis
+          spiritualibus est materia spiritualis et forma, et sic omnes composite sunt, et ideo
+          dicendum est quod in anima intellectiua est compositio ex materia et forma uel ex quo est. </p>
+        <p xml:id="da-236-d1e1150-d1e1193">Ad rationes autem in contrarium dicendum est quod anima
+          dupliciter consideratur: uno modo in quantum est et perfectio, et sic est forma, et sic
+          eam accipit Aristoteles in principio secundi. Alio modo secundum quod est substantia et
+          sic est composita ex materia spirituali et forma, nec est simplex forma tantum set est
+          forma et substantia, que est hoc aliquid composita. Et in hoc ueritas questionum
+          propositarum declaratur. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

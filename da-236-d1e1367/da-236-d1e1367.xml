@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1367">
+        <head>Praeambulum</head>
+        <p xml:id="da-236-d1e1367-d1e1372">Distinctio quinta de necessitate utriusque uie predicte.
+          Continuatio intensionis. <hi>Videtur autem non solum quod quid est cognoscere esse ad
+            cognoscendum causas accidentium in subiectis</hi> et cetera. Cum iam mouerit philosophus
+          questiones incidentes circa ordinem illorum a quibus debet incipere actor huius scientie,
+          utrum, scilicet a substantia anime procedendo ad potentias an e conuerso, an ab operibus
+          ad potentias, an e conuerso, an ab obiectis ad opera aut e conuerso. Intendit ergo in hac
+          parte ostendere quod uia utraque communis et utilis est in hac scientia et illa que ab
+          accidentibus ad substantias procedit et illa que e conuerso modo procedit, et ostendit
+          quod quamuis illa que per priora procedit uerior sit, tamen illa que per posteriora
+          progreditur aliquando est utilis, et hec pars spectat ad presentem lectionem et sic patet
+          uniuersalis intensio in hac parte.</p>
+        <p xml:id="da-236-d1e1367-d1e1378">Diuisio. Recipit autem hec pars diuisionem in partes
+          duas, | in quarum prima ostendit quod uia procedens per accidentia posteriora ad priora
+          principia substantie est utilis in scientia. &lt;In secunda, scilicet in hac&gt;,
+            <hi>cum</hi>
+          <hi> enim habeamus tradere fantasiam de accidentibus</hi> et cetera, ostendit in quibus
+          accidentibus est necessaria hec uia et in quo statu cognoscendi, quia iste modus est
+          necessarius circa accidentia que cognoscimus per uiam ymaginationis sensibilis et sunt
+          nobis nota. In tercia, scilicet in hac, <hi>omnis enim demonstrationis principium est quod
+            quid est</hi> et cetera, ostendit quod post cognitionem factam per accidentia posteriora
+          deuenimus ad cognitionem substantie et tunc uia diffinitiua procedemus que est uia
+          necessaria. </p>
+        <p xml:id="da-236-d1e1367-d1e1389">Hec est autem diuisio huius partis.</p>
+        <p xml:id="da-236-d1e1367-d1e1392">Diuisionis recollectio. Sunt igitur in presenti lectione
+          tres partes, in quarum prima ostendit quod uia precedens per accidentia posteriora ad
+          priora principia substantie est utilis in scientia. In secunda ostendit in quibus
+          accidentibus est necessaria hec uia et in quo statu cognoscendi. In tercia ostendit quod
+          post cognitionem factam per accidentia posteriora deueniemus ad cognitionem
+          substantie.</p>
+        <p xml:id="da-236-d1e1367-d1e1396">Sententia prime partis de utilitate processus ab
+          accidentibus ad substantiam. Circa primam partem procedit philosophus hoc modo dicens quod
+          cognoscere substantiam rei et principia ipsius non solum | est utile in scientia ad
+          cognoscendum causas passionum inherentium subiecto, et secundo ponit exemplum cum dicit,
+            <hi>sicut in mathematicis quid rectum et quid oblicum et quid linea</hi> et cetera,
+          sicut et in scientiis mathematicis ad cognoscendum quod triangulo inest hec passio que est
+          habere tres angulos equales, duobus rectis non solum est cognoscere necessarium quid est
+          linea et quid est superficies et quid figura que cadunt in diffinitione trianguli et
+          similiter est in aliis scientiis. Set etiam accidentia magnam conferunt cognitionem ad
+          cognoscendum substantiam et principia ipsius. </p>
+        <p xml:id="da-236-d1e1367-d1e1402">Sententia secunde partis de ostensione accidentium quibus
+          hec uia competit et in quo statu, consequenter accedit ad secundam partem dicens quod cum
+          habuerimus cognitionem accidentium de quibus inuestigationem habemus secundum uiam
+          imaginationis et fantasie que est uirtus proxima sensui media inter sensum et intellectum
+          cognoscens formas accidentales et eas intellectui representans, que accidentia sunt
+          manifesta sensui nostro et sunt manifesta secundum quod accidunt rei determinate loco et
+          tempore que cognoscitur secundum uiam ymaginationis que accidentia sunt nobis manifesta.
+          Propinqua autem omnia quedam secundum suam cognitionem. Accidentibus igitur primo cognitis
+          tunc secundum uiam determinabimus de substantia et principiis ipsius et de ipsius
+          diffinitione. Et tunc erit certa cognitio rerum in scientia que cognitio est per causas
+          primas et per principia prima. </p>
+        <p xml:id="da-236-d1e1367-d1e1405">Sententia tercie partis de necessitate uie diffinitiue.
+          Consequenter accedit ad illam partem in qua ostendit quod cognitio per principia
+          substantie que est cognitio diffinitiua est necessaria ad cognitionem accidentium.
+          Supposuit enim quod non est perfecta cognitio nisi per priora substantie principia. Et
+          primo hoc ostendit dicens quod diffinitio substantie est principium cuiuslibet
+          demonstrationis et innuit talem rationem: omnis certa cognitio accidentium est per
+          demonstrationis principium, set demonstrationis principium est diffinitio, ergo omnis
+          certa cognitio accidentium est per diffinitionem substantie. Et sic ostensum est ex
+          predictis quod cum sit duplex uia in scientia, scilicet una procedens ab accidentibus ad
+          substantiam et principia ipsius quedam e conuerso. Illa autem que est ab accidentibus ad
+          substantiam non est completa set illa que est a substantia et a principiis ipsius
+          incipiens ostendens accidentia de subiectis necessaria est et perfecta, deinde secundo cum
+          dicit, <hi>quare secundum quascumque diffinitiones non contingit accidentia
+            cognoscere</hi> et cetera, ostendit quod non quodlibet genus diffinitionis est
+          principium demonstrationis accidentium de subiectis, quod diffinitiones per quas habetur
+          cognitio accidentium per causas communes remotas et accidentales et transcendentes non
+          sunt certe ad cognitionem et demonstrationem accidentium de substantia, sicut sunt
+          diffinitiones logice, immo sunt huiusmodi diffinitiones uane. Et causa huius est quia non
+          demonstrant rem intentam cum procedant per communia principia intenta et transcendentia |
+          et non per causas proprias rei neque per causas per quas inherent enim passiones proprie
+          subiecti. Et sic declaratur intentio philosophi circa hanc partem. </p>
+        <p xml:id="da-236-d1e1367-d1e1411">Hic restant adhuc tres questiones inquerende que sunt
+          communes presenti lectioni et precedenti. Prima [lec5 q1] questio est utrum eadem communis
+          diffinitio competat omnibus differentiis anime uel non. Secunda [lec5 q2] questio est cum
+          sint multe potentie anime utrum sit ponere unam potentiam immediate egredientem ab anima
+          mediante qua alie ab anima egrediantur. Tercia [lec5 q3] est utrum anima sit eadem cum
+          suis potentiis ut dicatur quod quelibet potentia anime sit anima.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

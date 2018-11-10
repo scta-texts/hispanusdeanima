@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e2116">
+        <head>Quaestio 4</head>
+        <head type="question-title">Utrum se ipso moueri conueniat cuilibet animato</head>
+        <p xml:id="da-236-d1e2116-d1e2121">[lec8 q4] Circa quartam questionem sic proceditur, et
+          queritur utrum se ipso moueri conueniat cuilibet animato. Et quia hoc magis latet in
+          plantis et in quibus animalibus carentibus motu progressiuo &lt;propter hoc queritur utrum
+          se ipso moueri debeatur plantis et animalibus carentibus motu progressiuo.&gt; Et
+          ostenditur quod sic per duas rationes, prima talis est: sicut habetur in libro <hi>De motu
+            cordis</hi>, uiuere est se ipso moueri, ergo quecumque uiuunt se ipsis mouentur, set
+          plante uiuunt et similiter animalia carentia motu progressiuo, ergo eis debetur se ipsis
+          moueri. </p>
+        <p xml:id="da-236-d1e2116-d1e2127">Secunda ratio talis est: omnia corpora que sunt
+          sufficientia ad sui confusionem et multitudinem per suas proprias operationes habent
+          motorem sufficientem intra se qui est sufficiens principium motus et operationis in ipsis,
+          set plante et animalia carentia motu progressiuo sunt huiusmodi, ergo habent intra se
+          motorem per se et sufficientem, set omnia talia que mouentur a motore intrinseco per se et
+          sufficiente se ipsis possunt moueri, &lt;ergo plante et illa animalia se ipsis possunt
+          moueri.&gt; Minor patet, quia plante sunt sufficientes ad uitam et ad generationem et ad
+          partium multiplicationem et renouationem. Et similiter animalia carentia motu progressiuo
+          ad quedam istorum sunt sufficientia, ergo hoc habent a motore intrinseco per se et
+          sufficiente ad huius operationes exercendas. </p>
+        <p xml:id="da-236-d1e2116-d1e2130">Ad oppositum sunt duas rationes, prima talis est: sicut
+          habetur in secundo <hi>De anima</hi>, anima in planta mouet sicut natura, set natura mouet
+          insufficienter, ergo anima in planta mouet insufficienter, set non mouetur sufficienter ab
+          aliquo planta nisi ab anima cum ab illa non moueatur sufficienter patet quod non mouet
+          planta sufficienter, et ita se ipsa non mouet uel mouetur, quia quod mouet sufficienter se
+          ipso non mouetur. </p>
+        <p xml:id="da-236-d1e2116-d1e2136">Secunda ratio hec est: motus sufficiens debetur
+          substantie mobilitati per distantiam a materia. Anima autem uegetabilis omnino dependet a
+          materia, quia omnino est naturalis, ergo non mouet sufficienter. Set ab alio non mouetur
+          planta nisi ab anima uegetabili, ergo planta non mouet sufficienter, ergo plante non
+          conuenit se ipsa moueri. </p>
+        <p xml:id="da-236-d1e2116-d1e2140">&lt;Tercia ratio talis est: substantia mouens
+          sufficienter est independens a materia. Talis autem est substantia spiritualis, set
+          substantie spirituali debetur cognitio, ergo si in plantis esset substantia spiritualis ad
+          mouendum sufficiens, in plantis esset principium cognitionis. Hoc autem falsum est, quia
+          plante non cognoscunt, ergo in ipsis non est principium sufficiens ad mouendum nec
+          substantia spiritualis, ergo se ipsis non mouentur.&gt;</p>
+        <p xml:id="da-236-d1e2116-d1e2143">Solutio. Ad hoc dicendum est quod in omnibus uiuentibus
+          est motus, unde commune est omnibus uiuentibus se ipsis moueri, et per hoc differunt ab
+          inanimatis. Communicant autem in hoc omnia animata, scilicet quod se ipsis mouentur tamen
+          secundum magis et minus communicant. Quanto enim motor ipsorum magis distat a mobili uel a
+          materia, tanto sufficentius mouet et manifestiores facit operationes, et propter hoc magis
+          est motus per se in hominibus quam in brutis, quia motor in homine anima rationalis magis
+          distant a materia. Iterum magis | est sufficiens motus et etiam per se in animalibus quam
+          in plantis, quia anima sensibilis, que est motor in animalibus, magis distat a materia
+          quam uegetabilis anima que est motor in plantis, et propter hoc sufficientius mouet anima
+          sensibilis quam uegetabilis et manifestiores facit operationes. Propter hoc dicit
+          Aristoteles in principio libri <hi>Vegetabilium</hi> quod uita in animalibus manifesta
+          est, in plantis uero occulta. Et sic omnibus uiuentibus conuenit se ipsis moueri tamen
+          secundum magis et minus.</p>
+        <p xml:id="da-236-d1e2116-d1e2149">Ad primam rationem in contra|rium dicendum est quod, cum
+          dicit Aristoteles, quod anima in planta est sicut natura ipse non intelligit quod moueat,
+          sicut natura quantum ad motum insufficientem, set sicut natura mouet in sursum et deorsum
+          et secundum omnem partem ita in planta anima uegetabilis mouet secundum omnem partem ad
+          motum augmenti. </p>
+        <p xml:id="da-236-d1e2116-d1e2152">Ad secundam rationem dicendum est quod substantia
+          dependens a materia est duplex: quedam est forma tantum distensa secundum distensionem
+          materie, alia est que licet dependeat, non tamen omnino distensa est, set hoc aliquid et
+          fixa per essentiam quamuis a materia dependeat in quantum est forma, et hoc modo ultimo
+          anima uegetabilis dependet a materia et quod primo modo dependet a materia non mouet
+          sufficienter. Quod autem secundo modo dependet a materia potest mouere sufficienter cum
+          distat a mobili per essentiam et sic hoc aliquid. Et ideo anima uegetabilis mouet et per
+          se et sufficienter in plantis. </p>
+        <p xml:id="da-236-d1e2116-d1e2155">&lt;Ad terciam rationem dicendum quod substantia
+          spiritualis est duplex: quedam est acceptam specierum preter materiam et talis est anima
+          sensibilis et rationalis, et tali substanie spirituali que est principum sufficiens motus
+          debetur cognitio est alia substantia spiritualis que non est acceptam specierum preter
+          materiam set solum operatur et est principium esse et motus, et tali non debetur cognitio
+          et non mouet sufficienter, et talis est anima uegetalis in plantis.&gt;</p>
+      </div>
+    </body>
+  </text>
+</TEI>

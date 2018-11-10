@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1094">
+        <head>Quaestio 2</head>
+        <p xml:id="da-236-d1e1094-d1e1099">[lec3 q2] Circa secundam questionem queritur primo sic
+          procedendo simpliciter de anima non contrahendo ad aliqua differentiam utrum sit materia
+          uel forma uel compositum. Ostenditur autem quod anima sit materia per duas rationes,
+          quarum prima talis est: inter differentias anime anima intellectiua | est magis
+          spiritualis et magis inmunis a materia. Omne autem illud est in genere materie in quo est
+          aliqua natura in quo omnia nata sunt fieri et ei respondet agens quo est omnia facere, set
+          anima intellectiua est huiusmodi, quia in ea est intellectus potentialis que est omnia
+          fieri et agens quo est omnia facere, ergo anima intellectiua habet naturam materie, ergo
+          est materia, ergo anima est materia. </p>
+        <p xml:id="da-236-d1e1094-d1e1102">Secunda ratio talis est: omnis substantia que manens una
+          et eadem differens est a quolibet et possibilis ad receptionem cuiuslibet per naturam est
+          habens naturam materie. Anima est huiusmodi, ergo anima est materia. Minor patet, quia
+          anima una et eadem est, sicut tabula rasa in qua nichil scriptum est, et tamen est
+          possibilis ad receptionem cuiuslibet rei intellectum naturalem. </p>
+        <p xml:id="da-236-d1e1094-d1e1105">Ad oppositum talis est ratio: natura spiritualis
+          attribuitur forme. Natura autem corpulentie attribuitur materie, set anima est substantia
+          spiritualis, ergo habet intensionem actus uel forme et non materie. </p>
+        <p xml:id="da-236-d1e1094-d1e1108">Solutio. Ad hoc dicendum est quod anima est substantia,
+          forma et non materia. </p>
+        <p xml:id="da-236-d1e1094-d1e1112">Ad rationes in contrarium dicendum est, et primo ad
+          primam, quod dupliciter est loqui de anima: uno modo in quantum corpus perficit et sic
+          habet naturam forme, alio modo est loqui de ipsa in quantum recipit species et sic non est
+          materia, set habet intensionem materie recipientis ut dictum est, et propter hoc dicitur
+          intellectus possibilis et materialis et etiam agens reducens illum de potentia ad actum. </p>
+        <p xml:id="da-236-d1e1094-d1e1115">Ad secundam rationem dicendum est quod duplex est
+          possibilitas: quedam est possibilitas ad receptionem formarum corporalium. Alia est
+          possibilitas ad receptionem specierum rerum per quas res spiritualiter cognoscit. Prima
+          autem debetur materie, secunda autem debetur substantie spirituali a parte sue potentie
+          receptiue que materialis dicitur, et hoc modo recipit anima species rerum. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

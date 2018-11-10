@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e3">
+        <head>Praeambulum</head>
+        <p xml:id="da-236-d1e3-d1e8">
+          <hi>Bonorum honorabilium notitiam opinantes </hi>et cetera. Ex predeterminatis patuit
+          notitia subiecti istius scientie et intensionis ipsius. Nunc autem insistendum est
+          diuisioni huius scientie in suas partes ut secundum speciales partium distinctiones
+          singulorum intensio declaretur. </p>
+        <p xml:id="da-236-d1e3-d1e13">Diuisio. Recipit autem hec scientia diuisione in duas partes
+          principales, in quarum prima determinatur quedam antecedentia preambula que ante
+          substantiam scientie et eius necessitatem preexiguntur. In secunda, scilicet in hac,
+            <hi>intendentes de anima necesse est simul dubitare de quibus bene dubitare oportet</hi>
+          et cetera. Determinatur exsecutio circa principale propositum huius scientie. </p>
+        <p xml:id="da-236-d1e3-d1e19">Prima autem pars diuiditur in duas, in quarum prima
+          determinatur excellentia nobilitatis huius scientie propter quam aliis preponitur et
+          iuuamentum quod omnibus scientis affert. In secunda, scilicet in hac, <hi>inquirimus autem
+            cognoscere et considerare naturam ipsius et substantiam</hi> et cetera. Determinatur
+          manifestatio eorum circa que est intensio in hac scientia et modus procedendi circa ipsam. </p>
+        <p xml:id="da-236-d1e3-d1e25">Prima autem pars spectat ad presentem lectionem. </p>
+        <p xml:id="da-236-d1e3-d1e29">Est igitur intensio in presenti lectione determinare
+          excellentiam nobilitatis huius scientie propter quam aliis preordinatur et utilitatem quam
+          affert aliis scientiis. Recipit autem hec pars diuisionem in duas partes, in quarum prima
+          determinatur excellentia nobilitatis huius scientie. In secunda, scilicet in hac,
+            <hi>uidetur autem et ad omnem ueritatem cognitio ipsius maxime proficere</hi> et cetera.
+          Tangit iuuamentum quod affert omnibus scientiis. </p>
+        <p xml:id="da-236-d1e3-d1e35">Prima autem diuiditur in duas, in quarum prima tangitur duplex
+          modus nobilitatis secundum quam una scientia exsuperat aliam. In secunda, | scilicet in
+          hac, <hi>propter utraque hec</hi> et cetera, concluditur quod per utrumque modum
+          nobilitatis qui in hac scientia | specialiter repertitur. Hec scientia est aliis
+          proponenda. Pars autem secunda in qua tangitur iuuamentum quod affert hec scientia omnibus
+          scientiis diuiditur in duas, in quarum prima tangitur iuuamentum quod generaliter hec
+          scientia affert omnibus scientiis. In secunda, scilicet in hac, <hi>maxime autem ad
+            naturam</hi> et cetera. Tangitur speciale iuuamentum quod maxime affert hec scientia
+          scientiis rerum naturalium, et huius reddit causam cum dicit, <hi>est enim tanquam
+            principium animalium </hi>et cetera. </p>
+        <p xml:id="da-236-d1e3-d1e47">Diuisio recollectio. Sunt igitur in presenti lectione partes
+          quatuor, in quarum prima tangitur duplex modus nobilitatis secundum quam una scientia ab
+          alia differt in excellentia. In secunda concluditur propter utrumque predictorum in hac
+          scientia spiritualiter repertum ipsa aliis est proponenda. In tercia tangitur iuuamentum
+          quod affert hec scientia omnibus scientiis generaliter. In quarta tangitur iuuamentum quod
+          affert scientie rerum naturalium, et subiungit huius causam. </p>
+        <p xml:id="da-236-d1e3-d1e50">Hec autem est diuisio huius partis. </p>
+        <p xml:id="da-236-d1e3-d1e53">Sententia prime partis, de distinctione nobilitatis scientie.
+          Circa primam partem proceditur hoc modo. Inquit philosophus: nos opinamur scientiam esse
+          de genere rerum bonarum et honorabilium et assignamus differentiam unius ad alteram in
+          nobilitate maiori uel minori secundum duos modos, quorum unus est propter certitudinem et
+          subtilitatem est confirmationem demonstrationis secundum quem una scientia meliori modo
+          procedit quam alia. Alius autem modus est propter nobilitatem et honorem subiecti de quo
+          est scientia. Sententia secundae partis de concludenda nobilitate huius scientie, deinde
+          concludit ex hiis quod propter utrumque modum nobilitatis narratio anime in primis
+          ponatur, et formatur sic sillogismus: omnis scientia superans alias in certitudine et
+          subtilitate demonstrationis et in subiecti nobilitate est aliis proponenda. Set scientia
+          de anima considerans est huiusmodi, ergo scientia de anima considerans est aliis
+          proponenda. Sententia tercie partis de iuuamento istius scientie ad alias. Consequenter
+          tangit iuuamentum quod affert hec scientia omnibus aliis generaliter, dicens quod cognitio
+          de anima habita magnum affert iuuamentum in omni cognitione ueritatis. Sententia quarte
+          partis est de speciali iuuamento ad scientiam naturalem. Postea tangit iuuamentum speciale
+          quod affert scientie naturali dicens quod hec cognitio maxime confert iuuamentum in
+          scientia naturali et causam huius subiungit hoc modo: omnis scientia que determinat de eo
+          quod est principium animalium maxime affert iuuamentum in scientia naturali. Ex omnibus
+          autem hiis elicitur talis sillogismus: omnis scientia que generaliter affert iuuamentum ad
+          omnem cognitionem ueritatis et precipue in scientia naturali, cum subiectum eius sit
+          principium animalium de quibus considerat maxima et nobilissima pars scientie naturalis
+          est, omnibus scientiis proponenda et precipue scientie naturali et maxime illi parti eius
+          que de rebus considerat animatis. Set scientia determinans de anima est huiusmodi, ergo
+          scientia determinans de anima est omnibus scientia preponenda et precipue scientie
+          naturali et maxime illi parti eius que de rebus considerat animatis. Et sic manifestatur
+          intensio huius partis. </p>
+        <p xml:id="da-236-d1e3-d1e56">Ad maiorem autem euidentiam predictorum quinque questiones
+          incidunt inquerende. Prima [lec1 q1] autem est de com|paratione huius scientie ad alias
+          scientias superiores et inferiores ratione excellentie nobilitatis et prioritatis. Secunda
+          [lec1 q2] est de modo certitudinis secundum quam dicit auctor hanc scientiam maxime
+          procedere. Tercia [lec1 q3] est de modis nobilitatis scientie quos tangit Aristoteles quod
+          unus est a parte demonstrationis, alius est a parte subiecti. Quarta [lec1 q4] est de
+          iuuamento quod affert hec scientia omnibus aliis scientiis. Quinta [lec1 q5] est quo modo
+          anima sit principium animalium sicut ponit in principio. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

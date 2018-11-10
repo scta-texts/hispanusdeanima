@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaesito 3 De modis nobilitatis quos tangit Aristoteles in scientia De anima</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaesito 3 De modis nobilitatis quos tangit Aristoteles in scientia De
+            anima</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e318">
+        <head>Quaesito 3</head>
+        <head>De modis nobilitatis quos tangit Aristoteles in scientia De anima</head>
+        <p xml:id="da-236-d1e318-d1e323">[lec1 q3] Circa tercium queritur de modis nobilitatis quos
+          tangit Aristoteles in scientia <hi>De anima</hi>. Sicut enim est nobilitas a parte
+          subiecti et a parte modi demonstrandi ita est nobilitas a parte finis. Hac enim nobilitate
+          est scientia moralis nobilior. Item, sicut dicit Boetius, qui enim auffert finem auffert
+          bonum set omnis nobilitas est a parte bonitatis, ergo est a parte finis. Queritur ergo
+          propter quid non tangit huius nobilitatem in littera. </p>
+        <p xml:id="da-236-d1e318-d1e329">Solutio. Ad hoc dicendum est quod nobilitas a parte finis
+          non debet attendi in scientiis speculatiuis set in scientiis practicis et actiuis, &lt;et
+          quia hec scientia de anima est especulatiua, ideo non tangit in ipsa nobilitatem a parte
+          finis.&gt;</p>
+        <p xml:id="da-236-d1e318-d1e332">Secundo queritur circa hoc cum cause diuidantur et
+          nobilitas sit et distinguatur a parte causarum cum tangat nobilitatem a parte cause
+          materialis, scilicet, subiecti nobilitatem, queritur propter quid non tangit nobilitatem a
+          parte cause efficientis. </p>
+        <p xml:id="da-236-d1e318-d1e335">Solutio. Ad hoc dicendum est quod causa efficiens duplex
+          est, quedam interior et quedam exterior. Interior in scientia est medium scientiam faciens
+          et a parte illius efficientis est in scientia nobilitas, set illa nobilitas reducitur ad
+          certitudinem modi demonstrationis et ideo hanc non tangit. Causa autem efficiens extra
+          est, sicut actor tradens scientiam. Set hec causa est duplex, quia quedam operatur
+          scientiam secundum exigentiam rerum et, si excedit exigentiam, peccat et talis non ponit
+          nobilitatem in scientia nisi fantasticam nisi dicatur, hoc fecit Aristoteles. Est autem
+          alia que secundum sui exigentiam operatur et influit bonitatem supra scientiam ut
+          efficiens legis diuine que denominatur noblis ab illo, scilicet a Deo, quia diuina
+          appellatur. Efficiens autem huius scientie non est talis set est efficiens quod secundum
+          exigentiam rerum addit scientiam, et ideo in hac non est nobilitas a parte ipsius et ideo
+          non tangit nobilitatem a parte efficientis. </p>
+        <p xml:id="da-236-d1e318-d1e339">Tercio queritur circa hoc propter quid non ponit
+          nobilitatem a parte passionis, | sicut a parte subiecti uel medii uel modi demonstrandi
+          siue demonstrationis. </p>
+        <p xml:id="da-236-d1e318-d1e342">Solutio. Ad hoc dicendum est quod nobilitas passionis
+          reducitur ad subiecti nobilitatem et cause, quia passio elicitur a principiis subiecti et
+          ideo, cum tangat nobilitatem subiecti, non debet tangere illam. </p>
+        <p xml:id="da-236-d1e318-d1e345">Quarto queritur circa hoc propter quid non tangit
+          nobilitatem a parte cause formalis. </p>
+        <p xml:id="da-236-d1e318-d1e348">Solutio. Ad hoc dicendum quod causa formalis in scientia
+          est modus demonstrandi, et ideo hec nobilitas ad nobilitatem modi demonstrationis
+          reducitur, et ideo cum tangat nobilitatem modi demonstrandi satis per hoc tangit
+          nobilitatem cause formalis. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

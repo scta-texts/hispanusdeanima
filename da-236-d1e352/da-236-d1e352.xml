@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaesito 4 Utrum hec scientia de anima influat iuuamentum et certitudinem supra alias
+          scientias.</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaesito 4 Utrum hec scientia de anima influat iuuamentum et certitudinem supra
+            alias scientias.</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e352">
+        <head>Quaesito 4</head>
+        <head>Utrum hec scientia de anima influat iuuamentum et certitudinem supra alias
+          scientias.</head>
+        <p xml:id="da-236-d1e352-d1e357">[lec1 q4] Circa quartam questionem queritur utrum hec
+          scientia de anima influat iuuamentum et certitudinem supra alias scientias et uidetur quod
+          non, quia illa scientia que est superior aliis et probat earum principia influit
+          certitudinem supra alias, set talis est metaphysica et non scientia de anima, ergo
+          scientia metaphysica influit necessitatem supra alias et non ista scientia. </p>
+        <p xml:id="da-236-d1e352-d1e360">Secunda ratio hec est: ordo est in scientiis ita quod
+          scientia subalterna recipit influentiam ab illa que supra ipsam est. Set scientia de anima
+          subalternata est scientie naturali superiori sicut scientie physicorum est metaphysice,
+          ergo ab aliis recipit influentiam et certitudinem et non dat aliis certitudinem. </p>
+        <p xml:id="da-236-d1e352-d1e363">&lt;Tercia ratio est hec: illa scientia influit
+          certitudinem supra alias que omnes alias respicit et dirigit intellectum ad omnem
+          scientiarum et apprehentionem. Set scientia <hi>Posteriorum</hi> est huiusmodi et non ista
+          scientia, ergo scientia <hi>Posteriorum</hi> influit necessitatem super alias et super
+          istam.&gt;</p>
+        <p xml:id="da-236-d1e352-d1e372">Ad oppositum est illud quod dicit Aristoteles in littera in
+          principio <hi>De anima</hi>. </p>
+        <p xml:id="da-236-d1e352-d1e379"> | Secunda ratio hec est: scientia metaphysica est de rebus
+          separatis. Res autem separate non cognoscuntur nisi a solo intellectu, ergo necesse est
+          quod scientia de intellectu det influentiam et iuuamentum ad acceptionem scientie
+          metaphysice, et sic influit certitudinem supra ipsam. </p>
+        <p xml:id="da-236-d1e352-d1e382">&lt;Tercia ratio est hec: anima est subiectum scientie et
+          ita est causa materialis scientie. Item anima est causa efficiens scientie et hoc non est
+          inconueniens quia licet causa materialis ex qua non concidat cum efficiente nec cum aliis,
+          quia causa materialis ex qua est incompleta, causa tamen materialis in qua potest cadere
+          cum aliis quia* est. Talis autem est anima respectu scientie. Scientia ergo de anima est
+          de causa materiali et efficiente cuiuslibet scientie. Influit ergo supra omnes
+          scientias.</p>
+        <p xml:id="da-236-d1e352-d1e385">Quarta ratio est hec: in omni scientia est abstractio.
+          Abstractio autem fit per operationes anime. Item omnis inquisitio scientie est per
+          operationes anime. Scientia ergo demonstrat de eo quod ualet ad inquisitionem cuiuslibet
+          scientie. Omnis autem talis scientia influit necessitatem supra alias, ergo scientia de
+          anima influit super alias.&gt;</p>
+        <p xml:id="da-236-d1e352-d1e388">Solutio. Ad hoc dicendum est quod, sicut dicit commentator,
+          scientia de anima affert maximum iuuamentum ad omnes et primo ad naturales. Est enim pars
+          nobilissima scientie naturalis. Nobilissima enim pars scientie naturalis est de corporibus
+          animatis et propter hoc affert iuuamentum naturali. Secunda causa est quia est principium
+          omnium rerum animatarum et secundum exigentiam anime sunt partes et principia in omnibus
+          rebus animatis. Affert similiter iuuamentum morali, quia ei affert multa principia per que
+          regulantur ciuitates et diuicie, quia ei affert cognitionem tam sensitiuam quam
+          intellectiuam. Iterum affert iuuamentum scientie demonstratiue et metaphysice et
+          mathematique, quia eis affert modum abstractionis et separationis que ab anima est.
+          Tercium iuuamentum commune quod affert est quia ista scientia talis est quod per ipsam
+          acquiritur cognitio priorum principiorum et cause cognitionis et firme certitudinis in
+          omni scientia et propter hoc ista scientia influit supra omnes alias. </p>
+        <p xml:id="da-236-d1e352-d1e391">Ad rationes simul respondendum est quia scientia influit
+          super aliam quatuor modis: uno modo quia per ipsam regulat et dirigit intellectum ad
+          proprium in omni scientia, et sic demonstratiua scientia influit super alias. Secundo modo
+          influit scientia supra scientiam quantum ad substantiam principiorum que considerat et que
+          confirmat quantum ad subiectum suum, cum subiectum suum sub se comprehendat subiecta
+          omnium scientiarum, et hoc modo metaphyisica influit supra alias. Suum enim subiectum
+          communissiumum est, scilicet ens. Tercio modo influit scientia supra scientiam quia
+          scientia sequens illam supponit aliquid ab ea et sic scientia physicorum influit supra
+          scientiam de anima. | Quarto modo influit scientia supra aliam quia per eam habetur
+          principium abstractionis cuiuslibet scientie et processus principium et certitudinis in
+          qualibet scientia, et hoc modo ista scientia influit super omnes alias certitudinem. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

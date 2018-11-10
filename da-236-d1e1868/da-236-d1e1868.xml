@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1868">
+        <head>Quaestio 3</head>
+        <head type="question-title">De subiecto mathematicarum scientiarum</head>
+        <p xml:id="da-236-d1e1868-d1e1873">[lec7 q3] | Circa terciam questionem sic proceditur, et
+          queritur de subiecto mathematicarum scientiarum. Ostenditur enim quod mathematice debeant
+          esse aliis generibus rerum, sicut de quantitate per duas rationes, prima talis est:
+          scientie mathematice sunt de rebus que nate sunt abstrahi a materia et habet quodlibet
+          accidens materiam abstractionis quia in eis abstractio et concretio, ergo de quolibet
+          accidente possunt esse mathematice scientie. </p>
+        <p xml:id="da-236-d1e1868-d1e1876">Secunda ratio hec est: abstractio est in illis rebus que
+          habent principia sui generis indiuisibilia per que nate sunt abstrahi et diffiniri. Set
+          quelibet accidentia sunt huiusmodi, quia habent principia per que ordinantur in suo
+          genere, ergo quodlibet accidens potest abstrahi et ita de quolibet accidente possunt esse
+          mathematice. Et iterum cum habeat substantia principia sui generis et non dependeat ab
+          aliis, immo potius e contrario uidetur quod in ea abstractio potius sit quam in aliis et
+          ita mathematice potius debent esse de substantia quam de quantitate.</p>
+        <p xml:id="da-236-d1e1868-d1e1879">Ad oppositum sunt due rationes, prima talis est: in illis
+          rebus est abstractio in quibus sunt principia indiuisibilia per que sunt et diffiniuntur
+          preter principia subiecti et preter principia ordinabilia in genere que sunt genus et
+          differentia, set sole quantitates habent huiusmodi principia, ergo sole quantitates habent
+          abstrahi abstractione mathematica. Maior patet, quia principia indiuisibilia et partes rei
+          per que sunt res sunt principia abstractionis. Minor similiter manifesta est. De solis
+          ergo quantitatibus sunt mathematice scientie. </p>
+        <p xml:id="da-236-d1e1868-d1e1882">Secunda ratio talis est: in illis rebus est abstractio
+          proprie que sunt sicut principia regulantia omnium rerum et que sunt sicut exemplaria ante
+          quemlibet rerum exitum. Tales enim res secundum comparationem ad intellectum sunt
+          independentes sicut patet in regula artificis que est abstracta a rebus que postquam res
+          in effectu producuntur ad ipsam rem applicatur. Huiusmodi autem sunt quantitates et maxime
+          numerus, unde dicit Boetius quod numerus fuit maximum in | anima conditoris exemplar et
+          huiusmodi est quantitas quantum ad res corporales et numerus quantum ad omnes res. Cum
+          ergo abstractio mathematica fit per rationem rei in sui existentia, manifestum est quod de
+          quantitatibus et non de aliis rebus debent esse mathematice scientie. </p>
+        <p xml:id="da-236-d1e1868-d1e1886">Solutio. Ad hoc dicendum est quod de quantitatibus est
+          abstractio mathematica, sicut ostendunt rationes. Habent enim principia indiuisibilia per
+          que nate sunt abstrahi et partes et passiones que de ipsis probantur preter applicationem
+          ad materiam et in illis dantur diffinitiones sine applicatione ad materiam. </p>
+        <p xml:id="da-236-d1e1868-d1e1889">Ad primam rationem in contrarium dicendum est quod
+          abstractio est multis modis: uno modo est abstractio specierum per uirtutes anime ab ipsis
+          rebus secundum quam abstractionem sensus abstrahit species sensibiles et ymaginatio
+          accipit eas a sensu et intellectus ab ymaginatione. Et hec abstractio uia est ad
+          cognitionem. Alia est abstractio que est uniuersalis a particulari, et hec est communis
+          cuilibet generi et scientie. Est | autem alia abstractio que est forme a materia et hec
+          soli quantitati conuenit. Est autem alia abstractio que est idem quam separatio et hec est
+          in substantiiis separatis mathematicis. In omni ergo genere est abstractio non quelibet
+          set abstractio que est uniuersalis a particulari. Abstractio uero que est forme a materie
+          est in solo genere quantitatis, et hec est abstractio mathematica secundum quam forme
+          dependentes a materia a materia abstrahuntur, et ideo de aliis generibus rerum non sunt
+          matematice scientie. </p>
+        <p xml:id="da-236-d1e1868-d1e1892">Ad secundam rationem dicendum est quod res habent
+          multiplex esse: unum est esse essentie, et sic cadunt in esse metaphisico. Alio modo
+          habent esse ordinabile in genere et sic cadunt in aspectu logici negotii secundum quod
+          ordinantur per principia sui generis, et istis duobus modis albedo et quodlibet accidens
+          habere abstractionem ut non intelligatur per relationem ad subiectum. Set hoc non est
+          abstractio mathematica. Aliud est esse quod habent res comparando ad motum et materiam, et
+          sic quantitates et omnes res cadunt in aspectu naturalis. Aliud esse habent a parte
+          principiorum indiuisibilium et partium quas concernunt sine applicatione ad materiam et a
+          parte diffinitionum quas habent preter materiam, et hoc esse facit abstractionem
+          mathematicam, et hoc solum habet quantitas. Unde cum abstrahitur albedo a subiecto
+          abstrahitur forma a materia ratione essentie et quidditatis eius. Abstractio autem
+          quantitatis est ratione essentie et alterius, scilicet ratione principiorum indiuisibilium
+          et diffinitionis quam habet sine adiunctione ad materiam. Et ideo abstractio albedinis non
+          est mathematica, sicut abstractio quantitatis. De substantia autem dicendum est quod ratio
+          non concludit quod abstractio sit in substantia set separatio, quia abstractio solum est
+          in dependentibus de quorum genere non est substantia.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

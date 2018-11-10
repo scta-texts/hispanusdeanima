@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1618">
+        <head>Quaestio 1</head>
+        <p xml:id="da-236-d1e1618-d1e1623">[lec6 q1] Circa primam questionem sic proceditur, et
+          ostenditur quod intelligere quod est operatio anime sit propria operatio ei duabus
+          rationibus, quarum prima talis est: omnis substantia que quanto corpori magis est permixta
+          tanto magis sua potentia et sua operatio debilitatur, et fit obscurior et quanto magis a
+          corpore distat, tanto magis sua potentia confortatur et uiget et illuminatur, et sua
+          operatio habet propriam operationem que siquidem cessante aspectu ad corpus et cessante
+          operatione corporali in ipsa exercetur. Set anima intellectiua est huiusmodi, ergo habet
+          operationem propriam. Hec autem non est nisi intelligere, ergo intelligere est propia
+          operatio anime intellectiue. Maior patet, quia quando sopitur in operatione per
+          applicationem ad corpus et illuminatur per separationem habet operationem sine corpore, et
+          hoc est quod dicit Moyses. Et quando anima maxime separatur a corpore tanto magis operatur
+          et uiget eius operatio, et hoc patet de illis quibus apparent uisiones. Hoc enim est per
+          distantiam anime a corpore, et similiter apparent uisiones. Tunc enim et quasi exit ipsa
+          anima corpus et distat a corpore, et inspectio eius non figitur corpori, et dicit Algazel
+          super hoc: apparent ei uisiones in sompno, per inspectionem in libris seruatis, qui
+          dicuntur intelligentie. </p>
+        <p xml:id="da-236-d1e1618-d1e1626">Secunda ratio hec est: sicut habetur in libro <hi>De
+            causis</hi>, omnis substantia spiritualis habet duplicem modum: opera|tionem unam per
+          quam respicit primam causam que est supra tanquam creata ab ea et aliam per quam respicit
+          illud quod est sub se tanquam illud cuius est causa et quod regit. | Set anima
+          intellectiua est huiusmodi, ergo habet aliquam operationem propriam. Hec autem maxime
+          inter omnes intelligere est, ergo intelligere est propria operatio anime. Maior patet,
+          quia scripta est. Minor patet quia operatio per quam ordinatur anima ad creatorem
+          inspiciendo ipsum tanquam suam causam non est ammixta corpori. Operatio autem per quam
+          regit corpus est ammixta corpori, ergo anima intellectiua habet operationem propriam, que
+          est intelligere suam causam. Et quod hec operatio non sit ammixa corpori patet per
+          Dyonisium dicentem: intelligentia cum respicit primam lucem que illuminat omnem lucem
+          uiuentem uel uenientem in hunc mundum clarescit, cum autem diuertitur ab ea tunc
+          obscuratur et deprauatur intellectus eius. Et similiter anima intellectiua quanto magis
+          respicit suum creatorem tanto magis clarescit; quanto uero ab eo magis diuertitur, tanto
+          magis obscuratur. Et hoc est quod dicit rabi Moysi: quando anima separatur a conditionibus
+          ita quod non intendit eis, tunc respicit lucem primam et irradiatur illa lux primo supra
+          intellectum agentem, et deinde supra possibilem. Et tunc supra uirtutes sensibiles
+          irradiatur ita quod homo uidet secreta, et in hoc est recte dicens.</p>
+        <p xml:id="da-236-d1e1618-d1e1632">Ad oppositum sunt <hi>tres</hi> rationes, quarum prima
+          talis est: sicut habetur in primo <hi>De anima</hi> si quis dicat animam gaudere uel
+          tristari dicit eam texere uel edificare, et similiter de intelligere per hoc significans
+          quod intelligere est communis operatio anime et corporis et non propria sicut texere
+          communis est operatio utriusquam, et sic patet per auctoritatem Aristotelis quod
+          intelligere non est propria operatio anime, et confirmatur ista ratio sic, quia
+          intellectus corpore quodam intellectus corrupto, scilicet per dispositionem et
+          complexionem corporis, et iterum dicit in tercio quod intellectus intelligit sub continuo
+          et tempore, et hee sunt operationes communes, ergo intelligere non est propria operatio
+          ipsius anime. </p>
+        <p xml:id="da-236-d1e1618-d1e1641">Secunda ratio hec est: homo uiuit nobiliori uita quolibet
+          uiuente corporali inferiori uel inferiori, set uita non est nisi ab anima, ergo uiuit uita
+          influxa ab anima nobiliori. Hec autem est intellectiua, ergo uiuit uita intellectiua. Set
+          uita intellectiua est actus intelligendi, quia uita est actus, ergo uita intellectiua est
+          actus intelligendi. Ergo actus intelligendi conuenit corpori humano ex quo uiuit uita
+          intellectiua, ergo actus corporis humani est intelligere. Iterum anima non solum est
+          principium uiuendi set etiam uiuit uita que est intelligere, ergo anima intelligit
+          intelligere. Ergo est commune intelligere corpori et anime humano, et non est propria
+          operatio anime intellectiue.</p>
+        <p xml:id="da-236-d1e1618-d1e1645">&lt;Tercia ratio talis est: corpus humanum uiuit quolibet
+          genere uiuendi, quia cum omnibus generibus rerum participat et uitam omnium participat, et
+          ideo dicitur minor mundus, sicut dicit Augustinus, set uiuere est alimento uegetari,
+          moueri, sentire, intelligere. Hec ergo genera uiuendi sunt in homine et secundum ordinem
+          et essentialiter in aliquo secundum ordinem ultimum est sicut complementum, ergo ultima
+          istarum uitarum est complementum in homine. Hoc autem est intelligere, ergo intelligere
+          est complementum corporis humani, ergo anima est actus eius. Iterum anima uiuit uita
+          intellectiua et ita intelligere est actus eius, ergo intelligere est actus coniuncti et
+          non propria operatio ipsius anime.&gt;</p>
+        <p xml:id="da-236-d1e1618-d1e1648">Solutio. Dicendum est ad hoc quod anima | intellectiua
+          habet duplicem aspectum: unum, scilicet ad creatorem a quo exit in esse quem cognoscit,
+          quoniam illius est causa. Iterum habet aspectum ad substantias superiores sibi similes
+          separatas a materia et ad corpus quod dirigit et ad ea que ad corpus ordinantur que sub
+          ipsa sunt. Et secundum duplicem aspectum duplicem habet potentiam: unam per quam
+          comparatur ad superiora et per quam nata est separari et que est lumen ipsius anime
+          illuminata, et hec potentia est intellectus agens, et hec est ei propria. In hac enim non
+          indiget corpore uno modo. Alia autem potentia eius est intellectus possibilis per quam
+          cognoscit corpus et ista inferiora et regit corpus. Et quia anima intellectiua ordinatur
+          in cognitionem creatoris duplici modo disponitur ad ipsum: uno modo per inmediationem,
+          sicut patet in anima que cognoscit primum non est per ista inferiora, set per distantiam a
+          corpore cognoscit ipsum et dicitur quasi separata. Unde non figitur eius cognitio corpori
+          set cognoscit ipsum per aspectum ad ipsum et hec est quoniam separatur a conditionibus
+          materialibus ita quod eis non intendit et tunc respicit primam lucem, sicut dicit rabi
+          Moysi. Et irradiatur illa lux supra animam et ipsam illuminat et super sensus, ita quod
+          eis ostendit secreta. Alio modo disponitur ad primum secundum quod cognoscit ipsum per
+          posteriora sicut per effectus suos et operationes et sic cognoscitur per organa et oritur
+          illa cognitio ab intellectu potentiali. Sicut autem iste status est duplex, ita duplex est
+          operatio anime ipsius: una communis et alia propria, et una appellatur intellectus agens,
+          alia uero intellectus possibilis. Set potentia supprema, que est intellectus agens,
+          dirigit inferiorem, que est intellectus possibilis excitando ipsam et illuminando et
+          ducendo ipsam ad effectum &lt;et ad actum cognitionis. Et propter hoc agens habet duplicem
+          operationem: una que est irradiare supra intellectum possibilem&gt; et illuminare et
+          dirigere ipsam; et quantum ad hoc quodam modo a corpore dependet, et quantum ad hoc non
+          est omnino operatio anime propria. Alia est que est intelligere res separatas et quia has
+          intelligit per distantiam a corpore et quanto plus ab ipso distat tanto uerius eas
+          cognoscit. Ideo quantum ad hoc est intellectus agens omnino proprius et operatio eius
+          omnino propria anime intellectiue. Operatio autem intellectus possibilis omnino coniuncti
+          est et communis et nullo modo propria. Set operatio dicitur communis duobus modis: uno
+          modo quia exercetur per organum corporeum, et simul in illa operatione compatitur anima
+          corpori et hoc modo operatio intellectus possibilis non est propria set communis. Alio
+          modo dicitur operatio alicuius potentie communis, quia illa potentia recipit a uirtutibus
+          corporalibus organicis insitis que per illa organa operantur. Et sic intellectus
+          possibilis dicitur esse | communis et eius operatio, quia dependet a fantasmatibus et
+          uirtutibus sensibilibus quantum ad specierum receptionem, non quantum ad operationem supra
+          species receptas. Sic ergo patet quod anima intellectiua habet propriam operationem que
+          est ipsius intellectus agentis, operatio ipsius possibilis communis est et in quantum |
+          per potentiam potentialem habet anima respectum ad corpus et ad ea que regit ad inferiora,
+          et in quantum per illam disponitur ad cognoscendum primum per suos effectus et per
+          posteriora. Concedende ergo sunt rationes ille que ostendunt quod anima intellectiua
+          habeat operationem propriam. </p>
+        <p xml:id="da-236-d1e1618-d1e1651">Ad primam rationem in contrarium est dicendum quod duplex
+          est intellectus: quidam enim est alligatus phantamatibus nec operatur sine illis, et hic
+          est possibilis intellectus, et talis communis est et eius operatio, et de tali loquitur
+          Aristoteles cum dicit: qui dicit animam gaudere. Et tamen alius est intellectus qui est
+          proprius ipsi anime et non dependet ab ipsis phantasmatibus, set inest anime nate separari
+          a parte illa qua separabilis est a corpore et operatio istius est propria eo modo quo
+          dictum est, quia non dependet a corpore quantum ad suam operationem que est intelligere,
+          set solum in illuminando potentialem, et iste est intellectus agens. </p>
+        <p xml:id="da-236-d1e1618-d1e1654">Ad secundam rationem dicendum est quod intelligere
+          dicitur multis modis: uno modo idem est intelligere quam intellectu operari et sic anima
+          intellectiua quantum ad propriam operationem sola dicitur intelligere. Segundo modo idem
+          est quod intellectu informari et perfici et uiuere intellectu est uita intellectiua et sic
+          corpus humanum et homo dicuntur intelligere. Set hoc est dupliciter, quia corpus
+          perficitur et informatur intellectu sicut uia tercia. Homo autem sicut compositum. Tercio
+          modo dicitur intelligere idem quod ad nutum et imperium intellectus moueri et sic
+          sensibiles uirtutes dicuntur intelligere, quia secundum nutum intellectus mouetur,
+          reguntur autem ab ipso. Et ita homo uel corpus humanum non intelligit, quia operatur
+          intellectu, set intellectu informatur, et sic intelligere est propria operatio anime et
+          non corporis eo modo quo dictum est. </p>
+        <p xml:id="da-236-d1e1618-d1e1657">&lt;Ad terciam rationem dicendum quod corpus humanum
+          intelligit et uiuit uita intellectiua tanquam complemento non tamen intelectu operatur nec
+          est eius operatio intellectus.&gt;</p>
+      </div>
+    </body>
+  </text>
+</TEI>

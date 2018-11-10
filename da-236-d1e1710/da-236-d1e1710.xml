@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1710">
+        <head>Quaestio 3</head>
+        <head type="question-title">Utrum contingat intelligere sine phantasmate</head>
+        <p xml:id="da-236-d1e1710-d1e1715">[lec6 q3] Circa terciam questionem sic proceditur, et
+          queritur utrum contingat intelligere sine phantasmate, et ostenditur quod non per duas
+          rationes, quarum prima hec est: sicut habetur in tercio<hi> De anima</hi>, nichil est in
+          intellectu nisi prius fuerit in sensu. Set inter sensum et intellectum est phantasia
+          media, que siquidem species sensibiles ad intellectum reducit, ergo intellectus contingit
+          per coniunctionem sui ad phantasiam, ergo non contingit intelligere sine phantasmate. </p>
+        <p xml:id="da-236-d1e1710-d1e1721">Secunda ratio est hec: in anima intellectiua sunt due
+          potentie, una qua est omnia facere, alia qua est omnia fieri. Potentia autem qua est omnia
+          fieri appellatur intellectus possibilis. Alia autem appellatur intellectus agens.
+          Possibilis autem dicitur quia recipit species a phantasmatibus et uirtutibus sensibilibus,
+          et propter hoc appellatur potentia in qua est omnia fieri. Agens uero illuminat fantasmata
+          et reducit de potentia in actum intelligendi et ex hiis duobus resultat perfectio
+          intellectus, scilicet ex receptione a phantasmatibus et ex illuminatione fantasmatum. Set
+          utraque istarum operationem circa phantasmata exercetur, ergo non contingit intelligere
+          sine fantasmate. </p>
+        <p xml:id="da-236-d1e1710-d1e1724">&lt;Tercia ratio est talis: substantiarum quedam sunt
+          corporales quedam spirituales, et corporales sunt ille que continuntur in mundo corporali,
+          spirituales sunt ut primum et intellectiue. Set substantie corporales non cognoscuntur
+          nisi mediantibus formis corporalibus, que primo cadunt in sensu et per sensum ad
+          intellectum perueniunt. Set non possunt diffiniri ad intellectum nisi mediante phantasma,
+          ergo non contingit intelligere substantias corporales sine phantasmate. Iterum substantie
+          spirituales cognoscuntur per effectus suos. Effectus autem ipsarum sunt illi quos influunt
+          in substantias corporales, et ita per aspectum ad substantias spirituales contingit
+          substantie spirituales. Huius autem aspectus est per uiam et phantasie, ergo non contingit
+          intelligere sine phantama. Non est ergo intelligere sine phantasmate.&gt;</p>
+        <p xml:id="da-236-d1e1710-d1e1727">Ad oppositum sunt due rationes que dicte sunt in prima
+          questione in operatione que ostendunt animam intellectiuam habere propriam operationem.
+          &lt;Si enim intellectus habet propriam operationem,&gt; ipse non est coniunctus phantasie.
+          Cum hiis rationibus sunt due rationes, prima talis est: omnis uirtus ammixta phantasie est
+          materialis et generabilis et corruptibilis. Set anima intellectiua non est huiusmodi, quia
+          sic sequeretur positio Alexander que facta est possibilitatis intellectum materialem esse
+          corruptibilem et generabilem, ergo anima intellectiua non est permixta fantasie, set omnis
+          talis uirtus potest intelligere sine phantasmate, ergo contingit intelligere sine
+          phantasmate.</p>
+        <p xml:id="da-236-d1e1710-d1e1731">Secunda ratio hec est: omnis uirtus que operatur cessante
+          sensu et phantasia est uirtus non habens phantasiam, cum in suis operationibus sensu et
+          phantasia non egeat. Set uirtus intellecti|ua est huiusmodi. Hoc patet manifeste, quia
+          cessantibus omnibus organis et sensibus anima intellectiua operatur et intelligit, ergo
+          contingit intelligere sine phantasmate. </p>
+        <p xml:id="da-236-d1e1710-d1e1734">Solutio. Ad hoc dicendum est quod in anima intellectiua
+          duplex est operatio: una per quam respicit corpus, et ea que sunt in corpore, et quantum
+          ad istam partem recipit anima a uirtutibus sensibilibus, et hoc modo operatio sua permixta
+          est cum phantasmate, et iste intellectus possibilis materialis est. Alia est uirtus anime
+          intellectiue per quam non respicit corpus, set est uirtus propria, | et est intellectus
+          agens, et hec non dependet a phantasia et de hac non est intelligendum quod non contingit
+          intelligere sine phantasmate. </p>
+        <p xml:id="da-236-d1e1710-d1e1737">Iterum de possibili intellectu contingit loqui duobus
+          modis: uno modo quantum ad suam receptionem specierum et hoc modo a phantasia dependet,
+          cum recipiat a uirtutibus sensibilibus mediante phantasia. Alio modo contingit loqui de
+          ipso in quantum supra species receptas se conuertit et de ipsis iudicat, et hoc modo a
+          phantasia non dependet, set quantum ad primum modum intelligendus est sermo ille de
+          possibili intellectu. Iterum contingit loqui de agente dupliciter: uno modo secundum quod
+          illuminat fantasmata in intellectu possibili, ex cuius illuminatione resultat operatio
+          intellectiua completa, et sic dependet a phantasia sicut ab eo supra quod operatur. Iterum
+          intellectus agens habet operationem que est intelligere, que est ei propria, et sic a
+          phantasia nullo modo dependet. Vnde sicut lux in quantum illuminat dependet ab illuminato,
+          in quantum autem lucet non dependet ab illuminato nec ab alio, similiter intellectus agens
+          in quantum illuminat phantasmata in possibili intellectu dependet a phantasia, sicut ab eo
+          supra quod operatur. In quantum autem intelligit non dependet ab ea. Et notandum est quod
+          cognitio intellectiua non dependet a phantasia nisi eo modo quo dependet a sensitiua.
+          Sensitiua enim sit per accidentia, intellectiua autem per uera rei principia. Et ideo
+          cognitio sensitiua per se stat ad cognitionem intellectiuam. Intellectiua autem per
+          accidens ab illa dependet et non per se, quia non dependet ab illa nisi per defectum et
+          impotentiam nostram, quia nostra cognitio a sensu incipit et propter hoc per accidens
+          dependet cognitio intellectiua a cognitione fantastica et non per se, scilicet quia
+          cognitio intellectiua a sensibili dependet aliquo modo, quia per impotentiam nostram a
+          sensu incipit et non per naturam. </p>
+        <p xml:id="da-236-d1e1710-d1e1740">Ad primam rationem in contrarium dicendum est quod
+          aliquid cognoscitur duobus modis: uno modo per speciem accidentalem sensibilem et hoc modo
+          omne quod cognoscitur ab intellectu prius fuit in sensu. Alio modo cognoscitur aliquid per
+          simillitudinem sue essentie, et sic potest aliquid cognoscit ab intellectu sine
+          applicatione ad sensum et sic non omnino dependet intellectus a phantasia set quantum ad
+          primum | modum.</p>
+        <p xml:id="da-236-d1e1710-d1e1743">Ad secundam rationem dicendum est quod intellectus agens
+          illuminat phantasmata in possibili et sic dependet a materia, sicut ab eo supra cuius
+          obiectum operatur. Iterum intellectus agens habet propriam operationem que est intelligere
+          et sic non dependet a materia. </p>
+        <p xml:id="da-236-d1e1710-d1e1746">&lt;Ad terciam rationem dicendum est quod duplex est, uel
+          cognitio substantiarum spiritualium et corporalium: una est per effectus sensibiles et hec
+          est per sensum procedens, alia est per suas causas et per inspectionem in ipsis et hec
+          dico per inspectionem in ipsis propter primum*, qui inspirando in se ipso cognoscit
+          propriam. Ergo cognitionem habet anima intellectiua de substantiis spiritualibus per
+          sensus; aliam autem per elementionem eius a corpore et prout separata est. Et similiter in
+          substantiis corporalibus est cognitio una de ipsis per accidentia et per exteriora, et hec
+          procedit per sensum. Alia autem est per uera eorum principia et quidditatem, et hec est
+          propria intellectui. Prima non ita set communis, et hec communitatem per uera principia
+          non dependet ab illa que est exteriora nisi per accidens, scilicet propter impotentiam
+          nostram et defectum nostre cognitionis que habet ortum a sensibili. Unde eo modo quo
+          dependet cognitio per uera principia a cognitione per accidentia dependet cognitio
+          intellectiua per uera principia a phantasia set ita est quod cognitio rei per accidentia
+          est cognitio per accidens. Cognitio autem per illa principia est cognitio de substantia
+          per se, et ideo cognitio per accidentia reducitur ad cognitionem per uera principia in
+          illo statu in quo debet esse cognitio de substantia, set cognitio per accidentia pertinet
+          ad sensus et spectat ad ipsum, cognitio per quidditatem spectat ad intellectum, et ideo
+          cognitio sensitiua per se stat ad cognitionem intellectiuam. Cognitio autem intellectiua
+          solum ab illa dependet per accidens, scilicet propter defectum nostrum, et quia non
+          dependet a phantasia nisi mediante sensu, ideo per accidens a phantasia dependet et non
+          propter se set propter defectum defectum nostrum, et hec patet quia anima separata in
+          cogitando a phantasia non dependet, et hoc uiso patet uerificatio obiectorum.&gt;</p>
+      </div>
+    </body>
+  </text>
+</TEI>

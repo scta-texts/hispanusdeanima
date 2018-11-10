@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1824">
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum diffinitio logica dependeat a diffinitione naturali uel
+          phisica</head>
+        <p xml:id="da-236-d1e1824-d1e1829">[lec7 q2] Circa secundam questionem sic proceditur, et
+          queritur utrum diffinitio logica dependeat a diffinitione naturali uel phisica, et
+          fundetur in ipsa. Et ostenditur quod sic per duas rationes, quarum prima talis est: omne
+          agens posterius agit secundum suppositionem prioris agentis, set ratio secundum quam
+          procedit ordinatio diffinitionis logice est posterior respectu nature secundum quam
+          procedit ordinatio diffinitionis phisice, quia ratio ultimum est in natura. Ergo ratio
+          agit secundum exigentiam nature et secundum dependentiam ab ipsa, ergo diffinitio rationis
+          uel logica dependet a diffinitione naturali et principia eius a principiis illius. </p>
+        <p xml:id="da-236-d1e1824-d1e1832">Secunda ratio talis est: diffinitio logica datur per
+          principia ordinabilia in genere que sunt genus et differentia. Principia autem generis et
+          differentie sunt materia et forma in substantia et propter hoc dicit Boetius relicta
+          usiosi et ypostasi dicendum est de usya, idest relicta materia et forma dicendum est de
+          substantia, quia materia et forma supra genus sunt et sunt eius principia, ergo diffinitio
+          data per genus et differentiam dependet ab illa que datur per materiam et formam. Set
+          diffinitio logica datur per genus et differentiam, diffinitio autem naturalis datur per
+          materiam et formam, ergo diffinitio logica dependet a diffinitione naturali. Set hec ratio
+          sic confirmatur, quia in diffinitione logica sunt duo, scilicet genus et differentia,
+          quorum utrumque resultat ex unione forme cum materia. Set genus sequitur naturam materie.
+          Differentia autem naturam forme, quia communicantia in genere est communicantia
+          materialis; communicantia in differentia est communicantia in forma. Unde diffinitur homo
+          per corpus uiuens est per hoc communicat cum aliis, scilicet cum plantis, communicantia
+          uero ratione materie, et diffinitur per corpus uiuens sensibile, et per hoc communicat
+          homo cum brutis communicatione materiali. Apponatur hec differentia rationale completiua
+          ipsius per ipsam communicatur cum aliis formaliter, et gratia forme et differentia. Ergo
+          sequitur naturam forme et genus naturam materie tamen causantur ex unione forme cum
+          materia, et | ideo principia diffinitionis date per genus et differentiam fundantur in
+          principiis diffinitionis date per materiam et formam; prima autem logica, secunda autem
+          naturalis. Ergo diffinitio logica fundatur supra diffinitione naturalem. </p>
+        <p xml:id="da-236-d1e1824-d1e1835">Ad oppositum sunt due rationes, prima talis est: sicut se
+          habet unumquoque ad esse ita se habet ad cognitionem. Set cognitio intellectiua secundum
+          naturam prior est quam cognitio sensitiua, quia fit per priora simpliciter et similiter
+          fit per uniuersalia et per principia uniuersalis. Cognitio autem sensitiua posterior est,
+          quia fit per extrinseca et per principia singularis que concernunt motum et materiam, et
+          dispositiones accidentales, et quod est hic et nunc et huiusmodi sunt materia et forma,
+          ergo priora sunt principia uniuersalis quam principia singularis, que sunt materia et
+          forma. Set diffinitio logica prior est simpliciter quam naturalis, set prius non dependet
+          a posteriori, ergo diffinitio logica non dependet a diffinitione naturali. </p>
+        <p xml:id="da-236-d1e1824-d1e1838">Secunda ratio talis est: principia diffinitionis logice
+          sunt ea per que res ordinantur in genere, quia huiusmodi sunt genus et differentia.
+          Principia autem diffinitionis naturalis non sunt talia, set per ea subiacet res motui et
+          actionibus et passionibus, set ordinatio rei in genere prior est quam ordinatio rei et
+          passionis et motus, ergo priora sunt principia diffinitionis logice quam principia
+          diffinitionis naturalis. Ergo cum prius non dependeat a posteriori, diffinitio logica non
+          dependet a diffinitione naturali. </p>
+        <p xml:id="da-236-d1e1824-d1e1842">&lt;Tercia ratio talis est: sicut habetur in
+            <hi>Metaphisica</hi> ea sunt priora nature que sunt remotiora ab intellectu et
+          propinquora sensui. Ea autem sunt posteriora nature que sunt propinquora intellectui et
+          remotiora a sensu, et ideo uniuersalia cum sint proprinquora intellectui et remotiora a
+          sensu sunt priora simpliciter. Singularia autem e conuerso, set diffinitio logica datur
+          per principia uniuersalia et remotiora a sensu, diffinitio autem uniuersalis datur per
+          principia singularis que sunt posteriora et propinquora sensui, ergo diffinitio logica
+          datur per priora quam diffinitio naturalis, ergo diffinitio logica prior est quam
+          diffinitio naturalis, ergo ab ipsa non dependet. </p>
+        <p xml:id="da-236-d1e1824-d1e1848">Quarta ratio est hec: diffinitio logica datur per
+          principia formalia. Diffinitio autem naturalis datur per principia materialia, set in uia
+          cognitionis materia dependet a forma et e conuerso. Immo hoc modo est forma prior materia
+          quamuis e contrario se habeat in uia generationis et incompletionis, ergo principia
+          diffinitionis logice secundum cognitionem precedunt principia diffinitionis naturalis, cum
+          ergo diffinitio sit propter cognitionem diffinitio logica prior est quam diffinitio
+          naturalis, ergo non dependet ab ipsa.&gt;</p>
+        <p xml:id="da-236-d1e1824-d1e1851">Solutio. Ad hoc hoc dicendum est quod diffinitio logica
+          dependet a diffinitione naturali que datur per materiam et formam et principia ipsius
+          fundantur supra principia rationis et principia rationis fundantur in principiis nature,
+          et ita cum diffinitio logica detur per principia rationis, naturalis autem per principia
+          nature. Propter hoc dicendum est quod diffinitio logica fundatur in diffinitione naturali. </p>
+        <p xml:id="da-236-d1e1824-d1e1854">Ad primam rationem | in contrarium dicendum est quod
+          cognitio principiorum naturalium est duplex: una est per exteriora et hec est posterior,
+          alia est cognitio principiorum nature per sua uera principia et hec est intellectiua. Hec
+          enim est per quidditatem principiorum et hoc est per priora, et hanc cognitionem habet res
+          per suam materiam et formam et per causas et in ista cognitione fundatur diffinitio
+          logica. Et quia sic datur diffinitio naturalis per principia nature, propter hoc dicendum
+          est quod diffinitio logica fundatur in diffinitione naturali.</p>
+        <p xml:id="da-236-d1e1824-d1e1857">Ad secundam rationem dicendum est quod principia
+          naturalia duobus modis considerantur: uno modo secundum quod sunt principia esse rei, alio
+          modo secundum quod sunt principia motus accidentium que in ipsis fundantur. Et hoc secundo
+          modo non sunt principia nature principia diffiniendi rem naturalem set accidentia uel
+          substantiam mobilem in quantum mobilis est. Primo autem modo sunt uera principia esse rei
+          absolute, et hoc modo diffiniunt rem in suo genere, et sunt principia rerum ordinabilium
+          in suo genere. Sunt autem in genere per suam diffinitionem et per reductionem, et hoc modo
+          super ipsa fundantur principia et ab ipsis dependent, licet non modo alio. </p>
+        <p xml:id="da-236-d1e1824-d1e1860">&lt;Ad terciam rationem dicendum quod principia naturalia
+          duabus modis considerantur: uno modo prout coartantur ad hoc singulare uel ad aliud, et
+          sic non sunt principia diffiniendi, quia sicut concernunt motum et materiam et quod est
+          hic et nunc, alio modo considerantur principia nature prout eleuantur secundum suam
+          communitatem ad omnia contenta que ex illis sunt constituta, sicut elementa et principia
+          uniuersalia communia que ex materia et forma constituta sunt, et hoc modo principia nature
+          remota sunt a sensu sicut et uniuersalia et propinquiora intellectui, et hoc modo sunt
+          principia diffiniendi et sunt principia uniuersalis, quia uniuersale est ex materia et
+          forma, que sunt communia et in communitate accepta et ex materia uniuersali et forma
+          uniuersali, quod idem est, et propter hoc diffinitio logica fundatur in diffinitioni
+          naturali.</p>
+        <p xml:id="da-236-d1e1824-d1e1864">Ad quartam rationem dicendum est quod aliqua diffinitio
+          potest appellari materialis duobus modis uel duabus de causis: uno modo quia solum dantur
+          per materiam, et hoc modo nulla diffinitio dicitur esse materialis; alio modo potest
+          appellari diffinitio materialis, quia datur per materiam et formam que sunt principia
+          essendi integrantia essentiam rei, et hoc modo dicitur diffintio materialis dari per
+          materiam, quia diffinit per relationem ad materiam, et talis diffinitio materialis
+          precedit formalem, quia principia diffinitionis formalis fundantur in principiis istius,
+          et in uia cognitionis et in uia essendi, cum principia diffinitionis formalis que appellat
+          logica in principiis diffinitionis istius materialis fundentur et in ea resoluantur, et
+          ita diffinitio logica dependet a diffinitione materiali que dicitur naturalis. Sciendum
+          autem est quod cum dicimus diffinitionem materialem intelligimus ipsam duobus modis: uno
+          modo proprie prout est in rebus naturalibus aliquibus materialibus, et hoc modo
+          diffinitiones logice que de illis rebus dantur dependent a diffinitionibus materialibus
+          rerum in genere illo, sicut hec diffinitio logica: homo est “animalis rationale mortale”
+          dependet ab hac diffinitione materiali que est “homo est compositum ex anima et corpore”.
+          Iterum possumus intelligere ipsam prout est communiter accepta et competit cuilibet rei
+          communiter que ex materia est et forma et diffinitio logica communiter data per genus et
+          differentiam fundatur in illam. Unde communiter diffinitio ex genere et differentia
+          fundatur in diffinitione que est ex materia et forma, et sic patet qualiter diffinitio
+          logica dependet a diffinitione naturali uel phisica.&gt;</p>
+      </div>
+    </body>
+  </text>
+</TEI>

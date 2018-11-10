@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e1661">
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum operationes anime sensibiles sint proprie an
+          communes</head>
+        <p xml:id="da-236-d1e1661-d1e1666">[lec6 q2] Circa secundam questionem sic proceditur, et
+          queritur utrum operationes anime sensibiles sint proprie an communes, et appello proprias
+          que insunt ab anima et tamen sunt in corpore. Communes autem appello que sunt a parte
+          utriusque. Et ostenditur quod operationes anime sunt proprie duabus rationibus, quarum
+          prima talis est: sicut ostenditur in libro <hi>De motu cordis</hi>, uiuere est se ipso
+          moueri, et hoc est quod testarur Aristoteles in VIII <hi>Physicorum</hi>, quod proprium
+          est animatorum se ipsis moueri. Illud ergo quod est dans uitam et influens est se ipso
+          mouens. Set anima est huiusmodi, ergo anima se ipsa mouet. Ergo anima uegetabilis, cum det
+          uitam, se ipsa mouet et multo fortius anima sensibilis cum fortius sit in sua operatione,
+          cum det uitam et sensum. Set omnis motor se ipso mouens habet propriam operationem qua
+          supra mobile influit, ergo anima sensilibis habet propriam operationem quam supra corpus
+          mobile influit. Hoc autem non est nisi sentire, quia non habet aliam. Ergo omnis operatio
+          anime sensibilis propria est et non communis. </p>
+        <p xml:id="da-236-d1e1661-d1e1675">Secunda ratio hec est: sicut habe|tur in libro <hi>De
+            motu cordis</hi>, cuiuslibet substantie que est hoc aliquid proprium est ut habeat
+          propriam operationem et hoc etiam testatur Algazel in sua <hi>Metaphysica</hi> dicens quod
+          quelibet substantia que est hoc aliquid nata est ad hoc ut ex ipsa eliciatur propria
+          operatio. Set anima sensibilis est substantia que est hoc aliquid, ergo anima sensibilis
+          habet propriam operationem in mobili quod est corpus. Hoc autem est sentire, ergo sentire
+          est eius propria operatio et non communis. </p>
+        <p xml:id="da-236-d1e1661-d1e1684">&lt;Tercia ratio talis est: omnis uirtus que per
+          differentiam se habet ad multitudinem obiectorum et ad nullum coartatur et utriusque in
+          corpore operatur habet propriam operationem propter organa corporea, et causa huius est
+          quia applicatio ad organum est causa coartationis ad obiectum, secundum cuius existentiam
+          anima operatur. Set anima sensibilis est huiusmodi quantum ad operationem communem, que
+          per modum se habet ad omnia. Sensus autem communis radix est omnium uirtutum sensibilium,
+          ergo anima sensibilis quantum ad radicem omnium uirtutum sensibilium et operationum habet
+          propriam operationem sibi que est sensus communis.&gt;</p>
+        <p xml:id="da-236-d1e1661-d1e1687">Ad oppositum sunt due rationes, quarum prima talis est:
+          omnis substantia que habet propriam operationem est separabilis. Set anima sensibilis non
+          est separabilis, ergo nullam habet operationem propriam. </p>
+        <p xml:id="da-236-d1e1661-d1e1691">Secunda ratio hec est: nulla substantia que alicuius
+          partis corporis est actus habet operationem propriam, quia talis substantia coartata est
+          per partes corporis in suis operationibus. Set anima sensibilis est huiusmodi, ergo nullam
+          habet operationem propriam. </p>
+        <p xml:id="da-236-d1e1661-d1e1694">Solutio. Ad hoc dicendum est quod operationes anime
+          sensibilis omnes communes sunt. Set communitas operationum forme est duplex, quia quedam
+          est communitas forme operationum secundum quam forma non habet propriam operationem sine
+          materia, set operatio utriusque sequitur ex unione eorum, et sic communitas operationis
+          est informis elementorum que non sunt complete et fixe in se, et ideo non mouentur nec
+          operantur, set totum compositum ex illis formis et suis materiis operatur. Et hoc est quod
+          uult Aristoteles quod non agit caliditas set calidum. Alia est communitas operationis
+          forme in qua forma comparatur per materiam sicut per instrumentum et materia simul
+          participat operationes influentes a forma, et hec iterum est duplex, quia quedam operatio
+          dicitur communis materie et forme, quia forma recipit inicium suarum operationum a
+          uirtutibus corporalibus, non tamen operatur mediante corpore nec organo, et sic
+          operationes possibilis intellectus communes sunt. </p>
+        <p xml:id="da-236-d1e1661-d1e1697">Secundo modo dicitur operatio communis materie et forme,
+          quia forma operatur mediante materia, sicut mediante instrumento et recipit dispositiones
+          mediantibus partibus materie, et sic operationes anime sensibilis communes sunt. Set hoc
+          est adhuc duobus modis, quia quedam operationes anime sensibilis dicuntur communes que
+          habent ortum a parte materie, sicut sompnus et uigilia, que incipiunt a corpore et
+          terminantur in animam, quedam habent ortum a parte anime et terminantur ad corpus, ut
+          sensus et ymaginatio. Et omnes istas operationes exercet anima sensibilis | mediante
+          corpore et partibus eius. Et propter hoc dicuntur communes. Secundum uero primum modum
+          istarum communitatum non sunt operationes anime sensibilis communes, set omnes proprie,
+          quia non resultant ex unione forme cum materia uel anime cum corpore, sicut operationes
+          elementorum. Immo omnes uel incipiunt ab anima ad corpus uel e conuerso, unde ab anima
+          sensibili influit operatio supra corpus. Hec autem influentia facit communitatem
+          operationis secundum alium modum qui dictus est. Et similiter dicendum est de
+          operationibus anime uegetabilis. Concedende sunt ergo rationes per quas ostenditur quod
+          operationes anime sensibilis sunt communes. </p>
+        <p xml:id="da-236-d1e1661-d1e1700">Ad primam rationem in contrarium dicendum est quod uita
+          communis est anime et corpori, | set hoc differenter, quia uita inest anime tanquam
+          principio a quo fluit. Inest autem corpori tanquam recipienti et per unionem anime cum
+          corpore resultat actus uiuendi, et sic uita est ab anima, et supra corpus ab ipsa influit,
+          et propter hoc influit operationem corpori. Dicitur autem communis propter dictam causam,
+          unde bene concedendum est quod cum sit hoc aliquid influit operationem supra corpus illa
+          tamen operatio dicitur communis. </p>
+        <p xml:id="da-236-d1e1661-d1e1703">Ad secundam rationem dicendum est quod cum anima sit hoc
+          aliquid habet propriam operationem, set dicendum est quod substantia que est hoc aliquid
+          est duplex, quia quedam est alligata materie corporali et huius est operatio communis,
+          quia non operatur sine materia nisi contradicatur propria circa primum modum communitatis,
+          quia non resultat ex unione anime cum corpore, set ipsam influit anima supra corpus, et
+          talis est anima sensibilis, et ideo non habet operationem propriam. Alia est substantia
+          hoc aliquid que non est alligata materie omnino, sicut anima intellectiua, et istius est
+          operatio propria a parte illa qua non est alligata et communis a parte illa, qua est
+          alligata, ut dictum fuit. </p>
+        <p xml:id="da-236-d1e1661-d1e1706">&lt;Ad terciam rationem dicendum quod uirtus dicitur
+          indifferens ad multa duobus modis: uno modo quia omnia apprehendit tam spiritualia quam
+          corporalia, et hoc modo intellectus, quia non coartatur ab organo dicitur uirtus
+          indifferens ad multa. Alio modo dicitur uirtus indifferens ad multa quia omnes formas
+          corporales nata est comprehende, non tamen extra materiam eas comprehendit et talis est
+          sensus communis, et talis non est propria set communis, et quia est uirtus illa alligata
+          organo est corporali, ideo non* cognoscit formas corporales, et est ad illas indifferens,
+          et hoc est quia illa uirtus comprehendit obiecta singularum sensuum. Et quia obiecta
+          singularum sensuum omnes formas corporales continent, ideo uirtus illa omnes formas
+          cognoscit et apprehendit.&gt;</p>
+      </div>
+    </body>
+  </text>
+</TEI>

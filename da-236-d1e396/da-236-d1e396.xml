@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaesito 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaesito 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e396">
+        <head>Quaesito 5</head>
+        <div>
+          <head>1</head>
+          <head type="question-title">Utrum anima sit principium animalium</head>
+          <p xml:id="da-236-d1e396-d1e406">[lec1 q5.1] Circa quintam questionem queritur utrum anima
+            sit principium animalium et uidetur quod non sic: principium naturaliter procedit illud
+            quod egreditur a principio. Corpus autem precedit animam naturaliter, ergo anima non est
+            principium corporum, ergo nec animalium. </p>
+          <p xml:id="da-236-d1e396-d1e409">Ad oppositum est illud quod ponit Aristoteles, set non
+            ponit quod sit principium compositi set corporis animalis.</p>
+          <p xml:id="da-236-d1e396-d1e412">Solutio. Ad hoc dicendum est quod anima est principium
+            corporis animati et hoc propter plures causas: una est quia complet corpus animatum.
+            Secunda est quia continet ipsum et conseruat. Egrediente enim anima a corpore expirat
+            corpus et marcessit, sicut habetur in fine primi <hi>De anima</hi>. Tercia causa est
+            quia anima mouet ipsum corpus animatum. Quarta causa est quia ante actualem exitum anime
+            in esse fit organizatio corporis secundum exigentiam anime. </p>
+          <p xml:id="da-236-d1e396-d1e418">Ad obiectum in contrarium dicendum est quod prius est
+            dupliciter: uno modo in uia generationis et incompletionis, et sic corpus prius est quam
+            anima. Alio modo est prius in uia completionis et perfectionis, et sic anima prior est a
+            corpore et sic in uia completionis potest esse principium eius.</p>
+        </div>
+        <div>
+          <head>2</head>
+          <head type="question-title">Quare dicit quod anima est quodam modo principium et non dicit
+            quod sit simpliciter principium</head>
+          <p xml:id="da-236-d1e396-d1e427">[lec1 q5.2] Secunda questio est circa hoc quare dicit
+            quod anima est quodam modo principium et non dicit quod sit simpliciter principium, quia
+            uidetur quod anima sit simpliciter principium corporis, quia motor simpliciter est
+            principium mobilis. Set anima simpliciter est motor in corpore, ergo est simpliciter
+            principium corporis animati.</p>
+          <p xml:id="da-236-d1e396-d1e430">Secunda ratio hec est: forma simpliciter est principium
+            compositi. Anima est forma simpliciter corporis animati, ergo est simpliciter eius
+            principium.</p>
+          <p xml:id="da-236-d1e396-d1e433">Solutio. Ad hoc dicendum est quod anima est principium
+            corporis animati. Dicitur autem quodam modo esse principium propter duas causas: una
+            causa est quia principium proprie est illud quod est efficiens. Anima autem non est
+            efficiens corporis set motus eius et operationis, et propter hoc quodam modo est
+            principium. Secunda causa est quia principium proprie est extra; elementum autem intra
+            est. Causa uero que est ad ista. anima uero est intra, et propter hoc dicit quod anima
+            est quodam modo principium.</p>
+        </div>
+        <div>
+          <head>3</head>
+          <head type="question-title">Utrum anima sit principium cuiuslibet corporis, ut ponatur
+            anima forma prima in rebus naturalibus</head>
+          <p xml:id="da-236-d1e396-d1e442">[lec1 q5.3] Tercia questio circa hoc est utrum anima sit
+            principium cuiuslibet corporis, ut ponatur anima forma prima in rebus naturalibus, et
+            uidetur quod sic: omnes dispositiones naturales ordinantur ad ultimam formam ut ad finem
+            et ad quod stant et illud est forma respectu illarum. Set omnia corpora ordinantur ad
+            animam et similiter omnes dispositiones naturales, sicut dicit Auensorel, ergo anima est
+            prima forma omnium corporum. </p>
+          <p xml:id="da-236-d1e396-d1e445">Secunda ratio hec est: sicut habetur in secundo <hi>De
+              anima</hi> omnia corpora sunt instrumenta anime. Set anima est in corpore quod est
+            eius instrumentum, ergo anima est in omnibus corporibus. Set anima est in corpore sicut
+            forma in materia, ergo anima est forma omnium corporum prima. </p>
+          <p xml:id="da-236-d1e396-d1e451">Ad oppositum, si enim anima esset prima forma omnium
+            corporum, sic omnia corpora essent animata. Hoc autem falsum est, ergo anima non est
+            prima forma omnium corporum.</p>
+          <p xml:id="da-236-d1e396-d1e454">Secunda ratio hec est: ea quorum anima est forma et
+            principium se ipsis mouentur, | quia habent in se principium suficiens sui motus, set
+            multa sunt corpora que non mouentur se ipsis, ergo anima non est prima forma omnium
+            corporum. |</p>
+          <p xml:id="da-236-d1e396-d1e458">&lt;Tercia ratio hec est: anima non est forma nisi
+            corporis habentis diuersas dispositiones in partibus non toto. Tale est corpus
+            organizatum. Si ergo non omnia corpora talia sunt idem quod anima non sit principium
+            cuiuslibet corporis nec forma prima.&gt;</p>
+          <p xml:id="da-236-d1e396-d1e461">Solutio. Ad hoc dicendum est quod principium formale
+            primum in aliquo genere est multipliciter: uno modo dicitur forma prima exemplaris forma
+            omnium in qua omnia relucent tanquam in cognoscente et a qua egrediuntur tanquam ab
+            efficiente, et sic primum est prima forma omnium. Alio modo dicitur prima forma,
+            scilicet forma communis per predicationem que non est natura aliqua fixa, set est
+            similitudo nature, et hoc modo posuit Auicenna et actor <hi>Fontis uitae</hi>, unam
+            primam formam in genere substantie que est substantia que predicatur de omnibus
+            substantiis. Tercio modo dicitur forma prima, scilicet forma illa que inter formas
+            corporales nobilior est et secundum cuius accessum uel recessum corpora plus habent uel
+            minus de forma, et sic lux est prima forma. Quarto modo dicitur forma prima que in
+            genere nature est nobilissima et ad quam omnes alie ordinantur et propter quam sunt, et
+            sic anima dicitur esse forma prima. Propter enim animam sunt omnes forme naturales.
+            Quinto modo dicitur forma prima, scilicet forma illa que per sui distensionem in materia
+            omnem materiam perficit ita ut distendatur per materiam corporalem et illam et partes
+            eius perficiat, et hoc modo non est possibile esse unam primam formam in natura et hoc
+            modo anima non est prima forma omnium corporum set alio modo &lt;et per hoc patet
+            uerificatio rationum ad partem utrumque&gt;.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

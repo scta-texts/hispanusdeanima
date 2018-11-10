@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019"
+            >Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-d1e2033">
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum animatum et inanimatum differant in sufficientia motus ita
+          quod animato corpori debeatur sufficienter motus, inanimato autem insufficienter</head>
+        <p xml:id="da-236-d1e2033-d1e2038">[lec8 q2] Circa secundam questionem sic proceditur, et
+          queritur utrum animatum et inanimatum differant in sufficientia motus ita quod animato
+          corpori debeatur sufficienter motus, inanimato autem insufficienter. Et ostenditur quod
+          sic per duas rationes, prima talis est: nulla forma alligata materie et distensa secundum
+          distensionem materie mouet sufficienter, quia materia et alligatio materie impedit motum
+          et actionem. Set forma corporis inanimati est alligata materie et distensa secundum
+          distensionem materie, cum sit forma tantum. Ergo forma corporis inanimati mouet
+          insufficienter. Et alio modo non debetur motus inanimatis nisi a parte sue forme, ergo
+          motus insufficiens solum debetur inanimatis. Animatis autem sufficiens cum sua forma non
+          sit alligata materie, ergo differunt animata ab inanimatis quia animata mouentur
+          sufficienter, inanimata autem insufficienter. </p>
+        <p xml:id="da-236-d1e2033-d1e2041">Secunda ratio hec est: sicut habetur in octauo
+            <hi>Physicorum</hi>, proprium est animatorum se ipsis moueri, et hoc est quia habent
+          principium sufficiens sui motus. Inanimata autem non habent intra se principium
+          sufficiens. Omne autem quod habet principium ad mouendum sufficiens mouetur sufficienter,
+          ergo animatis debetur motus sufficiens et e contrario, | inanimatis insufficiens, cum non
+          habeant principium sufficiens ad mouendum, ergo differunt animata ab inanimatis per motum
+          sufficientem et insufficientem. </p>
+        <p xml:id="da-236-d1e2033-d1e2047">Ad oppositum sunt due rationes, prima talis est:
+          quodlibet corpus componitur ex istis principiis, materia et forma, et materie est pati,
+          forme uero agere, sicut dicit Aristoteles, et materie est moueri, forme uero mouere. Set
+          omne compositum ex talibus principiis se ipso potest moueri, ergo inanimata se ipsis
+          possunt moueri, ergo mouentur motu sufficienti sicut animata, et ita per hoc non differunt
+          ab animatis. </p>
+        <p xml:id="da-236-d1e2033-d1e2050">Secunda ratio hec est: sicut habetur in secundo
+            <hi>Physicorum</hi> natura est principium motus et status in eo in quo est per se et non
+          per accidens. Ergo omnia illa in quibus est natura habent per se principium motus. Set
+          natura est in corporibus inanimatis, ergo per se principium motus est in corporibus
+          inanimatis, set omne habens principium intra se motus per se et non secundum accidens
+          mouetur per se et sufficienter, ergo inanimata mouentur per se et sufficienter et
+          similiter animata, ergo non differunt per sufficientiam motus. </p>
+        <p xml:id="da-236-d1e2033-d1e2057">Solutio. Ad hoc dicendum est quod corpus animatum differt
+          ab inanimato sufficientia motus. Animatis enim debetur motus per se et sufficiens et est
+          principium mouendi in ipsis fixum et completum et hoc aliquid, et distans per essentiam a
+          mobili non alligatum ipsi. Plura autem non requiruntur ad motorem sufficientem. In
+          inanimatis autem motor est alligatus materie et mobili, et ideo insufficienter mouet, quia
+          materia et alligatio ad materiam impedit motum et operationem. Et ideo in inanimatis est
+          motus insufficiens, et quia principium motus in animatis est per se stans et hoc aliquid
+          et sufficiens, propter hoc motus animatorum est motus manifestus. Motus autem inanimatorum
+          est motus occultus et hoc patet in electione locorum. Animatum autem se ipso mouet ab uno
+          loco in alium, et manifeste et quanto pluribus differentiis anime perficitur tanto
+          manifestior est eius motus. In animatis autem non est illa transmutatio nisi ab aliquo
+          excitante, scilicet uel agente uel a remouente prohibens. </p>
+        <p xml:id="da-236-d1e2033-d1e2060">Ad primam rationem in contrarium dicendum est quod
+          inanimata habent duplex principium, quorum utrumque est insufficiens ad mouendum. Ipsa
+          forma enim inanimatorum cum sit omnino alligata materie non habet operationem propriam
+          sine materia, set simul a materia necesse est quod habeat operationem, et ideo potest
+          sufficere ad mouendum illa. Set si moueat hoc est insufficienter. </p>
+        <p xml:id="da-236-d1e2033-d1e2063">Ad secundam rationem dicendum est quod principium
+          intrinsecum motus est duplex: quoddam est sufficiens ad mouendum, sicut anima, aliud est |
+          insufficiens et illud est uirtus inclinans ad motum et ad dispositiones, et aliquo modo
+          mouens et illud est natura. Non dicitur ergo principium motus per se natura quod sit
+          sufficiens, set quia est principium intra sufficiens tantum, et ideo cum a tali principio
+          moueantur inanimata patet quod mouentur insufficienter. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
