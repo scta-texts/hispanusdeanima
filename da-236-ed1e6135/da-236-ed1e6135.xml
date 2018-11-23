@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e6135" >
+        <head>Quaestio 1</head>
+        <head type="question-title">Utrum anima habeat
+    conformitatem cum solis rebus corporalibus, sicut cum elementis aut cum rebus omnibus</head>
+        <p xml:id="da-236-ed1e6135-d1e6143">[lec 14 q1] Circa primam questionem sic proceditur et queritur utrum anima habeat
+    conformitatem cum solis rebus corporalibus, sicut cum elementis aut cum rebus omnibus. Et
+    ostenditur quod solum cum rebus corporalibus, sicut cum elementis et cum elementatis.
+    Conformitas enim anime intellectiue cum rebus est per cognitionem. <hi>|</hi> Set cognitio
+    anime intellectiue dependet a sensu. Sensus autem dependet a proportionibus organorum.
+    Proportiones autem organorum ab elementis, ergo sensus recipit elementa, ergo sensus habet
+    proportionem cum illis solum. Set intellectus sequitur sensum, ergo cum solis elementis et
+    elementatis cum sint ex elementis habet intellectus conformitatem, ergo cum solis corporibus
+    habet anima conformitatem. </p>
+        <p xml:id="da-236-ed1e6135-d1e6149">Secunda ratio hec est: anima est substantia corpori alligata quantum ad operationem. Set
+    omnis substantia corpori alligata sequitur naturam corporis in suis operationibus, ergo cum
+    operatio anime sit cognitio, anima sequitur naturam corporis in sua cognitione, ergo cum illis
+    habet solum conformitatem ex quibus corpus est et ad que habet corpus conformitatem. Corpus
+    autem habet conformitatem cum elementis, ergo anima solum habet conformitatem cum elementis.
+    Et confirmatur hec ratio in hunc modum, quia secundum motum humorum mouentur operationes
+    anime. Set humores mouentur secundum motum elementorum, ergo operationes anime mouentur
+    secundum motum elementorum. Ergo anima cum elementis solum habet proportionem et conformitatem
+    in sua operatione. </p>
+        <p xml:id="da-236-ed1e6135-d1e6152">Ad oppositum: duplex est uirtus: quedam est coartata organo corporali, sicut uirtus
+    sensibilis, et talis cognoscit solum ofrmas corporales. Alia autem est non coartata, sicut
+    uirtus intellectiua, que non coartatur organo, et talis nata est extendi ad res corporales et
+    non corporales, ergo uirtus intellectiua nata est extendi ad res corporales et non
+      <seg>corporales.</seg> Set cum omnibus illis rebus habet uirtus intellectiua conformitatem
+    ad quas nata est extendi sua cognitio, ergo uirtus intellectiua habet conformitatem cum rebus
+    corporalibus et incorporalibus, ergo non habet conformitatem cum elementis solum.</p>
+        <p xml:id="da-236-ed1e6135-d1e6159">Secunda ratio hec est: cum eis habet anima maiorem conformitatem quibus magis assimilatur
+    anima in essentia et in operatione cum substantiis spiritualibus et maxime cum Deo ad cuius
+    similitudinem <seg>factam</seg> est, sicut <seg>dicit</seg>
+          <seg>Augustinus,</seg> ergo maiorem habet conformitatem cum substantiis spiritualibus quam cum
+    corporalibus, et ita non est solum cum <seg>formis</seg> substantiis corporalibus que sunt
+    elementa. </p>
+        <p xml:id="da-236-ed1e6135-d1e6174">Solutio. Ad hoc dicendum est quod anima habet conformitatem cum omnibus rebus. Set duplicem
+    habet anima conformitatem: una est per representationem specierum, et hanc habet cum omnibus
+    rebus, quia species omnium nata est recipere tam corporalium quam spiritualium uel essentias.
+    Et hoc dico propter <seg>proprium</seg> et substantias corporales. Et ita hoc modo non solum
+    habet conformitatem cum substantiis corporalibus. Est autem alia conformitas anime per
+    participationem intensionis uite et intellectus et hanc maxime habet cum rebus spiritualibus
+    que maxime uiuunt et intelligunt. Conformitatem autem per participationem esse habet cum
+    omnibus substantiis spiritualibus et corporalibus et ita patet quod non habet solum
+    conformitatem cum substantiis corporalibus, set etiam spiritualibus. Et concedimus rationes ad
+    hoc. </p>
+        <p xml:id="da-236-ed1e6135-d1e6180">Ad primam rationem in contrarium dicendum est quod uirtus intellectiua habet duplicem statum,
+    scilicet statum inferiorem respiciendo res inferiores et quantum <hi>|</hi> ad istum statum
+    sequitur sensum, et hoc modo solas substantias corporales respicit et cognoscit et dirigitur
+    in cognitionem spiritualium per corporales, et hoc modo habet proportionem cum corporibus et
+    maxime cum elementis quorum proportionem sequitur sensus. Intellectus autem quantum ad istum
+    statum sequitur sensum et hoc modo non habet intellectus proportionem et conformitatem cum
+    substantiis spiritualibus nisi per accidens, <seg>scilicet</seg> per corporales, eo modo quo
+    cognoscit et dirigitur in cognitionem spiritualium per corporales eo modo habet conformitatem
+    cum spiritualibus. Habet <seg>iterum</seg> intellectus alium statum, scilicet statum
+    superiorem per quem respicit res superiores et substantias superiores creatas et quantum ad
+    istum statum habet maxime conformitatem cum substantiis spiritualibus et per illas cum
+    corporalibus et per illas respicit substantias corporales et dirigitur in cognitionem
+    substantiarum corporalium per illas. </p>
+        <p xml:id="da-236-ed1e6135-d1e6192">Ad secundam rationem patet solutio per hoc idem, quod illa ratio procedit secundum statum
+    inferiorem ipsius intellectus quo anima alligata est corpori et sensui non secundum statum
+    superiorem quo substantias respicit superiores spirituales. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

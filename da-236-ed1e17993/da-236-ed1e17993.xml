@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e17993" >
+        <head>Quaestio 4</head>
+        <head type="question-title">Utrum anima intellectiua sit
+    separabilis a corpore</head>
+        <p xml:id="da-236-ed1e17993-d1e18001">
+          <hi>[lec6 q4] Circa quartum sic proceditur et queritur utrum anima intellectiua sit
+      separabilis a corpore. Et ostenditur quod sic: omnis substantia que nullius partis corporis
+      est actus est <seg>separabilis</seg> a corpore, quia est independens ab eo et non coartata.
+      Set anima intellectiua est huiusmodi secundum <seg>Aristoteles,</seg> ergo est separabilis a
+      corpore. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17993-d1e18013">
+          <hi>Secunda ratio hec <seg>est:</seg> omnis substantia que habet propriam operationem non
+      dependentem ab alio est separabilis, quia operatio sequitur substantiam cuius est. Ergo si
+      separatio est independens et separabilis, et substantia cuius est operatio, erit independens
+      et separabilis. Set anima intellectiua est huiusmodi respectu corporis, ergo anima
+      intellectiua a corpore est separabilis. Minor patet per Aristotelem in <seg>primo.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e17993-d1e18025">
+          <hi>Tercia ratio hec est: omnis substantia que non habet radicationem <seg>nec</seg> principia
+      sue <seg>essentie</seg> in materia set tota <seg>est</seg> ab extrinseco est separabilis.
+      Set anima intellectiua est huiusmodi, quia data est diuinitus, ergo anima intellectiua est
+      separabilis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17993-d1e18041">
+          <hi>Ad oppositum: nulla forma separatur a materia, quia forma non est sine materia nec e
+      conuerso. Set anima intellectiua est forma corporis, ergo non est separabilis a corpore.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e17993-d1e18047">
+          <hi>Secunda ratio hec est: anima intellectiua habet ortum in corpore et appetitum existentie
+      in corpore et operatur et recipit </hi>
+          <hi>|</hi>
+          <hi> a uirtutibus corporalibus quia creatur in corpore. Set nulla talis forma est separabilis,
+      quia est dependens, ergo anima intellectiua non est separabilis a corpore. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17993-d1e18059">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod anima intellectiua est separabilis a corpore quia non
+      habet dependentiam a corpore nisi quantum ad exitum solum et ad nullam partem corporis
+      coartatur, quia nullam habet radicem in corpore, set solum est collata corpori ab extrinseco
+      ad regendum et perficiendum corpus et ad conseruandum corpus corpori accomodatur. Alie uero
+      anime habent dependentiam a corpore et habent radicem in corpore quantum ad exitum et
+      conseruationem sui esse. Non sunt enim ab extrinseco date, et ideo non sunt separabiles
+      sicut anima intellectiua. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17993-d1e18074">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod anima duobus modis
+      consideratur, uno modo a parte <seg>illa</seg> qua est substantia et sic est separabilis a
+      corpore, quia independens est aut a parte <seg>illa</seg> qua est forma et sic est
+      inseparabilis et inherentia eius cum corpore inseparabilis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17993-d1e18089">
+          <hi>Ad secundam <seg>rationem</seg> dicendum <seg>est</seg> quod in anima sunt multa: primum
+      est suus exitus in esse et quantum ad hoc dependet a corpore, secundum est continuatio sui
+      esse et quantum ad hoc non dependet a corpore. Tercium est natura suarum operationum et hee
+      sunt dupliciter, quia quedam sunt communes anime et corpori, in quibus anima operatur
+      mediantibus uirtutibus sensibilibus et quantum ad has <seg>a</seg> corpore
+       <seg>dependent</seg> et est inseparabilis. Alie sunt eius <seg>operationes</seg> proprie
+      et quantum ad illas anima intellectiua non dependet a corpore set quantum ad illas
+      separatur. Alie autem anime quantum ad hoc <seg>omnia</seg> dependent <seg>et</seg> ideo a
+      corpore non separantur. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

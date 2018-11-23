@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e11564" >
+        <head>Quaestio 3</head>
+        <head type="question-title">
+    Utrum eadem sit comparatio anime ad corpus 
+    que est comparatio figure cere ad ceram et forme ad materiam
+   </head>
+        <p xml:id="da-236-ed1e11564-d1e11572">[lec2 q3] Circa <seg>terciam</seg> questionem sic proceditur et queritur utrum eadem sit
+    comparatio anime ad corpus que est comparatio figure cere ad ceram et forme ad materiam. Et
+    ostenditur quod sic: omne illud <seg>quod</seg> in altero ex quo cum ipso <seg>sit</seg> unum
+    secundum compositionem comparatur ad illud in quo est sicut figura cere ad ceram et
+    uniuersaliter sicut forma ad materiam. Set anima ita se habet respectu corporis quia ex ipsa
+    et corpore fit unum secundum <seg>componi,</seg> ergo anima comparatur ad corpus, sicut figura
+    cere ad ceram et sicut forma ad <seg>materiam.</seg> Maior patet quia hic est potissimus
+      <seg>modus</seg> unionis, scilicet compositio que est materie cum forma et hec est
+    compositio figure et cere et anime et corporis, et per hoc idem patet minor. </p>
+        <p xml:id="da-236-ed1e11564-d1e11594">Secunda ratio hec est: omne illud quod ducit alterum ad esse specificium comparatur ad ipsum
+    sicut figura cere ad ceram, et sicut <seg>forma</seg> ad materiam. Set anima sic se habet ad
+    corpus, ergo comparatur ad corpus sicut figura cere ad ceram et sicut forma ad materiam. Maior
+    patet quia antequam ymago herculis imprimatur in cera possibilis <seg>est</seg> ad formas
+    infinitas alias, set per aduentum figure Herculis diffinitur et specificatur, et habet
+    completionem in operatione et fine <hi>|</hi> suo et eodem modo est de corpore <seg>an</seg>
+    aduentum anime ante quam sit <seg>organizatum,</seg> set per aduentum anime habet esse
+    specificum et completum in operatione et fine suo conueniente. </p>
+        <p xml:id="da-236-ed1e11564-d1e11612">Ad oppositum: nulla substantia que est hoc aliquid et comparata ad corpus, sicut motor ad
+    mobile, comparatur ad corpus sicut figura cere ad ceram. Anima est huiusmodi respectu
+    corporis, ergo anima non comparatur ad corpus sicut figura cere <hi>|</hi> ad
+      <seg>ceram,</seg>
+          <seg>nec</seg> sicut forma ad materiam quod idem est <seg>uel</seg> simile. Maior patet
+    secundum Aristotelem, quia oportet motorem et mobile differe substantia. Set figura cere non
+    ita se habet ad ceram set est dispositio <seg>ymaginis</seg> ipsius, nec forma similiter ita
+    se habet ad materiam. Minor patet per <seg>predictam.</seg>
+        </p>
+        <p xml:id="da-236-ed1e11564-d1e11635">Secunda ratio hec est: sicut se habet figura cere ad ceram ita se habet anima ad corpus. Set
+      <seg>figura</seg> ita se habet ad ceram, quod distenditur secundum distensionem partium
+    quantitatiuarum cere, ergo anima ita se habet ad corpus quod distenditur secundum distensionem
+    partium <seg>quantitatiuarum</seg> corporis quod est inconueniens, ergo non tenet illa
+    comparatio.</p>
+        <p xml:id="da-236-ed1e11564-d1e11644">Tercia ratio hec est: nulla forma que non fit <seg>detectione</seg> uel substractione partium
+    materialium sic se habet ad illud cuius est forma sicut forma que hoc modo producitur in esse
+    in materia. Set anima non fit predicto modo in corpore. Forma uero siue figura fit predicto
+    modo in cera, ergo non sic se <seg>habet</seg> ad corpus sicut figura cere ad ceram. Minor
+    patet quia cum anima sit <seg>nature</seg> et iterum spiritualis <seg>nec</seg> fit nisi quasi
+    per impressionem suo modo, set figura cere est <seg>figura</seg> artis que operatur in ipsa
+    secundum partium diminutionem et detectionem, unde forte non differt <seg>a</seg> substantia
+      <seg>in</seg> magnitudine cere. </p>
+        <p xml:id="da-236-ed1e11564-d1e11669">Quarta ratio hec est: per quam ostenditur quod hec similitudo comparationis non
+      <seg>conueniat</seg> anime rationali, quia nulla substantia que nullius <seg>partis</seg>
+    est actus ita se habet ad corpus sicut figura cere ad ceram. Anima rationalis est huiusmodi,
+    ergo non comparatur ad corpus sicut figura cere ad ceram. Maior patet <seg>cum</seg> figura
+    cere sit forma partium quantitatiuarum <seg>cere.</seg> Minor patet in textu. </p>
+        <p xml:id="da-236-ed1e11564-d1e11684">
+          <seg>Solutio.</seg> Ad hoc dicendum est quod similis est comparatio anime ad corpus et figure
+    cere ad ceram, quia sicut ex figura cere et cera fit unum similiter secundum uiam
+    compositionis ex anima et corpore fit unum, et iterum sicut figura <seg>cere</seg> dat
+      <seg>cere</seg> principium operationis sicut representationis Herculis uel alicuis
+    huiusmodi, sic anima dat corpori principium <seg>operationis</seg> et operum. Et iterum sicut
+    in cera per aduentum <seg>figure</seg> dissimilis nature quantum ad informationem ymaginis,
+    sicut patet in multis, sic est in corpore per aduentum anime difformitas et dissimilitudo
+      <seg>partium</seg> in natura. Alie sunt dissimilitudines anime et figure que postea
+    dicentur, et una est quod sicut in figuris geometrie non est forma sine
+      <seg>spiritualibus</seg> sic anima non est sine aliqua trium differentiarum, et ita sicut
+    figura <seg>minor</seg>
+          <hi>|</hi> est in posteriori <seg>sicut</seg> uegetabilis in sensibili et sensibilis in
+    rationali, et est alia similitudo que tangitur in primo <seg>
+            <hi>Ethicorum</hi>,</seg>
+          <seg>quod</seg>
+          <seg>sicut</seg> se <seg>habet</seg> concauum et conuexum in <seg>circumferentia</seg> ita
+    anima uegetabilis et sensibilis et rationalis in corpore humano. Argumenta <seg>autem</seg>
+    procedunt in alia uia in qua est dissimilitudo <seg>attendendo</seg> in comparatione figure
+    cere ad ceram et anime ad ipsum corpus. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

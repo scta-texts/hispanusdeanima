@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e21724" >
+        <head>Quaestio 1</head>
+        <head type="question-title">Utrum anima intellectiua <seg>precedat</seg>
+          <seg>alias</seg> naturaliter an sit <seg>illis</seg> posterior</head>
+        <p xml:id="da-236-ed1e21724-d1e21741">
+          <hi>[lec9 q1] Circa primum queritur utrum anima intellectiua <seg>precedat</seg>
+            <seg>alias</seg> naturaliter an sit <seg>illis</seg> posterior. Et ostenditur quod sit prior
+      eis secundum naturam: ordo est in substantiis ita quod substantie magis spirituales et magis
+      perpetue et magis separate a materia sunt priores <seg>aliis</seg> que habent oppositas
+      conditiones. Set anima intellectiua habet istas conditiones. Anima uegetabilis et sensibilis
+      habent oppositas <seg>conditiones,</seg> ergo anima intellectiua prior est secundum naturam
+      quam anima uegetabilis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21724-d1e21762">
+          <hi>Secunda ratio hec est: sicut uult <seg>Aristoteles,</seg> anima prior est corpore et
+      antiquior. Ergo anima que non habet conditiones corporis est prior illa que habet magis
+      conditiones corporis. Set anima intellectiua magis remota est a conditionibus corporis quam
+      anima uegetabilis et sensibilis. Ergo anima intellectiua est prior secundum naturam quam
+      anima uegetabilis et sensibilis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21724-d1e21771">
+          <hi>Ad oppositum: dispositiones materiales precedunt introductionem forme in materia per
+      naturam. Set anima uegetabilis et sensibilis sunt dispositiones ad introductionem anime
+      intellectiue in corpore, ergo sunt priores quam anima intellectiua. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21724-d1e21778">
+          <hi>Secunda ratio hec est: illa que sunt in omnibus illis in quibus est alterum et non e
+      conuerso sunt priora illo. Set in quibuscumque est anima intellectiua, in eisdem est anima
+      sensibilis et uegetabilis et non e conuerso. Ergo <seg>anima</seg> uegetabilis et sensibilis
+      sunt priores secundum naturam quam intellectiua. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21724-d1e21787">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum est duobus modis est prius. <seg>Est</seg> enim prius in uia generationis
+      et <seg>incompletionis</seg> et hoc modo anima uegetabilis et sensibilis <seg>precedit</seg>
+      intellectiuam. Et <seg>item</seg> prius in uia completionis, cognitionis et diffinitionis,
+      et hoc modo anima intellectiua prior est secundum naturam illis, et sic simpliciter non est
+      prior illis secundum naturam quod tantum probant rationes. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21724-d1e21811">
+          <hi>Ad primam rationem in contrarium dicendum quod substantia spiritualis est duplex: quedam
+      que est dependens a materia, quedam independens. Et ideo talis non est prior illis, et ideo
+      anima intellectiua non est simpliciter prior aliis que disponunt ad ipsam, set est posterior </hi>
+          <hi>|</hi>
+          <hi> ceteris in uia generationis et <seg>incompletionis.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e21724-d1e21826">
+          <hi>Ad secundam dicendum <seg>est</seg> quod in uia generationis <seg>corpus</seg> precedit
+      animam et similiter ille que magis sunt corporales differentie anime precedunt animam
+      intellectiuam et <seg>sic</seg> anima intellectiua in uia <seg>completionis</seg> precedit
+      corpus et est antiquior <seg>eo.</seg> Ita precedit in uia illa alias differentias anime.
+    </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e22182" >
+        <head>Quaestio 5</head>
+        <head type="question-title">Utrum uita dicatur uniuoce uel
+    equiuoce in omnibus uiuentibus.</head>
+        <p xml:id="da-236-ed1e22182-d1e22190">
+          <hi>[lec9 q5] </hi>
+          <hi>|</hi>
+          <hi> Circa quintam questionem sic proceditur et queritur utrum uita dicatur uniuoce uel
+      equiuoce in omnibus uiuentibus. Et ostenditur quod dicatur uniuoce de omnibus uiuentibus,
+      quia omnia uiuentia <seg>consistunt</seg> in eodem genere. Illud autem est <seg>genus</seg>
+      substantia uiuens. Set genera dant sua nomina et diffinitiones eis quorum sunt genera, sicut
+       <seg>dicitur</seg> in libro </hi>
+          <seg>
+            <hi>Vegetabilium</hi>
+            <hi>.</hi>
+          </seg>
+          <hi> Omne autem tale uniuoce dicitur de omnibus de quibus dicitur, ergo substantia uiuens
+      uniuoce dicitur de omnibus uiuentibus. Hoc autem non est nisi per uitam. Ergo uita est
+      uniuoce in omnibus uiuentibus. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22182-d1e22223">
+          <hi>Secunda ratio hec est: uita egreditur ab unione anime cum corpore secundum quod anima est
+      perfectio corporis organici habentis uitam. Set anima existit <seg>uniuoce</seg> in quolibet
+      corpore <seg>et</seg> dat esse uniuocum cuilibet corpori. Ergo uita est uniuoce in omnibus
+      uiuentibus. Minor patet quia anima dat esse uiuens cuilibet corpori. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22182-d1e22235">
+          <hi>Tercia ratio hec est: <seg>uiuere</seg> uiuentibus est esse in genere substantie quod est
+      esse <seg>substantie.</seg> Set esse eorum que sunt in genere eodem est dictum uniuoce,
+       <seg>ergo</seg> uiuere in omnibus uiuentibus est dictum uniuoce et non equiuoce. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22182-d1e22251">
+          <hi>Quarta ratio hec est: <seg>homo</seg> communicat cum omnibus creaturis et cum
+       <seg>entibus</seg> communicat in esse cum uiuentibus communicat uitam, cum sensibilibus
+      communicat in sensu, cum intelligentibus communicat <seg>cum</seg> intellectu. Hec autem
+      communicatio est uniuoca et non equiuoca, cum sit communicatio in genere substantie, ergo
+      omnia entia uniuoce communicant cum homine in esse et omnia uiuentia communicant cum homine
+      uniuoce in uita. Ergo uita dicitur uniuoce <seg>de</seg> omnibus uiuentibus et non equiuoce.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e22182-d1e22269">
+          <hi>Ad oppositum: uita in uiuentibus est ab anima uegetabili que communiter est in omnibus </hi>
+          <hi>|</hi>
+          <hi> uiuentibus. Set anima uegetabilis non est eiusdem speciei aut nature prout est in omnibus
+      uiuentibus, ut ostensum est, ergo <seg>neque</seg> uita. Ergo uita non est uniuoce in
+      omnibus uiuentibus. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22182-d1e22284">
+          <hi>Secunda ratio hec est: uiuere in plantis est ab anima uegetabili, in <seg>brutis</seg> est
+      ab anima sensibili. In homine autem <seg>est</seg> ab anima intellectiua et ita secundum
+      diuersas differentias anime est uiuere in omnibus uiuentibus. <seg>Set</seg> in istis
+      differentiis anime <seg>est</seg> diuersa natura dandi uitam et uiuendi et diuersum regimen.
+      Ergo et diuersa uita et non uniuoca, ergo uita non est uniuoce in omnibus uiuentibus. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22182-d1e22302">
+          <hi>Tercia ratio hec est: anima comparatur ad corpus duobus modis: uno modo secundum quod dat
+      esse, alio modo secundum quod est principium operationis. Et primo modo ipsi anime a parte
+      corporis respondet equalitas complexionis. <seg>Secundo</seg> modo diuersitas partium. Set
+      neque est eadem complexio in omnibus uiuentibus nec <seg>unica</seg> nec <seg>eiusdem</seg>
+      nec <seg>non</seg> eadem natura organis nec <seg>unica,</seg> set incomparabilis, nec idem
+      regimen immo equiuocum, ergo <seg>neque</seg> eadem uita uniuoca immo equiuoca. Ergo uita
+      non est </hi>
+          <hi>|</hi>
+          <hi> uniuoce in omnibus uiuentibus. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22182-d1e22333">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod uita est duobus modis. Est enim quedam uita que est
+      communis ad omnes actus primos que uita egreditur a differentiis anime communiter, et est
+      alia uita que agreditur ab anima uegetabili in omnibus <seg>uiuentibus.</seg> Et prima uita
+      est communis per predicationem. Secunda autem est communis per radicationem, quia radicatur
+      in quodam principio quod communiter est in omni <seg>uiuente.</seg> Hoc autem est
+       <seg>anima</seg> uegetabilis. Et a prima uita dicuntur omnia uiuentia et illa uita
+      contrahitur per suas <seg>differentias</seg> ad uegetabilia, <seg>sensibilia,</seg>
+      intellectibilia. Secunda autem uita non denominat in complendo nisi sola uiegetabilia. Hec
+      autem secunda uita non est uniuoce in omnibus uiuentibus, similiter nec prima uita nisi uno
+      modo uniuocationis, quia quot modis est communitas et <seg>idemptitas</seg> essentie tot
+      modis est uniuocatio et <seg>equiuocatio.</seg> Idemptitas autem essentie est quatuor modis:
+      uno modo secundum quod essentia <seg>nominat</seg> naturam fixam et determinatam, et hoc
+      modo uita non est eadem per essentiam in omnibus uiuentibus nec prima nec secunda. Est
+       <seg>autem</seg> alia idemptitas essentie que est idemptitas nature et hoc modo dicitur
+      omnis aqua esse eadem per essentiam omni aque, quia sunt eiusdem nature. Et hoc modo esse
+       <seg>uel</seg> uita non est eadem per essentiam in omni uiuente, et ita quantum ad istos
+      duos modos non est uita uniuoce in omni uiuente nec prima uita nec secunda. Et hoc probant
+      rationes ad oppositum. Est <seg>autem</seg> alia idemptitas essentie que est idemptitas
+      intensionis. Et hoc modo uniuersale est idem per essentiam secundum quod est in pluribus
+      singularibus et hoc etiam modo uita est eadem in omni uiuente et uniuoca, scilicet secundum
+      intensionem solum, et quantum ad hoc procedunt rationes hoc probantes. Est <seg>enim</seg>
+      quarta idemptitas essentie que est idemptitas modi accipiendi secundum quod dicitur quod
+      omnia sunt in eodem nunc per essentiam. Hoc autem est uerum per modum accipiendi. Et de hac
+      idemptitate per essentiam non curamus et etiam secundum istam <seg>uita</seg> est uniuoce in
+      omnibus uiuentibus et loquor de prima et secunda <seg>uita.</seg> Et per hoc soluuuntur
+      rationes ad utramque partem, quia quedam illarum procedunt secundum unam partem, alie autem
+      secundum aliam partem, sicut uisum est. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

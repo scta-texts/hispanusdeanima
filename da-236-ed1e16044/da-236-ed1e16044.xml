@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e16044" >
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum intelligere sit uiuere</head>
+        <p xml:id="da-236-ed1e16044-d1e16052">[lec5 q2] Circa secundam <seg>questionem</seg> sic proceditur, et queritur utrum intelligere
+    sit uiuere. Et ostenditur quod sic: corpus humanum nobiliori uita uiuit quam omnia alia
+    corpora, cum sit etiam <seg>complexionatum</seg> nobiliori complexione. Ergo nobilius
+    principium dat ei uitam. Hoc autem inter differentias anime est anima intellectiua, ergo anima
+    intellectiua dat ei <seg>uitam.</seg>
+          <hi>Set</hi> anima intellectiua non dat ei nisi intelligere, ergo intelligere est uiuere. </p>
+        <p xml:id="da-236-ed1e16044-d1e16067">Secunda ratio hec est: in homine sunt tres differentie anime. Set ab ultima recipit
+    complementum, scilicet ab intellectiua. Ergo esse ultimum hominis est ab anima intellectiua.
+    Set esse ultimum in homine est <seg>esse</seg> contractum in sua specie sicut in aliis
+    uiuentibus, ergo uiuere contrahitur in homine per ultimam differentiam anime que est in ipso.
+    Hec autem est <seg>intellectiua,</seg> ergo per animam intellectiuam contrahitur et
+    specificatur uiuere in homine. Set non contrahit uitam nisi per actum intelligendi quem dat
+    homini qui actus est intelligere. Ergo intelligere est uiuere. </p>
+        <p xml:id="da-236-ed1e16044-d1e16076">Tercia ratio hec est: corpus humanum communicat cum substantiis spiritualibus in esse et
+    communicat cum corporalibus et hoc dupliciter, quia communicat cum uiuentibus in
+      <seg>uita,</seg> cum sentientibus in sensu. Substantie autem <seg>spirituales</seg> uiuunt
+    et uiuunt uita intellectiua, unde uita ipsarum est uita intellectiua. Ergo et homo cum eis
+      <seg>communicet</seg> in <seg>esse</seg> quod est uita communicabit <seg>uitam</seg> per
+    intellectum. Hoc autem non est nisi per complementum quod ab anima intellectiua recipit. Ergo
+    complementum quod recipit homo ab anima intellectiua est uita. Illud autem complementum est
+    intelligere, ergo intelligere est uiuere. </p>
+        <p xml:id="da-236-ed1e16044-d1e16095">Quarta ratio hec est: anima intellectiua consideratur a parte sue substantie et sic sua uita
+    est suum intelligere. Alio modo consideratur <seg>per</seg> applicationem ad corpus. Set per
+    illud per quod anima separata uiuit per illud coniuncta corpori dat <seg>corpori</seg> esse et
+    uitam. Per intellectum autem separata <seg>uiuit,</seg> ergo per intellectum <seg>quando</seg>
+    est <seg>coniuncta</seg> dat uitam corpori prout in corpore est. Ergo intelligere in homine
+      <seg>est</seg> uiuere. </p>
+        <p xml:id="da-236-ed1e16044-d1e16117">&lt;Quinta ratio hec est: res omnes habent communicantia in communi. Item habent complexionem
+    in specifico quod contrahit illud commune, sicut patet in genere. Et differentias omnes enim
+    res communicant in esse, et sic actus earum est esse. Item illud esse commune per multas
+    differentias specificatur, nam in uiuentibus specificatur per uitam ut esse in illis, sic uita
+    in sensibilibus per sensum specificatur in intelligentibus per intellectum. Ergo cum homo sit
+    de genere intelligentium esse et uita ipsius intelligere in quantum est intelligens et homo et
+    sentire est esse ipsius in quantum animal ipse et uiuere in quantum animatum. Set in omnibus
+    uiuentibus est esse et est esse uiuere in illi. Ergo in homine<hi> </hi>
+          <hi>|</hi> intelligere
+    est uiuere. Hoc autem confirmatur in hunc modum, quia differentie fundantur in rebus nature.
+    Dicitur autem animal substantia animata et complementum eius est sensibile uel sensus, et
+    dicitur homo substantia animata sensibilis intellectibilis, ergo intellectus complet hominem.
+    Ergo esse quod est complementum hominis est natura intelligendi. Hoc autem est intelligere,
+    ergo intelligere est complementum hominis. Set uiuere est esse hominis cum homo sit uiuens.
+    Ergo intelligere in homine est <seg>uiuere.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e16044-d1e16128">Ad oppositum: in qualibet substantia creata differt sua actio et sua substantia et suum esse
+    et sua operatio. Set operatio rei intelligentis est intelligere, ergo differt ab esse rei
+    intelligentis. Set esse rei intelligentis, sicut <seg>hominis,</seg> est uiuere. Ergo
+    intelligere non est uiuere. </p>
+        <p xml:id="da-236-ed1e16044-d1e16134">Secunda ratio hec est: sicut superius declaratur, anima <seg>dat</seg> actum primum per suam
+    substantiam. Dat autem actum secundum per suas po<hi>|</hi>tencias, set nichil quod elicitur
+    ab aliquo mediante sua potencia est idem cum esse ipsius, quia esse inmediante egreditur a sua
+    substantia. Accidentia autem mediantibus suis <seg>potentiis,</seg> ergo actus intelligendi
+    non est <seg>actus</seg> anime intellectiue uel hominis, set uiuere est esse in eis in quibus
+    est, <seg>ergo</seg> intelligere non est <seg>uiuere.</seg>
+        </p>
+        <p xml:id="da-236-ed1e16044-d1e16156">Tercia ratio hec est: uiuere est actus primus, sicut dictum est supra. Intelligere autem est
+    actus secundus, quia intelligere est operatio. Ergo intelligere non est uiuere. </p>
+        <p xml:id="da-236-ed1e16044-d1e16159">&lt;Quarta ratio hec est: uita in uiuentibus non recipit. Immo solam unionem anime cum
+    corpore. Prius enim est uita et esse alicuius in se quam per respectum ad alterum. Set
+    intelligere respicit extra, intelligens diuersum a substantia intelligente uel recipiente
+    illud obiectum. Ergo intelligere non est uiuere. </p>
+        <p xml:id="da-236-ed1e16044-d1e16163">Quinta ratio hec est: uiuere semper est continue in uiuentibus ipsis durantibus. Esse enim
+    rei non recipit inten<hi>s</hi>ione re permanente set semper manet unum, et ita cum uiuere sit
+    esse uiuentis recipit intensionem. Set intelligere in homine aliquando est aliquando non est
+    loquendo de intellectu qui est coniuncti*, a quo homo dicitur intelligere. Set non semper est
+    in suo actu. Immo homo quandoque est sine illo. Ergo intelligere non est
+      <seg>uiuere.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e16044-d1e16171">
+          <seg>Solutio:</seg> Ad hoc dicendum <seg>est</seg> quod intelligere est uiuere in
+    intelligentibus. <seg>Intellectiua</seg> enim sunt entia <seg>et</seg> intelligentia in
+    quantum sunt entia <seg>non</seg> dicuntur esse in sua completione specifica, set in quantum
+      <seg>sunt</seg> intelligentia et in illa completione, intelligere est esse in eis et uita
+    eorum, unde intelligentia dicitur uiuere uita intellectiua. </p>
+        <p xml:id="da-236-ed1e16044-d1e16191">Ad primam rationem in contrarium dicendum quod in <seg>primo</seg>
+          <seg>non</seg>
+          <seg>differt</seg> sua substantia et suum esse et sua operatio. In substantiis autem creatis
+    differunt predicta. Intelligere autem est <seg>esse</seg>
+          <seg>intellectiuum</seg> et <seg>differt</seg> a substantia intelligente. Est enim actus
+    primus ipsius et sic est uita et non <seg>est</seg> operatio hoc modo. Quod autem intelligere
+    sit esse <seg>et</seg> operatio patebit per <seg>subsequens.</seg>
+        </p>
+        <p xml:id="da-236-ed1e16044-d1e16222">Ad secundam rationem dicendum quod sicut intellectus est nomem potencie et
+    substan<hi>t</hi>ie, sic et <seg>intelligere</seg> est actus substantie <seg>et</seg> actus
+    qui elicitur a potencia, prout intelligere est actus substantie sic est uiuere illius in
+      <seg>mediante</seg> existens in ipsa, sicut actus primus <seg>ipsius</seg> et est actus
+      <seg>ipsius,</seg> sicut habitus, prout autem <hi>egr</hi>editur a potentia sic est
+    operatio, et sic differt ab esse substantie intelligentis et est actus secundus et est actus,
+    sicut operatio et sic non est uiuere. </p>
+        <p xml:id="da-236-ed1e16044-d1e16247">Ad terciam <seg>rationem</seg> dicendum <seg>est</seg> quod intelligere est dupliciter: est
+    enim intelligere ut actus et est intelligere ut habitus. Intelligere autem ut habitus est,
+      <seg>est</seg> actus primus qui resultat ex unione anime cum corpore. Intelligere autem ut
+    actus est operatio uel est operari intellectu et hic est secundus actus. Et intelligere qui
+    est ut habitus qui est actus primus fundatur in substantia anime intellectiue et hoc
+    intelligere est uiuere. Intelligere autem qui est actus secundus et qui est operatio elicitur
+    a potencia anime. Et talis non est uiuere, set operatio quedam ipsius anime uel intelligentis. </p>
+        <p xml:id="da-236-ed1e16044-d1e16259">&lt;Ad quartam dicendum quod intelligere est duplex: quoddam quod est habitus et hoc est esse
+    anime et corporis quod recipit ab anima, et tale non respicit obiectum extra. Aliud est
+    intelligere quod oportet operari intellectu et hic est actus secundi et hoc intelligere
+    respicit obiectum extra et hoc intelligere non est naturale. Et est simile de luce cuius
+    primus actus est qui est lucem non respicit obiectum extra. Secundus autem actus eius,
+    scilicet illuminare, respicit obiectum extra. Similiter autem est intelligere. </p>
+        <p xml:id="da-236-ed1e16044-d1e16263">Ad quintam rationem dicendum quod intellectus consideratur dupliciter: uno <seg>modo</seg>
+          <hi>|</hi> in quantum dat uitam corpori intellectiuam, et sic semper continue influit. Alio
+    modo consideratur intellectus prout respicit obiectum supra quod operatur et sic intellectus
+    est operatio nec est semper in suo actu, qui est operari per intellectum, quia non semper
+    habet obiectum extra supra quod possit operari. Et sic uita quam dat <seg>intellectus</seg>
+    sicut est continuus. Operatio autem ipsius non est semper et continuus propter defectum
+    obiecti <seg>sui.&gt;</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

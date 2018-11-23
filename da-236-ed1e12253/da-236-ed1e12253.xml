@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e12253" >
+        <head>Quaestio 1</head>
+        <head type="question-title">De existentia anime uegetabilis
+    et sensibilis in corpore</head>
+        <p xml:id="da-236-ed1e12253-d1e12261">[lec3 q1] Circa primam questionem sic proceditur, et queritur de existentia anime uegetabilis
+    et sensibilis in corpore. Ostenditur autem quod sint tote simul per essentiam et uirtutem in
+    qualibet parte corporis forma <seg>completiua</seg> unita toti materie dat esse toti materie
+    et singulis eius partibus ut nichil remaneat de materia incompletum sicut <seg>apparet</seg>
+    de forma ignis que distensa per materiam dat esse toti materie et singulis eius partibus. Set
+    anima est forma completiua corporis, ergo dat esse toti corpori et partibus eius. Set forma
+    est duplex: quedam corporalis et quedam spiritualis. Forma corporalis distenditur per materiam
+    et <seg>ista</seg> secundum diuersas sui partes in diuersis partibus materie existit et per
+    diuersas suas partes diuersas materie <seg>partes</seg> perficit. Spiritualis autem forma non
+    distenditur per distensionem materie, sicut anima. Ergo cum anima perficiat omnes partes
+    corporis et per illas non distendatur, cum <seg>sit</seg> simplex, necesse est quod sit in
+    qualibet parte cum quamlibet <seg>partem</seg> compleat, et cum ipsa sit indiuisibilis necesse
+    est quod sit tota ubique <seg>simul</seg> est, ergo anima per essentiam tota <seg>simul</seg>
+    in qualibet parte corporis. </p>
+        <p xml:id="da-236-ed1e12253-d1e12289">Secunda ratio hec est: anima dupliciter comparatur ad corpus, quia <seg>sicut</seg> perfectio
+    et sic a parte corporis <seg>eis</seg> respondet equalis completio recedens <seg>et</seg> a
+    contrarietate. Secundo modo comparatur ad ipsum sicut motor et operans per partes corporis, et
+    sic ei a parte corporis respondet organizatio partium. Quelibet autem pars corporis perficitur
+    ab anima quantum ad esse. Et quelibet perficitur ab <seg>anima</seg> quantum ad operationem,
+    cum per partes corporis anima operetur. Ergo in qualibet parte est illud quo anima complet
+    dando esse et illud quo <hi>|</hi>
+          <seg>anima</seg> perficit dando operationem. Set anima per suam essentiam dat esse, et hoc est
+    quia essentia anime est in ratione forme corporis. Per potentias autem dat anima operationem,
+    quia potentia est de genere accidentium et secundum ipsam fit operatio. Set per unionem anime
+    quantum ad suam essentiam dat <seg>anima</seg> esse per unionem ipsius quantum ad suam
+    potentiam dat anima operationem. Ergo cum anima det esse et operationem cuilibet parti
+    corporis necesse est quod sit unita cuilibet parti corporis quantum ad essentiam <seg>et</seg>
+    operationem. Ergo <seg>non</seg> determinat unam partem in qua sit per essentiam et quantum ad
+    operationem ergo non determinat unam partem in qua <seg>fit</seg> per essentiam et potentiam.
+    Anima uero <seg>indiuisibilis</seg> existens in pluribus totum simul est in illis, ergo anima
+    uegetabilis et <seg>sensibilis</seg> tota simul per suam essentiam et potentiam est in
+    qualibet parte corporis cum omnes partes corporis perficiat quantum ad esse, quia uegetabilis
+    dat esse quod est uiuere partibus. Item dat eis operationem que est uegetari, similiter
+    sensibilis dat <seg>eis</seg> esse et dat eis operationem quia sentiunt. De rationali autem
+    non procedunt iste rationes. </p>
+        <p xml:id="da-236-ed1e12253-d1e12333">
+          <hi>|</hi> Tercia ratio hec est: corpus conseruatur in esse <seg>ad</seg> duplici principio,
+    scilicet per <seg>completionem</seg> et <seg>per</seg> equalitatem complexionis que est
+    dispositio ad receptionem anime, sicut uult <seg>Auicenna,</seg> et conseruatur in esse per
+    animam que partes corporis tenet et <seg>ligat,</seg> sicut uult Aristoteles. Complexio uero
+    non sufficit nec eius equalitas ad conseruationem <seg>corporis</seg> ligans partes eius et
+    uniens, unde recedente anima a corpore expirat corpus et marcessit et omnes partes a corpore
+    dissoluuntur et nexus omnium partium dissoluuntur. Ergo necesse est quod anima sit in omnibus
+    partibus corporis tenens et ligans eas et adnectens et <seg>non</seg> sola uirtute
+      <seg>set</seg> essentia sit in omnibus partibus corporis et per suam essentiam ligat partes
+    corporis, ergo necesse est quod in qualibet <seg>parte</seg> sit per essentiam
+      <seg>corporis.</seg> Set cum sit indiuisibilis tota simul est ubi est. Ergo anima in
+    qualibet parte corporis per essentiam tota simul <seg>est.</seg>
+        </p>
+        <p xml:id="da-236-ed1e12253-d1e12373">Hec autem ratio confirmatur per tria experimenta, quarum primum est in sanitate. Sanitas enim
+      <seg>est</seg> temperamentum calidorum, frigidorum, humidorum <seg>et</seg> siccorum et est
+    sanitas in qualibet parte corporis tota simul non recipiens partibilitatem cum sit ligamentum
+    indissolubile omnium partium in <seg>puncto</seg> consistens. Et loquor de sanitate
+    simpliciter, ergo similiter anima cum sit indissolubile ligans omnes partes corporis erit in
+    qualibet parte corporis tota simul in qualibet, quia omnes ligat et continet per sui
+    presentiam tota simul, quia est sicut <seg>indiuisibile.</seg> Secundum experimentum est: quia
+      <seg>non</seg> uidemus quod anima <seg>cum</seg> recedit a corpore omnes partes contrahunt
+    alias dispositiones et <seg>statum</seg> leduntur ab extrinseco, sicut a calore continentis,
+    ut oculus recipit obfuscationem et obscuritatem. Hoc autem non est nisi <seg>propter</seg>
+    anime <seg>recessum.</seg> Ergo in qualibet parte corporis est anima per essentiam cum sit
+    indiuisibilis non habens partem et <seg>partem.</seg> Unde ubi est <hi>|</hi> ibi est total
+      <seg>simul,</seg> ergo anima est in qualibet parte corporis tota simul per
+      <seg>essentiam.</seg>
+          <seg>Tercium</seg> experimentum est: quia cum anima egreditur a corpore dolor est in omnibus
+    membris et quelibet membra sentiunt sui dissolutionem et <seg>diuulsionem.</seg> Hoc autem non
+    est nisi quia anima recedit a <seg>corpore</seg> et facit duplicem <seg>dissolutionem:</seg>
+    unam sui a corpore cum quo in qualibet parte uehementem habet unionem; aliam quia per
+      <seg>recessum</seg> fit dissolutio in <seg>omnibus</seg> membris et ita fit dissolutio
+    duplicis nexus. Hoc autem non est nisi quia anima <seg>firmitur</seg> partibus corporis est
+    unita. Ergo anima est in omnibus partibus corporis ipsas ligans et connectens, set cum anima
+    sit simplex ubi est ibi est tota simul, ergo anima <seg>tota</seg> simul est in qualibet parte
+    corporis tota simul <seg>per</seg> essentiam. </p>
+        <p xml:id="da-236-ed1e12253-d1e12445">Ad oppositum: impossibile est aliquod unum et <seg>idem</seg> causatum esse <seg>simul</seg>
+    et semel in pluribus per essentiam. Set anima uegetabilis et sensibilis sunt causate, ergo
+    impossibile est eas esse per essentiam totas simul in qualibet parte <seg>corporis.</seg> Set
+    determinant sibi partem in qua sunt per essentiam et ad <seg>illas</seg> partes corporis per
+    potentias suas et <seg>iures</seg> extenduntur. </p>
+        <p xml:id="da-236-ed1e12253-d1e12463">Secunda ratio hec est: nichil coartatum ad aliquod perfectibile uel ad <seg>materialem</seg>
+    partem essentia et uirtute potest simul et semel esse in pluribus. Set anima uegetabilis et
+    sensibilis sunt huiusmodi, cum utraque sit actus alicuis partis corporis, ergo anima
+    uegetabilis et sensibilis non potest simul et semel <seg>esse</seg> in diuersis partibus
+    corporis tota simul per essentiam. </p>
+        <p xml:id="da-236-ed1e12253-d1e12472">Tercia ratio hec est: ex unione anime cum <seg>corpore</seg> in genere illo, scilicet in
+    genere animatorum, resultat esse in genere illo, ergo si in qualibet parte corporis esset
+    anima tota per essentiam, sicut in partibus animalis et plante, quelibet pars
+      <seg>animalis</seg> esset animal et quelibet pars plante esset planta. Hoc autem est falsum
+    et inconueniens, ergo anima non est per essentiam in qualibet parte corporis tota simul, set
+    est in una per essentiam, in aliis autem per potentias. </p>
+        <p xml:id="da-236-ed1e12253-d1e12481">Quarta ratio hec est: sicut uult <seg>Auicenna</seg> in secundo <hi>De anima</hi>, si anima
+    est oportet esse unum membrum per quod principaliter dependeat <seg>ex</seg> corpore ex quo
+    regat corpus et <seg>augeat,</seg> ut prima actio quam facit anima sit per illud membrum in
+    corpore, quo membro mediante <seg>diffundantur</seg> uirtutes anime in aliis membris et ut
+    mediante illo primo membro operentur alia membra et hoc membrum in animalibus est cor quod est
+    membrum principale, per cuius influentiam alia <seg>membra</seg> operantur et aliquod membrum
+    simile cordi in plantis. Ergo necesse est secundum <seg>Auicennam</seg> quod anima non sit
+      <seg>tota</seg> simul per essentiam in qualibet parte corporis, immo sit in uno
+      <seg>membro</seg> per essentiam, ut in corde, et ab illo diffundat anima suas uirtutes et
+    operationes ad alia membra.</p>
+        <p xml:id="da-236-ed1e12253-d1e12512">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod circa hanc questionem plures sunt
+    opiniones: prima est quam quidam ponunt, scilicet quod anima uegetabilis et sensibilis sunt
+    distense in toto corpore et partes in partibus, et sic anima est in qualibet parte corporis
+    per essentiam et potentiam non tamen tota simul <hi>|</hi> set per diuisionem et
+      <seg>distensionem</seg> suarum partium et secundum partium ipsius <hi>|</hi> anime
+    diuersitatem, respondet diuersitas partium corporis. Hec autem positio ponit falsum. Non enim
+    anima quantum ad omnem sui differentiam est distensa nec partibilis. <seg>Alia</seg> est
+    positio quam quidam ponunt, scilicet, quod anima <seg>non</seg> per essentiam
+      <seg>differt</seg> a suis potentiis immo anima de illis <seg>predicatur,</seg> cum igitur
+    anima sit in toto corpore et potentie anime in singulis partibus corporis ponunt animam
+    existere in qualibet parte corporis secundum suam substantiam et secundum suas potentias que
+    potentie dicuntur substantie in quantum dant esse. Dicuntur autem potentie in quantum dant
+    operationem. Hec autem positio ponit duo inconuenientia: primum est quod ponit
+      <seg>distensionem</seg> in partibus anime. Aliud est quod ponit animam esse idem cum suis
+    potentiis et in qualibet substantia creata differt sua substantia a sua <seg>potentia.</seg>
+    Tercia positio est <seg>quod</seg> anima uegetabilis et sensibilis existunt per essentiam in
+    aliqua parte corporis <seg>quam</seg> sibi appropriant et <seg>per</seg> illam influunt suas
+    uirtutes ad singulas partes corporis ut <seg>anima</seg> uegetabilis <seg>existit</seg> in
+    epate per essentiam et per epar et <seg>per</seg> uenas que exeunt ab <seg>epate</seg>
+          <seg>influit</seg>
+          <seg>nutrimentum</seg> singularis <seg>partibus,</seg> sensibilis autem existit in cerebro. Et
+    hec positio potest <seg>abstrahi</seg> ab <seg>Auicenna</seg> in capitulo de organis in
+      <seg>libro</seg>
+          <hi>De anima</hi>, ubi ponit quod in corpore est organicum primum in quo anima existens regit
+    omnes partes corporis. Unde sicut nauta existens in aliqua parte nauis in qua est
+      <seg>regimen</seg> totius nauis regit nauem et gubernat per illam partem similiter anima
+    uegetabilis et sensibilis in aliqua parte existens a qua est regimen in aliis partibus regit
+    omnes alias partes corporis per influentiam uirtutum suarum ab illa parte. Quilibet
+      <seg>autem</seg> eligat ponere quam decernit elegantiorem. </p>
+        <p xml:id="da-236-ed1e12253-d1e12600">Alia <seg>autem</seg> positio dignior est et melior sectanda ut dicamus quod formarum, quedam
+    sunt determinantes situm <seg>sibi</seg> in partibus materie, <seg>ut</seg> albedo, et forma
+    substantialis <seg>materie</seg> que est forma ignis et consimiles, et ad hoc quod
+      <seg>forma</seg> habeat situm in materia tria requiruntur: primum est ut
+      <seg>determinet</seg> sibi materiam appropriatam in qua sit ita quod non in alia. Aliud est
+    ut distendatur secundum distensionem materie et quod non sit tota simul in qualibet parte.
+    Tercium est quod diuidatur secundum diuisionem materie ut una pars eius sit in una parte et
+    alia sit <seg>in</seg> alia parte materie. <seg>Anima</seg> autem determinat sibi materiam que
+    est corpus organicum, set non distenditur secundum distensionem partium corporis nec diuiditur
+    secundum diuisionem partium eius cum sit forma spiritualis et inmaterialis. Unde dicendum est
+    quod in qualibet parte corporis simul est anima sensibilis essentia et uirtute, et uegetabilis
+      <seg>similiter.</seg> Potentie <seg>tamen</seg> et operationes eius <seg>diuerse</seg> magis
+    determinatur ad quasdam partes quam ad alias. Et tamen anima una secundum essentiam
+      <seg>est</seg> in <seg>qualibet</seg>
+          <seg>parte,</seg> multiplicatur enim a parte partium corporis in poten<hi>|</hi>ciis et a
+    parte suarum <seg>operationum</seg> et <seg>est</seg> si multe linee ad eandem
+      <seg>protrahuntur</seg> circumferentiam ab eodem puncto. Punctus enim est in se
+      <seg>unus</seg> et est <seg>multi</seg> in relatione ad plures lineas quas terminat, et
+    linee sunt una linea in puncto. Sunt autem <seg>plures</seg> per dilationem ad
+    circumferentiam. Similiter anima est una in se et <seg>est</seg> plures in potentiis et
+    potencie sunt unum in anima in qua <seg>radicantur</seg> et sunt multe respectu corporis ad
+    cuius partes distenduntur. Et iterum sicut lux est <seg>unum</seg> in substantia et
+      <seg>est</seg> multa in emanando, similiter anima est una in substantia et multe in
+    potentiis, et sicut non est radius sine luce et ubi est radius ibi est lucis,
+      <seg>essentia</seg> sic potentia et uirtus non est sine essentia anime et ubi est
+      <seg>uirtus</seg> uel potentia anime ibi est anima. Unde dicendum <seg>est</seg> quod anima
+      <seg>existit</seg> essentia et uirtute in qualibet parte corporis et est tota simul quantum
+    ad essentiam in qualibet parte corporis et non coartata ad <seg>aliquam</seg> partem. Immo
+    omnem partem perficiens. Coartatio uero ei aduenit ex parte potentiarum quilibet repondent
+    diuerse partes in corpore proportionales eis et obiectis <seg>earum.</seg> Causa uero horum
+    postea patebit. </p>
+        <p xml:id="da-236-ed1e12253-d1e12701">Ad primam rationem in contrarium dicendum <seg>est</seg> quod substantia quedam est
+    spiritualis et quedam est <seg>corporalis.</seg> Substantie autem uel forme corporales non
+    sunt nate simul et semel esse in pluribus set spirituales, <seg>nam</seg> spirituales duobus
+    modis sunt: quedam que non dependent a corpore nec sunt alicuius partis corporis actus nec
+    forme corporum. Alie uero sunt que dependent a corpore <seg>et</seg> sunt forme et actus
+    corporum et partium corporis. Substantia spiritualis que non dependet a corpore non coartatur
+    per aliquid, set de se coartatur quod non in pluribus cum sit creata. Substantia
+      <seg>uero</seg> spiritualis creata que dependet a corpore et est forma corporis, cum sit
+    forma eo quod est forma et totum perficit per suam essentiam est in singulis partibus. Eo
+    autem quod operatur in singulis partibus et operatio debetur potentiis est per potencias in
+    singulis partibus. Eo uero quod est simplex <hi>|</hi> et impartibilis et non distensa est
+    tota simul in omnibus partibus. Talis autem substantia spiritualis que est anima sensibilis
+    quo <seg>modo</seg> et uegetabilis que est forma corporis et ita per naturam dictam
+      <seg>potest</seg>
+          <seg>esse</seg> essentia in pluribus partibus eius cuius est forma, licet intellectiua que est
+    simplicior ipsa non sit simul in pluribus. </p>
+        <p xml:id="da-236-ed1e12253-d1e12732">Ad secundam <seg>rationem</seg> dicendum est quod in anima sunt duo, scilicet substantia
+    anime et potentia, et operatio que sequitur potentiam. A parte substantie non coartatur anima
+    sensibilis nec <seg>uegetabilis.</seg> A parte <seg>uero</seg> potentiarum
+      <seg>coartantur</seg> ad diuersas <seg>partes</seg> corporis sibi proportionales et suis
+    obiectis et sic est per essentiam non coartata ad aliquas <seg>partes,</seg> set per potentias
+    que appropriant <seg>sibi</seg> partes coartantur, et quantum ad hoc intellexit Aristoteles
+    quod est actus alicuius partis corporis. </p>
+        <p xml:id="da-236-ed1e12253-d1e12757">Ad terciam rationem dicendum est <seg>quod</seg> quadruplex est genus formarum: quedam
+    perficiunt materiam et partes materie secundum eandem rationem et partes denominantur
+      <hi>|</hi> ab actu primo totius et ab operatione et talis <seg>est</seg> forma
+      <seg>ignis,</seg> unde quelibet pars ignis est ignis et quelibet pars ignis lucet et
+    calefacit <seg>et</seg> tales sunt <seg>forme</seg> homogeneorum et in illis denominatur pars
+    a toto, unde quelibet pars ignis est ignis et quelibet pars terre est terra et sic de aliis.
+    Alia <seg>autem</seg> est forma que perficit materiam et partes eius secundum rationem
+    dissimilem et partes <seg>denominantur</seg> ab actu primo et secundo <seg>totius</seg> non
+    tamen <seg>denominantur</seg> a forma totius et partes singule habent naturam totius decise et
+    separate a toto et supplent officium totius propter uniformitatem <seg>partium</seg> cum toto,
+    et talis est anima uegetabilis in planta. Quelibet enim pars plante uiuit, non tamen est
+    planta cum planta sit <seg>difformis</seg> in partibus, set quelibet pars plante separata a
+    planta uiuens uita propria efficitur planta et in qualibet parte ipsius est potentia ad
+    plantam propter uniformitatem partium <seg>cum</seg> toto uel ad totum, et ita anima
+    uegetabilis existens in qualibet parte plante dat eis esse et operationem plante, non
+      <seg>tamen</seg> dat eis nomen totius nisi potentia solum <seg>et</seg> cum quelibet pars
+    plante sit incompleta respectu totius et difformis a toto. Tercia forma <seg>est</seg> que
+    perficit totum et partes ratione dissimili et partes denominantur ab esse totius et operatione
+    non tamen denominantur a forma totius nec actu nec potentia et talis est anima sensibilis que
+    perficit animal. Quelibet enim pars animalis perficitur ab anima sensibili et <seg>etiam</seg>
+    ab operatione eius et ab ipso denominatur non tamen quelibet pars animalis, nec actu nec
+    potentia denominatur a <seg>forma</seg> totius. Et ita quamuis anima sensibilis per essentiam
+    sit in qualibet parte <seg>animalis</seg> et det ei actum essentialem et operationem, non
+    tamen <seg>aliqua</seg> pars animalis denominatur a forma totius que est <seg>animal</seg> nec
+    actu nec potentia, quia forma que est animal non competit animali nec ex <seg>parte</seg>
+    corporis nec a parte partium. Set a parte unionis <seg>totius</seg> anime cum toto corpore.
+    Quarta forma est <seg>que</seg> perficit totum et partes ratione dissimili et totum
+    denominatur ab actu illius <seg>forme</seg> primo <seg>et</seg> secundo. Partes autem non
+    denominantur <seg>ab</seg> actu illius primo nec <seg>secundo</seg> nec actu nec potentia et
+    talis est anima <seg>intellectiua,</seg>
+          <seg>que</seg> perficit hominem. Totus enim homo est homo non secundum aliquam sui partem et
+    ita partes non denominantur ab actu uel forma totius. Iterum totus homo intelligit et tamen
+    nulla suarum partium nec actu nec potencia intelligit. Hec <seg>autem</seg> diuersitas
+    formatur a maiori recessu et <seg>accessu</seg> et dependentia forme a materia et a
+    diuersitate partium totius <seg>a</seg> maiori et <seg>a</seg> minori, quamuis ergo anima
+    sensibilis sit in <seg>eis</seg> actu et potentia. Et propter hoc in animali quelibet pars
+    animalis <seg>non</seg> est animal. In planta enim <seg>partes</seg> potentia denominatur a
+    forma totius et non actu. </p>
+        <p xml:id="da-236-ed1e12253-d1e12877">Ad quartam rationem dicendum <seg>est</seg> quod anima <seg>consideratur</seg> duobus modis:
+    uno modo sicut perfectio et hoc modo non determinat partem in corpore, set in omni parte
+    corporis existit. Alio modo comparatur anima <hi>|</hi> ad corpus prout est principium
+    operationis in eo et sic in eo per diuersitatem potentiarum siue <seg>per</seg> diuersas
+      <seg>potentias</seg> exercet operationes et etiam respondent <seg>eis</seg> diuerse partes
+    in corpore diuersis potentiis anime et diuersis obiectis earum proportionales et potentie
+    appropriant partes in corpore. Cum <seg>autem</seg> ponit <seg>Auicenna</seg> distinctionem
+    membrorum et ponit membrum principale quod influit ad omnia alia membra intendit de anima
+    secundum quod est principium operationis in <seg>corpore,</seg> utens corpore et partibus
+    suis, sicut instrumentis, et sic est unum membrum per quod <seg>anima</seg> primo operatur et
+    per quod influit suas operationes aliis <seg>membris.</seg> Organa enim non respondent anime
+    secundum quod est perfectio, <hi>|</hi> set secundum quod est perfectio respondet
+      <seg>ei</seg> complexio corporis secundum <seg>equilitatem</seg> existens, propter hoc
+    appropriat sibi diuersas partes in corpore quamtum ad suas potentias et ita quod potentia
+      <seg>uisiua</seg> apropriat sibi oculum et per ipsum operatur. Anima autem cum sit perfectio
+    per essentiam, nullam partem sibi apropriat, set est in qualibet parte per essentiam. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

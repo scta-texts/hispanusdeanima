@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e6557" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e6557-d1e6562">
+          <hi>Considerandum autem est hic primum quidem de motu</hi> et cetera. <hi>|</hi> Consummata
+    narratione circa opiniones philosophorum diuersimode de anima opinantium et circa causas
+    opinionum ipsorum, in hac parte intendit philosophus eorum opiniones improbare ut maledicta ab
+    ipsis abiciat, benedicta autem iudicat. </p>
+        <p xml:id="da-236-ed1e6557-d1e6570">Diuisio. Recipit autem hec pars diuisionem in partes duas, in quarum prima contradicit
+    opinionibus ipsorum. In secunda, scilicet in hac, <hi>quoniam autem cognoscere est anime et
+      sentire et opinari adhuc concupiscere</hi> et cetera, inquirit de numero actionum et
+    uirtutum anime et partibilitatem et impartibilitatem ipsius et uirtutum eius cuius partis
+    continuatio in fine huius tractatus patebit. Prima autem pars recipit diuisionem in partes
+    duas, in quarum prima improbat opiniones ipsorum diffinientium animam per motum. In secunda,
+    scilicet in hac, <hi>tribus autem modis traditis secundum quos diffiniunt animam</hi> et
+    cetera, improbat opiniones diffinientium animam per cognitionem. Cum autem sit opinio
+      <seg>diffiniens</seg> animam per utrumque simul, cum istis improbatur et precipue in prima
+    parte in qua improbatur opinio platonicorum dicentium animam esse numerum se ipsum mouentem. </p>
+        <p xml:id="da-236-ed1e6557-d1e6582">Prima autem pars recipit diuisionem in partes duas, in quarum prima improbat opiniones
+    diffinientium animam per motum in uniuersali destruens fundamentum <seg>intensionis</seg>
+    omnium. In secunda, scilicet in hac, <hi>quidam autem et mouere dicunt animam corpus in quo
+      est</hi> et cetera, improbat ipsorum opiniones in speciali. Prima autem pars recipit
+    diuisionem in duas partes, in quarum prima improbat opiniones ipsorum in uniuersali destruendo
+    fundamentum intensionis ipsorum, quia autem rationabilius contingit ponere animam moueri non
+    motu illo secundum quem mouet corpus set motu alio spirituali, sicut motu representationis et
+    receptionis specierum sensibilium in ipsa. Ideo in secunda, scilicet in hac, <hi>animam autem
+      maxime dicet aliquis et a sensibili moueri</hi> et cetera, inquirit quo modo ueritatem
+    habeat primo ponens ipsam secundum predictum modum moueri. </p>
+        <p xml:id="da-236-ed1e6557-d1e6594">Prima autem harum partium spectat ad lectionem presentem. Intendit igitur in hac parte
+    philosophus improbare opiniones diffinientium per motum in uniuersali destruendo fundamentum
+    intensionis ipsorum. Recipit autem hec pars diuisionem in partes duas, in quarum prima
+    destruit principium in quo ipsorum fundatur intensio quod est quod omne mouens necessario
+    mouetur. In secunda, scilicet in hac, <hi>dupliciter autem commoueatur omne aut enim secundum
+      se ipsum aut secundum alterum</hi> et cetera, improbat ipsorum opiniones uniuersaliter
+    ostendens animam impossibile moueri. Prima autem pars recipit diuisionem in duas partes in
+    quarum prima proponit <hi>|</hi> intensionem suam. In secunda, scilicet in hac, <hi>fortassis
+      autem non solum falsus</hi> et cetera, prosequitur propositum. Secunda autem pars
+    principalis recipit diuisionem in partes duas, in quarum prima ostendit animam nullo motu
+    moueri. In secunda, scilicet in hac, <hi>quoniam autem anima uidetur mouere corpus</hi> et
+    cetera, ostendit animam non moueri illo motu quo corpus mouetur qui magis proprius ei uidetur. </p>
+        <p xml:id="da-236-ed1e6557-d1e6610">Prima autem pars recipit diuisionem in duas partes, in quarum prima assignat distinctionem
+    eius quod mouetur per se aut per accidens ex qua suas rationes elicit ut in illa suas fundet
+    rationes ut scilicet ex certa distinctione procedat et in ambiguo non laboret. In secunda,
+    scilicet in hac, <hi>dupliciter autem dicto quod mouetur nunc intendamus de anima</hi>,
+    inducit tres rationes ad ostendendum animam nullo modo per se moueri secundum quarum numerum
+    illa pars habet tres partes. </p>
+        <p xml:id="da-236-ed1e6557-d1e6616">Diuisionis recollectio. Sunt igitur in lectione presenti partis quinque, in quarum prima
+    proponit philosophus quod intendit. In secunda destruit principium in quo fundatur intensio
+    philosophorum diffinientium animam per motum. In tercia assignat distionctionem eius quod
+    mouetur ut ex eius suppositione procedat. In quarta inducit tres rationes ad ipsorum opiniones
+    improbandas ostendens animam per se carere motu. In quinta ostendit animam motu corporis per
+    se non moueri. </p>
+        <p xml:id="da-236-ed1e6557-d1e6619">Hec autem est diuisio huius partis.</p>
+        <p xml:id="da-236-ed1e6557-d1e6622">Sententia prime partis est: circa primam partem sic procedit philosophus proponens suam
+    intensionem et dicens quod inter omnes opiniones primo prosequendum est de illis que
+    diffiniunt animam per motum. Consequenter ostendit intensionem ipsorum fundari supra
+    falsitatem dicens quod non solum falsus est sermo ponens animam esse substantiam mouentem se
+    ipsam, sicut ipsi posuerunt, aut potentem se ipsam mouere. Set etiam impossibile est dicere
+    ipsam solum simpliciter moueri siue a se siue ab alio ut per motum diffiniatur et in esse
+    constituatur. Deinde interimit illud in quo fundatur intensio ipsorum dicens quod, sicut primo
+    dictum est, impossibilis est sermo asserens omne quod mouetur simul participare motum.
+    Consequenter destruit eorum opiniones et primo diuidit modos eius quod mouetur dicens quod
+      <seg>aliud</seg> mouetur dupliciter aut per se, sicut illud quod proprio motu mouetur, et
+    non motu eius in quo est; aliud autem mouetur per accidens, sicut illud quod mouetur per
+    existentiam sui in altero et hoc modo mouetur nauta secundum motum nauis per accidens et
+    ostendit quod motu nauis mouetur per accidens et non per se hac ratione: omne quod per se
+    mouetur proprio motu mouetur. Set proprius motus hominis qui est motus est nauta processiuus,
+      <seg>quia</seg> attribuitur partibus organicis, scilicet pedibus uel partibus et secundum
+    istum motum non mouetur in <hi>|</hi> naui, <seg>ergo</seg> in naui non mouetur per se set per
+    accidens, scilicet per motum nauis qui non est proprius motus eius et hoc significat cum
+    dicit, <hi>manifestum est autem in partibus</hi> et cetera, et notandum quod <seg>aliud</seg>
+    mouetur dupliciter: aut per se aut per accidens. Per se autem dupliciter aut enim per se et
+    primo et sic totum animal mouetur aut enim per se non primo et sic manus in ipso mouetur. Per
+    accidens autem dupliciter: aut enim mouetur <seg>aliud</seg> per accidens et potest proprio
+    motu moueri, et sic mouetur nauta motu nauis, aut mouetur non tamen motu proprio potest
+    moueri. Et sic mouetur albedo <seg>uel</seg> quodlibet accidens motu sui subiecti.
+    Consequenter inducit rationes ad <seg>improbandum</seg> eorum opiniones. Et illa pars habet
+    tres partes secundum tres rationes, et prima accipitur a diuisione specie, <seg>scilicet</seg>
+    motus. Secunda accipitur a comparatione motus localis naturalis ad uiolentum. Tercia accipitur
+    a natura motus elementorum in relatione ad suo situs determinatos. </p>
+        <p xml:id="da-236-ed1e6557-d1e6656">Prima ratio incipit. <hi>Dupliciter autem dico quod mouetur</hi> et cetera. Secunda sic:
+      <hi>amplius autem si natura mouetur et uiolentia mouetur</hi> et cetera. Tercia sic,
+      <hi>amplius autem si quid sursum mouetur ignis erit</hi> et cetera. </p>
+        <p xml:id="da-236-ed1e6557-d1e6668">Circa autem primam rationem duo proponit: primum enim ostendit quod anima non mouetur motu
+    essentiali locali. Secundum est quod non mouetur motu accidentali sicut mouentur accidentia
+    que in suis subiectis existunt. Dicit igitur quod postquam distinctum est quod modis aliquid
+    mouetur inquirendum est secundum quem modum <seg>atingit</seg> animam moueri et formatur sua
+    ratio hoc modo: omne quod per se mouetur participat aliquem quatuor motuum aut omnes aut
+    plures <seg>eorum.</seg> Set anima per se mouetur sicut ipsi posuerunt, ergo participat
+    aliquem predictorum motuum aut omnes aut plures. Omne autem quod per se participat omnes motus
+    aut unum per se participat motum localem. Maior autem probatur eo quod omnes alii motus
+    fundantur in motu locali qui est primus et sine ipso <seg>nullius*</seg> est aliorum. Minor
+    autem patet ex suppositione. Habetur igitur predicta ratione quod cum anima per se moueatur
+    sicut ponebant philosophi ipsa per se mouetur motu locali. Ex hoc sequitur quod cum omne
+    mobile secundum locum sit corpus occupans locum quod anima sit corpus occupans locum quod est
+    inconueniens. </p>
+        <p xml:id="da-236-ed1e6557-d1e6681">Deinde secundo, cum <seg>dicet,</seg>
+          <hi>si enim substantia anime est mouens secundum se ipsam</hi> et cetera, ostendit quod anima
+    non potest moueri motu accidentali et est sua ratio talis: nichil quod ipso mouetur secundum
+    accidens mouetur. Set anima est huiusmodi, sicut ipsi posuerunt, ergo anima non mouetur
+    secundum accidens et ostendit que sunt que mouentur secundum accidens dicens quod talia sunt,
+    sicut album <seg>tricubitum,</seg> et uniuersaliter omne accidens quod mouetur motu sui
+    subiecti. Talia enim <hi>|</hi> mouentur motu corporis quod est ipsorum subiectum et ideo cum
+    unumquodque sicut se habet ad motum sic se habet ad locum. Hec autem accidentia per accidens
+    participant, set per oppositum omne quod per se participat motum per se participat locum. Set
+    anima cum naturaliter se ipsa moueatur per se participat motum, ergo per se ipsam participat
+    locum, quod falsum est. </p>
+        <p xml:id="da-236-ed1e6557-d1e6696">Auerrois autem uult exponere quod Aristoteles intendit ostendere animam non moueri motu
+    accidentali, set motu alterationis et motu augmenti et diminutionis eo quod isti motus per
+    accidens sunt, scilicet per motus <seg>subiecti.</seg> Set motus conuenit anime naturaliter et
+    per se secundum philosophos, et dicit quod alteratio est motus per accidens, quia secundum
+    ipsam mouentur qualitates secundum motum corporis. Augmentatio autem et diminutio sunt motus
+    per accidens, quia in ipsis mouetur totum per accidens, quia secundum additionem et
+    diminutionem partium. Et formatio rationis procedit secundum eundem modum, qui primo ante
+    dictus est. Consequenter assignat secundam rationem que talis est: omne quod mouetur natura
+    mouetur uiolentia, et omne quod quescit natura quiescit <seg>mouentia,</seg> sicut patet in
+    istis corporibus inferioribus grauibus et leuibus. Set anima mouetur et quiescit natura
+    secundum ipsos, ergo mouetur et quiescit uiolentia uel ad minus mouetur uiolentia. -<hi>blanco
+      columna-</hi>
+        </p>
+        <p xml:id="da-236-ed1e6557-d1e6707">
+          <hi>|</hi>
+          <seg>Questiones.</seg> Circa partem primam queruntur plura: </p>
+      </div>
+    </body>
+  </text>
+</TEI>

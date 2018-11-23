@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e7259" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e7259-d1e7264">
+          <hi>|</hi> Incipit expositio secundi tractatus continens duodecem capitula. In primo autem
+    capitulo agitur de essentia <seg>ipsius</seg> anime sermone uniuersali et continet quatuor
+    paragraphos. In primo autem continente tres distinctiones anime inquiritur diffinitio
+    uniuersalis. Continuatio intensionis.</p>
+        <p xml:id="da-236-ed1e7259-d1e7272">
+          <hi>Hec quidem a prioribus tradita de anima dicta sunt</hi> et cetera, ut declaratum est in
+    principio huius scientie, due distinguuntur partes in hac scientia: prima est prohemialis in
+    qua tanguntur ea que sicut preambula preexiguntur ante traditionem huius scientie. Secunda
+    autem est exsecutio in qua traditur cognitio substantie anime et differentiarum, uirtutum,
+    operationum et obiectorum ipsius. </p>
+        <p xml:id="da-236-ed1e7259-d1e7277">
+          <seg>Prima</seg> autem pars sic incipit: <hi>Bonorum honorabilium notitiam opinantes</hi> et
+    cetera. Secunda pars incipit <seg>sic:</seg>
+          <hi>intendentes de anima necesse est simul dubitare</hi>, et ordo patet ex significatione
+    ipsius <seg>sermonis.</seg>
+        </p>
+        <p xml:id="da-236-ed1e7259-d1e7294">Pars autem exsecutiua recipit diuisionem in partes <seg>duas,</seg> in quarum prima
+    continente primum tractatum determinatur de anima secundum opiniones aliorum philosophorum, in
+    qua philosophus aliorum opiniones narrat et rationes <seg>ipsarum</seg> et ipsas improbat. In
+    secunda continente secundum tractatum et tercium determinat philosophus de anima secundum uiam
+    ueritatis et proprie intensionis et hec pars incipit hic: <hi>hec quidem a prioribus tradita
+      dicta sunt de anima</hi> et cetera, et extendit usque ad finem huius scientie. Ordo autem
+    patet ex duplici causa et una est, quia duplex est error in scientia: unus est qui oritur a
+    determinatis in <seg>scientia</seg> et iste sequitur ueritatem determinatorum in scientia cum
+    ab ipsis contrahat ortum. Alius est qui non habet ortum a determinatis in scientia et talis
+    preordinatur in scientia ut primo <seg>exturpetur</seg> et postea ueritas
+      <seg>introducatur,</seg> et hoc modo se habent errores aliorum philosophorum et ideo
+    philosophus ipsos <seg>proponit</seg> ueritati. Alia causa est quam ipse philosophus tangit
+    dicens in principio <seg>tractatus</seg> quod nos intendentes de anima determinare simul cum
+    aliis philosophis de dubitatibus circa ipsam dubitemus et attendamus positiones antiquorum et
+    si aliquid in eis conuenienter assignatum <seg>inueniamus</seg> eligamus et benigne
+    accipiamus. Si autem inconuenienter aliqua dicta sunt in ea uerentes repudiemus, et ideo
+    secundum hunc ordinem procedit philosophus in hac scientia. </p>
+        <p xml:id="da-236-ed1e7259-d1e7326">Diuisio. Recipit autem tractatus iste totus <seg>diuisionem</seg> in duas partes, in quarum
+      <hi>|</hi> prima determinat philosophus de anima secundum ea que insunt ei communiter ex
+    parte omnium suarum differentiarum determinans de essentia <seg>et</seg> diffinitione
+      <seg>eius</seg> uniuersaliter et de eis que ei <seg>insunt</seg> uniuersaliter insunt et
+    eius existentiam in corpore manifestant. In secunda, scilicet in hac, <hi>necessarium autem
+      est debentem de <seg>hiis</seg> intensionem facere accipere unumquodque ipsorum quid
+      est</hi> et cetera, determinat de ipsa ex parte eorum que insunt <seg>et</seg> specialiter
+    secundum omnes speciales <seg>eius</seg> differentias per ordinem de singulis differentiis
+    uirtutibus, <seg>actibus</seg> et obiectis specialiter pertractans. Ordo autem patet cum
+      <seg>uniuersalis</seg> precedat specialem. Illa autem secunda continet partem secundi
+    tractatus et totum tercium <seg>et</seg> in prima eius parte determinatur de differentia anime
+    que est uegetalis et de illa que est sensibilis. In secunda que continet tercium tractatum
+    determinatur de anima intellectiua et processus huius <seg>distinctionis</seg> in suis patebit
+      <seg>locis.</seg>
+        </p>
+        <p xml:id="da-236-ed1e7259-d1e7373">Prima autem pars recipit diuisionem in duas, in quarum prima determinat de substantia anime
+    et eius diffinitione prout est perfectio <seg>corporis</seg> per quod diffinitur dans eius
+    diffinitionem que dicit quid est ipsa per inherentiam quam habet ad corpus. In secunda,
+    scilicet in hac, <hi>quoniam autem ex incertis certioribus autem fit</hi> et cetera,
+    determinat de anima et eius <seg>essentia</seg> assignans eius diffinitionem que dicit quid
+      <seg>est</seg> et propter quid est determinans de ipsa prout secundum diuersitatem suarum
+    differentiarum est principium diuersarum operationum per quas manifestatur existentia ipsius
+    in corpore. Ordo autem manifestus est cum secunda pars se habeat ex additione ad primam.
+    Illius autem partis intensio in sequentibus euidentius declarabitur. </p>
+        <p xml:id="da-236-ed1e7259-d1e7388">Pars autem prima recipit diuisionem in duas, in quarum prima inquirit anime diffinitionem et
+    principia diffinitionis ipsius. In <seg>secunda,</seg> scilicet in hac,
+      <seg>
+            <hi>si</hi>
+          </seg>
+          <hi> autem <seg>aliquod</seg> commune in omni anima oportet dicere
+      erit utique actus primus</hi>, determinat comparationem anime ad corpus cuius ipsa
+    diffinitur perfectio ut per hanc comparationem ipsius anime diffinitio declaretur que datur
+    per relationem anime ad corpus cum causa, sicut testatur philosophus in hoc tractatu unaqueque
+    species dicatur ad proprium susceptibile et forme sit proportio ad suam materiam. Ideo cum
+    anima sit forma specifica corporis necesse est ut ad ipsum habeat proportionem <seg>quam</seg>
+    philosophus in illa parte <seg>secunda</seg> determinat. Ordo autem euidens est cum secunda
+    pars sit expositiua prime. </p>
+        <p xml:id="da-236-ed1e7259-d1e7409">Prima autem pars spectat ad presentem speculationem. In hac igitur parte est intensio
+    philosophi inquirere anime diffinitionem. Recipit <seg>autem</seg> hec pars diuisionem in duas
+    partes, in quarum prima proponit philosophus intensionem suam continuans dicta dicendis. In
+    secunda, scilicet in hac, <hi>dicamus igitur genus </hi>
+          <hi>|</hi>
+          <hi> unum quod erit eorum
+      que sunt substantia</hi> et cetera, prosequitur intensionem suam. Prima autem
+      <seg>pars</seg> remanet <seg>indiuisa.</seg> Secunda uero recipit diuisionem in duas partes,
+    in quarum prima inquirit principia diffinitionis anime. In secunda, scilicet in hac,
+      <hi>necesse est ergo animam substantiam esse sicut speciem corporis</hi> et
+      <seg>cetera,</seg>
+          <hi>phisici potentia uitam habentis et</hi> cetera, concludit ex suis principiis diffinitionem
+    anime et eius inquirit completionem. Prima autem pars recipit diuisionem in duas partes in
+    quarum prima <seg>inquirit</seg> ex parte anime que <seg>est</seg> perfectio. In
+      <seg>secunda,</seg> scilicet in hac, <seg>
+            <hi>substantie</hi>
+          </seg>
+          <hi> autem maxime
+      uidentur corpora</hi> et cetera, inquirit principia a <seg>parte</seg> corporis cuius anima
+    est perfectio et per quod diffinitur. Secunda autem in qua concludit anime diffinitionem ex
+    suis principiis <hi>|</hi> diuiditur in tres <seg>partes,</seg> in quarum prima concludit quod
+    anima est perfectio corporis naturalis potentia uitam habentis. In secunda, scilicet in
+      <seg>hac,</seg> concludit quod est perfectio prima illius corporis distinguens duplicem
+    perfectionem primam et secundam. In tercia, scilicet in hac, complens anime diffinitionem
+    concludit quod est perfectio corporis organici omnibus aliis conditionibus suppositis. </p>
+        <p xml:id="da-236-ed1e7259-d1e7466">Diuisionis recollectio. Sunt igitur in lectione presenti partes sex, in quarum prima ponitur
+      <seg>pars</seg> prohemialis in qua auctor continuans dicta dicendis uniuersalem tangit
+    intensionem circa ea que de anima sunt dicenda. In secunda inquirit principia diffinitionis
+    anime ex parte generis ipsius. In tercia inquirit principia diffinitionis ex parte corporis.
+    In quarta concludit quod anima est perfectio corporis naturalis potentia uitam habentis. In
+    quinta assignans distinctionem primi actus et secundi concludit quod anima est actus primus
+    illius corporis. In sexta concludit quod est perfectio corporis organici omnes debitas
+    conditiones habentis et in hoc consistit perfectio diffinitionis. </p>
+        <p xml:id="da-236-ed1e7259-d1e7472">Hec autem est diuisio huius partis.</p>
+        <p xml:id="da-236-ed1e7259-d1e7476">Sententia prime partis de continuatione dictorum ad dicenda et de intensionis manifestatione. </p>
+        <p xml:id="da-236-ed1e7259-d1e7479">Circa primam partem procedit philosophus hoc modo: duo tangens in capitulo prohemali: primo
+    est breuis recapitulatio eorum que dicta sunt in primo tractatu dicens quod predicte opiniones
+    que dicte sunt de anima tradite sunt ab antiquis philosophis. Secundum <seg>est</seg> eorum
+      <seg>intensio</seg> que dicenda sunt in hoc tractatu et hoc tangit cum dicit, <hi>iterum
+      autem tanquam ex principio redeamus</hi> et cetera. Dicit igitur quod nunc temptandum
+      <seg>est</seg> redeundo a principio de ipsa anima <seg>ut</seg> dicamus de <seg>ipsa</seg>
+    quid est per diffinitionem dicentem quid est et que <seg>est</seg> magis ratio <seg>eius</seg>
+    propria per rationem dicentem <seg>quid</seg> et propter quid est et cum dicit temptandum
+    tangit difficultatem que est circa animam et est <hi>|</hi> triplex difficultas: una que
+      <seg>est</seg> a parte obiectorum. Alia <seg>est</seg> a parte potentiarum et operationum,
+    et alia <seg>est</seg> a parte substantie anime. Cum autem dicit redeundun esse a principio
+    tangit defectum aliorum philosophorum qui quasi nichil aut parum de anima contulerunt et sic
+    terminatur prima pars prohemialis. </p>
+        <p xml:id="da-236-ed1e7259-d1e7523">Sententia secunde partis de inuestigatione principiorum diffinitionis anime a parte sui
+    generis in qua <seg>queritur</seg> eius genus per uiam diuisiuam et <seg>cetera.</seg> Deinde
+    agreditur secundam <seg>partem</seg> principalem in qua procedit hoc modo supponendo hanc
+    diuisionem. Entium aliud est substantia <seg>et</seg> aliud accidens. Diuidit substantiam in
+    materiam et formam et compositum. Deinde exponit membra diuisionis dicens quod materia est
+    illud quod est potentia. Forma autem est endelichia, id est, actus. Secundo cum dicit,
+      <hi>dupliciter hoc quidem sicut scientia illud quidem sicut considerare</hi> et cetera,
+    subdiuidit actum primum qui est sicut scientia et secundum qui est sicut considerare.
+    Consequenter aggreditur partem illam in qua inquirit principia diffinitionis a parte corporis
+    et in illa procedit hoc modo, tria intendit: dicit <seg>primo</seg> quod res que maxime
+    uidentur esse substantie dicuntur corpora, et hoc est <seg>quia</seg> omnibus motibus et
+      <seg>transformationibus</seg>
+          <seg>substant,</seg> et quia manifestiora sunt in natura. Secundo, cum dicit, <hi>set
+       <seg>philosophorum</seg> alia quidem habent uitam</hi> et cetera, assignat
+      <seg>differentiam</seg> corporum naturalium ut accipiat corpus cuius anima est perfectio.
+    Dicit igitur quod corporum naturalium quedam habent uitam, quedam autem non, et sic subponit
+    hanc diuisionem substantiarum quedam sunt corpore, quedam in corpore. Deinde sequitur hec
+    diuisio corporum, aliud naturale, aliud non naturale, sicut mechanicum. Et hanc diuisionem
+    assignat corporum naturalium: aliud uiuens, aliud non uiuens. Et <seg>ostendit</seg> quod sunt
+    corpora que uiuunt dicens quod corpora uiuentia cognoscuntur per augmentum et
+      <seg>nutrimentum,</seg> deinde ex dictis elicit hanc conclusionem omne corpus est substantia
+    composita, set omne phisicum uiuens est corpus, ergo omne phisicum uiuens est
+      <seg>substantia</seg> composita. </p>
+        <p xml:id="da-236-ed1e7259-d1e7573">Differentia ad corpus, consequenter tercio assignat differentiam anime ad <seg>corpus</seg>
+    ne credatur quod cum anima sit principium uite quod propter hoc sit corpus uiuens. Dicit
+    igitur quod anima non est corpus uiuens, et hoc probat ratione tali: nullum corpus est illud
+    quod in altero existit. Set anima in altero existit, quoniam in corpore cuius est forma,
+    corpus autem est materia ipsius anime, ergo corpus non est anima nec e conuerso. Unde propter
+    duplicem causam ponit diuisionem corporis. una est ut asignetur anime <seg>differentia</seg>
+    ad corpus et ut ipsa a corpore distinguatur. Secunda est ut accipiantur principia
+    diffinitionis anime a parte corporis. Ex predictis igitur manifestum est quod Aristoteles
+    innuit <hi>|</hi> diuisiones multorum membrorum ex quibus elicuntur principia diffinitionis
+    anime per collectionem et coniunctionem partium ad inuicem. </p>
+        <p xml:id="da-236-ed1e7259-d1e7585">Prima autem diuisio hec est: entium aliud substantia <seg>et</seg> aliud accidens, et ex hac
+    habetur quod tam anima quam corpus est substantia et non accidens. Secunda hec est:
+    substantiarum alia materia, alia forma <seg>est,</seg> alia compositum, et ex hac
+      <seg>habetur</seg> quod anima est substantia que est forma et non <seg>est</seg> materia
+      <seg>neque</seg> compositum et quod est <seg>corpus</seg> compositum locum habens materie
+    respectu anime. Tercia diuisio hec est: formarum alia est actus primus, alia secundus. Et ex
+    hac habetur <seg>quod</seg>
+          <seg>anima</seg> est actus primus <seg>et</seg> non secundus. Quarta est substantiarum alia
+    corporea, alia incorporea, et ex hac habetur quod anima non est substantia corporea set
+    incorporea, set subiectum ipsius est substantia corporea. Quinta diuisio est substantiarum
+    corporearum, alia est corpus naturale, alia est <seg>corpus</seg> non naturale, sicut
+    mechanicum, et ex hac <seg>parte</seg> habetur quod corpus cuius est <seg>perfectio</seg>
+    anima est corpus naturale et non mechanicum. Sexta diuisio est corporum aliud uiuens, aliud
+    non uiuens, <hi>|</hi> et per hanc habetur quod anima est perfectio corporis uiuentis. </p>
+        <p xml:id="da-236-ed1e7259-d1e7629">
+          <seg>Sententia</seg>
+          <seg>partis</seg>
+          <seg>quarte</seg> est in qua elicitur diffinitio anime ex suis principiis. Hoc habito
+    concludit philosophus ex predictis anime diffinitionem dicens quod necesse est, sicut patet ex
+    predictis, animam esse perfectionem corporis naturalis potentia uitam habentis. </p>
+        <p xml:id="da-236-ed1e7259-d1e7641">Sententia quinte partis in qua exponendo predictam diffinitionem distinguitur actus
+      <seg>primus</seg> et secundus. Et ostenditur quod anima est actus primus. Consequenter
+    exponit illam diffinitionem ostendens quo modo anima est actus primus corporis predicti. Dicit
+    igitur quod actus est duplex, scilicet primus et secundus, et exponit actum primum dicens quod
+    est sicut habitus sicut scientia non deducta ad opus et sicut sompnus, et actus secundus est
+    sicut operatio et <seg>sicut</seg> uigilia. Et deinde dicit quod anima est actus primus
+      <seg>et</seg> non secundus. Unde potius assimilatur sompno, que est quasi actus primus quam
+    uigile que est <seg>quasi</seg> secundus, et accipitur sompnus et <seg>uigilia</seg> equiuoce
+    hic et in libro <hi>De sompno et <seg>uigilia</seg>
+          </hi>. Deinde secundo comparat actum primum
+    ad secundum dicens quod actus primus <seg>quandoque</seg> sicut scientia prior est in uia
+    generationis quam actus secundus, quamuis in uia completionis actus secundus qui est
+    completior sit prior actu primo. </p>
+        <p xml:id="da-236-ed1e7259-d1e7668">Sententia <seg>sexte</seg> partis et de completione diffinitionis anime per additionem ultime
+    differentie. Consequenter addit predicte diffinitioni unam differentiam sine <seg>que</seg>
+    non est completa <seg>diffinitio</seg> et est quod anima est perfectio corporis organici, unde
+    diffinitio sic completur, anima est perfectio prima <hi>|</hi> corporis naturalis organici
+    potentia uitam habentis. Et <seg>dicit</seg> predictis diuisionibus hec diuisio
+      <seg>addi:</seg> corporum aliud organicum aliud non organicum prout ex ipsa habeatur quod
+    anima est perfectio corporis organici. Deinde <seg>etiam,</seg> cum dicit, <hi>organa autem et
+      plantarum partes sunt</hi> et cetera, <seg>ostenditur</seg> quod omni corpori cuius anima
+    est perfectio competit esse organicum quia dubium erat hoc in plantis. Dicit igitur quod
+    plante habent organa quia habent partes ad diuersas operationes et fines ordinatas. Et hoc
+    patet quia folia sunt cooperimenta corticis et cortex qui est in fructu est cooperimentum
+    fructus et cortex qui <seg>est</seg> trunco et ramus est cooperimentum eorum. Set radices sunt
+    in plantis, sicut os in animalibus, quia sicut animal attrahit nutrimentum per os, similiter
+    planta attrahit <seg>nutrimenta</seg> per radices. Per hoc autem exponitur intentio philosophi
+    in hac parte. </p>
+        <p xml:id="da-236-ed1e7259-d1e7705">
+          <seg>Questiones.</seg> Ad euidentiam autem eorum que in hac parte determinantur nouem
+    incidunt questiones. Prima [lec1 q1] <seg>questio</seg> est utrum anima <seg>sit.</seg>
+    Secunda [lec1 q2] est utrum sit substantia <seg>uel</seg> accidens. Tercia [lec1 q2] est de
+    diuisione substantie per suas differentias ut <seg>accipiantur</seg> ad quod membrum anima
+    reducatur. Quarta <seg>[lec1</seg> q4] est utrum <seg>unitas</seg> et hoc aliquid proueniat
+    magis ex parte materie an ex parte forme. Quinta [lec1 q5] est utrum anima sit materia an
+    forma an compositum. Sexta [lec1 q6] est de causa organiza<hi>c</hi>ionis. Septima [lec1 q7]
+    est quo modo partes plantarum sint organice et <seg>tamen</seg> simplices. Octaua [lec1 q8]
+    questio est utrum anima sit perfectio et motor alterius corporis quam mixti sicut celestis.
+    Nona [lec1 q9] est de diffinitione <seg>anime</seg> et de eius explanatione. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e20860" >
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum potencie anime
+    reducantur ad unam potenciam</head>
+        <p xml:id="da-236-ed1e20860-d1e20868">
+          <hi>[lec8 q2] Circa secundam questionem sic proceditur et queritur utrum potencie anime
+      reducantur ad unam potenciam. Et ostenditur quod sic: uidemus <seg>enim</seg> in anima
+      uegetabili quod singule partes <seg>eius</seg> potencie sunt ordinate ad corporis
+      conseruationem et quelibet operatur debito tempore secundum quod exigit sua operatio et
+      finis et dispositio corporis et postea cessat et alia incipit <seg>operari</seg> secundum
+      ordinem. Set ordo est per reductionem ad <seg>aliquod</seg> primum ordinans, ergo necesse
+      est quod cum potentie anime uegetabilis sint ordinate quod habeant aliquam uirtutem primam
+      uel potenciam <seg>regulantem</seg> ipsas ad quam reducantur. Item in uirtutibus
+      sensibilibus est uirtus influens <seg>super</seg> omnes differentias <seg>sensuum,</seg>
+      sicut sensus communes. Set illud a quo recipiunt omnes uirtutes influentiam in genere aliquo
+      est illud ad quod reducuntur omnes uirtutes in illo genere, ergo omnes uirtutes sensibiles
+      reducuntur ad aliquam primam uirtutem sensibilem regulantem ipsas et influentem super ipsas.
+      Item in anima intellectiua pars superior que est super recta regulat uirtutes
+       <seg>inferiores</seg> que sunt uirtus intellectiua practica speculatiua possibilis. Ergo
+      in quolibet genere potenciarum anime necesse est ponere reductionem earum ad unam primam
+      potenciam.</hi>
+        </p>
+        <p xml:id="da-236-ed1e20860-d1e20899">
+          <hi>Secunda ratio hec est: sicut se habent membra ad inuicem et media differentia uirtutes.
+      Set omnia membra reducuntur ad unum membrum in diuersis generibus, quia in genere uiuendi
+      reducuntur ad cor et in genere cognoscendi reducuntur omnia membra ad cerebrum et similiter
+      omnes spiritus in diuersis generibus ad unum ut omnes spiritus <seg>animales</seg>
+      reducuntur ad unum spiritum animalem et omnes spiritus <seg>uitales</seg> ad unum. Spiritus
+      autem est medium differens uirtutes anime, ergo omnes uirtutes anime in aliquo genere
+      reducuntur ad unam uirtutem primam in illo genere sicut <seg>omnes</seg> sensibiles ad unam
+      sensibilem primam et omnes uegetabiles ad unam uegetabilem primam, et omnes rationes ad unam
+       <seg>rationalem</seg> primam. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20860-d1e20917">
+          <hi>Ad oppositum: quecumque differunt et ordinantur ad diuersos fines non reducuntur ad unum.
+      Vrtutes anime et in eodem genere et in diuersis sunt huiusmodi. Ergo non reducuntur ad unam
+      primam uirtutem.</hi>
+        </p>
+        <p xml:id="da-236-ed1e20860-d1e20924">
+          <hi>Secunda ratio hec est: si uirtutes anime ad unam </hi>
+          <hi>|</hi>
+          <hi> primam uirtutem regulantem ipsas reducerentur, ergo illa uirtus ab anima egrederetur
+      inmediate et sic esset aliqua uirtus inmediate fluens ab anima per <seg>quam</seg>
+          </hi>
+          <hi> </hi>
+          <hi>|</hi>
+          <hi> uirtutem alie ab anima fluerent et egrederentur. Hoc autem est falsum et improbatum
+       <seg>superius,</seg> quia omnes uirtutes anime inmediate egrediuntur ab anima. Ergo non
+      est ponere aliquam uirtutem primam ad quam reducantur uirtutes anime. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20860-d1e20951">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum est quod <seg>est</seg> aliqua uirtus prima ad quam reducuntur alie
+      uirtutes anime. Set hec prioritas est <seg>ut</seg> in ordinatione diuersarum uirtutum
+      secundum genus uel earumdem secundum genus. In ordinatione autem diuersarum uirtutum
+      secundum genus reducuntur omnes uirtutes anime ad superiorem <seg>uirtutem</seg>
+      intellectiuam secundum cuius regulationem et necessitatem operantur. In eodem autem genere
+      reducuntur omnes uirtutes ad unam primam in suo genere sicut omnes uegetabiles reducuntur ad
+      uirtutem <seg>regulatiuam</seg> corporis que corpus regit et conseruat in uita que unicuique
+      uirtute uegetabili reddit membrum secundum propriam exigentiam in nutrimento et augmento et
+      regulat illas. Sensibiles autem uirtutes reducuntur ad unam primam sensibilem
+       <seg>uirtutem,</seg> et <seg>hoc</seg> est sensus communis ad quem omnes uirtutes
+      reducuntur. In anima <seg>autem</seg> intellectiua est pars superior secundum cuius
+      exigentiam alie uirtutes intellectiue operantur et propter quam <seg>regulantur</seg>
+            <seg>et</seg> ad quam reducuntur. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20860-d1e20991">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod finis uirtutum est duplex,
+      scilicet primus <seg>est</seg> inmediatus et est finis earum ultimus quantum ad primum finem
+      et inmediatum diuerse sunt uirtutes anime, nec habent reductionem ad aliquam uirtutem.
+      Quantum autem ad finem ultimum ad quem singule ordinantur in eodem genere uel in diuersis
+      est unitas in eis et reductio ad unam uirtutem. Omnes enim uirtutes sensibiles ad unum finem
+      ultimum ordinantur, scilicet ad cognoscendum formas corporales et quantum ad hoc regulantur
+      cum sensitiua <seg>comunium</seg> et omnes uegetabiles ad regendum corpus et quantum ad hoc
+      regulantur a uirtute regitiua corporis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20860-d1e21006">
+          <hi>Ad secundam rationem dicendum est quod licet potencie anime reducatur ad unam primam non
+      tamen est propter <seg>hoc</seg> una potencia que inmediate egrediatur ab anima et mediante
+      qua alie ab anima egrediantur <seg>immo</seg> omnes ab anima in mediante egrediuntur, sicut
+      a sua radice. Set illa ad quam alie reducuntur est superior ad ipsas, unde <seg>non</seg>
+      reducuntur ad ipsam <seg>sicut</seg> ad illud a quo fluunt. Set tanquam ad illud per quod in
+      suis operationibus <seg>regulantur</seg> et in acquirendo finem ultimum ad quem ordinantur.
+    </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e5210" >
+        <head>Quaestio 8</head>
+        <head type="question-title">De opinione Democriti circa quam duo</head>
+        <p xml:id="da-236-ed1e5210-d1e5218">[lec 12 q8]<hi> </hi>&lt;Deinde queritur de opinione Democriti circa quam duo queruntur:
+    primum est utrum anima habeat naturam ignis sicut ipse posuit, set est utrum sit composita ex
+    athomis ignis natura habentibus rotunde figure, sicut posuit Democritus et de illis perfectius
+    detractum est superius.</p>
+        <div xml:id="da-236-ed1e5224">
+          <head>1</head>
+          <p xml:id="da-236-ed1e5224-d1e5229">[lec 12 q8.1] Circa primum sic proceditur et queritur utrum anima habeat naturam ignis et
+      ostenditur quod sic: omnis substantia que est principium uite et operationum in corpore et
+      sensus per sui influentiam est influens illud sine quo non est operatio rei uiuentus nec
+      sensus, set frigidum non permiscet se operationem nature, immo calidum. Vidit Aristoteles
+      quod nichil est sentire sine calore, unde calor est illud sine quo non est sensus. Similiter
+      mediante calore influit anima uitam et non mediante frigido. Ergo anima influit calorem
+      tanquam illud sine quo non est uita et sensus, set omnis talis substantia habet naturam
+      ignis uel est similis igni. Ergo anima habet naturam ignis uel similis igni.</p>
+          <p xml:id="da-236-ed1e5224-d1e5232">Secunda ratio hec est: substantiarum quedam sunt spirituales quedam corporales. Substantie
+      autem spirituales influunt super alias substantias spirituales et influunt super corporales,
+      et similiter corporales magis habentes de specie influunt super alias corporales minus de
+      specie habentes. Substantie autem spirituales influunt cognitionem et excitationem ad
+      operationem cum autem influunt spirituales supra spirituales quantum ad cognitionem tunc
+      influunt lucem spiritualem, quia lux manifestat res et omnia in luce clarescuunt. Et ideo
+      intellectus agens dicuntur esse lux ut lux, cum autem influunt super eas quantum ad
+      excitationem operationis, idem dicuntur influere super eas calorem spiritualem. Calor enim
+      eas ad opus excitat. Item appeus* operationis dicitur esse ardor uel calor. Vnde Aristoteles
+      quod dicens descendit inter aplos (apostolos?!)* sensui specie ignis lucentis et ardentis
+      lucentis ut cos excitaret ad cognitionem sub specie ignis ardentis propter excitationem ad
+      operationem. Similiter autem sicut una substantia spiritualis influit super aliam
+      spiritualem, ita substantia spiritualis influit supra corporalem et quantum ad cognitionem,
+      et sic influit in lucem et quantum ad operationem et sic influit calorem uel ardorem. </p>
+          <p xml:id="da-236-ed1e5224-d1e5235">Similiter una substantia corporalis influit super aliam substantiam corporalem sicut
+      corpora superiora influunt super corpora inferiora et influunt duo super ea: unum a parte
+      manifestationis eorum et propter manifestationem eorum, et hoc modo influunt lucem super ea
+      que lux res manifestat et detegit. Influunt etiam quantum ad excitationem operationis et hec
+      est calor et ita illuminant inferiora. Influunt etiam calorem ex hiis, ergo habetur quod
+      omnis substantia spiritualis influens super aliam uel corporalem uel spiritualem influit
+      super eam lucem uel calorem spiritualem. Ergo anima cum sit substantia spiritualis influit
+      hec duo supra corpus. Set omne quod recipitur in aliquo secundum passiuitatem recipientis.
+      Set corpus quod recipit corporalitatis naturam, ergo calor ille habet naturam corporalem et
+      spiritualem ita quod habet corporalem a parte corporis et spiritualem a parte anime. Anima
+      ergo influit calorem spiritualem qui in corpore fit corporalis per quam uiuificat corpus et
+      ad motum dirigit ipsum et ad operationem. Huiusmodi autem calor est uiuificatus. Set omnis
+      substantia influens calorem est habens naturam ignis uel similis cum igne nature uel
+      proportionaliter non proportionaliter, ergo uere sicut ergo in maior modo corpora superiora
+      influunt uitam quia dicuntur esse plena uite et influunt habent mediante luce et calore, ita
+      anima in minori modo influit uitam et sensum mediante calore et luce. Omnis autem substantia
+      influens calorem cum luce habet naturam ignis, quia hec est natura ignis quia lucet et
+      calefacit. Ergo anima habet naturam ignis.</p>
+          <p xml:id="da-236-ed1e5224-d1e5238">Ad oppositum est hec ratio: nulla substantia que est principium uite et conseruationis
+      animalis habet naturam illius quod facit ad consumptionem et destructionem animalis. Set,
+      sicut habetur in libro<hi> De <seg>animalibus</seg>
+            </hi>, calor ignis non facit ad
+      generationem animalium, set ad consumptionem. Calor autem celestis et uitalis faciunt ad
+      generationem, ergo si anima esset ignis uel haberet naturam ignis nichil faceret ad
+      generationem, ergo si anima esset ignis uel haberet naturam ignis nichil faceret ad
+      conseruationem hominis set ad eius destructionem. Hoc autem falsum est: anima non est ignis
+      nec habet naturam ignis. Ad hoc dicimus secundum ueritatem et secundum Aristoteles quod non
+      est uerum quod anima habeat naturam ignis ignis causa autem propter quid anima non habet
+      naturam ignis, et propter quid philosophi posuerunt animam habere naturam ignis superius
+      detracta est. </p>
+          <p xml:id="da-236-ed1e5224-d1e5247">Ad primam rationem in contrarium dicendum quod principium uite duplex est et sensus: unum
+      est quod dat uitam et sensum, et hoc modo anima est principium uite et sensus. Aliud est
+      quod est sicut dispositio metaphisica et instrumentum mediante quo corpus recipit uitam et
+      sensum, et hoc modo calor est principium sensus et uite, set non sicut influens set sicut
+      disponens a parte corporis ad receptionem uite et sensus, et propter hoc ab anima non
+      influitur, set mediante ipso operatur anime uitam et sensum in corpore. Per calorem enim
+      uita conseruatur et per | ipsum organa ad operationem excitantur, unde quia in sompno
+      retrahitur calor ab organis exterioribus ad partes intra, propter hoc uirtutes anime tunc
+      non operatuntur per organa exteriora set remanent illa corpora in moralia et operantur per
+      partes interiores mediante calores ex parte corporalis. </p>
+          <p xml:id="da-236-ed1e5224-d1e5250">Ad secundam rationem in contrarium dicendum quod necesse est quod proportio anime a corpus
+      sit mediante influentia caloris uiuifici, qui calor est principium uite et non mediante
+      influentia caloris ignis, et ita non habet anima naturam ignis et de primo calore bene
+      concludit ratio et de illo probat et non de alio. </p>
+        </div>
+        <div xml:id="da-236-ed1e5254">
+          <head>2</head>
+          <p xml:id="da-236-ed1e5254-d1e5259">[lec 12 q8.2] Circa secundum principale queruntur sex: primum [*lec 12 q8.2] est utrum
+      athomi sint principia rerum secundum est utrum sint compositi ex materia et forma aut
+      particule principia rerum. Tercium [*lec 12 q8.3] est a quibus elementis resolubilia sint.
+      Quartum [*lec 12 q8.4] est utrum ex utrum extendantur in infinitum. Quintum [*lec 12 q8.5]
+      est utrum anima sit ex illis. Sextum [*lec 12 q8.6] est propter quam causam posuerunt
+      philosophi animam esse ex athomis. </p>
+          <p xml:id="da-236-ed1e5254-d1e5262">[lec 12 q8.1] Circa primum sic proceditur et queritur utrum athomi sint principia rerum, et
+      ostenditur quod sic: corpora aut fuerit ex aliquo aut ex nichilo. Non ex nichilo quia sicut
+      ponunt philosophi ex nichilo nichil fit in natura, fuerit ergo ex aliquo, ergo fuerit ex
+      aliquo in genere corporum, quia ex non corporis non fit corpus. Illud autem ex quo fit res
+      est ultimum in re. Vltima autem est indiuisibile in genere corpus. Item corpora resoluuntur
+      aut in nichilum. Cedunt autem in aliquid si in nichilum, ergo ex nichilo fierent quod est
+      inconueniens si in aliquid, scilicet in partes suas ille partes aut sunt resolubiles aut
+      non. Si non, tunc erunt athomi et ex illis fierent corpora, si sic aut ergo eodem* in
+      aliquid aut in nichilum. Si in nichilum est inconueniens ut prius si in aliquid aut in
+      partes resolubiles aut non. Et sic eadem destructio que prius usque deueniamus ad
+      indiuisibilia et sit status ad indiuisibilia. Huiusmodi autem sunt athomi, ergo ad athomos
+      stat resolutio eorum set ex eisdem sunt corpora ad que stat sua resolutio, ergo corpora sunt
+      ex athomis, principia ergo corporum sunt athomi. </p>
+          <p xml:id="da-236-ed1e5254-d1e5265">Ad oppositum est hec ratio: omne sensibile per naturam quatuor qualitatum habet naturam
+      corporis compositi, set athomi sunt huiusmodi, sicut probant philosophi, ergo habent naturam
+      corporum compositorum, ergo sunt compositi ex materia et forma, ergo fiunt ex alio quod est
+      principium ipsorum ad quod resoluuntur et alio illud perficiente. Haec autem sunt materia et
+      forma, ergo athomi sunt ex materia et forma et non alia ex athomis. </p>
+          <p xml:id="da-236-ed1e5254-d1e5268">Ad hoc dicendum est quod athomi secundum ueritatem non sunt principia corporum, immo sunt
+      compositi ex materia et forma. </p>
+          <p xml:id="da-236-ed1e5254-d1e5272">Ad rationem in contrarium dicendum quod corpora duobus modis possunt resolui: uno modo
+      diuisione continui et resolutione, et hoc modo non stat eorum diuisio per se, quia sunt
+      eiusdem nature in partibus et toto immo prius ad naturuntur* quam staret eorum diuisio et
+      sic non stat ad athomos, quia sic non habet athomos partes indiuisibiles, set diuiditur sic
+      in supra diuisibilia. Alio modo resoluuntur corpora resolutione substantie et diuisione cum
+      corpora substantie sint et sic eorum resolutio stat ad principia substantie que sunt materia
+      et forma et forma in illa resolutione corrumptur. Materia autem stat, qua sicut uult
+      Aristoteles in primo <hi>Phisicorum</hi>, materia est ex quia fit res et si coartatur in hac
+      ultimum cum ergo fiant corpora ex materia resoluuntur in materiam. Set duplex est forma
+      corporum: quodam primum, et hoc modo a primo facta sunt cum suis principiis, et quiddam
+      secundum et sic facta sunt ex suis principiis que sunt materia et forma, et ita patet quod
+      corpora non sunt ex athomis nec in ea resoluuntur. </p>
+          <!-- this is confusing; doesn't this begin above -->
+          <p xml:id="da-236-ed1e5254-d1e5280">[lec 12 q8.2] Circa secundum sic proceditur et queritur utrum athomi compositi sint ex
+      materia et forma, et ostenditur quod sic: omne sensibile est sensibile per materiam et per
+      conditionem materiales. Set athomi sunt sensibiles, ergo per suam materiam, ergo habent
+      materiam. Set non est materia a conditionibus materialibus sine forma. </p>
+          <p xml:id="da-236-ed1e5254-d1e5283">Ad oppositum est hec ratio: nichil est minimum* in genere corporum compositorum secundum
+      diuisionem. Corpora enim naturalia ex materia et forma sunt similia in partibus et toto,
+      quia sunt continua et diuidunt partes sicut totum, et ideo nichil quod est in corpore potest
+      esse minimum*, set atomi minimi sunt, sicut ponunt <seg>philosophi&gt;.</seg>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e3854" >
+        <head>Quaestio 5</head>
+        <head type="question-title">
+    Utrum principia uniuersalia 
+    que sunt in anima per que anima cognoscit res sint uera principia extra
+    secundum similitudines principiorum et extraria
+   </head>
+        <p xml:id="da-236-ed1e3854-d1e3862">[lec 11 q5] Circa quintam questionem <seg>sic</seg> proceditur et queritur utrum principia
+    uniuersalia que sunt in anima per que anima cognoscit res sint uera <seg>principia</seg> extra
+      <seg>secundum</seg> similitudines principiorum et <seg>extraria*,</seg> et ostenditur quod
+      <seg>sint</seg> uera principia rerum <seg>extra*</seg> et eadem per essentiam cum
+    principiiis rerum extra. Duplex est cognitio, <seg>scilicet</seg> sensitiua et intellectiua.
+    Cognitio autem sensitiua est per posteriora secundum naturam. Cognitio autem intellectiua est
+    per priora secundum naturam, sicut dictum est, set priora secundum naturam sunt principia
+    rerum posteriorum, ergo <seg>illa</seg> que cognoscit intellectus sunt principia rerum
+    posteriorum que <seg>cognoscuntur</seg> per ipsa. Ergo principia uel exemplaria que sunt in
+    anima sunt uera principia rerum <seg>extra.</seg>
+        </p>
+        <p xml:id="da-236-ed1e3854-d1e3896">Secunda ratio hec est: sicut habetur in septimo <seg>
+            <hi>Methapisice</hi>,</seg> exemplar
+    quod est in anima artificis est principium formale rei exemplar, set uniuersalia que sunt in
+    anima sunt exemplaria existentia in anima, ergo sunt uera principia formalia rerum
+      <seg>extra.</seg>
+        </p>
+        <p xml:id="da-236-ed1e3854-d1e3907">Ad oppositum: formarum quedam sunt coniuncte materie, quedam <seg>autem</seg> non. Forma
+    coniuncta materie appellatur corporalis propter sui coniunctionem et contrahitur per materiam,
+    et propter hoc nulla talis forma potest extendi ultra suam materiam. Item nulla substantia
+    creata que natura aliqua est potest semel et simul existere in diuersis. Ergo forma rei que
+    est uerum principium rei per essentiam non potest extendi ultra rem, ergo non potest esse in
+    anima per essentiam. Sic enim una et eadem substantia creata que esset natura aliqua esset
+    simul et semel in diuersis. Hoc autem <seg>est</seg> inconueniens, ergo exemplar quod est in
+    anima non est idem per essentiam cum uera rei forma <seg>extra,</seg> ergo exemplaria que sunt
+    in anima non sunt uera rerum principia <seg>extra.</seg>
+        </p>
+        <p xml:id="da-236-ed1e3854-d1e3923">Secunda ratio hec est: si exemplaria que sunt in anima essent uera principia rerum extra aut
+    essent in anima solum aut essent in anima et in rebus, si essent in anima solum tunc forme
+    secundum ueritatem suam essent separate. Si autem in anima et in singularibus secundum
+    ueritatem, cum huiusmodi forme sint materiales et coniuncte <seg>materie</seg> sic idem
+    materiale per essentiam et unum esset in diuersis per essentiam. Hoc autem <seg>est</seg>
+    inconueniens. </p>
+        <p xml:id="da-236-ed1e3854-d1e3932">
+          <seg>Solutio.</seg> Dicendum est secundum ueritatem quod illud quod de re est in anima no est
+    idem per essentiam cum ueris rerum principiis extra, set est sola similitudo uerorum
+    principiorum. Vnde exemplaria que sunt in anima non sunt uere forme et uera principia rerum
+    set similitudines uerarum formarum et uerorum principiorum, quia eorum que <seg>sunt,</seg>
+    quedam <seg>sunt</seg> entia, quedam entium. Entia autem sunt sicut res fixe, ea autem que
+    sunt entium sunt multis modis: quedam sunt ut uie <seg>et</seg> motus, quedam <seg>autem</seg>
+    ut priuationes, quedam ut principia, quedam ut intensiones. Huiusmodi autem que de rebus sunt
+    in anima sunt intensiones rerum que neque sunt substantie <seg>neque</seg> accidens siue
+      <seg>accidentia,</seg> set quid substantie uel accidentis, unde ponimus quod non sunt uera
+    principia set similitudines uerorum principiorum. Est ergo idemptitas inter exemplaria | que
+    sunt in anima et formas et principia rerum uera non per essentiam que est <seg>natura</seg>
+    fixa <seg>et</seg> determinata, set solum proportione et similitudine et
+      <seg>intensione.</seg> Et concedimus rationes hoc probantes. </p>
+        <p xml:id="da-236-ed1e3854-d1e3965">Ad primam rationem in contrarium dicendum <seg>est</seg> quod cognitio intellectiua respicit
+    duo: respicit enim res <hi>|</hi> que debent cognosci et respicit uirtutem
+      <seg>cognoscentem.</seg> Per <seg>comparationem</seg> autem ad rem que debet
+      <seg>cognosci</seg> est cognitio intellectiua per uera principia rerum, quia, scilicet est
+    per similitudines uerorum <seg>principiorum,</seg> unde <seg>sicut</seg> forma que est in
+    speculo per comparationem ad rem exemplarem que <seg>representantur</seg> in speculo est uera
+    forma, per comparationem ad speculum est similitudo uere forme solum eodem modo forma que est
+    in anima qua cognoscitur res per comparationem ad rem est uera forma, per comparationem ad
+    animam cognoscentem est similitudo uere <seg>forme</seg> et non est uera forma. </p>
+        <p xml:id="da-236-ed1e3854-d1e3996">Ad secundam rationem dicendum <seg>est</seg> quod exemplar quod est in anima est principium
+    rei extra. Set principium rei <seg>intra</seg> unum est quo agens operatur, aliud est quo
+      <seg>res,</seg> tercium est quo res <seg>cognoscitur</seg> exemplaria, ergo rerum non est
+    res nec agens set est illud quo agens <seg>operatur</seg> et agit et non <seg>est</seg> uera
+    forma rei. Illud autem principium quo cognoscitur res est &lt;etiam uera forma rei et unum
+    principium rei. Illud autem principium quo cognoscit <seg>est&gt;</seg> similitudo ueri
+    principii uel uere forme rei, Idemptitas autem istorum non est per essentiam set per
+    proportionem et similitudinem, unde exemplar quod est in anima artificis non est forma rei qua
+    res est set mediante qua res producitur ab agente. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e3258" >
+        <head>Quaestio 1</head>
+        <head type="question-title">Utrum anima gerat in se naturam 
+    omnium rerum et habeat conformitatem cum illis
+   </head>
+        <p xml:id="da-236-ed1e3258-d1e3266">[lec 11 q1] Circa primam <seg>questionem</seg> sic proceditur et queritur utrum anima
+      <seg>gerat</seg> in se naturam omnium rerum et habeat conformitatem cum illis, et ostenditur
+    quod sic: sicut <seg>dicit</seg> in libro <hi>Fontis uite</hi> forme corporales colliguntur in
+    substantiis <seg>spiritualibus</seg> quelibet substantia spiritualis gerit in se formas et
+    exemplaria <seg>rerum,</seg> ergo cum anima sit substantia spiritualis anima gerit in se
+    formas omnium rerum. Omne autem tale habet naturam omnium rerum et compositionem <seg>ex</seg>
+    omnibus, et habet conformitatem cum omnibus, ergo anima habet naturam omnium rerum et
+    compositionem ex omnibus habet conformitatem cum omnibus rebus. </p>
+        <p xml:id="da-236-ed1e3258-d1e3291">Secunda ratio hec est: in quolibet genere est proportio naturalis recipientis ad receptum,
+    set anima est receptiua omnium rerum, ergo habet proportionem cum omnibus <seg>rebus,</seg>
+    sicut ergo occulus habet proportionem cum re quam recipit et cum medio in natura perspicui et
+    conformitatem <seg>ita</seg> habet <seg>conformitatem</seg> et naturam cum omnibus rebus, cum
+      <seg>omnis</seg> res recipiat in se, ergo bene posuerunt philosphi <seg>quam</seg> anima
+    habet naturam omnium et conformitatem cum omnibus.</p>
+        <p xml:id="da-236-ed1e3258-d1e3309">Ad oppositum sunt rationes, | prima talis <seg>est:</seg> sicut dicit <seg>Algazel,</seg>
+    proprium est substantiarum spiritualium ut imprimant supra corporales et non e conuerso. Ergo
+    cum anima sit substantia spiritualis anima imprimet supra substantias corporales et non e
+    conuerso, set illud quod non recipit impressionem ab aliis non gerit in se naturas aliarum
+    rerum nec habet conformitatem cum aliis <seg>rebus</seg> nec gerit in se naturas aliarum. </p>
+        <p xml:id="da-236-ed1e3258-d1e3322">Secunda ratio hec est: ponit enim Aristoteles hoc esse inconueniens et habet <seg>hoc</seg>
+    pro incouenienti, scilicet quod anima habeat in se naturas omnium rerum. Ergo per locum ab
+    auctoritate non habet anima in se naturas omnium rerum. </p>
+        <p xml:id="da-236-ed1e3258-d1e3328">
+          <seg>Solutio.</seg> Dicendum <seg>est</seg> quod anima ponitur a philosophis in se genere
+      <seg>conformitates</seg> et similitudines <seg>omnium</seg> propter cognitionem, quia cum
+    sit substantia cognoscitiua in se gerit similitudines omnium rerum sibi representatas et
+      similitudines<hi> |</hi> principiorum per que res cognoscuntur, et ideo posuerunt
+      eam<hi> </hi>aggregari ex <seg>omni</seg>
+          <seg>rerum</seg> similitudinibus non tamen <seg>posuerunt</seg> quod huiusmodi similitudines
+    essent de substantia anime, set quod essent <seg>representande</seg> anime, et hanc
+    representationem et aggregationem appelauerunt compositionem ex formis, et ita habet anima
+    conformitatem cum <seg>rebus.</seg>
+        </p>
+        <p xml:id="da-236-ed1e3258-d1e3364">Ad primam rationem in contrarium dicendum est quod duplex est impressio, quedam est impressio
+    corporalis et quedam spiritualis. Impressio autem corporalis est motus, spiritualis autem
+    impressio est cognitio uel species. Substantie ergo corporales imprimunt spirituales
+    operationes et impressiones supra substantias spirituales, quia recipiuntur in substantiis
+    spiritualibus secundum exigentiam spiritualium <seg>substantiarum,</seg> scilicet modo
+    spirituali et per suas <seg>species.</seg> Substantia autem spiritualis est duplex: quedam
+      <seg>que</seg> cognoscit per impressionem extrinsecam, sicut anima, et hec recipit
+    impressionem spiritualem a substantiis corporalibus, scilicet cognitionem uel speciem
+    spiritualem <seg>eorum</seg> per quam eas cognoscit. Alia autem non cognoscit per impressionem
+    extrinsecam et hoc <seg>modo</seg> non recipit impressionem a materia a substantiis
+    corporalibus set <seg>post</seg> e conuerso. Substantie autem spirituales imprimunt
+    impressiones <seg>corporales</seg> et operationes supra substantias corporales, sicut motum,
+    et ideo patet quod substantie spirituales gerunt in se species uel similitudines substantiarum
+    corporalium, et in <seg>hoc</seg> habent conformitatem cum <seg>principiis</seg> et habent
+    naturas illarum. </p>
+        <p xml:id="da-236-ed1e3258-d1e3395">Ad secundam rationem dicendum <seg>est</seg> quod receptiuum duplex est: quoddam omnino
+    passiuum, <seg>sicut</seg> speculum. Aliud est quodam modo actiuum, quia etiam iuuat ad
+    receptionem in se ipso, sicut est anima. Illud ergo quod est receptiuum primo modo denudatum
+    est omnino a forma recepti. Illud autem quod est receptiuum secundo modo habet quodam modo
+    illud quod debet recipere et habet conformitatem cum illo. Et quia anima est tale receptiuum,
+    ideo quodam modo habet species quas debet recipere et habet aliquo modo conformitatem cum
+    illis actu, completionem tamen illius conformitatis non habet actu set habitu, scilicet per
+    acquisitionem formarum rerum habet illam. Aliter enim non iuuaret ad suam cognitionem et
+    receptionem nisi haberet conformitatem cum rebus et ideo anima habet conformitatem cum rebus
+    que conformitas completur per acquisitionem et receptionem similitudinum rerum in ipsa
+      <seg>anima.</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

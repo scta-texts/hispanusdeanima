@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e9056" >
+        <head>Quaestio 5</head>
+        <head type="question-title">Utrum in compositis ex materia
+    et forma proueniat unitas et hoc aliquid ex parte materie uel ex parte forme maxime</head>
+        <p xml:id="da-236-ed1e9056-d1e9064">[lec1 q5] Circa quintam questionem sic proceditur et queritur utrum in compositis ex materia
+    et forma proueniat unitas et hoc aliquid ex parte materie uel ex parte forme maxime.
+      <seg>Et</seg> uidetur quod ex parte materie, quia omne illud quod est principium
+    indiuiduationis et idemptatis numero ex parte illius uenit unitas in compositis et hoc
+    aliquid. <hi>|</hi> Set materia est huiusmodi, ergo ex parte materie uenit unitas in
+      <seg>compositis</seg>
+          <seg>et</seg> hoc <seg>aliquid.</seg> Maior patet cum ab eo sit unitas numero, a quo est
+    indiuiduatio in compositis. Hoc autem est materia. Minor patet per Aristoteles dicentem in
+       <seg>
+            <hi>Metaphisica</hi>
+          </seg>
+          <hi/> quod eadem sunt numero quorum est materia una. </p>
+        <p xml:id="da-236-ed1e9056-d1e9088">Secunda ratio hec <seg>est:</seg> omne illud in cuius genere contingit reperire unum est
+    magis principium unitatis quam illud in cuius genere non contingit reperire unum. Set materia
+    ita se habet quod contingit reperire unam primam materiam. Forma autem non ita se habet quod
+    contingat reperire unam primam formam, ergo unitas magis est a parte materie quam a parte
+    forme. </p>
+        <p xml:id="da-236-ed1e9056-d1e9094">&lt;Tercia ratio hec est: omne illud quod est principium multiplicationis ab illo non est
+    unitas. Set forma est principium multiplicationis, ergo a forma non est unitas in rebus, ergo
+    est a materia una* patet per Aristotelem dicentem in libro <hi>De celo et mundo</hi> quod si
+    materia plus extendi in solo ad hoc essent plures soles, set defectus est ex parte materie et
+    ita unitas in sole est ex parte materie et non ex parte <seg>forme.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e9056-d1e9103">Ad oppositum: a quo unumquodque habet esse ab eo habet unitatem, set a forma habet
+      <seg>unumquodque</seg> esse, ergo a forma habet principium unitatis. Maior patet cum unum
+    conuertatur cum ente, et si sumatur secundum quod est principium <seg>numeri,</seg> quia
+    ubicumque in <seg>causatis</seg> est reperire ens et unum. Minor patet per <seg>Boetium</seg>
+    dicentem omne esse a forma. </p>
+        <p xml:id="da-236-ed1e9056-d1e9118">Secunda ratio hec est: omne illud quod est principium specificationis et terminationis fluxus
+    materie est principium unitatis in habentibus materiam. Set forma est huiusmodi, ergo forma
+    est principium unitatis in habentibus materiam. Maior patet quia materia de se confusa est et
+    distinguitur ad unitatem per formam et per hoc patet minor, et ita uidetur esse unitas a parte
+    forme. </p>
+        <p xml:id="da-236-ed1e9056-d1e9121">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod forma specificatum esse subiecto
+    conferens ipsum hoc aliquid et completum constituit, unde sicut uult commentator
+      <seg>supra</seg> principium secundi <hi>De anima</hi>, licet unum <hi>|</hi> et ens
+      <seg>dicatur</seg> pluribus <seg>modis</seg> tamen prima perfectio in hiis
+      <seg>omnibus,</seg> scilicet forma magis est digna ut habeat hoc unum ens et unum
+      <seg>cum</seg> materia congregatum. Congregatum enim non dicitur unum, <seg>qui</seg> per
+    unitatem in forma existentem. Materia enim non est hec nisi per formam et sic habetur in libro
+      <hi>De unitate et <seg>uno</seg>
+          </hi>, cum materia forme <seg>uniatur</seg>
+          <seg>ex</seg> coniunctione utriusque <seg>necessario</seg> aliquod unum constituetur, et
+    deinde dicit quod materia non habet unitatem nisi per unionem sui cum forma et forma non
+    tenetur nisi unitate, ideo materia eget unitate ad uniendum se et suscipiendum esse. Materia
+    enim contraria est unitati eo quod per se defluit et de natura sua habet diuidi multipliciter
+    et dispergi et <seg>ita</seg> unitas in rebus magis est a parte forme quam a parte materie
+    licet a parte utricumque sit. </p>
+        <p xml:id="da-236-ed1e9056-d1e9172">Ad <seg>obiecta</seg> ad utramque partem dicendum <seg>est</seg> hoc modo quod materia est
+    principium primum unitatis incompletum. Forma autem est ultimum principium completum. Et
+    iterum multiplicatio forme et materie est diuersimode. Est enim materie per decisionem in
+    forma per distinctionem sine aliqua decisione, et quia alterius est negotii, ideo hec
+    sufficiant argumenta que dant uiam soluendi et sciendum in proximo quod anima et
+      <seg>corpus</seg> sunt unum per compositionem, sicut materia et forma in una uia et in alia
+    uia sunt sicut motor et mobile.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

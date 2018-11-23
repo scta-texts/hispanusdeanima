@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e19954" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e19954-d1e19959">
+          <hi>Capitulum secundum de distinctione potenciarum anime generali continens duos
+       <seg>paragraphos.</seg> Continuatio intensionis.</hi>
+        </p>
+        <p xml:id="da-236-ed1e19954-d1e19968">
+          <hi>Potenciarum autem anime que dicte sunt</hi>
+          <hi> et cetera, in sermonibus precedentibus determinauit philosophus de anima secundum suam
+      diffinitionem uniuersalem et ostendit quod predicta uia diffiniendi non sufficit in
+      certitudine scientie et elegit uiam in hac scientia secundum quam debet </hi>
+          <hi>|</hi>
+          <hi>
+            <seg>procedere</seg>
+            <seg>determinando</seg> de singulis potenciis anime singularium assignando
+       <seg>obiecta</seg> et operationes per que habent cognosci. In hac <seg>autem</seg> parte
+      incipit secundum predictam uiam a singulis differentiis anime, uirtutibus et
+       <seg>operationibus</seg> et obiectis ipsarum ut omnium completa <seg>habeatur</seg>
+      cognitio <seg>secundum</seg> propriam naturam uniuscuiusque. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19954-d1e20005">
+          <hi>Diuisio. Recipit autem hec pars diuisionem in duas <seg>partes</seg> in quarum prima
+      assignat distinctionem potenciarum anime et hoc facit quia artifex <seg>debet</seg>
+      supponere subiectum sue scientie et diuidere genera ipsius ut sint manifesta in esse ut non
+      procedat ex ignotis. Subiectum autem huius <seg>scientie</seg> est anima secundum suas
+      differentias et species. In secunda autem, scilicet in hac,</hi>
+          <hi> necessarium autem est debentem mentionem facere de hiis </hi>
+          <hi>et <seg>cetera,</seg> de singulis anime differentiis et potenciis specialiter determinat.
+      Prima autem harum partium recipit diuisionem in duas, in quarum <seg>prima</seg> diuidit
+      philosophus differentias <seg>uel</seg> uirtutes anime, set quia diffinitio anime conuenit
+      anime uniuersaliter <seg>et</seg> omnibus <seg>eius</seg> differentiis sub ipsa contentis
+      que etiam differentie habent ordinem naturalem ad inuicem. Ideo in secunda parte, scilicet
+      in hac, </hi>
+          <hi>manifestum autem <seg>est</seg> quoniam eodem modo est una ratio anime et figure</hi>
+          <hi> et cetera, ostendit secundum quem modum diffinitio anime conuenit differentiis anime sub
+      ipsa contentis que ad inuicem naturalem habent ordinem. Prima istarum partium ad presentem
+      spectat speculationem. Est <seg>igitur</seg> in hac parte intensio <seg>philosophi</seg>
+      distinctionem differentiarum <seg>anime</seg> assignare.</hi>
+        </p>
+        <p xml:id="da-236-ed1e19954-d1e20059">
+          <hi>Diuisio. Recipit autem hec pars diuisionem in duas <seg>partes,</seg> in quarum prima
+      tangit distincionem differentiarum <seg>anime.</seg> In secunda, scilicet in hac, </hi>
+          <hi>certificandum autem de hiis <seg>posterius</seg>
+          </hi>
+          <hi> et cetera, quia quedam hic determinanda ad alias proprias partes huius scientie
+       <seg>spectat,</seg> ideo illa dicit in hac parte <seg>dimittenda</seg> et in aliis
+      determinanda. Prima autem pars diuiditur in duas. In <seg>prima</seg> assignat distinctionem
+      differentiarum <seg>anime.</seg> In secunda, scilicet in hac, </hi>
+          <hi>inest autem plantis uegetatiuum solum</hi>
+          <hi> et cetera, ostendit que differentie quibus uiuentibus insunt quod primo promiserat. Hec
+       <seg>est</seg> hec diuisio huius partis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19954-d1e20101">
+          <hi>Sententia prime partis de distinctione differentiarum anime. Circa primam partem duo
+      intendit: primum est assignare diuisionem differentiarum anime per comparationem ad uiuentia
+      ipsas participantia. Secundum est dare numerum differentiarum principalium. Dicit igitur
+      quod quedam potenciarum siue </hi>
+          <hi>|</hi>
+          <hi> differentiarum anime que superius sunt <seg>determinate</seg> in loco
+       <seg>distinctionis</seg> generum uiuendi quibusdam uiuentibus insunt omnes sicut homini
+       <seg>et</seg> quibusdam quedam earum sicut brutis et quibusdam una sola sicut plantis. </hi>
+          <hi>|</hi>
+          <hi> Deinde, cum dicit, </hi>
+          <hi>potencias igitur dicimus</hi>
+          <hi> et cetera, tangit potencias principales dicens quod predicte potencie sunt uirtus
+      uegetatiua prima appetitiua, secunda sensitiua tercia, motiua secundum locum quarta,
+      intellectiua quinta. <seg>Subiecto</seg> uegetabili uero <seg>sunt</seg> tres potencie
+      comprehenduntur, scilicet nutritiua et augmentatiua, cum sua opposita, et generatiua. Per
+      appetitiuam intellligitur appetitiua cibi et separatur a motiua secundum locum, cum
+      inueniatur in animalibus que secundum locum non <seg>mouentur.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e19954-d1e20144">
+          <hi>Sentencia secunde <seg>partis</seg> in qua ostenditur que potencie quibus insunt
+      uiuentibus, consequenter accedit ad illam partem in qua ostenditur in quibus uiuentibus que
+      differentie anime insunt et <seg>illa</seg> pars habet duas partes, in quarum prima ostendit
+      quibus uiuentibus inest una <seg>sola.</seg> In secunda, scilicet in hac, </hi>
+          <hi>alteris autem et <seg>hoc</seg> et sensitiuum</hi>
+          <hi> et cetera, ostendit quibus inest <seg>hoc,</seg> scilicet uegetabilis et alia, scilicet
+      sensibilis. Hec autem secunda pars duas <seg>habet</seg> partes, in quarum prima ostendit
+      quibus uiuentibus inest sensitiua et eius differentie cum uegetabili. In secunda, scilicet
+      in hac, </hi>
+          <hi>adhuc <seg>alimenti</seg> sensitiuum habent</hi>
+          <hi> et cetera, ostendit quod omnia uiuentia sensum participantia habent <seg>sensum</seg>
+      primum, qui est tactus, et primo ostendit inducendo de ostensione quod <seg>in</seg> omnibus
+       <seg>animalibus</seg> inest uegetabilis differentia et <seg>sensibilis.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e19954-d1e20195">
+          <hi>Circa igitur <seg>primam</seg> partem dicit quod animalibus omnibus inest uirtus
+      uegetabilis et sensibilis set quibuscumque inest sensus eisdem inest delectatio a re
+      conueniente et tristicia a re tristabili et quibuscumque insunt hec eisdem inest appetitus.
+      Ergo cum omnibus animalibus insit sensus et similiter omnibus animalibus inest appetitus,
+      ostensio quod omnibus animalibus inest tactus. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19954-d1e20204">
+          <hi>Circa <seg>secundam</seg> partem sic procedit. Ostendit <seg>qui</seg> sensus primus inest
+      omnibus animalibus et primo ostendit hoc inducendo, dicens quod sensus tactus est in omnibus
+       <seg>animalibus.</seg> Set <seg>quibuscumque</seg> inest <seg>sensus</seg> eisdem inest
+      delectatio a re delectabili et tristicia a re <seg>tristibili,</seg> ergo cum omni animali
+      insit sensus, scilicet tactus omnibus animalibus insunt predicta. Set quibuscumque insunt
+      predicta eisdem inest appetitus, ergo omnibus animalibus inest appetitus. Secundo autem cum
+      dicit, </hi>
+          <hi>adhuc alimenti sensitiuum habent</hi>
+          <hi> et cetera, ostendit quod dixerat ratiocinando et ratio sua accipitur a necessitate </hi>
+          <hi>|</hi>
+          <hi> nutrimenti et in illa parte tria intendit. Primum est ostendere quod animalia habent
+      sensum alimenti et per <seg>illum</seg> habent appetitum. Secundum est quod cum ille sensus
+       <seg>sit</seg>
+            <seg>sensus</seg> tactus solus, alii sensus nichil faciunt per se ad alimentum. Tercium est
+      ostendere quod sensus tactus est alimenti ipsius per <seg>priuationem</seg> alimenti. Dicit
+      igitur quod omnia animalia habent sensum nutrimenti et tangit qui est ille dicens quod
+      tactus est sensus alimenti et ratio sua talis est: omne <seg>alimentum</seg> est ex calido
+      et frigido, humido et sicco <seg>et</seg> causa huius est, quia nutrimentum restaurat
+      deperditum. Illud autem quod est <seg>deperditum</seg> a corpore animalis est compositum ex
+      illis quatuor que constituunt <seg>animal.</seg> Set tactus est sensus discernens predicta
+      quatuor, ergo tactus est sensus discretiuus nutrimenti, et sic est tactus sensus primus et
+      uniuersalis existens in omni animali. Deinde secundo cum dicit, </hi>
+          <hi>aliorum sensibilia secundum accidens</hi>
+          <hi> et cetera, ostendit alios sensus non esse necessarios per se ad nutrimentum set solum
+       <seg>tactum</seg> dicens quod alii sensus nichil faciunt ad nutrimentum nisi solum
+      secundum accidens, quia ipsorum obiecta nichil conferunt ad alimentum. Cognitio enim soni
+      uel coloris uel odoris nichil facit ad nutrimentum neque <seg>ad</seg> obiecta
+       <seg>tangibilia,</seg> nisi secundum accidens solum. Gustus autem ad alimentum facit
+      secundum quod alimentum est <seg>tangibile</seg> et secundum quod reducitur ad tactum, quia
+      gustus quidam tactus est. <seg>Olfatus</seg> autem per accidens facit <seg>ad</seg>
+      alimentum quia solum <seg>facit</seg> ut animalia sentiant nutrimentum a longe. Deinde
+       <seg>tercio,</seg> cum dicit, </hi>
+          <hi>eusuries autem et sitis desideria sunt</hi>
+          <hi> et cetera, ostendit intensionem suam, scilicet quod tactus discernit nutrimentum et
+      gustus per reductionem ad ipsum et quod sapor in nutrimento ad obiectum tactus reducitur et
+      hoc ostendit per appetitum, qui est priuationis <seg>nutrimenti,</seg> et est sua ratio
+      talis: circa ea <seg>circa</seg> que est appetitus in nutrimento, circa ipsa est sensus
+      discretiuus. Set appetitus est circa quatuor qualitates, ergo sensus discretiuus nutrimenti
+      est circa qualitates quatuor. in <seg>nutrimento</seg> patet, <seg>quia</seg> duplex est
+      appetitus, unus est fames, et iste est circa calidum et siccum, et alius est sitis et iste
+      est circa frigidum et humidum. Set tactus est sensus quatuor qualitatum, ergo tactus est
+      sensus discretiuus nutrimenti. Deinde ex hoc ostendit reductionem obiecti gustus ad obiectum
+      tactus dicens quod sapor et dulcendo saporis est temperamentum resultans ex commixione
+      quatuor qualitatum et est causa propter quam <seg>anima</seg> apprehendit delectabile uel
+      tristabile <seg>circa</seg> cibum, ergo cum sapor reducatur ad quatuor qualitates in
+       <seg>nutrimento</seg> que sunt obiecta tactus obiectum gustus quod est sapor re</hi>
+          <hi>|</hi>
+          <hi>ducitur ab obiectum tactus in nutrimentum, ergo <seg>et</seg> gustus ad tactum in
+      nutrimento reducitur et sic solus tactus uel quod habet naturam tactus est
+       <seg>distinctiuus</seg> nutrimenti. <seg>Et</seg> ex hoc <seg>determinatum</seg> est quod
+      in omnibus animalibus est tactus, qui est sensus nutrimenti, <seg>set</seg> quibuscumque est
+      sensus in eisdem</hi>
+          <hi> </hi>
+          <hi>|</hi>
+          <hi> est <seg>delectatio</seg>
+            <seg>et</seg> tristicia et in quibuscumque sunt hec in eisdem est appetitus, ergo in omnibus
+      animalibus est appetitus. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19954-d1e20363">
+          <hi>Sententia quarte partis de assignatione eorum que circa differentias anime in hac scientia
+      sunt dicenda et que in aliis ut haec <seg>determinantur</seg> et illa obmittantur,
+      consequenter accedit ad illam <seg>partem</seg> in qua eaque ad alias partes pertinent dicit
+      esse hic omittenda et in illa parte tria intendit. Primum est quod de hiis que nunc dicta
+      sunt in aliis patebit certificatio. Secundum est quod supponendum est in hac parte quod
+      omnibus animalibus inest tactus et quibus inest tactus eisdem omnibus inest appetitus et
+      quibus priuatur tactus ab <seg>eis</seg> priuatur appetitus. Tercium est ostendere quod
+      determinatio aliarum uirtutum que non sunt manifeste hic in aliis patebit. Dicit igitur quod
+      de fantasia et ymaginatione in aliis dicetur et iste uirtutes insunt quibusdam animalibus et
+      etiam <seg>quibusdam</seg> insunt alie, scilicet motiua secundum locum et intellectiua. Set
+      motiua secundum <seg>locum</seg> inest illis in quibus est uirtus concupiscibilis que
+      apprehendit res distantes et ad illas acquirendas mouet et aliis inest intellectus sicut
+      hominibus uel aliis substantiis que nobiliores sunt hominibus sicut substantiis separatis
+      uel corporibus superioribus que posuerunt philosophi ab intellectu moueri. Hec est
+      manifestatio huius <seg>intensionis.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e19954-d1e20388">
+          <seg>
+            <hi>Questiones.</hi>
+          </seg>
+          <hi> Circa partem istam quatuor incidunt questiones. Prima [lec8 q1] est utrum potencie anime
+      sint multe per essentiam et diuerse de se an <seg>una</seg> et diuerse penes organa,
+      operationes et obiecta. Secunda [lec8 q2] est utrum omnes ad unam primam potenciam
+      reducantur. Tercia [lec8 q3] est utrum ad aliquod unum quod non sit in genere ipsarum
+       <seg>reducitur</seg> sicut ad substantiam anime. Quarta [lec8 q4] est utrum anima sit
+      eadem per essentiam cum qualibet suarum potentiarum per predicationem essentialem de ipsis
+      dicta. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e14965" >
+        <head>Quaestio 6</head>
+        <head type="question-title">Utrum naturalis demonstret per omnem causam</head>
+        <p xml:id="da-236-ed1e14965-d1e14973">[lec4 q6] Circa <seg>sextam</seg>
+          <seg>questionem</seg> sic proceditur et queritur utrum naturalis demonstret per omnem causam.
+    Et ostenditur quod sic: a quo unumquodque habet necessitatem per illud habet demonstrari. Set
+    naturalia habent necessitatem ab omnibus causis, <seg>ergo</seg> per omnes causas habent
+    demonstrari, <hi>|</hi> ergo naturalis demonstrat per omnem causa. </p>
+        <p xml:id="da-236-ed1e14965-d1e14988">Secunda ratio hec est: dicit Auerrois in principio <seg>
+            <hi>Phisicorum</hi>
+          </seg> quod per
+    omnem causam demonstrat naturalis.</p>
+        <p xml:id="da-236-ed1e14965-d1e14995">Ad oppositum: naturalis considerat res in motu et <seg>in</seg> materia, ergo si demonstrat
+    solum demonstrabit per causam materialem.</p>
+        <p xml:id="da-236-ed1e14965-d1e15002">Secunda <seg>ratio</seg> hec est: sicut habetur in primo <hi>De <seg>anima</seg>
+          </hi>,
+    differenter <seg>diffinit</seg> phisicus et <seg>logicus,</seg> quia <seg>logicus</seg> reddit
+    speciem, phisicus uel naturalis materiam, ergo cum <seg>consideret</seg> materiam solum
+      <seg>demonstrabit</seg> per causam <seg>materialem.</seg>
+        </p>
+        <p xml:id="da-236-ed1e14965-d1e15032">
+          <seg>Solutio:</seg> Ad hoc dicendum <seg>est</seg> quod naturalis demonstrat et
+      <seg>diffinit</seg> per omnes causas que competunt demonstrationi et
+      <seg>diffinitioni.</seg>
+        </p>
+        <p xml:id="da-236-ed1e14965-d1e15046">Ad primam rationem in contrarium dicendum <seg>est</seg> quod artifex aliquis dicitur
+    considerare unam causam duobus modis, aut quia illam solam considerat et per illam solam
+    demonstrat et diffinit aut quia omnes causas considerat per aspectum ad unam. Naturalis igitur
+    non unam solam considerat, set per omnes diffinit et demonstrat per aspectum ad causam
+    materialem, et sic diffinit per omnes causas per aspectum ad causam materialem, et sic
+    diffinit per omnes causas per aspectum ad causam materialem <seg>et</seg> demonstrat. </p>
+        <p xml:id="da-236-ed1e14965-d1e15055">Ad secundam rationem dicendum <seg>est</seg> quod non dicitur diffinitio materialis
+    considerari a phisico, quia per solam materiam <seg>demonstraret</seg> et sine forma, set est
+    materialis, quia non datur per principia <seg>predicabilia</seg> ex quibus constituitur
+    diffinitio logica, unde respectu diffinitionis logice <seg>dicitur</seg>
+          <seg>materialis;</seg> uel dicendum <seg>est</seg> aliter quod diffinitio <seg>naturalis</seg>
+          <seg>que</seg> datur de rebus per concretionem ad <seg>materiam</seg> quamuis omnes causas in
+    se ipsa complectatur. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

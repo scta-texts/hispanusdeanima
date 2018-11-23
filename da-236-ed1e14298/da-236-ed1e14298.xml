@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e14298" >
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum illa diffinitio que demonstratur sit
+    materialis uel formalis, uel formalis.</head>
+        <p xml:id="da-236-ed1e14298-d1e14306">[lec4 q2] Ad <seg>secundam</seg>
+          <seg>questionem</seg> sic proceditur et queritur utrum illa diffinitio que demonstratur sit
+    materialis uel <seg>formalis,</seg> uel <seg>formalis.</seg> Et ostenditur quod
+      <seg>sicut</seg> diffinitio formalis demonstrat materialem, <seg>quod</seg> similiter
+    materialis <seg>diffinitio</seg> demonstret formalem, sicut se habet unumquodque ad ueram
+    necessitatem sui esse sic se habet ad ueram sui cognitionem, que est per sua uera principia.
+    Set sicut habetur in secundo <seg>
+            <hi>Phisicorum</hi>
+            <hi>,</hi>
+          </seg>
+          <hi> </hi>in naturalibus
+    est necessitas a materia, unde necessitas forme est a necessitate materie et conuerso, ergo
+    uera cognitio <seg>rei</seg> est per materiam sicut per <seg>formam,</seg> set uera rei
+    cognitio est demonstratiua, ergo sicut demonstratur diffinitio materialis per formalem
+      <hi>|</hi> ita formalis demonstratur per materialem, et ita illa diffinitio que demonstratur
+    non solum est materialis nec solum formalis set utraque demonstratur. </p>
+        <p xml:id="da-236-ed1e14298-d1e14349">Secunda ratio hec est: demonstratio procedit per uera principia et posteriora. Set causa
+    materialis est prior formali et e conuerso, quia causa materialis natura prior est in uia
+    generationis et incompletionis. Formalis <seg>uero</seg> prior <seg>est</seg> ea in uia
+    perfectionis, ergo in uia generationis materialis causa demonstrat formalem, <hi>|</hi> in uia
+    perfectionis est e <seg>conuerso.</seg> Ergo diffinitio formalis demonstrat materialem et e
+    conuerso.</p>
+        <p xml:id="da-236-ed1e14298-d1e14364">&lt;Tercia ratio hec est: quedam scientie considerant unam causam potissime, quamuis omnes
+    causas omnes considerent, sicut mathematica, et mathematice considerant causam formalem
+    principaliter, naturalis autem materialem. Set in unaquaque scientia maxime demonstrat per
+    illam causam quam considerat principaliter, ergo in naturalibus multo fortius demonstrat causa
+    materialis et diffinitio materialis formalem quam e <seg>conuerso.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e14298-d1e14370">Ad oppositum: sicut <seg>unumquodque</seg> se habet ad ueram cognitionem, ita se habet ad
+    demonstrationem. Set forma est causa uere cognitionis materie et non e conuerso, ergo forma
+    demonstrat materiam et non e conuerso, &lt;ergo diffinitio formalis demonstrat materialem et
+    non e conuerso, ergo sola materialis demonstrat et non <seg>demonstratur&gt;.</seg>
+        </p>
+        <p xml:id="da-236-ed1e14298-d1e14379">Secunda ratio hec est: sicut dictum est, forma precedit materiam et e conuerso. Set materia
+    precedit formam in uia incompletionis, forma uero precedit materiam in uia perfectionis et
+    diffinitionis et cognitionis. Set demonstratio <seg>precedit</seg> per priora secundum
+    cognitionem, ergo forma demostrat materiam et non e conuerso. Ergo diffinitio formalis
+    demonstrat materialem et non e conuerso. </p>
+        <p xml:id="da-236-ed1e14298-d1e14385">Tercia ratio hec est: quia Aristoteles in secundo <seg>
+            <hi>Posteriorum</hi>
+          </seg> ponit quod
+    diffinitio materialis demonstratur per formalem. </p>
+        <p xml:id="da-236-ed1e14298-d1e14392">
+          <seg>Solutio:</seg> Ad hoc dicendum est quod sicut quedam diffinitiones formales demonstrant
+    materiales <seg>et</seg> e <seg>contrario,</seg> nam sicut necessitas materie est a
+    necessitate forme ita et <seg>conuerso,</seg> unde <seg>sic</seg> hec diffinitio materialis,
+    domus est composita ex tecto et pariete et fundamento, demonstratur per hanc formalem, domus
+    est habitaculum prohibens a caumatibus et pluuis, ita <seg>et</seg> e <seg>contrario.</seg> Et
+    hoc patet in questione, ut si queratur propter quid componitur <seg>domus</seg> ex pariete et
+    aliis, respondebitur ut prohibeat nos a caumatibus et pluuis, similiter et e conuerso. Si
+    queratur propter <seg>quid,</seg> prohibet nos domus a caumatibus et pluuis, respondebitur
+      <seg>quia</seg> est composita, <seg>est</seg> tecto et pariete. Tamen demonstratio in qua
+      <seg>materialis</seg> demonstratur <seg>diffinitio</seg> per formalem potior est quam
+    demonstratio in qua diffinitio formalis demonstratur per materialem. Et sic utraque diffinitio
+    demonstratur, scilicet materialis per <seg>formalem</seg> et e conuerso. </p>
+        <p xml:id="da-236-ed1e14298-d1e14438">Ad primam rationem que ostendit quod formalis demonstrat materialem et non e conuerso,
+    dicendum <seg>est</seg> quod forma est causa cognitionis materie. Set sicut dicit
+      <seg>commentator,</seg> in qualibet diffinitione materiali <seg>est</seg> aliquid de forma,
+    unde no dicitur materialis, quia per solam materiam detur, set dicitur materialis respectu
+    alterius et <seg>ita</seg> ratione illius formalis principii potest materialis diffinitio dare
+      <seg>per</seg> cognitionem <seg>diffinitionem</seg> formali. Item diffinitio materialis non
+    demonstrat formalem in quantum est materialis set in quantum habet modum formalem et principia
+    et causas respectu <seg>illius.</seg>
+        </p>
+        <p xml:id="da-236-ed1e14298-d1e14463">Ad secundam dicendum <seg>est</seg> quod forma precedit materiam in uia cognitionis et
+    diffinitionis et materia precedit formam in uia generationis. Tamen in illa natura in qua
+    materia precedit formam potest demonstrare <seg>materia</seg> formam. Non est autem
+      <seg>demonstratio</seg> in potissimo statu, sicut alia. </p>
+        <p xml:id="da-236-ed1e14298-d1e14476">Ad terciam dicendum <seg>est</seg> quod, <hi>|</hi> cum Aristoteles <seg>ponit,</seg>
+    diffinitionem materialem demonstrari per <seg>diffinitionem</seg> formalem solum et non e
+    conuerso non intendit de omni materiali, set de aliqua solum de qua postea patebit. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

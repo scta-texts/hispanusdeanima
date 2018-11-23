@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e21848" >
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum anima intellectiua
+    possit esse in corpore sine aliis differentiis anime que sunt anima uegetabilis et
+    sensibilis</head>
+        <p xml:id="da-236-ed1e21848-d1e21856">
+          <hi>[lec9 q2] Circa secundam questionem sic proceditur et queritur utrum anima intellectiua
+      possit esse in corpore sine aliis differentiis anime que sunt anima uegetabilis et
+      sensibilis. Et ostenditur quod sic: proprium est substantiarum spiritualium ut
+       <seg>inprimant</seg> supra substantias corporales et non e conuerso et sine medio. Ergo
+      anima intellectiua cum sit substantia spiritualis potest imprimere supra corpus absque</hi>
+          <hi> </hi>
+          <hi>|</hi>
+          <hi> uirtutibus intermediis que sunt uirtus sensitiua et uegetabilis. Ergo non indiget illis
+      ad hoc <seg>ut</seg> regat corpus. Ergo anima intellectiua potest esse in corpore absque
+      aliis differentiis anime. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21848-d1e21877">
+          <hi>Secunda ratio hec est: in corpore celesti est motus ab intellectu secundum auctores et hoc
+      sine aliis differentiis anime, <seg>scilicet</seg> uegetabili et sensibili. Ergo sicut
+      intellectus mouet et perficit corpora <seg>superiora</seg> sine aliis differentiis anime,
+      similiter <seg>et</seg> intellectiua <seg>anima</seg> potest mouere et perficere corpus
+      humanum sine aliis differentiis anime, scilicet sine uegetabili anima et sensibili. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21848-d1e21895">
+          <hi>Ad oppositum: corpus cuius anima intellectiua est perfectio est natum dissolui, ergo
+      necesse est quod habeat uirtutem per quam restauretur ad hoc ut conseruetur. Hec autem
+      uirtus est anima uegetabilis, ergo corpus quod perficitur ab anima intellectiua necesse est
+      habere animam uegetabilem. Item per illam conseruatur in suo simili per uirtutem
+      generatiuam. Item intellectus perficitur in accipiendo formas corporales prout <seg>ut</seg>
+      corpori applicatur. Forme autem corporales in sensu representantur, ergo ubi est intellectus
+      necesse est audire sensum a quo accipiat intellectus formas, ergo anima intellectiua non
+      potest esse in corpore sine anima uegetabili et sensibili. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21848-d1e21905">
+          <hi>Secunda ratio hec est: anima intellectiua <seg>est</seg> simplex; corpus <seg>uero</seg>
+      compositum et inter simplex et compositum est medium uniens ipsa. Ergo inter animam
+      intellectiuam et corpus sunt uirtutes medie ad uniendum animam intellectiuam cum corpore, et
+      hee sunt uirtutes uegetabiles et sensibiles et medium uniendi animam <seg>sensibilem</seg>
+      cum corpore est spiritus. Medium autem uniendi uegetabilem cum corpore est calor naturalis,
+      et ita anima intellectiua non potest esse in corpore sine anima uegetabili et sensibili.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e21848-d1e21920">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod anima intellectiua non potest esse in corpore sine
+      anima uegetabili et sensibili que famulantur ei et faciunt corpus esse habile ad receptionem
+      anime intellectiue. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21848-d1e21935">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod substantia spiritualis est
+      duplex: quedam est perfectio corporis et hec non potest perficere nec imprimere supra sine
+      aliis uirtutibus </hi>
+          <hi>|</hi>
+          <hi> mediantibus. Et est alia que non est perfectio corporis et hec potest mouere corpus et
+      imprimere aliquid supra ipsum sine intermedio et maxime sine aliis substantiis spiritualibus
+      intermediis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21848-d1e21950">
+          <hi>Ad secundam <seg>rationem</seg> dicendum est quod non est simile de intelligentia
+       <seg>que</seg> mouet corpus celeste et de illo <seg>qui</seg> est perfectio corporis
+      humani, quia corpus celeste non eget uirtute uegetabili quia in se bene conseruatur cum sit
+      perpetuum nec eget uirtute sensibili, cum non sit necesse ei apprehendere formas corporales.
+      Item magis habile est ad recipiendum influentiam sui motoris sine mediis quam corpus humanum
+      ad recipiendum influentiam ab anima intellectiua. Et ideo corpus celeste non indiget
+      uirtutibus mediis ad hoc ut perficiatur ab influentia sui motoris sicut corpus animatum, ad
+      hoc ut ab anima intellectiua perficiatur. Et ideo non potest anima intellectiua esse in
+      corpore humano sine anima uegetabili et sensibili, et sic patet solutio. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

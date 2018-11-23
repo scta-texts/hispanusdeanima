@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e5072" >
+        <head>Quaestio 7</head>
+        <head type="question-title">Utrum anima sit numerus se ipsum mouens</head>
+        <p xml:id="da-236-ed1e5072-d1e5080">[lec 12 q7] Circa septimam questionem et <seg>ultimam</seg> sic proceditur et queritur utrum
+    anima sit numerus se ipsum mouens, et ostenditur quod sic: omnis substantia que in suis
+    operationibus primo dirigit se et dirigendo se dirigit alia distincte et ordinate secundum
+    exemplaria numeralia in ipsa retenta <seg>est</seg> habens rationem numeri, que est ratio
+    dirigendi et ratio ordinandi et discernendi, et secundum illam rationem se ipsam mouet in
+    ordinando et <seg>dirigendo.</seg> Set anima est huiusmodi, ergo anima dirigendo se
+      <seg>mouet</seg> et ordinando se per exemplaria que habent rationem numeri. Omnis autem
+    talis substantia est numerus se ipsum mouens, ergo et <seg>cetera.</seg>
+        </p>
+        <p xml:id="da-236-ed1e5072-d1e5098">Secunda ratio est <seg>ista:</seg> proprium est substantiarum spiritualium supra se ipsas
+    reflecti et quanto spiritualior est substantia tanto plus reflectitur supra se et in ordine et
+    in operatione. Set anima intellectiua est substantia spiritualis, ergo supra se reflectitur in
+      <seg>ordine</seg> et <seg>in</seg> operatione ordinata. Omnis autem talis substantia se
+    ipsam <seg>diuidit</seg> et ordinat et mouet ad opus, ergo anima se ipsam dirigit et ordinat
+    et mouet ad <seg>opus</seg> reflectendo supra se. Set anima non dirigit aliquid necque
+    discernit nisi secundum <seg>rationum</seg> numerorum, <seg>ut</seg> probatum est, et omnis
+    talis substantia habet naturam numeri se ipsum mouentis, ergo anima habet naturam numeri se
+    ipsum mouentis, ergo <seg>anima</seg> est numerus se ipsum mouens. </p>
+        <p xml:id="da-236-ed1e5072-d1e5126">Ad oppositum: omne mobile est partibile, set anima est impartibilis, ergo non est mobilis,
+    ergo non est numerus se ipsum mouens.</p>
+        <p xml:id="da-236-ed1e5072-d1e5130">Secunda ratio hec est: oportet motorem et mobile distare substantia, ergo si anima mouet
+      <seg>se</seg> distat a se secundum substantiam. Hoc autem falsum est, ergo anima non mouet
+    se, ergo anima non est numerus se ipsum mouens. </p>
+        <p xml:id="da-236-ed1e5072-d1e5136">
+          <seg>Solutio.</seg> Ad hoc dicendum est quod anima se ipsam mouet secundum motus ordinatos in
+    cognitione et operatione, qui sunt motus spirituales et non mouet se motu corporali
+      <seg>set</seg>
+          <seg>spirituali.</seg> Vnde dirigit se in suis exemplaribus que habent <seg>proportiones</seg>
+    numerorum et excitat se discrete et ordinate per illa, et ideo dicitur discrete et ordinate se
+    ipsam <seg>mouere.</seg> Et ita sub ratione numeri se mouet et propter hoc dicitur anima esse
+    numerus se ipsum mouens. Aristoteles autem improbat <seg>hanc</seg> opinionem acsi Plato
+    poneret animam moueri motu corporali, non ponit autem Plato quod moueatur motu corporali set
+    motu spirituali in directione supra se ipsam. Vnde sicut primum se ipsum cognoscit et diligit
+    et se in suis operationibus regulat et dirigit, ita anima se ipsam cognoscit et diligit et se
+    ipsam in suis operationibus dirigit et <seg>regulat,</seg> et ista directio dicitur motus
+      <seg>proprius</seg> anime per quem dirigendo<hi> |</hi> se dicitur mouere se ipsam. Set
+    differt in primo et in anima, quia in primo non differt sua substantia et sua operatio. In
+    anima autem differt. Patet ergo quo modo anima dicatur esse numerus se ipsum mouens
+      <seg>quid</seg> dirigit se et excitat discrete et ordinate ad suas operationes per
+    exemplaria que sunt in ipsa et ita secundum naturam numeri se dirigit. Hec autem
+      <seg>discretio</seg> est motus spiritualis et ideo anima dicitur numerus se ipsum mouens
+    motu spirituali. Et concedo rationes hoc probantes.</p>
+        <p xml:id="da-236-ed1e5072-d1e5172">Ad primam rationem in contrarium dicendum est quod motus corporalis debetur substantiis
+    partibilibus et tali non mouetur anima. Motus autem spiritualis debetur substantiis
+    spiritualibus impartibilibus et tali mouetur anima qui motus superius appellatus
+      <seg>est</seg>
+          <seg>excitatio</seg> quedam. </p>
+        <p xml:id="da-236-ed1e5072-d1e5181">Ad secundam <seg>rationem</seg> dicendum est quod duplex est <seg>motus,</seg>
+          <seg>scilicet</seg> corporalis et spiritualis. In motu autem corporali uerum est quod oportet
+    motorem et mobile distare substantia et in tali motu quanto plus distat motor a mobili tanto
+    sufficientius mouet. In motu autem spirituali qui est motus <seg>reflectionis</seg> substantie
+    supra se in dirigendo se et regulando non est hec distantia motoris | a <seg>mobili,</seg> set
+    quanto minus in tali motu distat motor a <seg>mobili</seg> tanto magis <seg>se</seg> cognoscit
+    et dirigit et ordinat et adaptat et excitat ad operationem. Vnde quanto anima magis est sibi
+    presens tanto magis se cognoscit et diligit et dirigit et reflectitur supra se dirigendo se.
+    Hec autem directio et <seg>reflectio</seg> spiritualis est motus spiritualis quo dicitur anima
+    moueri. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

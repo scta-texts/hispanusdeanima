@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e23247" >
+        <head>Quaestio 2</head>
+        <head type="question-title">
+    Utrum anima uegetabilis
+    sit principium uite in omni uiuente.
+   </head>
+        <p xml:id="da-236-ed1e23247-d1e23255">
+          <hi>[lec10 q2] Circa secundam questionem sic proceditur et queritur utrum anima uegetabilis
+      sit principium uite in omni <seg>uiuente.</seg> Et ostenditur quod sic: quia omnia uiuentia
+      communicant in uita, ergo <seg>communicant</seg> in ea per <seg>aliquid</seg> commune quod
+      in ipsis est. Nichil uero commune est omnibus uiuentibus quod possit dare uitam nisi solum
+      anima uegetabilis, ergo anima uegetabilis est principium uite in omnibus uiuentibus. Et hoc
+      confirmatur <seg>sic:</seg> differentie enim secundum rationem fundantur in principiis
+      nature, <seg>ergo</seg> cum hec differentia animatum sit communis omnibus uiuentibus,
+      necesse </hi>
+          <hi>|</hi>
+          <hi> est quod illud quod est radix illius sit principium commune omnibus. Hoc autem est anima
+      uegetabilis, ergo anima uegetabilis est communis omnibus uiuentibus, ergo cum ipsa ubicumque
+      est sit <seg>principium</seg> uite manifestum est quod ipsa est principium uite in omnibus
+      uiuentibus. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23247-d1e23285">
+          <hi>Secunda ratio hec est: anima uegetabilis omnium corporum corruptibilium consistit in esse
+      et <seg>conseruationem</seg> per restaurationem deperditi et per extensionem partium
+      corporis secundum debitam quantitatem et <seg>conseruationem</seg> in suo <seg>simile,</seg>
+      et hoc est commune omni uiuenti completo. Hee autem sunt operationes anime uegetabilis,
+      sicut dictum est, ergo anima uegetabilis est principium <seg>uniuersalis</seg> uite
+      cuiuslibet uiuentis.</hi>
+        </p>
+        <p xml:id="da-236-ed1e23247-d1e23303">
+          <hi>Ad oppositum: <seg>uiuere</seg> uiuentibus est esse. Est autem a forma completiua rei, set
+      non est eadem forma completiua in omnibus uiuentibus nec illa est anima uegetabilis, ergo
+      non est idem esse omnium uiuentium nec idem principium esse in eis, ergo non est idem
+       <seg>principium</seg> uite in omnibus uiuentibus. Anima <seg>igitur</seg> uegetabilis non
+      est commune principium omnium uiuentium. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23247-d1e23319">
+          <hi>Secunda ratio hec est: sicut uita in uiuentibus est esse ita sentire in sentientibus et
+      intelligere in intelligentibus est <seg>esse.</seg> Sentire enim et intelligere sunt
+      differentie uite, ergo intelligere quod est genus uite est <seg>in</seg> intelligentibus a
+      principio intelligendi et sentientibus a principio sentiendi. Set anima uegetabilis non est
+      principium sentiendi et intelligendi, ergo anima uegetabilis non est principium uite in
+      omnibus uiuentibus.</hi>
+        </p>
+        <p xml:id="da-236-ed1e23247-d1e23331">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod anima uegetabilis est commune principium et
+      uniuersale uite in omnibus uiuentibus. In illa enim primo radicatur uita uniuersaliter per
+      quam perficitur corpus in genere uiuentium et per cuius operationes conseruatur in se et in
+      suo simili, et concedente sunt rationes, et hoc patet per uerbum Arisotelis dicentis quod
+      per ipsam primo inest <seg>uiuere</seg> omnibus uiuentibus. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23247-d1e23349">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod uita est duobus modis. Est
+      enim quedam uita omni uiuenti communis et hec radicatur in anima et est uita propria sicut
+      uita illa per quam animal uiuit in genere animalis et uita illa propria per quam homo uiuit
+      in genere hominis et hec uita propria non <seg>est</seg> in quolibet <seg>uiuente</seg> ab
+      eodem principio quod est anima uegetabilis, set in eis <seg>est</seg>
+            <seg>a</seg> suis <seg>diuersis</seg> principiis et formis complexionis. Vita uero communis
+      est duplex, quedam <seg>enim</seg> est communis per predicationem et hec debetur anime
+      uniuersaliter, unde hec radicatur in uniuersali quod est anima, quod <seg>est</seg>
+      predicabile de hac anima et de illa. Est alia uita communis per reductionem in aliquo
+      principio communi et hec debetur anime uegetabili que est in quolibet uiuente communi in qua
+      communicant omnia uiuentia, et hec uita non est <seg>communis</seg> per predicationem set
+      quia radicatur in quodam principio communi omni uiuenti, ideo necesse est eam esse in omni
+      uiuente, et huiusmodi est </hi>
+          <hi>|</hi>
+          <hi> principium anime uegetabilis et non aliarum. Per hoc autem soluitur ad primam
+       <seg>rationem</seg> in contrarium. </hi>
+          <hi>|</hi>
+          <hi> Ad <seg>secundam</seg>
+            <seg>autem</seg> quia procedit de uita propria et de esse proprio cuiuslibet
+      uiuentibus.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

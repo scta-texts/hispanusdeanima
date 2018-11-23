@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e4957" >
+        <head>Quaestio 6</head>
+        <head type="question-title">Utrum anima sit numerus</head>
+        <p xml:id="da-236-ed1e4957-d1e4965">[lec 12 q6] Circa sextam <seg>questionem</seg> sic proceditur et queritur utrum anima sit
+    numerus, et ostenditur quod sic: omnis substantia operans secundum <seg>ordinationem</seg> et
+      <seg>ductionem*</seg> operatur per illud quod est ratio discretionis et <seg>ordinis.</seg>
+    Hoc autem est numerus, ergo operatur per numerum. <seg>Illud</seg> ergo quod est principium
+    regulationis operationis in homine est numerus uel habens naturam <seg>numeri</seg> in se. Hoc
+    autem est anima, ergo anima uel est numerus uel habet naturam numeri in se. </p>
+        <p xml:id="da-236-ed1e4957-d1e4987">Secunda ratio hec est: anima habet conformitatem cum omnibus principiis, quia omnes res
+    cognoscit ex principiis. <seg>Iterum</seg> principia omnium habent naturam principiorum et
+    exemplarium, et in quantum sunt exemplaria habet anima conformitatem cum illis principiis et
+    sunt in anima. Set principia exemplaria <seg>uel</seg> numeri, ergo anima est numerus per
+      <seg>illa</seg> uel in se <seg>habet</seg> naturam numeri. </p>
+        <p xml:id="da-236-ed1e4957-d1e5002">Ad <seg>oppositum:</seg> omnis numerus uel <seg>omne</seg> habens naturam uel intensionem
+    numeri habet partibilitatem. Set anima est simplex et indiuisibilis et
+      <seg>impartibilis,</seg> cum sit substantia spiritualis, ergo anima nec est numerus nec
+    habet intensionem numeri. </p>
+        <p xml:id="da-236-ed1e4957-d1e5015">
+          <seg>Solutio.</seg> Ad hoc dicendum est quod Plato posuit animam esse numerum, quia posuit
+    similitudines rerum esse in anima et posuit animam <seg>habere</seg> similitudines et
+    exemplaria rerum per cognitionem, et quia substantia habens <seg>exemplaria</seg> habet illa
+    sub ratione numeri ut per illa cognoscat <seg>distinguat</seg> et ordinet, ideo posuit Plato
+    animam habere in se naturam numeri non quia essentia anime esset <hi>|</hi> numerus, set quia
+    per numeros operatur et conformatur cum illis in operando. Numerus <seg>autem</seg> est
+    duplex: est quidam numerus numeratus et hic dicitur res numerate distincte et discrete. Est
+      <seg>autem</seg> alius numerus qui est numerus numerans et hic est duplex: unus est numerus
+    numerans <seg>quod</seg> anima numerat res et hic dicitur esse numerus exemplarium per quem
+    anima dirigitur in suis operationibus; alius est numerus numerans qui distinguit et
+      <seg>discernit</seg> res in sua operatione, et talis numerus numerans est <seg>in</seg> ipsa
+    anima et ita <seg>anima</seg> est numerus numerans operans per numeros quibus numerat res
+    numeratas. Cum <seg>autem</seg> dicitur anima est numerus numerans, <seg>hec</seg> est
+    predicatio accidentis. Anima enim operatur secundum regulam exemplarium que sunt in ipsa que
+    habent rationem et intensionem numeri. Et quia denominatur anima a suis operationibus, ideo a
+    numero denominatur ut dicatur numerus numerans. Aristoteles autem improbat hanc opinionem,
+    acsi Plato poneret animam esse numerum, qui est quantitas. Hoc autem non est uerum, quia anima
+    non est numerus nisi per accidens, quia, scilicet ipsa <seg>anima</seg> est numerus numerans
+    per numeros quibus numerat res numeratas. Hec autem sunt exemplaria. Vnde per naturam illorum
+    dicitur esse numerus, quia per illa operatur diffinite et ordinate, et ideo
+      <seg>appellatur</seg> numerus per illa, quia per illa numerat res numeratas.</p>
+        <p xml:id="da-236-ed1e4957-d1e5064">Ad rationem in contrarium dicendum quod in anima sunt duo, scilicet substantia anime,
+    secundum est operatio anime que est cum distinctione et ordinatione. Quantum | autem ad
+    substantiam non <seg>habet</seg> intensionem numeri, quia simplex est et indiuisibilis, et
+    quantum ad hoc improbat Aristoteles. Quantum autem ad operationem suam que est distincta et
+    ordinata habet naturam numeri et intensionem, quia distincte et ordinate non potest operari
+    nisi secundum regulationem et rationem numeralem quam in se habeat. Hec autem est ratio
+    exemplarium, et hec operatio anime est partibilis et diuisibilis. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

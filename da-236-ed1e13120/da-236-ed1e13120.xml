@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e13120" >
+        <head>Quaestio 3</head>
+        <head type="question-title">Utrum anima
+    intellectiua determinet sibi partem in corpore 
+    et appropriet et coartetur ad
+    aliquam partem corporis.</head>
+        <p xml:id="da-236-ed1e13120-d1e13128">[lec3 q3] Circa terciam <seg>questionem</seg> sic proceditur et queritur utrum anima
+      intellec<hi>|</hi>tiua determinet sibi partem in corpore et appropriet et coartetur ad
+    aliquam partem corporis. Et ostenditur quod non. <seg>Causa</seg> propter quam aliqua
+    substantia coartatur ad aliquam partem est dependentia ipsius secundum substantiam uel
+    uirtutem. Set anima intellectiua nec <seg>secundum</seg> substantiam nec secundum uirtutem
+    dependet ab aliqua parte corporis, quia nullius partis corporis est actus nec quantum ad
+    substantiam nec quantum ad uirtutem, sicut <seg>uult</seg> Aristoteles. Ergo anima
+    intellectiua non coartatur ad <seg>aliqua</seg> partem corporis <seg>nec</seg> aliquam partem
+    sibi determinat. Set omne quod existit in aliquo non coartatum ad <seg>aliquam</seg> partem
+    eius est ubique in illo, ergo anima intellectiua non appropriat sibi partem. Set est ubique in
+    corpore et in qualibet parte eius per substantiam.</p>
+        <p xml:id="da-236-ed1e13120-d1e13156">Secunda ratio hec est: quod aliqua substantia <seg>coartetur</seg> ad aliquid, multipliciter
+    est causa: una causa est priuatio simplicitatis et corporeitatis. Secunda causa est in modo
+    sue potentie. Tercia causa est dependentia ipsius a materia corporali. Set anima intellectiua
+    non habet compositionem materialem. Item non habet potentiam respectu partium corporis, quia
+    totum corpus regit et ad totum corpus regendum coartatur et non ad eius partes. Iterum a nulla
+    parte corporis dependet, ergo ad nullam <seg>partem</seg> corporis coartatur. Set per
+      <seg>independentiam</seg> est in qualibet et ita in toto quod non in qualibet parte. </p>
+        <p xml:id="da-236-ed1e13120-d1e13168">Ad oppositum: maioris simplicitatis est intelligentia quam anima intellectiua. Item minus
+    coartatur substantia <seg>potentia</seg> quam potentia anime intellectiue. Item minus
+    dependens est. Set intellectiua non potest simul et semel esse in <seg>diuersis,</seg> ergo
+    multo fortius nec anima intellectiua determinat <seg>igitur</seg> sibi partem in corpore in
+    qua est per essentiam. <seg/>
+        </p>
+        <p xml:id="da-236-ed1e13120-d1e13182">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod anima intellectiua ad nullam partem
+    corporis coartatur, set per indifferentiam se habet ad omnes partes corporis et quo modo hoc
+    sit huius ueritas postea patebit. Et concedende sunt rationes ad hanc partem quantum ad hoc
+    quod ostendunt animam intellectiuam non appropriare sibi partem in corpore. Cum autem
+    ostendunt ille rationes quod <seg>anima</seg> est in qualibet parte corporis non est
+    intelligendum quod anima determinet sibi omnes partes corporis, sicut uegetabilis et
+    sensibilis. Set <seg>est</seg> in omnibus partibus, quia per <seg>indifferentiam</seg> se
+    habet ad omnes <seg>illas,</seg>
+          <seg>nec</seg> ad illam earum coartatur nec <seg>situm</seg> habet in aliqua nec applicationem
+    ad aliquam nec ad omnes applicatur, sicut uegetalibilis et sensibilis. Set per
+      <seg>indifferentiam</seg> se habet ad omnes partes corporis et equaliter ita quod non
+    possunt dicere quod applicatur huic <seg>uel</seg> isti nec illi uel isti, set toti applicatur
+    ita quod nulli parti, et ita per indifferentiam se habet ad omnes alias partes. Si autem hoc
+    modo probent rationes quod sit in qualibet parte bene procedunt, si autem non, set aliter
+    procedunt ex falsis et semper accipitur quedam regula, scilicet omne illud quod non coartatur
+    ad aliquam partem corporis set in corpore existit non coartatum ad aliquam <seg>partem</seg>
+    eius <seg>ex</seg> ubique in illo nisi intelligatur hoc modo de anima intellectiua, quod sit
+    in qualibet parte corporis, sicut dictum est. Hoc <hi>|</hi>
+          <seg>etiam</seg> modo intellexit Augustinus cum dixit auctoritatem predictam et <seg>cum</seg>
+    comparauit existentiam anime intellectiue in minori mundo ad existentiam Dei in maiori
+      <seg>mundo</seg> intellexit quantum ad hoc quod Deus existit in maiori <seg>mundo</seg> per
+    essentiam non approprians partem regens mundum totum per essentiam et omnes partes eius non
+    applicamus alicui, set per <seg>indifferentiam</seg> ad omnes se habens et omnes per
+    indifferentiam regens. et similiter anima intellectiua respectu corporis et sic non erit hoc
+      <seg>contrarium</seg> Aristoteli dicenti quod ita est in toto quod <seg>non</seg> in aliqua
+    parte. Hoc enim dixit quia nulli <seg>applicatur</seg> set toti et per totum operatur. </p>
+        <p xml:id="da-236-ed1e13120-d1e13250">Ad rationes autem in contrarium que probant quod anima intellectiua appropriet sibi partem
+    dicendum <seg>est</seg> et primo ad primam, quod si intelligentia esset perfectio alicuis
+    corporis sicut est anima intellectiua non appropriaret sibi partem, sicut nec anima
+    intellectiua. Set ita esset in qualibet parte, sicut anima intellectiua. Et uisum est quo modo
+    sit in qualibet parte, set quia intelligentia non est perfectio corporis, <seg>ideo</seg> non
+    procedit et sic soluitur ratio in se.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

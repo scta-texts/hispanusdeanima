@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e8165" >
+        <head>Quaestio 3</head>
+        <p xml:id="da-236-ed1e8165-d1e8170">[lec1 q3] Circa terciam questionem sic proceditur <seg>et</seg> queritur de predictam
+    diuisione substantia et circa ipsam quatuor inquiruntur: primum est utrum in qualibet
+    substantia creata completa <seg>sit</seg> ponere compositionem ex materia et forma. Et
+      <seg>ostenditur</seg> quod sic: omnis substantia completa sustinens dispositiones et
+    influentias differentes ab ea per essentiam habet aliquod possibile quod est
+      <seg>sustentamentum</seg> spirituale. Set omnis <hi>|</hi> substantia creata est huiusmodi,
+    ergo omnis substantia creata habet predictum sustentamentum. Illud autem sustentamentum est
+    natura materie, <seg>ergo</seg> in quolibet creato est natura materie. Set non est res
+    completa sine forma nec materia sine forma, ergo in qualibet substantia creata est materia et
+    forma. Item in <seg>quocumque</seg> est ratio agendi in eodem est principium a quo elicitur
+    actio. Illud autem principium est forma, ergo in qualibet substantia creata est materia et
+      <seg>forma,</seg> sicut uisum est. </p>
+        <p xml:id="da-236-ed1e8165-d1e8198">Secunda ratio hec est: <seg>omne</seg> illud in quod differt sua actio a sua substantia habet
+    aliquid quo agit et aliquid <seg>quod</seg> non agit. Set in omni substantia creata differt
+    sua actio et sua substantia, quia in solo primo non differt. Ergo omnis substantia creata
+    habet aliquid quo agit et aliquid quo non agit. Illud autem quo fit actio est forma, illud
+    uero quo non fit actio est materia, ergo in qualibet substantia creata est compositio ex
+    materia et forma. </p>
+        <p xml:id="da-236-ed1e8165-d1e8207">Ad oppositum, sicut habetur in libro <hi>De causis</hi>, intelligentia est substantia que non
+      <seg>diuiditur,</seg> set <seg>nulla</seg> talis <hi>|</hi> substantia est composita. Ergo
+    intelligentia non est composita ex materia et forma set intelligentia est substantia creata,
+    ergo non omnis substantia creata est composita ex materia et <seg>forma.</seg>
+        </p>
+        <p xml:id="da-236-ed1e8165-d1e8225">Secunda autem queritur utrum materia in omnibus substantiis creatis sit eadem secundum ueram
+    idenptitatem essentie aut secundum intensionem solum. Et ostenditur quod secundum idemptitatem
+      <seg>ueram</seg> essentie sit eadem quecumque participant naturam entis essentialiter per
+    prius et posterius communicant in aliquo principio entis per prius et posterius, cum
+      <seg>igitur</seg> intelligentie et corpora participent naturam entis essentialiter per prius
+    et <seg>per</seg> posterius, intelligentie et corpora communicabunt in aliquo principio entis
+    essentialiter per prius et <seg>posterius,</seg> cum ergo principia entis sint materia et
+    forma omnia creata communicabunt <seg>in</seg> materia uel <seg>in</seg> forma. Set non
+    communicant in forma cum per eam sint diuersa, ergo communicant essentialiter in materia, ergo
+    omnium creatorum eadem est materia per essentiam, et hec ratio solum ostentit quod materia sit
+    eadem per essentiam in omnibus <seg>causatis.</seg>
+        </p>
+        <p xml:id="da-236-ed1e8165-d1e8251">Ad oppositum: idemptitas enim per essentiam que est secundum naturam ponit idemptitatem in
+    rebus secundum naturam et operationem et uirtutem, sicut ponimus quod aqua est eadem per
+    essentiam <seg>in</seg> qualibet parte sua. Et quia sic est ponitur in ipsa eadem natura in
+    qualibet parte <seg>sua,</seg> et quia sic est ponitur in ipsa eadem natura in qualibet parte
+      <seg>sua,</seg> iterum, quia eadem est materia corporum inferiorum per essentiam, ponitur in
+    eis <seg>idemptitas</seg> nature in uirtute et operatione secundum quam illa materia
+      <seg>habilis</seg> est ad omnes formas corporum. Set in substantiis omnibus creatis
+    corporeis et incorporeis non est eadem natura principiorum nec uirtus eadem, ergo idemptitas
+    principiorum in eis non est idemptitas nature, set est illa <seg>idemptitas</seg> sola
+    proportione et intensione. </p>
+        <p xml:id="da-236-ed1e8165-d1e8273">Secunda ratio hec est: quecumque communicant in materia et differunt in specie agunt et
+    patiuntur ad inuicem. Hec autem communicantia est solum communicantia in essentia
+      <seg>nature</seg> prout <seg>essentiam</seg> naturam <seg>aliqua</seg> nominat et non est
+    hec communicatio in forma <seg>nec</seg> in dispositionibus materie. Ergo si esset
+    communicatio omnium substantiarum in materia secundum naturam esset actio et passio in omnibus
+    substantiis ad inuicem et contrarietas. Hoc autem est impossibile, ergo idemptitas omnium
+    substantiarum in <seg>materia</seg> est idemptitas in natura per essentiam et naturam, set per
+    solam proportionem <seg>et</seg> intensionem. De forma autem nulla est dubitatio cum res omnes
+    differant per essentiam a parte forme et ita non communicant formam per idemptitatem essentie
+    et nature <seg>set</seg> per idemptitatem proportionis <seg>et</seg> intensionis solum.</p>
+        <p xml:id="da-236-ed1e8165-d1e8301">
+          <seg>Solutio.</seg> Ad quod dicendum est quod materia et forma in omnibus <seg>causatis</seg>
+    essentie idemptitatem non obtinent, set in sola proportionis intensione
+      <seg>communicant.</seg> Unde dicendum <seg>est</seg> quod principia substantie que sunt
+    materia et forma existentia in omni substantia per indifferentiam non habent idemptitatem
+    secundum naturam nec secundum naturalem <seg>essentiam,</seg> set secundum intensionem et
+    proportionem solam. Unde eo modo quo communicant omnes substantie in genere substantie eo modo
+    communicant in principiis substantie <hi>|</hi>communicant <seg>autem</seg> omnes substantie
+    in genere substantie communitate intensionis solum et eodem modo in principiis communicant
+      <seg>eius</seg> communitate intensionis solum et non communitate nature, ad cuius rei
+    euidentiam notandum quod communitas et idemptitas essentie est quatuor modis: quedam est
+    communitas essentie que est communitas proportionis et <seg>intensionis</seg> qua multa
+    communicant in eodem genere, et hoc modo omnes substantie communicant substantiam que est
+    genus et habent idemptitatem in substantia et in principiis substantie que sunt materia et
+    forma, et hoc modo est eadem materia per essentiam in omnibus et hoc modo posuit similiter
+    auctor <hi>Fontis uite</hi> unam esse primam <seg>formam,</seg> et similiter
+      <seg>Auicenna.</seg> Hac autem idemptitatem non est considerare in naturalibus. Secundo modo
+    dicitur idemptitas essentie que est a parte modi accipiendi et cognoscendi secundum quod
+    dicitur <seg>omnia</seg> sunt in eodem <seg>nunc</seg> secundum modum accipiendi et
+    cognoscendi et sic item substantie <seg>principia</seg> sunt eadem in omnibus per essentiam,
+    et hec idemptitas non est uera idemptitas nature. Tercio modo dicitur idemptitas essentie
+    idemptitas nature secundum quam dicimus quod omnis a qua est eadem per essentiam cum alia,
+    quia sunt eiusdem nature et hoc modo non communicant omnes substantie <seg>create</seg>
+    substantie <seg>principia,</seg> et hoc modo non communicant omnes substantie create
+    principia, <seg>set</seg> hoc <seg>modo</seg> habent elementa eandem <seg>materiam</seg> per
+    essentiam, quia materia elementorum est eiusdem <hi>|</hi> nature et uniformis et non differt
+    nisi in formis et dispositionibus. Set sic omnium substantiarum non est eadem materia per
+    essentiam nec forma. Quarto modo dicitur idemptitas essentie prout essentia est natura fixa et
+    determinata et non solum intensio, sicut ponimus aquam determinatam uel hominem
+      <seg>determinatum</seg> naturam fixam. Et hoc modo non communicant per essentiam omnes
+    substantie principia substantie, set item notandum <seg>est</seg> quod idemptitas proportionis
+    est multiplex: quedam est idemptitas proportionis que est idemptitas similitudinis ut sicut
+      <seg>ita</seg> se habet <seg>nauta</seg> ad nauem ita se habet <seg>magister</seg> ad scolas
+    in regendo. Alia est idemptitas proportionis <seg>secundum</seg> per participationem que est
+    secundum prius et posterius, et hec est idemptitas omnium in ente. Alia est idemptitas
+    proportionis que est in similitudine essentiali que est communis idemptitas ad omnia eiusdem
+    generis et hoc modo idemptitas proportionis principiorum substantie est in omnibus substantiis
+    causatis, et hoc modo communicant omnes substantie in <seg>genere</seg> substantie. Et ita
+    patet quod principia substantie non sunt eadem in omnibus substantiis causatis secundum ueram
+    idemptitatem essentie. </p>
+        <p xml:id="da-236-ed1e8165-d1e8391">Ad primam rationem in contrarium dicendum <seg>est</seg> quod omnes substantie create
+    participant naturam entis et communicant in principio <seg>entis</seg> quod est materia non
+    secundum ueram idemptitatem essentie set solum <seg>secundum</seg> proportionem, quia sicut
+    hoc habet <seg>naturam.</seg>
+        </p>
+        <p xml:id="da-236-ed1e8165-d1e8406">Ad secundam dicendum <seg>est</seg> quod omnes substantie communicant in
+      <seg>substantia.</seg> Hec autem communicatio non est in <seg>aliqua</seg> natura fixa set
+    est <seg>in</seg> intensione essentiali ipsius substantie que est similitudo essentialis
+    omnium <seg>substantiarum</seg> creatarum et non est natura <hi>|</hi> fixa<hi> </hi>
+          <seg>secundum</seg> quod sic participatur a substantiis secundum quod dicit
+    Aristoteles quod nichil horum que de multis predicantur est substantia. Set quale et similiter
+    principia substantie per essentiam que est natura fixa et uera non participantur a substantiis
+    set per intensionem solum et proportionem, sicut substantia participatur per intensionem. </p>
+        <p xml:id="da-236-ed1e8165-d1e8433">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod omnis substantia creata completa ex
+    predictorum quatuor, scilicet materie, forme et compositi et essentie integritate perfecta
+    consistit. In qualibet ergo substantia creata est compositio ex materia et forma, set sicut
+    habetur in libro <hi>Fontis <seg>uite</seg>
+          </hi> triplex est materia, scilicet materia
+    corporalis et materia spiritualis et materia <seg>media.</seg> Corporalis autem
+      <seg>materia</seg> in elementis est; spiritualis autem materia in substantiis spiritualibus
+      <seg>creatis.</seg> Materia autem <seg>media</seg> est in corporibus superioribus. Igitur
+      <seg>in</seg>
+          <seg>intelligentia</seg> et in anima est materia spiritualis <seg>eis</seg> proportionalis et
+    proportionem sicut substantia participatur per intensionem solam ab omnibus substantiis quarum
+    est similitudo. Unde dicit commentator in septimo quod substantia <seg>dicitur</seg> predicari
+    hoc modo in quale, quia similitudo multorum <seg>est.</seg>
+        </p>
+        <p xml:id="da-236-ed1e8165-d1e8475">Tercio queritur de predicta diuisione. <seg>Ostenditur</seg> autem eius necessitas duabus
+    rationibus, quarum prima hec <seg>est:</seg> in substantia sunt principia ex quibus fit
+    substantia, set ex eis que sunt actu non fit <seg>tercium,</seg> ergo necesse est
+      <seg>quod</seg>
+          <seg>sit</seg> potentia alterum actu. Illud autem quod <seg>est</seg> potentia materia est.
+    Illud autem quod est actu forma est. Ergo necesse est ponere materiam et formam in genere
+    substantie, set ex <seg>hiis</seg> resultat tercium quod est compositum, ergo necesse est
+    compositionem uel <seg>compositum</seg> esse in genere substantie. Item unumquodque habet
+    essentiam qua est id quod est, ergo in quolibet quod est in genere <seg>substantie</seg>
+    necesse est esse essentiam et ita necesse est ista quatuor, materia, forma et compositum et
+    essentia. </p>
+        <p xml:id="da-236-ed1e8165-d1e8506">Secunda ratio hec est: sicut habetur in septimo <seg>
+            <hi>Metaphisice</hi>,</seg> omne
+    diffinibile est aggregatum sine naturali <seg>aggregatione</seg> siue secundum rationem.
+    Aggregatio <seg>autem</seg> illa est ex principiis in illo genere. Eis uero que
+      <seg>sunt</seg> in <seg>genere</seg> substantie competit diffinitio, ergo in genere
+    substantie sunt res aggregate ex principiis, set unum illorum principiorum habet rationem
+    materie, aliud uero rationem complementi et forme. Ergo in genere substantie est materia et
+    forma. Item ex illis est compositum, item unumquodque habet essentiam qua est id quod est.
+    Ergo res de genere substantie habent <seg>essentie</seg> siue <seg>sunt</seg> res secundum
+    rationem siue secundum naturam, ergo in genere substantie secundum <seg>quod</seg> est res
+    rationis et res nature sunt ista quatuor, materia, forma et compositum et essentia, ergo
+    necesse est substantiam diuidi per ista quatuor membra. </p>
+        <p xml:id="da-236-ed1e8165-d1e8536">Ad oppositum: in re composita requiritur materia et forma et unio illarum, et hec unio est
+    causa esse in libro <hi>De unitate et <seg>uno</seg>
+          </hi>, quod esse est actus ex unione forme
+    cum materia, ergo sicut materia et forma ponuntur esse principia rerum in genere substantie
+    ita unio illorum debet poni esse principium, ergo debet addi hec differentia in diuisione
+    substantie, ut dicatur materia <seg>et</seg> forma, compositum, essentia et unio forme cum
+      <seg>materia</seg> et ita predicta diuisio est insufficiens, nec bene diuiditur
+      <seg>substantia</seg> per illam.</p>
+        <p xml:id="da-236-ed1e8165-d1e8553">Secunda ratio hec est: forma non quolibet modo unitur materie, set materie
+    dis<hi>|</hi>posite. Ergo ad hoc ut uniatur <seg>forma</seg> materie necesse est dispositiones
+    precedere adaptantes ipsam materiam, ergo sicut materia et forma ponuntur esse principia, ergo
+    et dispositiones debent poni <seg>esse</seg> alterum principium, ergo si propter rationem
+    principiorum <seg>diuiditur</seg> substantia per differentias <seg>predictas</seg> necesse est
+    dispositiones ponere in illa diuisione <seg>ta<hi>n</hi>quam</seg> rerum de genere substantie
+    uel substantia <seg>diuidetur</seg> insufficienter per ista. </p>
+        <p xml:id="da-236-ed1e8165-d1e8581">Tercia ratio est <seg>ista:</seg> et ostendit quod diuisio <seg>predicta</seg> debet fieri
+    per <seg>pauciora</seg> membra. In compositio <seg>autem</seg> est materia et forma et
+      <seg>compositum</seg> quod resultat <hi>|</hi> ex hiis quod est essentia compositi. Essentia
+    ergo compositi non differt a toto composito, set est tota <seg>eius</seg> essentia, ergo
+    essentia non debet diuidi contra compositum, ergo solum debent esse tria membra in diuisione
+      <seg>substantia</seg> predicta et non quatuor. Ratione <seg>eius</seg> queritur propter quid
+    in secundo <hi>De anima </hi>in <seg>principio</seg> non ponit Aristoteles nisi tria membra in
+    diuisione substantie. In <seg>
+            <hi>Metaphisica</hi>
+          </seg>
+          <hi/> autem ponit quatuor,
+      <seg>quia</seg> ponit essentiam in <seg>illa</seg> diuisione et non in secundo <hi>De
+      anima</hi>. </p>
+        <p xml:id="da-236-ed1e8165-d1e8633">
+          <seg>Solutio.</seg> Ad <seg>hoc</seg> dicendum est quod nomen substantie <seg>habet</seg>
+    quatuor differentias, scilicet <seg>materiam,</seg> formam, compositum et essentiam
+    comprehendit. Unde in quolibet quod est in genere substantie est unum, quod est possibile et
+    hoc est materia, et alterum, scilicet quod est complementum, et hoc est forma, et tercium,
+    quod est resultans ex hiis, et hoc est compositum, et quartum, <seg>quod</seg> est essentia
+      <seg>rei</seg>
+          <seg>qua</seg> res est id quod est et qua intelligitur aliis circumscriptis, et quia
+    substantia comprehendit in suo genere omnes substantias et principia omnium substantiarum sunt
+    in suo per reductionem, ideo recipit <seg>substantia</seg> diuisionem per predictas
+    differentias et sufficienter, et ita predicta diuisio est sufficiens et competens. </p>
+        <p xml:id="da-236-ed1e8165-d1e8661">Ad primam rationem in contrarium dicendum <seg>est</seg> quod ad <seg>hac</seg> quod sit res
+    completa oportet quod sit unio forme cum materia. Set sicut in natura quedam sunt entia quedam
+    sunt <seg>entis,</seg> ita in principiis <seg>quedam</seg> sicut principia quedam sicut
+    aliquid principiorum, sicut uirtus materie cum forma non est principium, set quid
+      <seg>principii.</seg> Similiter unio forme cum materia non est natura aliqua ens nec
+    principium, set est quid entis et nature et quid <seg>principii,</seg> et ideo reducitur ad
+    principia sicut quid eorum et <seg>iam</seg> non cadit in diuisione substantie contra
+    principia substantie. </p>
+        <p xml:id="da-236-ed1e8165-d1e8686">Ad secundam dicendum <seg>est</seg> quod duobus modis est loqui de principiis substantie: uno
+    modo quantum ad esse et essentiam, alio modo quantum ad generationem. Primo modo non sunt nisi
+    duo principia substantie, scilicet materia et forma, et ex hiis resultat compositum et
+    esssentia. Secundo autem modo sunt dispositiones principia et potentia materie, <seg>et</seg>
+    quia ad generationem substantie necesse est dispositiones in materia in <seg>materia</seg> et
+    potentiam ad formam recipiendam, <seg>set</seg> dispositiones sunt sicut accidentia
+      <seg>adaptentur</seg> materiam ad receptionem forme substantialis. Virtus autem materie et
+    potentia <seg>est</seg> habilitas et est de substantia materie sicut quid <seg>eius.</seg>
+        </p>
+        <p xml:id="da-236-ed1e8165-d1e8710">Ad terciam rationem dicendum <seg>est</seg> quod essentia secundum rem est id quod cum
+    composito, <seg>differens</seg> autem in ratione, sicut patebit, et quantum ad hoc potest
+    distingui contra compositum in diuisione substantie. </p>
+        <p xml:id="da-236-ed1e8165-d1e8719">Ad questionem autem factam ultimo dicendum est quod in libro secundo <hi>De
+      <seg>anima</seg>
+          </hi> loquitur philosophus more naturalis naturaliter loquentis et ideo non
+    considerat essentiam que in rebus est secundum rationem. Naturalis enim non querit nisi
+    materiam et formam et compositum que sunt a parte nature. Set in
+       <seg>
+            <hi>Me</hi>
+            <hi>|</hi>
+            <hi>taphisica</hi>
+          </seg>
+          <hi/> considerat res magis abstractas et
+    prout entes sunt, et quia per essentiam unumquodque habet esse id quod est, <seg>ideo</seg> in
+      <hi>Metaphisica</hi> essentiam differentiam <seg>esse</seg> substantie assignans etiam
+    diuisionem secundum rationem et non secundum naturam.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

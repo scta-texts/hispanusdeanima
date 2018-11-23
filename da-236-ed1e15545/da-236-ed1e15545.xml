@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e15545" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e15545-d1e15550">
+          <hi>D</hi>istinctio secunda de operationibus anime ab eius potentiis emanantibus per quas
+    eius existentia in corpore declaratur. Continuatio intensionis. </p>
+        <p xml:id="da-236-ed1e15545-d1e15555">
+          <hi>Dicamus igitur principium accipientes intensionis</hi> et cetera, cum declarauit
+    philosophus quod diffinitiones uniuersales diminute ostendunt essentiam cuiuslibet rei et
+    assimilantur diffinitionibus que sunt conclusiones demonstrationis et diffinitiones proprie
+    assimilantur principiis propriis demonstrationis cum demonstratur per causas
+      <seg>proprias</seg> et ostendit modum secundum quem procedere intendit esse necessarium. In
+    hac parte intendit determinare de anima secundum proprias noticias differentiarum propriarum
+    ipsius et <seg>uia</seg> secundum quam procedit est a prioribus quo ad nos que sunt opera et
+    potencie anime per que manifestatur eius existencia in corpore ad priora secundum naturam que
+    sunt <seg>substantie</seg> differentiarum ipsius. </p>
+        <p xml:id="da-236-ed1e15545-d1e15569">Diuisio. </p>
+        <p xml:id="da-236-ed1e15545-d1e15572">Recipit autem hec pars <seg>diuisionem</seg> in duas partes, in quarum prima determinat actus
+    differentiarum anime per quos ostenditur existencia ipsarum in corpore quod perficiunt. Quia
+    uero isti actus eliciuntur a potentiis ideo in hac parte, <hi>potentiarum anime
+       <seg>autem</seg> que dicte sunt</hi> et cetera, determinat de potentiis anime comparando
+      <seg>ipsas</seg> ad inuicem et ad <seg>corpora</seg> in quibus sunt. </p>
+        <p xml:id="da-236-ed1e15545-d1e15591">Prima autem pars recipit diuisionem in duas <seg>partes,</seg> in quarum prima determinat
+    noticiam differentiarum anime per <hi>|</hi> actus ipsarum. Quia autem anima que est perfectio
+    corporis cuius existencia in corpore per actus declarantur, comparatur ad corpus in aliquo
+    genere cause, ideo in secunda parte, <hi>|</hi> scilicet in hac, <hi>quoniam autem quo uiuimus
+       <seg>et</seg> sentimus differentias</hi> et cetera, ostendit in quo genere cause anima ad
+    corpus comparetur. Pars <seg>autem</seg> recipit diuisionem in duas <seg>partes,</seg> in
+    quarum prima dat noticiam anime per actus ipsius proprios. Et quia fecit <seg>in</seg> primo
+      <seg>intentionem</seg> de distinctione partium et potenciarum anime et ipsarum diuisione,
+    ideo in secunda, scilicet in hac, <hi>utrum autem unumquodque horum est <seg>anima</seg>
+          </hi>
+    et cetera, mouet questiones incidentes circa diuisionem partium anime et potenciarum ipsius.
+    Prima autem pars spectat ad presentem speculationem. Patet igitur de quo est intensio in hac
+    parte, quia in ipsa intendit philosophus tradere noticiam de anima. </p>
+        <p xml:id="da-236-ed1e15545-d1e15627">
+          <seg>Diuisio.</seg> Recipit autem hec pars diuisionem in duas, in quarum prima dat predictam
+      <seg>noticiam</seg> de <seg>anima.</seg>
+          <seg>Quia</seg> autem operationes diuerse insunt anime per differentias diuersas suarum
+    potentiarum habentium ordinem ad inuicem, ideo in secunda parte, scilicet in hac, <hi>separari
+      quidem hoc ab aliis possibile est</hi> et cetera, tangit naturalem ordinem uirtutum anime a
+    quibus exeunt manifeste operationes. </p>
+        <p xml:id="da-236-ed1e15545-d1e15644">Prima autem pars recipit diuisionem in duas <seg>partes,</seg> in quarum prima ostendit actum
+    per quem omne corpus participans animam a corpore inanimato distinguitur, qui est actus uite,
+    et ipsum per suas differentias distinguit. Quia uero operationes uite <seg>minus</seg> sunt
+    manifeste in uiuentibus uegetabilibus quam in aliis uiuentibus, ideo in secunda parte,
+    scilicet in hac, <hi>unde et uegetatiua omnia uidentur uiuere</hi> et cetera, ostendit animam
+    et uitam et operationes uite eis necessario in esse. </p>
+        <p xml:id="da-236-ed1e15545-d1e15656">Secunda autem pars principalis recipit diuisionem in duas, in quarum prima ostendit ordinem
+    uirtutis uegetabilis ad alias in uiuentibus. In secunda, scilicet in hac, <hi>animalia autem
+      per sensum primum et</hi> cetera, ostendit ordinem <seg>primum</seg> sensus qui est tactus
+    ad alias differentias anime posteriores prout sunt in animalibus. </p>
+        <p xml:id="da-236-ed1e15545-d1e15665">Diuisionis recollectio. Sunt igitur in lectione <seg>presenti</seg> partes quatuor, in quarum
+    prima determinat actum primum anime per quem manifestatio <seg>habetur</seg> de ipsa et de sua
+    existencia in corpore. In <seg>secunda</seg> animam et uitam <seg>existere</seg> in
+    uegetabilibus. In tercia ostendit ordinem differentie uegetabilis ad alias. In quarta ostendit
+    ordinem primi sensus ad differentias consequentes. </p>
+        <p xml:id="da-236-ed1e15545-d1e15680">
+          <seg>Hec</seg> est diuisio huius partis. </p>
+        <p xml:id="da-236-ed1e15545-d1e15686">Sententia prime partis in qua tangitur actus primus uniuersalis anime qui est uiuere per quem
+    manifestatur eius existentia in corpore cuius est perfectio. </p>
+        <p xml:id="da-236-ed1e15545-d1e15689">Circa primam partem procedit philosophus hoc modo: <seg>primo</seg> actum primum rerum
+    animatarum dicens quod accipiamus principium intensionis nostre incipientis a prioribus quo ad
+    nos, et dicamus quod <hi>|</hi> res animata distinguitur ab inanimata per actum uiuendi.
+    Secundo assignat distinctionem modorum uiuendi qui sunt quatuor, et primus est intelligere,
+    secundus est sentire, tercius est moueri secundum locum et quiescere, quartus est uti alimento
+    et augmento et detrimento. </p>
+        <p xml:id="da-236-ed1e15545-d1e15698">Sentencia secunde partis in qua manifestatur uita in <seg>partis,</seg> consequenter quia
+    uita et existe<hi>nt</hi>ia anime non est manifesta in uegetabilibus. Ideo probat
+      <seg>ipsa</seg> habere <seg>uitam</seg> et animam. Dicit igitur quod ex predictis patet quod
+    uegetabilia omnia participant uitam. Ratio autem ad hoc inducta talis est: omnia corpora
+    habentia in se ipsis <seg>poten<hi>ci</hi>am</seg> et principium per quod augmentum et
+    detrimentum accipiunt secundum contrarios situs participant uitam et <seg>animam.</seg>
+    Predicti motus secundum situs contrarios et omnem partem ab anima sunt <seg>non</seg> a
+    natura. Set plante sunt huiusmodi, ergo plante participant animam et uitam. Deinde probat quod
+    plante augentur et diminuuntur secundum predictum modum cum dicit, <hi>non enim quidem sursum
+      augere deorsum autem <seg>non</seg>
+          </hi>, et est ratio talis: omnia in quibus est augmentum
+    et <seg>detrimentum</seg> secundum sursum et deorsum augmentur et decrescunt secundum
+    oppositos situs. Set plante sunt huiusmodi, ergo <seg>plante</seg> augmentur et decrescunt
+    secundum oppositos situs. Set motus ad situs oppositos non conuenit corporibus per naturam et
+    uirtutem corporalium formarum, quia aut sunt corpora simplicia et tunc mouentur ad situm
+    determinatum sursum sicut leuia aut <seg>ad</seg> situm determinatum <seg>deorsum</seg> sicut
+    grauia aut sunt corpora mixta et sic sicut habetur in libro <hi>Celi et <seg>mundi</seg>
+          </hi>
+    mouentur secundum predominium elementi in ipsis <seg>incentis</seg> aut <seg>secundum</seg>
+    dominium leuis sursum aut secundum dominium grauis <seg>seorsum,</seg> ergo illi motus sunt in
+    plantis ab aliqua substantia que est preter formas elementares. Hec autem non est nisi anima
+    eis unita, ergo participant uitam et actus et motus <hi>|</hi> predictos per
+      existe<hi>nti</hi>am anime in ipsis, et deinde dicit <seg>quod</seg> omnia uiuentia
+    partipant predictos motus, unde dicit uniuersaliter quod omnia uiuentia <seg>participant</seg>
+    augmentum et nutrimentum usque in finem uite sue. </p>
+        <p xml:id="da-236-ed1e15545-d1e15771">Sentencia tercie partis de ordine naturali differentie uegetabilis ad alias differentias
+    consequenter tangit ordinem naturalem uegetabilis ad alias <seg>differentias</seg> prout sunt
+    in uiuentibus. Dicit igitur quod differentia uegetabilis <seg>que</seg> est principium uite
+    potest separari ab aliis differentiis ut sit sine ipsis. Alie autem non possunt esse sine ipsa
+    in rebus mortalibus et hoc dicit propter uitam corporum superiorum. Deinde probat hoc dicens
+    quod <seg>non</seg> declaratur in uegetabilibus que uiuunt uita que est ab anima uegetabili et
+    nullam aliam differentiam anime nec potenciam participant, et est ratio sic formanda: omnis
+      <seg>differentia</seg> que est in aliquibus <seg>ubi</seg> non sunt alie et in <hi>|</hi>
+    quibus omnibus sunt alie. ipsa necessario potest ab aliis separari et non e conuerso, set
+    differentia uegetabilis se habet hoc modo respectu aliarum. Ergo potest ab ipsis separari et
+    non e conuerso. Deinde dicit quod anima uegetabilis se habet hoc modo respectu aliarum, ergo
+    potest ab ipsis separari et non e conuerso. Deinde dicit quod anima <seg>uegetabilis</seg> que
+    est omnibus uiuentibus <seg>communis</seg> est principium uite in omnibus. </p>
+        <p xml:id="da-236-ed1e15545-d1e15799">Sentencia quarte partis de ordine primi sensus, scilicet tactus ad alios ad quos sic se
+    habet, sicut differentia uegetabilis ad alias differentias. Consequenter <seg>determinat</seg>
+    ordinem primi sensus quo uiuunt omnia animalia ad <seg>alias</seg> anime
+      <seg>differentias</seg> qua uiuunt animalia et in illa parte multa proponit: primum est
+      <seg>quo</seg> omnia animalia uiuunt per primum <seg>sensum,</seg> scilicet per tactum.
+    Secundum est de manifestatione <seg>huius.</seg> Dicit igitur quod hoc manifestum
+      <seg>est</seg> in animalibus que non mouentur motu locali, sicut <seg>et</seg> in conchibus
+    maris et <seg>in</seg> consimilibus. Talia autem <seg>animalia</seg> non mouentur secundum
+    locum neque alios sensus apprehendentes a longe habent. Cum igitur uiuant per animam
+    sensibilem, cum sint animalia, necesse <seg>est</seg> ipsa uiuere per sensum primum qui sine
+    omnibus aliis esse potest. Tercium est quis est <seg>iste</seg> sensus, et dicit quod iste
+    sensus est tactus, <seg>qui</seg> omnibus uniuersaliter animalibus inest. Quartum est de
+    ordine naturali huius sensus ad alias differentias anime, et hunc ordinem declarat hac
+    ratione: sicut se habet uegetabilis differentia ad alias differentias que sunt
+      <seg>cause</seg> motus uite et sensus sic se habet tactus ad alias differentias
+      <seg>naturali</seg> ordine <seg>consequentes.</seg> Set uegetalis differentia sine aliis
+    potest esse et non e conuerso, ergo tactus sine aliis differentiis naturali ordine
+    consequentibus potest esse et non e conuerso. Quintum est de manifestatione differentie
+    uegetalis de qua dicit quod illa est pars anime quam uegetabilia participant et per quam
+    uiuunt. Sextum est quod sicut <seg>uegetabili</seg> sola differentia uegetabili uiuunt sic
+    animalia solo sensu tactu <seg>uiuunt</seg>
+          <seg>que</seg> est omnibus communis. Et deinde dicit quod causa horum postea determinabitur.
+    Septimum est uniuersalis epylogus predictorum. Dicit <seg>igitur</seg> quod <seg>nunc</seg>
+    sufficiat dicere quod anima principium omnium <seg>predictorum</seg> actuum et motuum, et hoc
+    per differentiam anime uegetabilem, sensibilem et intellectiuam. Et sic patet manifestatio
+    huius partis. </p>
+        <p xml:id="da-236-ed1e15545-d1e15871">
+          <seg>Questiones.</seg> Circa partem istam queruntur decem <seg>questiones.</seg>
+          <seg>Prima</seg> [lec5 q1] est utrum anima quantum ad omnem sui differentiam det uitam.
+      <seg>Secunda</seg> [lec5 q2] est utrum intelligere sit uiuere. <seg>Tercia</seg> [lec5 q3]
+    est utrum <seg>moueri</seg> secundum locum sit uita rerum mobilium secundum locum.
+      <seg>Quarta</seg> [lec5 q4] est utrum sentire sit uiuere sensibilium. <seg>Quinta</seg>
+    [lec5 q5] est utrum nutrire et augere <seg>sint</seg> differentie uite.
+      <seg>Sex<hi>|</hi>ta</seg> [lec5 q6] est in quibus corporibus competit uita.
+      <seg>Septima</seg> [lec5 q7] est utrum elementa nutriantur et <seg>augeantur.</seg>
+          <seg>Octaua</seg> [lec5 q8] est utrum plante nutriantur secundum omnem partem, et utrum huius
+    motus secundum omnem partem sit ab anima. <seg>Nona</seg> [lec5 q9] est quo modo anima
+    uegetabilis sit prior aliis potenciis anime et utrum alie possint esse in corpore sine ipsa.
+      <seg>Decima</seg> [lec5 q10] est utrum aliqua animalia solo tactu uiuant et quo modo tactus
+    est prior aliis sensibus. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

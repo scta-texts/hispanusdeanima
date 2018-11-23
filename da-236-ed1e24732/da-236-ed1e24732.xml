@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e24732" >
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum illa
+    natura anime que est in semine sit substantia anime uel uirtus anime.</head>
+        <p xml:id="da-236-ed1e24732-d1e24740">
+          <hi>[lec11 q2] Circa secundam questionem sic proceditur: supposito quod in semine deciso a
+      generante sit aliqua natura anime. Queritur de illa natura <seg>anime</seg> utrum illa
+      natura anime que est in semine sit substantia anime uel uirtus anime. Et ostenditur quod
+      illa natura anime que est in semine operans ad productionem <seg>fetus</seg> et ad
+      formationem membrorum sit uirtus anime et <seg>non</seg> eius substantia. Dicit enim
+      Aristoteles in libro </hi>
+          <hi>De animalibus</hi>
+          <hi> quod non est necesse <seg>quod</seg>
+            <seg>efficiens</seg> uniatur materie secundum substantiam set sufficit quod uniatur secundum
+      uirtutem, sicut regula artificis unitur domui non substantia <seg>set</seg> uirtute,
+       <seg>et</seg> similiter non est necesse quod anima patris sit in semine set aliqua alia
+      natura, scilicet uirtus que fluit ab anima patris. Hec autem non est nisi uirtus anime et
+      non substantia operans ad productionem fetus, ergo illa natura anime que est in semine est
+      uirtus anime et non eius substantia. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24732-d1e24773">
+          <hi>Secunda ratio hec est: duplex est agens quoddam quod operatur ad productionem rei per sui
+      contactum et ad contractionem eius per unionem sue substantie et tale semper est simul cum
+      materia, substantia et uirtute. Est aliud agens quod operatur ad productionem rei sine
+      contactu et <seg>contingat</seg> rem sine sui contactu cum <seg>illa,</seg> sicut patet in
+      iactatu <seg>lapidis</seg> et tale agens non operatur per unionem sue substantie set per
+      uirtutem solum et <seg>uirtus</seg>
+            <seg>quam</seg> mouet est uirtus eius et non substantia eius et secundum hunc mo</hi>
+          <hi>|</hi>
+          <hi>dum anima patris fluit cum <seg>semine.</seg> Non enim anima patris nec ipse pater est cum
+      semine, ergo illa natura anime fluens a generante cum semine que operatur ad fetus
+      productionem <seg>et</seg> uirtus anime et non substantia anime. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24732-d1e24806">
+          <hi>Ad oppositum: accidens non est sine subiecto. Set uirtus anime est accidens anime, ergo
+      non est sine <seg>substantia</seg> anime. Ergo uirtus <seg>anime</seg> non potest esse in
+      semine quin etiam eius substantia sit in illo. Ergo illa natura anime que est in semine non
+      est sola uirtus anime, immo eius substantia.</hi>
+        </p>
+        <p xml:id="da-236-ed1e24732-d1e24819">
+          <hi>Secunda ratio hec est: sicut habetur in libro </hi>
+          <hi>De animalibus</hi>
+          <hi> anima est in semine et semen est substantia animata et non potest dici quod semen non
+      habet animam, set animam est in <seg>ipso</seg> sine operatione. Vnde assimulatur sua
+      existentia dormienti. Cum uero obicitur <seg>ei</seg> nutrimentum et operatur supra
+      nutrimentum tunc excitatur ad operationem et tunc est in semine sicut actus et sicut
+      uigilans, ergo cum substantia anime sit operans supra nutrimentum et <seg>detendens</seg>
+      membra et formans patet quod anima quantum ad substantiam est in semine, ergo cum anima
+      seminis que postea est perfectio seminis operetur istas operationes patet quod non indiget
+      uirtute anime patris ad hoc operandum, ergo illa natura anime que est in semine est anima
+      ipsius seminis secundum substantiam et <seg>non</seg> uirtus anime patris solum. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24732-d1e24843">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum est quod in semine est uirtus anime que fluit cum semine et operatur ad
+      fetus et <seg>ad</seg> productionem et ad membrorum organizationem. Set in <seg>semine</seg>
+      est natura uirtutis anime patris que fluit <seg>cum</seg> calore naturali et cum spiritibus
+      et operatur ad productionem fetus et dat distinctionem membrorum et organizationem, et hec
+      est actu in semine, sicut motus. Item alia est <seg>natura</seg> in semine que est anima
+      seminis que in futuro <seg>facta</seg> completa organizatione membrorum erit perfectio
+      seminis et hec est in semine potencia et non actu et uirtus anime patris fluens cum semine
+      operatur ad dispositiones per quas fit actu anima existens potencia in semine eo
+       <seg>quod</seg> illud quod fluit cum semine a patre operans ad predictas dispositiones non
+      est substantia anime patris set est uirtus que <seg>fluit</seg> cum semine et potencia, et
+      ponimus quod in semine <seg>est</seg> substantia anime seminis que non est eadem
+       <seg>cum</seg> anima patris nisi secundum speciem solum que per operationem uirtutum
+      existentium in semine ducitur ad actum et <seg>sic</seg> illa natura anime que fluit cum
+      semine et <seg>operatur</seg> ad productionem fetus est uirtus anime et non substantia eius.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e24732-d1e24889">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> qud duplex est accidens.
+       <seg>Accidens</seg> quoddam quod comparatur ad subiectum ut ad subiectum solum in quo est
+      solum et tale non est sine subiecto sicut albedo et <seg>huiusmodi.</seg> Est aliud accidens
+      quod comparatur ad suum subiectum non solum sicut ad illud </hi>
+          <hi>|</hi>
+          <hi> in quo est set etiam ad ipsum <seg>comparatur</seg> sicut ad illud a quo fluit et tale
+      accidens potest esse sine suo subiecto a quo <seg>fluit.</seg> Erit autem in alio subiecto
+      in quo fluit ab illo. Tale accidens est uirtus et ideo uirtus anime patris ab
+       <seg>ipsa</seg> potest fluere cum semine et esse in semine sine ipsa. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24732-d1e24919">
+          <hi>Ad secundam rationem dicendum <seg>est</seg> quod in semine est anima et substantia anime
+      seminis. Set illa est potencia in semine et non sicut actus,</hi>
+          <hi> </hi>
+          <hi>set </hi>
+          <hi>|</hi>
+          <hi> uirtus anime patris que fluit cum semine operatur operationes nutrimenti et augmenti
+      antequam anima in potencia ducatur ad actum et actu compleat corpus et substantia illa anime
+      non sufficit ad augmentum et nutrimentum nisi per illas uirtutes que fluunt cum
+       <seg>semine</seg> ab anima patris. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

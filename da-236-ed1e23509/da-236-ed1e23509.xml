@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e23509" >
+        <head>Quaestio 4</head>
+        <head type="question-title">Utrum uiuere in uiuentibus
+    sit esse</head>
+        <p xml:id="da-236-ed1e23509-d1e23517">
+          <hi>[lec10 q4] Circa quartam questionem sic proceditur et queritur utrum uiuere in uiuentibus
+      sit esse. Et ostenditur quod <seg>sic:</seg> sicut superius diximus, uiuere est actus
+      resultans a prima perfectione <seg>et</seg> ex unione essentie anime cum corpore siue
+       <seg>ex</seg> unione forme cum materia <seg>quod</seg> in genere substantie est esse. Ergo
+      uiuere in uiuentibus est esse, <seg>set</seg> in uiuentibus <seg>resultat</seg> uiuere ex
+      unione forme substantialis que est anima cum corpore. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23509-d1e23542">
+          <hi>Secunda ratio hec est: actus est duplex, <seg>scilicet</seg> primus et secundus. Set
+      primus <seg>actus</seg> est esse </hi>
+          <hi>|</hi>
+          <hi> resultans a prima perfectione et unione eius cum materia. Talis autem actus est uiuere in
+      uiuentibus, ergo uiuere in uiuentibus <seg>est</seg> esse. Minor patet quia uiuere in
+      uiuentibus resultat ex unione anime cum corpore. Anima enim est prima perfectio
+      corporis.</hi>
+        </p>
+        <p xml:id="da-236-ed1e23509-d1e23563">
+          <hi>Tercia ratio hec est: triplex est genus entis, scilicet ens uiuens et intelligens et
+      dicitur ens de istis differentiis entis. Ergo <seg>contingit</seg> dicere uiuens est ens set
+      non dicitur uiuens nisi per uitam uel per uiuere, ergo uiuere est esse. Viuere
+       <seg>ergo</seg> in uiuentibus est esse. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23509-d1e23576">
+          <hi>Ad oppositum: nulla operatio est esse. Set in quolibet creato differt suum esse et sua
+      operatio. Set uiuere est operatio corporis uiuentis, ergo uiuere in uiuentibus non est esse.
+      Minor patet quia uiuere est se ipso moueri. Moueri autem est moueri secundum locum, nutrire,
+      augere et generare. Set nulla istarum differentiarum est esse immo quelibet est operatio.
+      Sentire enim non est <seg>esse</seg> set quedam operatio et similiter est de aliis, ergo
+      uiuere in uiuentibus non est esse. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23509-d1e23585">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod uiuere in uiuentibus est esse, cum sit actus primus
+      resultans ex prima perfectione uiuentium que est anima, et similiter intelligere, cum
+       <seg>sit</seg> uiuere in intelligentibus est esse et sentire in <seg>sentientibus.</seg>
+      Et propter hoc dicit Aristoteles quod uiuere in uiuentibus est esse. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23509-d1e23606">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod uiuere est duobus modis. Est
+      enim quoddam uiuere quod est actus primus et quietus et hoc uiuere est esse et non operatio.
+      Est aliud uiuere quod est actus secundus et istud uiuere est operatio et hec duo uiuere sunt
+      simul tempore, licet non <seg>sint</seg> simul natura, et cum dicitur uiuere est se ipso
+      moueri ista diffinitio non datur per prius set per consequens <seg>et</seg> manifestat esse
+      prius, quia animatum uiuens <seg>mouetur</seg> per motum et cognitionem, non tamen est idem
+      cum motu et cognitione et per hoc differt ab inanimato. Similiter uiuere manifestatur per
+      hoc quod est per se moueri et per se <seg>moueri</seg> consequens est ad uiuere quod est
+      actus primus. Vnde per se moueri non est uiuere primo modo set secundo modo, quia
+       <seg>sequitur</seg> ad primum uiuere, et tale est operatio set non primum uiuere.</hi>
+        </p>
+        <p xml:id="da-236-ed1e23509-d1e23631">
+          <hi>Ad secundam rationem dicendum <seg>est</seg> quod predicte differentie uite sunt
+      consequentes ad uitam et non <seg>est</seg> differentie uite per se. Quo modo autem sunt
+      differentie uite patebit. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23509-d1e23643">
+          <hi>Tercia ratio hec est: </hi>
+          <hi>|</hi>
+          <hi> si uiuere in uiuentibus est esse, ergo cum moueri sit uita in mobili, moueri esset esse
+      ipsius mobilis. Hoc autem <seg>est</seg> falsum quia moueri non est esse ipsius mobilis,
+      immo est operatio ipsius. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23509-d1e23658">
+          <seg>
+            <hi>[Solutio.]</hi>
+          </seg>
+          <hi> Ad hoc dicendum est quod duobus modis est loqui de corporibus. Est enim loqui de ipsis a
+      parte sue substantie et hoc modo moueri in eis non est esse. Alio modo est loqui de ipsis a
+      parte illa qua sunt in genere mobilium et a tali motore qui se ipso </hi>
+          <hi>|</hi>
+          <hi> mouet, et cuius est in mouendo uitam dare <seg>et</seg> quantum ad hoc moueri in eis est
+      uiuere et secundum hanc <seg>uiam</seg> est differentia uite, et similiter nutrire et augere
+      et generare, et secundum hanc <seg>uiam</seg> nutrire est esse in genere nutribilium et
+      augere in genere augmentatibilium et sic uiuere in uiuentibus est esse secundum diuersa
+      genera uite. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

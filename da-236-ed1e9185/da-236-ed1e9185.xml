@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e9185" >
+        <head>Quaestio 6</head>
+        <head type="question-title">Quid sit principium
+    <seg>organizationis</seg> in corporibus</head>
+        <p xml:id="da-236-ed1e9185-d1e9196">[lec1 q6] Circa sextam questionem <seg>sic</seg> proceditur, et queritur de causa et
+    necessitate organizationis in corporibus et queritur quid sit principium
+      <seg>organizationis</seg> in corporibus. Et ostenditur quod principium
+      <seg>organizationis</seg>
+          <seg>sit</seg> necessitas uirtutum anime et operationum duplex est substantia corporalis et
+      <seg>spiritualis.</seg> Substantia <seg>corporalis</seg> coartatur ad operationes et
+    paucarum operationum est principium. Spiritualis <seg>autem</seg> substantia plurium
+    operationum est principium, ergo multitudo <seg>operationum</seg> substantiis spiritualibus.
+    Set hoc <seg>est</seg> duobus modis, quia substantiarum spiritualium quedam operantur sine
+    medio et instrumento corporali, alie operantur per instrumentum corporale. Prima autem non
+    eget diuersitate partium corporis, <seg>qua</seg> per illas non operatur. Illa
+      <seg>autem</seg> requirit ut habeat partes diuersas in corpore <seg>sibi</seg> respondentes
+    per quas diuersas exerceat operationes quarum <seg>ipsa</seg> est principium anime, ergo
+    respondent diuerse partes in corpore et diuersa organa per que operatur. Alio autem modo non
+    posset operari per corpus, ergo causa et necessitas <seg>organizationis</seg> corporum est
+    necessitas operationum et uirtutum anime que per diuersa organa diuersas exercent operationes. </p>
+        <p xml:id="da-236-ed1e9185-d1e9243">Secunda ratio hec est: sicut uult Aristoteles, anima utitur corpore sicut <seg>ars</seg>
+    instrumentis, set ars est duplex, quia quedam est solum ad unam operationem ordinata et
+      <seg>hoc</seg> uno instrumento <seg>utitur.</seg> Alio modo operatur et exercet suam
+    operationem. <seg>Est</seg> alia ars que ad plures fines et effectus et diuersas operationes
+    ordinatur, et hec utitur pluribus instrumentis quia per unum instrumentum non posset omnes
+    suas operationes exercere. Set suis operationibus diuersis plura et diuersa respondent
+    instrumenta. Anima <seg>enim</seg> est substantia spiritualis ad diuersos fines et operationes
+    ordinata, ergo <hi>|</hi> necesse est quod ei respondeant multa instrumenta in corpore per que
+    operetur. Hec autem sunt <seg>organa,</seg> ergo <seg>ei</seg> respondent multa organa. Causa
+    ergo organizationis in coporibus est a <seg>parte</seg> uirtutum anime et diuersitatis suarum
+    operationum. </p>
+        <p xml:id="da-236-ed1e9185-d1e9274">Ad oppositum: materia <seg>proportionata</seg> forme <seg>ergo</seg> simplici forme respondet
+    materia simplex. Cum ergo <hi>|</hi> anima sit forma simplex ei respondet <seg>materia</seg>
+    simplex. Hec autem est corpus, ergo anime debet respondere simplex <seg>corpus</seg> et non
+    corpus <seg>organizatum</seg> habens diuersas partes et diuersa organa. </p>
+        <p xml:id="da-236-ed1e9185-d1e9297">Secunda ratio hec est: si similitudo operationum anime et finium esset <seg>causa</seg>
+    diuersitatis partium in corpore animato et organizationis in ipso, ergo corpus illud quod ad
+    plures fines ordinatur et ad plures operationes <seg>plures</seg> haberet partes et organa.
+    Set corpus humanum est huiusmodi inter omnia corpora animata, ergo corpus humanum plures
+    haberet partes quam alia corpora. Hoc autem est falsum, quia planta inter omnia corpora
+    animata plures habet partes et <seg>plus</seg> renouatur in partibus, ergo predicta causa non
+    est causa organizationis corporis. </p>
+        <p xml:id="da-236-ed1e9185-d1e9309">Tercia ratio hec est: <seg>si</seg> similitudo operationum ad quam ordinantur corpora esset
+    causa quare corpus <seg>esset</seg>
+          <seg>organizatum</seg> et diuerse nature in partibus et <seg>in</seg> toto, ergo cum sol inter
+    omnia corpora ad plures operationes effectus et fines ordinetur plures haberet partes
+      <seg>organizatas</seg> quam alia corpora. Hoc autem est falsum, ergo predicta causa non est
+    causa organizationis. </p>
+        <p xml:id="da-236-ed1e9185-d1e9327">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod principium <seg>organizationis</seg>
+    et diuersitatis partium in corporibus, sicut ostendunt rationes, est a parte necessitatis
+    operationum anime et diuersarum uirtutum ipsius per quas anima diuersos fines intendit et
+    operationes exercet <seg>illas</seg> mediantibus partibus corporis. Et concedente sunt
+    rationes ad illam partem inducte. </p>
+        <p xml:id="da-236-ed1e9185-d1e9341">Ad primam rationem in contrarium dicendum <seg>est</seg> quod anima est forma simplex. Set
+    duplex est forma, quedam que comparatur ad materiam ut forma solum et hec requirit materiam
+    somplicem no <seg>diuersas</seg> in toto <seg>et</seg> in partibus <seg>sicut</seg> forma
+    ignis. Alia <seg>autem</seg> est forma que comparatur ad materiam <seg>suam</seg> ut forma et
+    ut artifex utens illa materia tanquam instrumento, et talis forma cum sit multarum operationum
+    principium et <seg>operetur</seg> per materiam <seg>ut</seg> per instrumentum non requirit
+    materiam simplicem set diuersitatem in partibus secundum speciem per quas illa forma operetur
+    et producat effectus. <seg>Talis</seg> autem <seg>est</seg> anima respectu corporis
+      <seg>quod</seg> anima est forma <seg>et</seg> utitur corpore tanquam instrumento sicut uult
+    Aristoteles, et ideo diuersas partes requirit <seg>anima</seg> in corpore per quas diuersa
+      <seg>operetur.</seg>
+        </p>
+        <p xml:id="da-236-ed1e9185-d1e9388">Ad secundam rationem dicendum <seg>est</seg> quod multiplicatio partium
+      <seg>organicarum</seg> est duplex: est enim quedam multiplicatio partium secundum materiam
+    et hec multiplicatio est partium similium differentium solo numero, et hec est in plantis, et
+    hec non causatur propter necessitatem operationum et uirtutum anime, set propter
+      <seg>irradiationem</seg> materie que est in plantis. Materia enim in plantis indeterminada
+    est et propter hoc ad diuersa <seg>fluit</seg> et propter hoc si <seg>decindatur</seg> ramus
+    in planta fit <seg>aliis</seg> ramus propter fluxibilitatem materie quam trahit a nutrimento,
+    et ideo in <seg>planta</seg>
+          <hi>|</hi> uidemus infinitas partes eiusdem speciei. Est <seg>autem</seg> multiplicatio
+    partium organicarum que est a parte speciei et necessitatis diuersarum operationum secundum
+    speciem <seg>et</seg> hec est in animali et maxime in homine, quia homo plurium operationum
+    est principium et ad plures fines et operationes ordinatur. </p>
+        <p xml:id="da-236-ed1e9185-d1e9422">Ad terciam rationem dicendum est <seg>quod</seg> sol ad diuersas operationes secundum speciem
+    ordinatur et est principium diuersarum operationum differentium specie. Set hoc est a parte
+    diuersitatis motorum inferiorium et <seg>dispositionis</seg> materie. In sole enim est duplex
+    operatio, quedam <seg>est</seg> que est propria et hec <seg>est</seg> lucere, et hec est una.
+    Alia est operatio eius in alio et non est sibi propria in se et hec est in inferioribus
+    generationem imprimere. Prima autem operatio solis simplex est et uniformis. Secunda autem
+    diuersificatur secundum speciem non a parte ipsius solis, set a <seg>parte</seg> motorum
+    inferiorum et dispositionum materialium. Et ideo sol per eandem naturam diuersas operationes
+      <seg>exercet.</seg> Anima autem comparatur ad corpus tanquam ad illud quo utitur et
+      <seg>per</seg> cuius partium diuersitatem diuersas exercet operationes, et propter hoc
+    corpus animatum organizatum est et diuerse nature in toto et in partibus <seg>ut</seg> per
+    ipsum et per suas partes diuersa possit anima operari et exercere. Ex hiis <seg>autem</seg>
+    elicitur ista propositio: substantia spiritualis <seg>que</seg> multarum operationum
+      <seg>specieque</seg> differentium est principium per suarum potentiarum differentias a
+    corpore dependens et per eius partes ad operationes procedens exigit corpus
+      <seg>organizatum</seg> diuersas habens partes <seg>diuersa</seg> compositionum ratione et
+      <seg>disponere</seg> compositas per cuius partes diuersas in diuersis potentiis diuersas
+    exercet operationes et <seg>ut</seg> secundum dispositiones partium et obiectorum proportionem
+    potentie coartate ad obiecta <seg>propria</seg> et operationes competenti ordine dirigantur.
+    Tale autem corpus uniuersalis dispositor anime destinauit. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

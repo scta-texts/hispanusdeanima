@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e18118" >
+        <head>Quaestio 5</head>
+        <head type="question-title">Utrum anima comparetur ad
+    corpus sicut nauta ad nauem</head>
+        <p xml:id="da-236-ed1e18118-d1e18126">
+          <hi>[lec6 q5] Circa <seg>quintum</seg> sic proceditur et queritur utrum anima comparetur ad
+      corpus sicut nauta ad nauem. Et ostenditur quod non: nullum ex quo cum alteri fit unum per
+      substantiam comparatur ad illud alterum, sicut nauta ad nauem. <seg>Igitur</seg> cum ex
+      nauta et naue <seg>non</seg>
+            <seg>fiat</seg> unum per substantiam. Set anima et corpus sic se habent, ergo anima non
+      comparatur ad corpus sicut nauta ad nauem. Maior et minor per se patent. </hi>
+        </p>
+        <p xml:id="da-236-ed1e18118-d1e18144">
+          <hi>Secunda ratio </hi>
+          <hi>|</hi>
+          <hi> hec est: nichil quod comparatur ad alterum sicut figura cere ad ceram comparatur ad ipsum
+      sicut nauta ad nauem. Set anima hoc modo <seg>comparatur</seg> ad corpus, ergo non
+      comparatur anima ad corpus sicut nauta ad nauem. Maior patet, cum idem non fiat secundum
+      substantiam ex nauta et naue. Ex cera autem et figura fit unum secundum substantiam. Minor
+      patet per textum in <seg>secundo.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e18118-d1e18161">
+          <hi>Tercia ratio hec est: sicut se habet nauta ad nauem ita se habet anima ad corpus. Set
+      nauta non est in tota naui per essentiam set uirtute solum, ergo anima non est in toto
+      corpore essentia set uirtute <seg>solum,</seg> et hoc est contra predicta et contra
+      Augustinum dicentem ipsam esse in corpore <seg>ubique</seg> nec in maioribus partibus
+      maximam nec in minoribus minimam. Set in omnibus totam simul. Et ipse <seg>item</seg> dicit </hi>
+          <hi>|</hi>
+          <hi>
+            <seg>quod</seg> sicut Deus est in suo maiori mundo ita anima est in suo minori mundo,
+      scilicet in homine uel in animali, set Deus est ubique totus in qualibet parte mundi, ergo
+      anima erit simul tota in qualibet parte mundi <seg>corporis.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e18118-d1e18189">
+          <hi>Ad oppositum, omnis motor mouens secundum locum distans a mobili essentia potens a mobili
+      separari ad mobile comparatur sicut nauta ad nauem. Set anima est huiusmodi respectu
+      corporis, ergo anima comparatur ad corpus sicut nauta ad <seg>nauem.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e18118-d1e18198">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum est quod nauta comparatur ad nauem sicut motor ad mobile in quo est et
+      quod mouet ipso per se in mobili existente. Set motu ipsius nauis ipse per accidens mouetur
+      et hoc modo omnis anima et uegetabilis et sensibilis et intellectiua comparatur ad corpus
+      sicut nauta ad nauem, et hoc modo intelligit Aristoteles hanc comparationem in primo libro,
+      in illo capitulo </hi>
+          <hi>considerandum <seg>est</seg> autem </hi>
+          <hi>et <seg>cetera.</seg> Alio modo comparatur nauta ad nauem sicut motor ad mobile a quo non
+      dependet secundum actum existendi et ideo separari potest ab ipsa et <seg>sine</seg> ipsa
+      continuari in esse, et hoc modo sola intellectiua comparatur ad corpus sicut nauta ad nauem,
+      et hoc modo intelligit Aristoteles alibi in secundo </hi>
+          <hi>De <seg>anima</seg>
+          </hi>
+          <hi>. Item est alia similitudo anime ad corpus et naute ad nauem, quia sicut nauta per sui
+       <seg>presentiam</seg> est causa salutis nauis et per sui absentiam est causa
+       <seg>subuersionis</seg> eius, sic anima corporis, quia egrediente anima a corpore expirat
+      corpus et marcessit et de tali similitudine intelligit postea. Omnes autem similitudines que
+      possunt adaptari in anima respectu corporis et naute respectu nauis ad predictas reducuntur.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e18118-d1e18240">
+          <hi>Ad omnia obiecta patet solutio, cum in ipsis <seg>sint</seg> dissimilitudines in
+       <seg>una</seg> uia et in alia intelliguntur similitudines, sicut uisum est ad presens.
+    </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

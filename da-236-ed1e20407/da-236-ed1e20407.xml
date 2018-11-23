@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1 Utrum
+    differentie anime sint plures an una.</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1 Utrum
+    differentie anime sint plures an una.</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e20407" >
+        <head>Quaestio 1</head>
+        <head type="quesetion-title">Utrum
+    differentie anime sint plures an una.</head>
+        <p xml:id="da-236-ed1e20407-d1e20415">
+          <hi>[lec8 q1] Circa <seg>igitur</seg> primam questionem sic proceditur et queritur utrum
+       <seg>differentie</seg> anime sint plures an <seg>una.</seg> Et ostenditur quod sint una
+       <seg>potencia</seg> et <seg>loquamur</seg> de illis que sunt in eodem genere, quia uidetur
+      quod omnes potencie anime <seg>uegetabilis</seg> sint una et non diuerse et omnes similiter
+      potencie anime </hi>
+          <hi>|</hi>
+          <hi> sensibilis sint eedem inter se, et similiter quod omnes potencie anime
+       <seg>intellectiue</seg> sint eedem inter se. Videmus enim quod <seg>quod</seg> nichil
+      prohibet quod eadem sit uirtus nutriens corpus per nutrimentum acceptum et faciens
+       <seg>assimulationem</seg> cum membris operans supra substantiam nutrimenti et quod sit
+      operans et faciens extensionem membrorum operans supra quantitatem nutrimenti, quando uero
+      aliquid superfluit nutrimento illud superfluuum mandat <seg>illa</seg> uirtus ad instrumenta
+      generatiua et operatur illa uirtus ad generationem et item illa eadem uirtus format membra
+      per debitam dispositionem, set in quantum illa uirtus operatur supra nutrimentum nutritiua
+      dicitur in quantum operatur supra quantitatem nutrimenti augmentatiua dicitur in quantum ad
+      generationem operatur generatiua dicitur. Ergo in anima uegetabili potest esse eadem
+      potencia nutritiua, augmentatiua et generatiua. Item nichil prohibet quin eadem uirtus
+      delectetur ab aliquo obiecto sibi conuenienti et ipsum desideret et tristetur ab aliquo
+      disconuenienti et ipsum abhorreat, set uirtus illa a parte <seg>illa</seg> qua
+       <seg>desideret</seg> delectabile dicitur concupiscibilis a parte illa qua abhorret dicitur
+       <seg>irascibilis.</seg> Eedem igitur <seg>sunt</seg> uirtutes anime uegetabilis et
+       <seg>non</seg> multe set <seg>una</seg> per essentiam in genere potenciarum. Similiter
+      autem intelligendum est de potenciis anime sensibilis que magis unite sunt ad inuicem quam
+      potencie anime uegetabilis et similiter de potenciis intellectiue, ergo nichil prohibet
+      omnes potencias anime esse unam in genere suo. Vegetabilis ergo anima non habet nisi unam
+      potenciam et sensibilis similiter unam et rationalis unam. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20477">
+          <hi>Secunda ratio hec est: sicut dicit <seg>Auicenna,</seg> diuersitas actionum non indicat
+      diuersitatem <seg>uirtutum,</seg> quia eadem uirtus operatur ad contraria et mouet diuersis
+      uoluntatibus et una et eadem uirtus in eadem materia diuersas operationes
+       <seg>exercet.</seg> Ergo cum operationibus <seg>respondeant</seg> non differunt uirtutes
+      per obiecta, set non est eadem differentia ipsarum uirtutum anime per essentiam nisi a parte
+      operationum et obiectorum, ergo uirtutes anime non diuersificantur per <seg>essentiam</seg>
+            <seg>set</seg> secundum esse in eodem genere, ergo non <seg>differunt,</seg> et similiter
+       <seg>est</seg> de potenciis anime uegetabilis et similiter <seg>rationalis.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20511">
+          <hi>Tercia ratio hec est: uirtutes anime differunt multipliciter. Differunt enim in
+      fortitudine <seg>et</seg> debilitate, uelocitate, tarditate, firmitudine et instabilitate
+      comprehensionis subtilitate et hebetudine, priuatione et habitu, motu et quiete et
+      consimilibus. Set si hec <seg>faciunt</seg> diuersitatem in uirtutibus <seg>per</seg>
+      essentiam tunc una uirtus esset infinite uirtutes, quia una et </hi>
+          <hi>|</hi>
+          <hi> eadem uirtus quandoque habet istas dispositiones contrarias et hoc secundum dispositionem
+      sui uel organi, ergo cum a parte illa non habeant diuersitatem uirtutes anime patet quod non
+      differunt per essentiam, immo sunt una potencia uel una <seg>uirtus</seg> per essentiam
+      loquendo in eodem genere. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20536">
+          <hi>Ad oppositum, sicut dicit Auicenna et <seg>Algazel,</seg> omnis uirtus ad hoc est ut ex
+      ipsa egrediatur operatio <seg>propria.</seg> Set operatio egreditur a uirtute uel primo uel
+      secundario, </hi>
+          <hi>|</hi>
+          <hi> unde una uirtus est principium operationis unius <seg>primo</seg> secundario multarum
+      sicut uisus, primo apprehendit <seg>colorem,</seg> secundario <seg>quinque</seg> sensibilia
+      communia. Set operationes uirtutum <seg>prime</seg> inmediate diuerse sunt et obiecta
+       <seg>ipsarum</seg> earum prima et inmediata diuersa <seg>sunt.</seg> Ergo necesse est quod
+      diuerse sint uirtutes anime et non una. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20573">
+          <hi>Secunda ratio hec est: eorum que dicuntur ad aliquid quedam dicuntur ad aliquid per
+      essentiam sui quedam per aliquam dispositionem sui ad aliquid dicuntur per
+       <seg>essentiam</seg> ut paternitas et filiatio. Paternitas enim dicitur ad filiationem per
+       <seg>se.</seg> Que autem dicuntur ad aliquid per aliquam dispositionem sui sunt ut
+      substantia patris dicitur ad substantiam fili per aliquam dispositionem sui, scilicet
+       <seg>per</seg> paternitatem. Set in eis que dicuntur ab aliquid per aliquid sui non est
+      necesse quod uno multiplicato multiplicetur <seg>et</seg> alterum, unde quamuis
+       <seg>substantia</seg> filii <seg>multiplicetur</seg> non tamen substantia
+       <seg>patris.</seg> In <seg>eis</seg> autem que per essentiam ad aliquid dicuntur necesse
+      est quod uno multiplicato multiplicetur alterum, unde multiplicata filiatione mutiplicatur
+      paternitas. Set potencia dicitur ad actum primum et inmediatum per essentiam, ergo
+      multiplicato actu primo et inmediato multiplicatur potencia. <seg>Set</seg> actus primi et
+      inmediati potenciarum anime sunt multi et differentes in eodem genere secundum speciem, ergo
+      necesse est potencias anime in eodem <seg>genere</seg> esse differentes secundum speciem.
+      Potencie ergo anime <seg>sensibilis</seg> plures sunt et differentes et non una et sic de
+      aliis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20613">
+          <hi>Tercia ratio hec est: quod <seg>differant</seg> potencie uegetabiles a sensibilibus nulla
+      est dubitatio, cum hee sint cognoscitiue ille <seg>uero</seg> non. Item intellectiue
+      differunt a sensibilibus, quia intellectiue formas rerum denudatas appendiciis accidentibus
+      cognoscunt. Sensibiles autem cognoscunt formas rerum cum appendiciis corporalibus
+      accidentibus, ergo necesse est has differre ab illis. Item uirtutum sensibilium quedam sunt
+      interiores et <seg>quedam</seg> exteriores. Virtutes autem sensibiles interiores non
+      coartantur ab obiecta <seg>et</seg>
+            <seg>accipiunt</seg> obiecta abstracta non tamen perfecte abstracta, sicut sensus communes,
+      imaginatio, <seg>fantasia.</seg> Virtutes autem sensibiles particulares
+       <seg>exteriores</seg> que sunt quinque sensus coartantur ad obiecta <seg>propria</seg>
+      secundum </hi>
+          <hi>|</hi>
+          <hi> exigentiam sue operationis et organi et obiecti. <seg>Hec</seg> autem obiecta sunt
+      differentia ad inuicem, ergo necesse est uirtutes anime in eodem genere in diuersis esse
+      differentes et multas. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20653">
+          <hi>Quarta ratio hec est: in aliquibus corporibus est uirtus uegetabilis et operatio ipsius
+      supra nutrimentum et tamen illa corpora non sentiunt delectionem uel tristiciam nutrimenti
+      nec corrumptuntur nec afficiuntur ab odoribus. Hoc autem est solum propter priuationem
+      uirtutis sufficientis, ergo cum habeant uirtutem <seg>uegetabilem</seg> et priuentur
+      sensitiua patet quod uirtus uegetabilis et <seg>sensibilis</seg> differunt. Item inuenimus
+      in quibusdam membris corporis aptitudinem ad nutrimentum et uitam et tamen non possumus ea
+      per se mouere, sicut patet de musculo cum motus ei deficit. Hoc autem non est nisi quia
+      priuantur uirtute <seg>motiua</seg> et retinent sensibilem, ergo uirtus motiua et
+       <seg>uirtus</seg> sensibilis differunt, non <seg>tamen</seg> est tanta differentia inter
+      uirtutem motiuam et <seg>sensibilem</seg> quanta <seg>est</seg> in <seg>aliis.</seg> Item
+      uidemus quedam animalia habere omnes sensus, quedam non habere omnes sensus set quosdam, et
+      hoc non est propter defectum instrumentorum solum set etiam propter defectum sensuum, quia
+      instrumenta sunt propter <seg>sensum</seg> que non habent alium, ut occulus habet unum
+      sensum, scilicet uisum et non habet <seg>alium</seg> nec alia membra habent uisum. Hoc autem
+      est propter priuationem uirtutis que est in quibusdam membris et que non est in aliis, set
+      omnes tales <seg>uirtutes</seg> differunt ad inuicem per essentiam, ergo uirtutes sensibiles
+      differunt ad inuicem per essentiam, uirtutes <seg>ergo</seg> anime <seg>et</seg> diuerso
+      genere uirtutum et in eodem differunt per essentiam in genere potenciarum. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20700">
+          <hi>Quinta ratio hec est: sicut diximus, anima comparatur ad corpus sicut forma, et comparatur
+      ad ipsum sicut <seg>ad</seg> illud per quod operatur et secundum quod <seg>comparatur</seg>
+      ad <seg>corpus,</seg> sicut forma comparatur ad ipsum, sicut dans ei esse et uitam, et hoc
+      modo a parte corporis ei respondet equalitas complexionis, a parte autem illa qua operatur
+      per corpus respondet a parte corporis diuersitas partium et organorum per que operatur
+      diuersa, ergo sicut anima est una in perficiendo eodem modo est multe in operando nisi per
+      diuersitatem <seg>partium</seg> suarum potenciarum et uirtutum respondentium diuersis
+      partibus corporis. Ergo necesse est <seg>ponere</seg> potencias et uirtutes ipsius
+       <seg>anime</seg> esse multas et differentes. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20725">
+          <hi>Sexta ratio hec est: anima intellectiua comparatur ad corpus et habet unam potenciam per
+      quam regit corpus et per quam recipit a uirtutibus sensibilibus et hec est possibilis
+      intellectus. habet <seg>item</seg> aliam potenciam per quam nata est intelligere separata et
+      hec est intellectus agens, set magis coartatur </hi>
+          <hi>|</hi>
+          <hi> secundum exigentiam corporis quelibet alia <seg>anima</seg>
+          </hi>
+          <hi> </hi>
+          <hi>|</hi>
+          <hi> quam anima intellectiua. Ergo cum anima intellectiua habeat potenciam distinctam in
+      genere potencie <seg>propter</seg> applicationem ad corpus propterea quia per illam dependet
+      a corpore et a uirtutibus sensibilibus et corporalibus multo fortius cum anima
+       <seg>sensibilis</seg> diuersis suis <seg>uirtutibus</seg> ad diuersa organa coartetur et
+      non solum ad totum corpus, et similiter anima uegetabilis, necesse est <seg>ergo</seg> quod
+      quelibet istarum habeat potencias in se <seg>differentes</seg> ut quelibet potencia sit
+      diuersa ab alia secundum diuersitatem respondentem ei a parte organi cui unitur et quod
+      perficit et cum quo simul perit.</hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20768">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod uirtutes et potencie anime differunt per essentiam in
+      genere potencie et potencie que sunt eiusdem differentie anime minus differunt quam potencie
+      diuersarum differentiarum anime. Omnes <seg>igitur</seg> uirtutes sensibiles interiores et
+      exteriores differunt per essentiam in genere potencie quamuis in eadem radice
+       <seg>radicentur</seg>
+            <seg>et</seg> omnes uirtutes uegetabiles differunt per essentiam in genere potencie et
+      similiter omnes uirtutes intellectiue. Quidam uero ponunt quod potencie anime non differunt
+      per essentiam set solum per esse, et diuersitas inest eis a parte organorum et operationum
+      et obiectorum. Nos uero ponimus secundum Auicennam quod potencie anime in eodem genere
+       <seg>et</seg> diuersis <seg>differunt</seg> per essentiam in genere <seg>potencie.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20802">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod uirtutes anime predicte que
+      illas diuersas operationes exercent non solum differunt a parte <seg>operationem</seg> et
+      obiectorum set a parte sui esse in genere potenciarum, unde soluit Auicenna rationem illam
+      per interemptionem ostendens quod procedit ex <seg>falsa</seg> suppositione. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20817">
+          <hi>Ad secundam rationem <seg>est</seg> dicendum quod actus sunt duobus modis, scilicet primi
+      et secundi. Actus uero secundi non diuersificant potencias anime, quia una et eadem potencia
+      potest esse principium plurium actuum secundorum, set actus primi diuersificant eas sicut
+      effectus potenciarum, quia enim potencie sunt diuerse, ideo et illi actus sunt diuersi.
+      Diuersitas <seg>ergo</seg> actuum potenciarum ostendit diuersitatem et quia actus primi
+      potenciarum anime differunt ideo et potencie anime differunt. Vnde licet una et eadem uirtus
+      sit ad contrarias operationes et ad actus <seg>contrarios</seg> secundos non tamen est ad
+      contrarios actus primos. </hi>
+        </p>
+        <p xml:id="da-236-ed1e20407-d1e20832">
+          <hi>Ad terciam rationem dicendum <seg>est</seg> quod quedam dispositiones potenciarum anime
+       <seg>sunt</seg> accidentales, quedam <seg>sunt</seg> essentiales. Accidentales
+      dispositiones potentiarum non diuersificant potencias per essentiam. Tales <seg>autem</seg>
+      iste, fortitudo, debilitas et cetera. Essentiales uero dispositiones sunt </hi>
+          <hi>|</hi>
+          <hi> proprie et inmediate et tales diuersificant potencias anime per essentiam in genere
+      potenciarum et iste dispositiones sunt operationes proprie et inmediate que differunt, quia
+      potencie sunt diuerse. Et ostenditur diuersitatem in <seg>potenciis,</seg> sicut effectus
+      proprii et inmediati in causa sua. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

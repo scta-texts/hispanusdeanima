@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e3722" >
+        <head>Quaestio 4</head>
+        <head type="question-title">Que sunt hec
+    principia quorum anima gerit similitudines, utrum, scilicet sint uniuersalia et forme
+    uniuersales an sint alia sicut forme partis</head>
+        <p xml:id="da-236-ed1e3722-d1e3730">[lec 11 q4] Circa quartam <seg>questionem</seg> sic proceditur, et queritur que sunt hec
+    principia quorum anima gerit similitudines, utrum, scilicet sint uniuersalia et forme
+    uniuersales an sint alia sicut forme partis, et ostenditur quod sint uniuersalia, quia duplex
+    est cognitio: quedam est per uera rerum principia et hec est intellectiua; quedam autem per
+      <seg>exemplaria</seg> et hec est cognitio sensitiua. Set quantum ad primam cognitionem sicut
+    unumquodque se <seg>habet</seg> ad esse ita se habet ad cognitionem, set res sunt ex
+    principiis, ergo per principia habent cognosci. Omnis autem cognitio est per formam, ergo ex
+      <seg>suis</seg> principiis que sunt materia et forma | non cognoscuntur nisi per formam,
+    ergo per illam formam que <seg>totum</seg> complectitur. Hec autem est forma uniuersalis,<hi>
+      |</hi> ergo per formam uniuersalem habet res cognosci principia ergo per <seg>que</seg> res
+    cognoscuntur ab anima et per que habet <seg>anima</seg> conformitatem cum rebus sunt
+    uniuersalia. </p>
+        <p xml:id="da-236-ed1e3722-d1e3758">Secunda ratio hec est: cum eo habet anima conformitatem quod est proprium obiectum illius.
+    Set obiectum intellectus est <seg>quod</seg> est, et quod quid est est essentia uniuersalis,
+    ergo cum essentia uniuersali habet conformitatem ipsa anima intellectiua, ergo habet
+    conformitatem cum principiis uniuersalibus et per illa cognoscit per que habet conformitatem
+    cum rebus, ergo anima intellectiua cognoscit res per principia rerum uniuersalia et per
+      <seg>illa</seg> habet conformitatem cum rebus. </p>
+        <p xml:id="da-236-ed1e3722-d1e3767">Ad oppositum, omnis forma que resultat ex principiis rei est posterior eis. Vniuersale est
+    huiusmodi, sicut uult <seg>Auicenna,</seg> ergo est posterius principiis rei et ipsa re, set
+    cognitio intellectiua fit per priora, ergo non fit per principia uniuersalia, ergo intellectus
+    per <seg>principia</seg> uniuersalia non cognoscit res nec per illa habet conformitatem cum
+    rebus. </p>
+        <p xml:id="da-236-ed1e3722-d1e3777">Secunda ratio est hec: intellectus cognoscit res in resoluendo eas in sua principia et
+    perscrutando causas earum, ergo per <seg>illas</seg> cognoscit ad que est status in
+    resolutione. Status autem in resolutione rerum est ad materiam et formam ex quibus componitur
+    uniuersale, ergo per <seg>numerum</seg> et formam que <seg>non</seg> sunt principia uniuersali
+    habent cognosci res et non per principia uniuersalia, ergo non habet intellectus conformitatem
+    cum rebus per principia <seg>uniuersalia.</seg>
+        </p>
+        <p xml:id="da-236-ed1e3722-d1e3792">
+          <seg>Solutio.</seg> Dicendum quod <seg>anima</seg> gerit in se similitudines principiorum
+    rerum et huiusmodi principia sunt uniuersalia que dicuntur exemplaria, et per illa cognoscit
+    anima intellectiua res ipsas et cum illis habet conformitatem et per illa cum rebus et habent
+    ista uniuersalia <seg>multiplicem.</seg> Dicuntur enim <seg>uniuersalia</seg> exemplaria per
+    comparationem ad <seg>causam</seg> per que illa res <seg>producit.</seg> Dicuntur autem forme
+    per comparationem ad rem quam informant dando ei esse et <seg>completionem.</seg> Dicuntur
+    autem uniuersalia per comparationem <seg>quibus</seg> ad res a quibus participantur et que in
+    ipsis <seg>communicant</seg> que sunt singularia. Dicuntur autem species per comparationem ad
+    animam quam informant mediantibus quibus anima cognoscit res et habet conformitatem cum illis
+    speciebus uniuersalibus et mediantibus illis cum rebus que communicant <seg>in</seg> ipsis. </p>
+        <p xml:id="da-236-ed1e3722-d1e3825">Ad primam rationem in contrarium dicendum <seg>est</seg> quod prius est duobus modis,
+    scilicet prius tempore et prius natura. Tempore autem simul <seg>et</seg> uniuersale et
+    particulare et materia et forma. Prius autem natura est duobus modis: uno modo dicitur prius
+    natura in uia generationis et incompletionis, et hoc modo <seg>prius</seg> est materia quam
+    forma, et singulare prius <seg>est</seg> quam uniuersale hoc modo. Alio modo dicitur prius
+    natura, <seg>scilicet</seg> in uia diffinitionis et completionis et hoc modo prius est
+    uniuersale natura quam singulare. Per priora autem quantum ad cognitionem et completionem et
+      <seg>diffinitionem</seg> procedit intellectus et cognitio intellectiua, et quia talia sunt
+    uniuersalia ideo intellectus cognoscit res per principia uniuersalia, quibus primo se
+    conformat. </p>
+        <p xml:id="da-236-ed1e3722-d1e3847">Ad secundam rationem dicendum est quod duplex est cognitio intellectus: una que est
+    apprehensio et hec fit mediante specie singularis; alia que est resolutio in causas et hoc
+    modo cognoscit intellectus principia uniuersalia resoluendo | ipsa in materiam et formam
+    uniuersalem et ita cognoscit uniuersalia per materiam et formam resoluendo in quantum materia
+    et forma habent naturam uniuersalis et ita per uniuersalia semper procedit in cognitione
+      <seg>rerum.</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e25214" >
+        <head>Quaestio 5</head>
+        <head type="question-title">Utrum anima sit in semine
+    actu uel potencia.</head>
+        <p xml:id="da-236-ed1e25214-d1e25222">
+          <hi>[lec11 q5] Circa quintam questionem sic proceditur et queritur utrum anima sit in semine
+      actu uel potencia. Et ostenditur quod sit potencia existens in semine per talem rationem,
+      sicut habetur in libro </hi>
+          <hi>De animalibus</hi>
+          <hi>, anima est in spermate potencia et in <seg>quolibet</seg> membro potencia. Set in quodam
+      proprinquor et in quodam remotior et in multis locis dicit Aristoteles quod anima est in
+      embrione non actu set potencia. Ergo anima est in semine potencia et non actu. </hi>
+        </p>
+        <p xml:id="da-236-ed1e25214-d1e25237">
+          <hi>Secunda ratio hec est: dispositiones in semine existentes preparant materiam ad actualem
+      existentiam forme in <seg>ipsa</seg> et cum non sint dispositiones in semine non est
+      existencia actualis forme in materia set possibilis, set in semine non sunt dispositiones in
+      summo respectu anime que debet esse eius perfectio. Ergo anima non existit in semine
+      actualiter set potencialiter. </hi>
+        </p>
+        <p xml:id="da-236-ed1e25214-d1e25246">
+          <hi>Ad oppositum: omne quod dat actualem uitam et operationem actualem alicui actualiter est
+      in ipso et non solum potencias. Set anima dat actualem uitam et actualiter operationem
+      semini quia actualiter nutrit ipsum per aduentum nutrimenti, ergo anima actualiter est in
+      semine et non potencia solum. </hi>
+        </p>
+        <p xml:id="da-236-ed1e25214-d1e25253">
+          <hi>Ad hoc dicendum quod anima est in semine potencia et non actu, set facta dispositione
+      completa totius corporis et membrorum eius anima actualiter existit in eo et actualiter
+      operatur in eo quod non facit ante completam organizationem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e25214-d1e25259">
+          <hi>Ad rationem in contrarium dicendum quod in semine sunt duo uita, scilicet et operationes
+      consequentes uitam. Vita est in ipso semine potencia prout uita illa est ab anima ipsius
+      sicut anima est potencia. Operationes uero uite similiter sunt in ipso semine a substantia
+      anime potencialiter et non actualiter. Sunt autem in ipso uita et predicte operationes
+      actualiter a uirtutibus fluentibus cum semine ad productionem fetus operationibus et non ab
+      ipsa anima set potentialiter sunt ab <seg>illa.&gt;</seg>
+          </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

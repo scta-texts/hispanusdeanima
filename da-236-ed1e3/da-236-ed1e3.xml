@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e3" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e3-d1e8">Paragraphus secundus de specialibus opinionibus et primo de opinione Democriti, Leucipi,
+    Platonis <seg>et</seg> sequantium suorum. Continuatio intensionis. </p>
+        <p xml:id="da-236-ed1e3-d1e14">|<hi> Vnde Democritus qu</hi>
+          <hi>en</hi>
+          <hi>dam ignem aut calorem dicit eam esse</hi> et
+    cetera. In predictis sermonibus dixit philosophus quod philosophi fere omnes per duas
+    conditiones diffiniunt animam, scilicet per motum et cognitionem, et quod multi in hoc
+    consenserunt et posuerunt ipsam esse <seg>principium</seg> motus se <seg>ipsum</seg> mouens.
+    Et hec fuit ipsorum uniuersalis intensio ei, scilicet motum apropriare. In hac autem parte
+    narratione speciali tangit eorum opiniones secundum quod ipsam animam diffiniunt per motum. </p>
+        <p xml:id="da-236-ed1e3-d1e30">Diuisio. Recipit autem hec pars diuisionem in tres partes in quarum prima recitat opiniones
+    Democriti et Leucipi. In secunda in hac scilicet, <hi>uidetur <seg>quod</seg> et a Pitagoricis
+       <seg>dictum</seg> e</hi>
+          <hi>an</hi>
+          <hi>dem habere intelligentiam </hi>et cetera, tangit
+    opiniones Pitagore et sequatium eius. In tercia, scilicet in hac, <hi>similiter autem
+      Anaxagoras animam dicit se ipsam mouentem</hi> et cetera, tangit opinionem Anaxagore et
+      seq<hi>uat</hi>ium <seg>eius.</seg>
+        </p>
+        <p xml:id="da-236-ed1e3-d1e55">Prime autem due partes spectant ad presentem lectionem siue speculationem secundum quas
+    recipit presens lectio diuisionem in duas partes, in quarum prima tangit opinionem Democriti
+    et Leucipi. In secunda tangit opinionem Pitagore. Prima autem pars recipit diuisionem in duas
+      <seg>partes,</seg> in quarum prima recitat opinionem Democriti. In secunda, scilicet in hac,
+      <hi>similiter autem et Leucipus horum autem specie rotunda dicit <seg>animam</seg>
+          </hi>et cetera, recitat opinionem Leucipi, qui in suis opinionibus sequitur Democritum.
+    Secunda autem pars principalis in qua recitat opinionem Pitagoritarum recipit diuisionem in
+    duas partes, in quarum prima recitat opinionem Pitagoritarum. In <seg>secunda,</seg> scilicet
+    in hac, <seg>
+            <hi>qui</hi>
+          </seg>
+          <hi> autem ferunt et quicumque dicunt animam esse se ipsam
+      mouens</hi> et cetera, tangit opinionem ponentium animam esse substantiam se ipsam mouentem
+    que fuit opinio similis opinionibus Pitagore, Democriti et Leucipi. Hec autem fuit opinio
+    Platonicorum. </p>
+        <p xml:id="da-236-ed1e3-d1e77">Diuisionis recollectio. Sunt igitur in lectione <seg>presenti</seg> partes quatuor, in quarum
+    prima recitat philosophus opinionem Democriti. In secunda recitat opinionem Leucipi college
+    ipsius. In tercia recitat opinionem Pitagore. In quarta recitat opinionem ponentium animam
+    esse substantiam se ipsam mouentem que similis est predictis. </p>
+        <p xml:id="da-236-ed1e3-d1e83">Hec autem est diuisio huius partis. In narratione autem intensionis philosophi minime
+    particule distinguentur. </p>
+        <p xml:id="da-236-ed1e3-d1e86">Sententia prime partis de opinione Democriti. Circa primam partem procedit philosophus hoc
+    modo: notificatum est quod omnes philosophi diffiniunt animam per motum et cognitionem et
+    multi ponunt ipsam esse substantiam que cum mouet per se mouetur, et illi uniuersaliter
+    attribuerunt motum maxime anime competere, unde Democritus posuit ipsam substantiam corporalem
+    maxime mobilem, et duo tan|git de ipsius opinione dicens quod posuit ipsam ignem uel
+    substantiam igneam ignis habentem naturam, quia ignis inter omnia corpora maxime | est habilis
+    ad motum et ad operationem et actionem cum sit maxime speciei. Secundum est quod tangit de
+    ipsius opinione quod posuit ipsam esse ex athomis infinitis igneis leuibus figure rotunde et
+    causa in hoc est quia huiusmodi athomi sunt semper in continuo motu <seg>et</seg> nulla aeris
+    tempestas uel motus <seg>ipsos.</seg> Cum igitur anima sit maxime participans motum maxime
+    habet naturam huiusmodi athomorum et precipue habentium naturam ignis et habentium rotundas
+    figuras, quia ille maxime sunt habiles ad motum. Isti uero athomi apparent per fenestras in
+    radiis solaribus constituentibus similitudinem turbis et ipsos posuerunt philosophi principia
+    elementaria omnium corporum naturalium. Hoc autem tangit cum dicit, <hi>infinitis enim
+      existentibus figuris et athomis</hi> et cetera.</p>
+        <p xml:id="da-236-ed1e3-d1e98">Sententia secunde partis de opinione Leucipi, consequenter tangit opinionem Leucipi et duo
+    tangit de ipsius opinione: primum est quod posuit animam esse ex athomis rotunde figure sicut
+    et Democritus. Secundum est autem <seg>que</seg> est ratio opinionis ipsius. Posuit enim
+    animam esse principium uite et uitam stare per respirationem et respirationem fieri per
+      <seg>abstractionem</seg>
+          <seg>esse</seg> athomorum et motum ipsorum intra corpus per ingressum et regressum suum. Primo
+    ergo ponit rationem Leucipi et ratio sua talis est: omne illud quod animalibus est adhibens
+    motum que sunt maxime <seg>mobilia</seg> et maxime subtilia et maxime omnium penetratiua. Set
+    anima huiusmodi, ergo est maxime ex illis principiis, set illa principia sunt athomi rotunde
+    figure, ergo anima est ex athomis rotunde figure, deinde secundo cum dicit, <hi>uiuere et
+      uiuendi terminum esse <seg>respirationem</seg>
+          </hi> et cetera, tangit causam propter quam
+    motus fuit Leucipus que fuit a parte anelitus qui ad uitam consequitur et per quem stat uita.
+    Omnis enim ratio <seg>qualiter*</seg> determinans de quidditate alicuius rei dat causam circa
+    rem quam determinat. Et ideo cum Leucipus et alii philosophi posuerunt animam esse ex athomis
+    spericis laborauerunt in causa reddendi sue positionis. Et ideo dixerunt quod anclitus est
+    illud per quod diffinitur uita, sicut <seg>id</seg> quod ad uitam consequitur et sine quo uita
+    non stat, <seg>et</seg> deinde secundum ipsorum opinionem tangit modum secundum quem fit
+      <hi>hanel</hi>itus dicens quod hanelitus fit hoc modo, quia aer continens alteriam uel
+      <seg>aliam</seg> deffert athomos secum et congregat ipsos et <seg>cum</seg> animalibus
+    attrahitur. Ipsi uero athomi adhibent motum animalibus et cum motus per aerem
+      <seg>inspirant</seg> recipiuntur mouent ipsa et non permittunt <seg>ipsa</seg> quiescere in
+    aliqua hora, immo <seg>ipsa</seg> conti|nue mouent per <seg>sui</seg> ingressum et
+      <seg>egressum,</seg> et sic per <seg>ingressum</seg> cum <seg>aere</seg>
+          <seg>constringuit</seg> intus corpus <seg>aliquis</seg> et non possunt <seg>animalis</seg>
+          <seg>sustineri</seg> quin moueantur ad motum athomorum nec a celestis influentia uirtutis que
+    super omnia corpora influit possunt hoc obtinere quin ad ipsorum motum moueantur. Ad egressum
+    igitur <seg>athomorum</seg> intus primitus receptorum qui exitus respiratio appellatur
+    mouentur animalia, <seg>set</seg> deinde recipiunt alios athomos per ingressum qui est
+    inspiratio, et sic continue per ingressum quorumdam per inspirationem et exitum
+      <seg>quorumdam</seg> per respirationem continue mouentur. Et fit <seg>nichil</seg> concursu
+    athomorum prohibitio quedam, quia illi qui <seg>intrinsecus</seg> adueniunt per inspirationem
+    prohibent eos qui extrinsecus exeunt per respirationem <seg>conclucando*</seg> et condempsando
+    ipsos ut <seg>sine</seg> discontinuatione temporis animalia secundum motus athomorum
+    ingredientium et egredientium <seg>fuit</seg> semper in continuo motu et uita
+      <seg>conseruetur</seg> in animalibus, dum in ipsis durat motus athomorum per inspirationem
+    et expirationem. Est igitur eorum ratio talis Leucipi, scilicet et Democriti et sequatium
+    ipsorum. Ex illis que exhibent animalibus motum continuum et uitam et inspiratonem et
+    respirationem et per quam diffinitur uita et sine qua non stat et per quam consueruatur qua
+    durante durat uita et qua cessante cessat uita ex illis in <seg>quantum</seg> talibus est
+    anima. &lt;Set athomi sunt huiusmodi, ex athomis ergo est <seg>anima&gt;</seg> hoc declaratur,
+    quia anima est causa uite et conseruationis <seg>ipsius</seg> et motus uiuentium est causa per
+    sui operationem. Set cessante <seg>sui</seg> operatione et motu cessat ipsius uita, et sic
+    exponitur intensio Leucipi et sequentium ipsum. </p>
+        <p xml:id="da-236-ed1e3-d1e213">Sententia tercie partis de opinione Pitagore. Hiis autem determinatis recitat opinionem
+    Pitagoritarum que predictis est similis et primo tangit ipsam, secundo rationem ipsius. Dicit
+    igitur quod opinio Pitagoritatum uidetur habere eandem intensionem. Dixerunt enim animam
+    componi ex paruis resolutionibus que dicuntur athomi, <seg>quia</seg> generantur ex subtilibus
+    partibus a terra maxime, <seg>et</seg> ab aqua resolutis et ab aliis mixtis qui
+      <seg>diffiniuntur</seg> per aerem. Et hec opinio bipartita <seg>est,</seg> quia quidam
+    posuerunt animam componi ex illis athomis, quidam | <seg>tamen</seg> posuerunt animam ex illis
+    non componi, set ipsam esse motorem mouentem ipsos, deinde cum dicit, <hi>de hiis autem dictum
+      est propter id quod uidentur <seg>continue</seg>
+            <seg>moueri</seg>
+          </hi>, dicit igitur quod hoc dixerunt propter hanc rationem. Ex illis enim
+    est anima uel illorum motor que semper sunt in continuo motu, quamuis alia sint in quiete et
+    nimia <seg>tranquillitate.</seg> Et hoc <seg>est</seg> quia inter omnes res naturales anima,
+    sicut supra dictum est, maxime est principium motus in natura set athomi, sicut sensibiliter
+    apparet in radiis solaribus sunt huiusmodi, ergo ex athomis est anima uel illorum motor. </p>
+        <p xml:id="da-236-ed1e3-d1e246">Sententia quarte partis de opinione ponentium animam esse substantiam se ipsam mouentem.
+    Consequenter recitat o|pinionem ponentium animam esse substantiam se ipsam mouentem, sicut
+    posuerunt Platonici que est similis predictis quantum ad diffinitionem anime per motum.
+    Platonicorum enim fuit alia opinio quantum ad cognitionem. Primo igitur narrat
+      <seg>eorum</seg> opinionem dicens quod ad idem ferunt intellectum cum Pitagoricis et cum
+    aliis predictis. Illi <seg>autem</seg> qui dicunt animam esse rem mouentem per se ipsam. Omnes
+    enim in hoc conueniunt quod ponunt animam diffiniri per motum, set in hoc differunt, scilicet
+      <seg>quod</seg> in quidditate eius. Quidam enim <seg>posuerunt</seg> esse ignem uel rem
+    igneam, quidam athomos, quidam motorem eorum, quidam materiam se <seg>ipsam</seg> mouentem,
+    sicut Platonici. Deinde secundo tangit <seg>eorum</seg> rationem cum dicit, <hi>uidentur autem
+      hii omnes accipere motum <seg>proprie</seg> esse <seg>anime</seg>
+          </hi> et cetera, dicit
+    igitur quod omnes isti posuerunt in suis opinionibus anime maxime et proprie competere motum
+    et posuerunt animam moueri propter animam et dixerunt ipsam se ipsam maxime mouere. Et causa
+    sue intensionis fuit hoc principium quod ponebant quod omne mouens necesse est moueri. Ratio
+    igitur eorum sic abbreuiatur: omne quod maxime est <seg>principium</seg> maxime mouetur, et
+    causa huius <seg>est</seg> quia sicut posuerunt omne quod mouet simul et ipsum
+      <seg>moueretur.</seg> Set anima est huiusmodi, ergo anima maxime mouetur, cum igitur
+    sufficienter moueat alia <seg>sufficienter</seg> mouet et ipsam, set illud quod sufficienter
+    mouetur se ipso mouetur, sicut <seg>quod</seg> sufficienter est uel operatur se ipso, ergo
+    anima se ipsa mouetur. Ergo rationabiliter competit motus anime ut per ipsum diffiniatur,
+    sicut ipsorum positio asserit. </p>
+        <p xml:id="da-236-ed1e3-d1e293">Et per predictam exponitur intensio philosophi circa hanc partem. </p>
+        <p xml:id="da-236-ed1e3-d1e296">
+          <seg>Questiones.</seg> Postquam autem determinatum est de intensione philosophorum
+    diffinientium animam per motum in generali, dicendum est de specialibus opinionibus
+    singulorum. Et primo dicendum est de opinione Democriti et Leucipi; secundo dicendum est de
+    opinione Anaxagore. Tercio dicendum est de opinione philosophorum ponentium animam se ipsam
+      <seg>moueri.</seg>
+        </p>
+        <p xml:id="da-236-ed1e3-d1e304">Circa primam questionem duo <seg>queruntur:</seg> primum [lec9 q1] est utrum anima sit
+    substantia que habeat naturam <seg>ignis</seg> caloris et que sit ignis sicut posuerunt
+    philosophi. Secundo [lec9 q2] est quo modo athomi sint principia rerum et utrum anima sit
+    composita ex athomis sicut posuerunt philosophi. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

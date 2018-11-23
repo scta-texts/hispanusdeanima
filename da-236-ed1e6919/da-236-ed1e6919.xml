@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e6919" >
+        <head>Quaestio 1</head>
+        <head type="question-title">Utrum necesse sit motorem et
+    mobile distare substantia</head>
+        <p xml:id="da-236-ed1e6919-d1e6927">[lec 15 q5] Circa quintam questionem sic proceditur et queritur utrum <unclear>mecesse <!-- should this be necesse --></unclear> sit motorem et
+    mobile distare substantia et circa hoc queruntur questiones tres: </p>
+        <div xml:id="da-236-ed1e6934">
+          <head>1</head>
+          <p xml:id="da-236-ed1e6934-d1e6939">[lec 15 q5.1] Prima est utrum motor et mobile distent per substantiam, et ostenditur quod
+      non: natura est principium motus et status in eo in quo est, sicut uult Aristoteles. Ergo
+      natura secundum Aristotelem est principium intrinsecum motus, set <seg>ullum</seg>
+      principium intrinsecum rei distat a re per essentiam quam mouet, ergo motor et mobile non
+      distant per essentiam. </p>
+          <p xml:id="da-236-ed1e6934-d1e6945">Secunda ratio hec est: omnis forma corporalis alligatur materie. Set materie est moueri,
+      forme uero mouere. Ergo forma corporalis mouet naturam in qua est, set forma corporalis non
+      distat per essentiam a materia in qua est. Ergo non est necesse motorem et mobile distare
+      per essentiam. </p>
+          <p xml:id="da-236-ed1e6934-d1e6948">Ad oppositum: dicit Aristoteles in libro <hi>De anima</hi> in <seg>primo,</seg> quia dicit
+       <seg>quod</seg> in naturalibus necesse est motorem et <hi>|</hi> mobile distare
+      substantia. Ergo per locum ab auctoritate differunt in substantia. </p>
+          <p xml:id="da-236-ed1e6934-d1e6963">
+            <seg>Solutio.</seg> Ad hoc dicendum est quod duplex est motor quidam est <seg>qui</seg> non
+      dependet a mobili per essentiam nec unitur mobili ratione dependentie et talis motor
+       <seg>distent</seg> et differt per essentiam <seg>a</seg> suo mobili. Alius est motor qui
+      unitur mobili per essentiam et hic est duplex, quia quidam est <seg>non</seg> distensus
+      secundum distensionem mobilis, set est hoc aliquid in se et substantia sufficienter mouens.
+      Et talis est anima, sicut respectu corporis et talis motor distat per essentiam a mobili.
+      Alius est motor qui est dependens a materia mobili et distensus secundum distensionem
+      materie et talis est sicut forma corporalis et talis motor non distat a mobili per
+      essentiam. Set intelligendum est quod distantia est multis modis, quia quedam est distantia
+      per essentiam secundum quam aliqua substantia fixa est in se et non dependens ab alia nec ei
+      unita. Et hoc modo intelligentia distat a celo et mouet ipsum et hec est distantia
+      independentie. Est alia distantia que est per recessum a distensione materie et talis est in
+      anima que quamuis uniatur corpori, tamen est indistensa secundum distensionem corporis, immo
+      est hoc aliquid et mouet corpus, et hec distantia facit motoris sufficientes intrinsecos.
+      Tercia distantia secundum substantiam est diffinitionis et essentie et hoc modo cuilibet
+      motori <seg>competit</seg> distare a mobili et differre secundum substantiam et hoc modo
+      forma corporalis distensa secundum distensionem materie distat a materia quam mouet,
+      scilicet diffinitione, quia aliam habet diffinitionem uel essentiam quam materia. Et sic
+      patet quod omnes motores distant a mobilibus differenter tamen, sicut uisum est, et per hoc
+      soluuntur rationes in contrarium.</p>
+        </div>
+        <div xml:id="da-236-ed1e6984">
+          <head>2</head>
+          <head type="question-title">Quis motor est magis sufficiens ad mouendum
+      aut ille qui unitur mobili substantia et uirtute aut ille qui unitur mobili uirtute solum</head>
+          <p xml:id="da-236-ed1e6984-d1e6992"> [lec 15 q5.2] Secunda questio circa hoc est quis motor est magis sufficiens ad mouendum
+      aut ille qui unitur mobili substantia et uirtute aut ille qui unitur mobili uirtute solum.
+      Et ostenditur quod ille qui unitur mobili substantia et uirtute sit magis sufficiens quam
+      ille qui unitur mobili solum uirtute quia continuatio motus est a uirtute motoris.
+      Continuatio autem uirtutis motoris est a substantia motoris, ergo unio motoris uirtutis cum
+      substantia mobilis facit uirtutem continuam, ergo faciet motum continuum. Unio ergo motoris
+      cum mobili substantia et uirtute faciet motum magis <unclear>continnum
+       <!-- typo ?? --></unclear>. Set quanto motor facit motum facit magis continuum tanto est
+      sufficientior, ergo motor unitus mobili substantia et uirtute est magis sufficiens aliis
+      motoribus, et hoc uidemus per <seg>experimentum.</seg> Si enim motor in iactu lapidis semper
+      uniretur lapidi in mouendo secundum substantiam semper esset continuus motus. Set quando
+      remouetur substantia motoris illius a lapide et remanet uirtus illius in mobili, uirtus illa
+      euanescit et ita non potest motus continuari et ita si esset motor ille unitus lapidi
+      substantia et uirtute esset magis sufficiens. </p>
+          <p xml:id="da-236-ed1e6984-d1e7002">Secunda ratio hec est: ni<hi>|</hi>chil mouet sufficienter in natura nisi hoc aliquid et
+      actu ens, sicut habetur in octauo <seg>
+              <hi>Phisicorum</hi>.</seg> Set uirtus non est hoc
+      aliquid <seg>et</seg> actu ens nisi per comparationem ad substantiam motoris, ergo
+      substantia motoris cum substantia uirtute unita mobili sufficientius mouet quam sua uirtus
+      solum unita mobili cum non sit sua uirtus per se hoc aliquid et ita motor unitus mobili
+      substantia et uirtute est magis sufficiens quam motor unitus uirtute solum. </p>
+          <p xml:id="da-236-ed1e6984-d1e7016">Ad oppositum: sicut habetur in libro <hi>Fontis uitae</hi>, quanto aliqua substantia est
+      magis spiritualis tanto plurium operationum est principium et sufficientius
+       <seg>operatur.</seg> Set per re motorem et differentiam a materia est substantia
+      spiritualis, ergo substantia quanto remotior est a materia tanto sufficientius operatur. Set
+      motor qui <seg>unitur</seg> mobili uirtute solum est magis separatus a materia quam motor
+      unitus mobili substantia et uirtute. Ergo motor unitus mobili uirtute et non substantia
+      sufficientius mouet et operatur quam motor unitus mobili substantia et uirtute. </p>
+          <p xml:id="da-236-ed1e6984-d1e7029">
+            <seg>Solutio.</seg> Ad hoc dicendum est quod unio uel distantia motoris cum mobili non est
+      causa motus sufficientis uel insufficientis, set dependentia uel independentia.
+       <seg>Vnde</seg> quamuis motor uniatur substantia et uirtute, non tamen propter hoc dicitur
+       <seg>insufficienter</seg> mouere. Set propter dependentiam dicitur <seg>mouere</seg> minus
+      sufficienter si minus sufficienter moueat, quod autem motor similiter qui sola uirtute mouet
+      dicatur sufficienter mouere, hoc non est propter unionem uirtutis solum, set propter
+      independentiam a mobili, unde utrique motores sufficienter eque mouent dum modo eque
+      independens sint. </p>
+          <p xml:id="da-236-ed1e6984-d1e7043">Ad rationes autem simul omnes dicendum est quod motor unitur mobili substantia et uirtute
+      solum duplici de causa: una causa est propter quam motor unitur mobili substantia et
+      uirtute, scilicet proter sui independentiam et indifferentiam ad omnia, quia scilicet a
+      nullo nichil coartatur et a nullo dependet, set ad omnia equaliter se habet. Et hoc modo
+      creator qui est primus motor est in omnibus per essentiam et uirtutem, et talis motor maxime
+      sufficienter mouet inter omnes motores, quia omnino independens est et a nullo etiam est sua
+      potentia limitata. Secunda causa est propter sui dependentiam et hoc modo motores qui sunt
+      forme uniuntur substantia et uirtute mobilibus quorum sunt forme. Set hoc conuenit duobus
+      modis, quia quidam motor unitur substantia et uirtute quia dependent; non tamen est
+      distensus nec est forma tantum, set forma et substantia. Et hoc modo motor qui est forma,
+       <seg>qui</seg> est anima unitur essentia et uirtute, et talis motor mouet suffienter illud
+      in quo est, cum ei uniatur utroque modo, et non mouet aliquod corpus sufficienter nisi illud
+      cuius est forma ad ipsum coartatur. </p>
+          <p xml:id="da-236-ed1e6984-d1e7049">
+            <hi>|</hi> Alius autem motor propter sui dependentiam unitur substantia et uirtute et est
+      forma tantum et distensus per distensionem mobilis cuius est forma, et talis propter
+      omnimodam dependentiam insufficienter mouet, quia omnino <seg>dependet</seg> a materia et
+      ita unio motoris cum mobili substantia et uirtute in quibusdam causa est sufficientis motus.
+      In quibusdam autem insufficientis. <seg>Iterum</seg> motor unitus mobili uirtute solum est
+      duplex, quia uno modo est motor unitus mobili uirtute solum propter independentiam motoris a
+      mobili corporali, quia motor ille liber est a materia corporali, et hoc modo intelligentia
+      est motor unitus suo mobili uirtute solum, et talis unio est causa sufficientis motus. Alia
+      est unio motoris cum mobili uirtute solum propter insufficientiam motoris, in quo motu
+      uirtus motoris per recessum a motore debilitatur et hoc modo est in iactu lapidis. Quod enim
+      in illo motu non uniatur motor secundum substantiam lapidi mobili hoc propter impotentiam et
+      insufficientiam eius, quia non est ita subtilis actionis quod possit penetrare mobile
+      substantia set uirtute solum, et uirtus complet loco eius quod ipse debet complere et in
+      tali motu unio motoris cum mobili sola uirtute est causa motus insufficientis, quia uirtus
+      illa que mouet non <seg>continuatur</seg> in mobili propter recessum a suo principio que est
+      substantia motoris a qua recedit et separatur, et ita in quibusdam unio motoris cum mobili
+      substantia et uirtute facit motum sufficientem et in aliis non et causa uniuersalis
+      huiusmodi est independentia et dependentia et coartatio motoris. </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

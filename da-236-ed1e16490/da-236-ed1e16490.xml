@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e16490" >
+        <head>Quaestio 5</head>
+        <head type="question-title">Utrum nutrire et augere sunt differentie uite</head>
+        <p xml:id="da-236-ed1e16490-d1e16498">[lec5 q5] Circa quintam questionem sic proceditur et queritur utrum nutrire et augere sunt
+    differentie uite. Et ostenditur quod sic: sicut uult Aristoteles augere et nutrire sunt
+    differentie uite computans eas inter alias differentias uite. Ergo patet per Aristoteles quod
+    sunt differentie uite. </p>
+        <p xml:id="da-236-ed1e16490-d1e16501">Secunda ratio hec est: illud per quod differt animatum ab innanimato in rebus animatis est
+    uita, quia per uitam differt animatum ab inanimato. Set per motum augmenti et nutrimenti, qui
+    motus est ab anima et non a formis naturalibus, sicut uult Aristoteles, differt animatum ab
+    inanimato. Ergo nutrire et augere sunt differentie uite. </p>
+        <p xml:id="da-236-ed1e16490-d1e16504">Tercia ratio hec est: per illud per quod est res conseruatur in esse, unde idem est causa
+    uite et conseruationis uite. Set animalia per animam et per actus eius conseruantur. Ergo
+    animalia per actus anime uiuunt et habent esse. Per illos ergo actus anime per quos
+    conseruantur <seg>uiuentia</seg> sunt actus uiuendi in uiuentibus secundum augmentum et
+    nutrimentum sunt actus anime per quos conseruantur uiuentia. Ergo augere et nutrire sunt actus
+    uiuendi, ergo sunt differentie uite. </p>
+        <p xml:id="da-236-ed1e16490-d1e16511">Quarta ratio hec est: uiuere est perfici ab actu anime. Set actus anime sunt
+    mul<hi>|</hi>tiplices, inter quos comnumerantur augere et nutrire, ergo corpora actus istos
+    participantia per actus illos in genere illo uiuunt. Ergo augere et nutrire sunt differentie
+    uite. </p>
+        <p xml:id="da-236-ed1e16490-d1e16517">Ad oppositum: nutrire et augere sunt motus et operationes et sic sunt actus secundi. Vita
+    uero est actus primus, ergo augere et nutrire non sunt differentie uite. </p>
+        <p xml:id="da-236-ed1e16490-d1e16520">Secunda ratio hec est: uiuere est actus continuus sine <seg>intercisione.</seg> Set nutrire
+    et augere sunt actus <seg>intercissi,</seg> ergo augere et nutrire non sunt differentie uite.
+    Non enim semper <seg>nutrimur</seg> nec sempre <seg>augemur,</seg> quia non sempre accipimus
+    alimentum. </p>
+        <p xml:id="da-236-ed1e16490-d1e16535">
+          <seg>Solutio:</seg> Ad hoc dicendum est quod nutrire et augere sunt differentie uite. Corpus
+    enim dupliciter consideratur aut in quantum habet esse quod in ipso est uiuere, et hoc modo
+    actus resultans ex unione anime cum corpore in ipso est uita. Alio modo consideratur corpus
+    prout comparatur ad animam quantum ad operationes per quas conseruatur corpus in esse, que
+    sunt nutrimentum et augmentum. Et quia per illas operationes anima uiuificat corpus et
+    conseruat, ideo nutrire et augere dicuntur differentie uite. Tamen uita non dicitur de hiis et
+    de predictis nomine eodem, set nomine analogo. </p>
+        <p xml:id="da-236-ed1e16490-d1e16540">Ad primam rationem in contrarium dicendum quod augmentum et nutrimentum non sunt uita primo
+    modo dicta, sicut patet in solutione istius questionis, set sunt uita que est actus secundo
+    modo dictus, unde sunt uita corporis in quantum est augmentabile et nutribile. </p>
+        <p xml:id="da-236-ed1e16490-d1e16543">Ad secundam rationem dicendum est quod duplex est nutrimentum, scilicet interius et exterius.
+    Loquendo de nutrimento interiori semper nutriuntur animalia et uiuentia, non autem secundo
+    modo, quia non semper recipiunt cibum uel alimentum. Augmentum uero cessat non propter naturam
+    illam qua est uita, set cessat propter finem nature, scilicet propter complemementum etatis.
+    Et sic augmentum potest dici uita, cum non sit intercisum, dum debet esse in corpore, scilicet
+    usque ad completionem corporis et etatis. </p>
+        <p xml:id="da-236-ed1e16490-d1e16547">Questio uero illa qua querit quibus corporibus debetur uita determinanda est post, et propter
+    hoc ad presens dimittatur. Alie autem questiones que remanent inferius in suis locis
+    determinabuntur. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

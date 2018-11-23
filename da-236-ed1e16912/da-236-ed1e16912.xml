@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e16912" >
+        <head>Quaestio 1</head>
+        <head type="question-title">Utrum anima uegetabilis et 
+    sensibilis et intellectiua in homine sint una substantia uel differant secundum substantias</head>
+        <p xml:id="da-236-ed1e16912-d1e16920">
+          <hi>[lec6 q1] Circa primam questionem sic proceditur et queritur utrum anima uegetabilis et
+      sensibilis et intellectiua in homine sint una substantia uel differant secundum substantias.
+      Et ostenditur quod differant secundum substantias, <seg>quia</seg> sicut uult Auicenna, si
+       <seg>quis</seg> homo esset subito creatus <seg>uel</seg> factus et non cognosceret corpus
+      suum nec manum suam nec pedem, si aliquis quereret ab eo interrogatione spirituali, utrum
+      ipse <seg>esset</seg> responderet responsione <seg>spirituali,</seg> et diceret quod ego
+      sum, et si interrogaretur es tu tua manus uel tuum corpus uel tuus sensus uel tua uita
+      statim diceret quod nichil sciret de talibus, immo omnia talia ignoraret <seg>ut</seg>
+      nichil esset <seg>illorum.</seg> Virtus autem que hoc diceret in eo est anima intellectiua,
+      ergo anima intellectiua non habet aspectum de sui natura ad corpus nec ad sensum nec ad
+      uitam datam per animam uegetabilem, immo hec omnia ignorat. Hoc autem non esset nisi ab
+      illis <seg>diff</seg>
+          </hi>
+          <hi>err</hi>
+          <hi>et per essentiam, ergo anima intellectiua differt ab <seg>illis</seg> duabus
+       <seg>animalibus</seg> per essentiam. Non sunt ergo <seg>eedem</seg> secundum substantiam.
+      Hec autem ratio prima probat quod anima intellectiua secundum substantiam differt ab aliis,
+      et secunda ratio probabit quod alie due similiter differunt ad inuicem secundum
+      substantiam.</hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e16965">
+          <hi>|</hi>
+          <hi>|</hi>
+          <hi> Secunda ratio hec est: sicut ponit Aristoteles, anima uegetabilis et sensibilis sunt
+      disponentes ad receptionem anime intellectiue que est ultima forma completiua hominis. Omnes
+      autem dispositiones differunt per essentiam ab ultima forma ad quam disponunt, ergo anima
+      uegetabilis et sensibilis differunt per essentiam ab anima intellectiua. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e16977">
+          <hi>Tercia ratio hec est: sicut dicit commentator supra undecimum </hi>
+          <seg>
+            <hi>Methapysice</hi>
+            <hi>,</hi>
+          </seg>
+          <hi> triplex fuit opinio circa exitum formarum. Quidam <seg>enim</seg> posuerunt latitationem
+      formarum in materia et <seg>quod</seg> agens non dat formam set quod latet in materia
+      detegit. Alii posuerunt <seg>formas</seg> extrinseco datas. Alii posuerunt medio modo, sicut
+      Aristoteles ponens quod nec omnino exierunt forme a materia, nec omnino ab agente. Agens
+      enim transmutans materiam illud quod est in materia ducit ad effectum, anima uero
+      uegetabilis et sensibilis producuntur per operationes nature ex materia, sicut dicit
+      Aristoteles in libro </hi>
+          <hi>De <seg>animalibus</seg>
+          </hi>
+          <hi>, ergo educuntur de potencia materie ad actum per transmutationem materie. Set omnes tales
+      extrahuntur <seg>forme</seg>
+            <seg>a</seg> principiis materie per transmutationem ipsius, ergo anima uegetabilis et
+      sensibilis exierunt sic in esse ut in semine sit anima uegetabilis et <seg>sensibilis</seg>
+      potencia et per uirtutem agentem et per calorem <seg>naturalem</seg>
+            <seg>ducitur</seg> ducitur ad actum. Anima uero intellectiua omnino est ab extrinseco, ergo
+      anima intellectiua omnino differt ab illis per substantiam et non est eadem cum illis per
+      substantiam. Hoc autem confirmatur hoc modo per Aristotelem dicentem quod anima uegetabilis
+      et sensibilis sunt in embrione et intellectus ab extrinseco solum et diuinitus est datus.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17028">
+          <hi>Quarta ratio hec est: omnis substantia que nullius partis corporis est actus et que est
+      incorruptibilis et separabilis ab aliis sicut perpetuum a corruptibili substantia et uirtute
+      differt ab aliis substantiis habentibus oppositas conditiones. Set anima intellectiua habet
+      istas conditiones. Alie autem anime sicut anima uegetabilis et sensibilis omnino carent
+      istis conditionibus, ergo anima intellectiua secundum <seg>substantiam</seg> differt ab
+      aliis in eodem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17037">
+          <hi>Quinta ratio hec est: sicut dictum est superius, anima dat <seg>duo</seg> corpori. Dat
+      enim esse corpori et hoc per unionem sue substantie. Item dat operationem corpori et hoc per
+      unionem suarum potentiarum. Set anima uegetabilis et sensibilis per sui existentiam in
+      qualibet parte per <seg>indifferentiam</seg> dant esse et denominationem toti et partibus ab
+      actu primo totius, sicut diximus. Potentie uero ipsarum ad diuersas partes corporis
+      coartantur. Anima uero intellectiua non est in aliqua parte corporis per substantiam
+       <seg>et</seg> ita in toto quod non in aliqua parte nec denominat aliquam <seg>partem</seg>
+      quantum ad esse cum in nulla sit per substantiam nec quantum ad operationem cum in nulla sit
+      per potenciam. Ergo anima intellectiua per substantia differt ab anima uegetabili et
+      sensibili in eodem. Hec autem ratio dependet ab eis que diximus superius et per ea que
+      diximus superius ueri</hi>
+          <hi>|</hi>
+          <hi>ficatur.</hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17061">
+          <seg>
+            <hi>Sexta</hi>
+          </seg>
+          <hi> ratio hec est, sicut dicit Auicenna, anima intellectiua est unita corpori non sicut forma
+      materie, nec habet impressionem aliquam in corpore nec essentia nec uirtute.
+       <seg>Anima</seg> autem uegetabilis et sensibilis sunt unite corpori sicut forma materie et
+       <seg>habent</seg> impressionem in materia. Ergo anima intellectiua differt ab illis in
+      homine per substantiam, quia hec omnia tenent in eodem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17079">
+          <hi>Septima ratio hec est: potencie sunt in genere substantie et maxime in anima, unde
+      secundum auctoritatem multorum anima non differt a suis potenciis, set potencie anima
+      intellectiue omnino sunt alterius nature a potenciis anime uegetabilis et sensibilis. Ergo
+      anima intellectiua differt per substantiam ab aliis differentis anime, cum potentie
+      sequantur naturam substantie cuius sunt. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17085">
+          <hi>Octaua ratio hec est: substantiarum quedam in se <seg>ipsa</seg> et in suis potenciis et
+      operationibus coartatur ad aliquid in genere uel in specie, ut anima uegetabilis et
+      sensibilis. Anima enim uegetabilis coartatur ad nutrimentum, generationem et augmentum.
+      Sensibilis <seg>autem</seg> coartatur ab obiecta. Intellectiua autem non coartatur ab
+      obiecta, unde quidditas quam apprehendit anima intellectiua communis est omnibus rebus, quia
+      quidditates et essentias omnium rerum cognoscit. Causa uero huiusmodi, coartationis est
+      applicatio maior et minor in substantia et uirtute ad materiam et in opere. Vegetabilis
+       <seg>enim</seg> et sensibilis omnino habent sicut in corpore. Intellectiua autem ad nichil
+      coartatur nec ad partem corporis nec ad aliquid quantum est de <seg>sui</seg> substantia et
+      uirtute et operatione, et hoc in eodem <seg>etiam</seg> sicut in homine, ergo in eodem </hi>
+          <hi>|</hi>
+          <hi> differt anima intellectiua ab anima uegetabili et sensibili per substantiam et
+       <seg>non</seg> solum per potentias. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17115">
+          <hi>Nona ratio hec est: duplex est status anime intellectiue: unus per quem regit corpus;
+      alius autem est sibi proprius per quem in se operatur contemplando superiora, et utrumque
+      statum habet anima intellectiua in corpore, non tamen utrumque habet per aspectum ad corpus
+      set quanto plus debilitatur substantia corporis et anima uegetabilis et sensibilis tanto
+      plus debilitatur anima intellectiua quantum ad illum statum per quem habet respectum ad
+      corpus regendo ipsum qui status non est sibi proprius et debilitatur in suis potenciis
+      inferioribus per quas uirtutibus sensibilibus et uegetabilibus applicatur quanto ante plus
+      debilitatur corpus tanto plus fortificatur anima intellectiua in suo proprio statu, quia
+      tunc anima intellectiua liberior est a uirtutibus inferioribus et a statu corporali, et iste
+      status est proprius sue essentie <seg>alius</seg> suis potenciis inferioribus. Set quecumque
+      ita se habent <seg>quod</seg> unum differt ab altero secundum substantiam et non solum
+      secundum potenciam, quia, si essent idem per substantiam, tunc </hi>
+          <hi>|</hi>
+          <hi> ad fortificationem status unius fortificaretur status alterius, ergo cum hoc esset prout
+       <seg>ille</seg> anime sunt in eodem patet quod anima intellectiua differt ab
+       <seg>illis</seg> secundum substantiam et non solum secundum potentias. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17140">
+          <hi>Ad oppositum: sicut dicit <seg>Auicenna,</seg> una uirtus anime retrahit aliam et impedit
+      in sua operatione, ut quando <seg>aliquis</seg> homo bene studet et fortiter non audit bene
+      nec uidet. Hoc autem non potest esse nisi reducantur uirtutes anime ad unam substantiam que
+      cum intendit uni non intendit alii, ergo si uirtus intelligendi operans <seg>impedit</seg>
+      operationem uirtutis sensitiue et etiam uirtutis uegetabilis, quia tunc quando homo studet
+      et intelligit non bene nutritur nec bene digeritur cibus. Ergo uirtus uegetabilis et
+      sensibilis et intellectiua habent <seg>colligationem</seg> in una substantia, ergo non
+      differunt per substantiam set solum per potencias. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17158">
+          <hi>Secunda ratio hec est: omnia que differunt aliquod unum constituentia ad unitatem
+      reducuntur cum <seg>igitur</seg> potencie anima sint diuerse prout constituunt unum necesse
+      est quod ad unitatem reducantur quid est ergo illud, si dicatur quod hoc <seg>est</seg>
+      corpus, hoc non est uerum, <seg>quia</seg> corpus non unit differentias anime, et ita in
+      homine differentie anime reducuntur ad unitatem substantie, ergo non differunt per
+      substantiam set solum per potencias.</hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17173">
+          <hi>Tercia ratio hec est: homo generat hominem et animal generat animal et planta plantam,
+      ergo ab eo a quo homo est homo uel <seg>per</seg> reductionem ad illud a quo homo est homo
+      generat <seg>homo</seg> hominem, quia si per aliud non generaret homo hominem set brutum, et
+       <seg>similiter</seg> de bruto generando brutum et de planta generando plantam. Set homo
+      est homo per differentiam anime intellectiue et brutum per sensibilem et uegetabile per
+      uegetabilem. Ergo per reductionem aliarum differentiarum anime ad intellectiuam generat homo
+      hominem, et similiter per reductionem aliarum <seg>uirtutum</seg> ad animam sensitiuam
+      generat brutum brutum. Ergo in homine uniuntur iste differentie anime in aliquo principio
+      uno a quo fit unitas in generatione hominis et similitudo generantis ad generatum. Hoc autem
+      non est nisi substantia anime differens istas potencias et ordinans, ergo necesse est ponere
+      substantiam anime esse unam in homine que istas potencias <seg>et</seg> differat et ordinet.
+       <seg>Habent</seg> ergo unitatem substantie et reductionem ad unitatem substantie. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17198">
+          <hi>Quarta ratio hec est: sicut habetur in libro </hi>
+          <hi>Ethicorum</hi>
+          <hi>, sicut se habet concauum et conuexum in circumferentia ita se habent ille tres
+      differentie in anima. Set concauum et conuexum sunt idem in substantia, differentia solum
+      secundum esse et rationem, ergo tres differentie anime in homine sunt heedem in substantia
+      differentes solum secundum rationem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17210">
+          <hi>Quinta ratio hec est: sicut est ordo in diffinitionibus ita est <seg>ordo</seg> in formis
+      in quibus fundantur differentie que sunt </hi>
+          <hi>|</hi>
+          <hi> principia illarum diffinitionum. Set in diffinitione ex omnibus partibus resultat una
+      essentia ut ex priori quod est potencia ad posterius quodlibet et ex posteriori fit una
+      substantia sicut <seg>ex</seg> triangulo, prout est in quadrangulo et ex quadrangulo fit una
+      substantia, cum unum <seg>sit</seg> sicut prius et posterius alterum. Ergo ex istis
+      differentiis anime prout sic ordinantur, scilicet in homine fit una substantia, ergo non
+      differunt per substantiam set solum per <seg>potencias.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17234">
+          <hi>Sexta ratio hec est: si different in substantia tunc esset ipsarum <seg>cognitio</seg> in
+      corpore et constitutio ipsarum in corpore per aggretationem, ergo esset homo quoddam
+      aggregatum ex pluribus principiis non unitis <seg>in</seg> unitate substantie, quod est
+      inconueniens, quia sicut <seg>homo</seg> est unus <seg>ita</seg> oportet quod illa principia
+      in ipso unum constituant, </hi>
+          <hi>|</hi>
+          <hi> igitur necesse est ponere illas tres <seg>differentias</seg> esse unum secundum
+      substantiam, differentes autem solum per potencias. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17262">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum est quod multiplex est intensio circa istam questionem. Prima est quam
+      ponunt quidam quod iste tres differentie anime sunt una substantia in homine et hec
+      substantia est in homine a qua egrediuntur ille <seg>tres</seg> potencie et in quibus
+      differunt, quia solum, ut dicunt, differunt in potenciis et conueniunt in substantia. Alii
+      ponunt quod iste tres differentie anime in homine differunt secundum substantias et secundum
+      suas potencias. Que autem istarum opinionum uidetur esse <seg>eligantior</seg> eligatur
+      precipue, et nos in principio sustinemus primam opinionem <seg>gratia</seg> disputationis,
+      uia <seg>uero</seg> Aristoteles et aliorum philosophorum uidetur ostendere <seg>illas</seg>
+      differentias anime differre secundum substantiam et non solum secundum potencias, et ideo
+      illam uiam sustinemus et ponimus quod ille tres differentie anime in substantiis et
+      potenciis differunt in <seg>eisdem</seg> et in diuersis. Questio autem ista querit de
+      diuersitate intellectiue ad alias duas et dicimus quod differt ab illis secundum substantiam
+      et secundum potencias in eodem et in diuersis. Quam autem opinionem <seg>discernimus</seg>
+      magis eligendam <seg>uolumus</seg> diiudicare.</hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17299">
+          <hi>Ad primam rationem in contrarium dicendum quod retractio in uirtutibus anime est duplex:
+      una est secundum quam una uirtus retrahit aliam per reductionem quam habent ad unum primum
+      in quo sunt idem in substantia et in cuius substantia radicantur, et hoc modo uirtutes
+      eiusdem differentie anime retrahunt se, sicut uirtutes sensibiles, scilicet propter
+      colligationem quam habent in uno principio quod est substantia anime. Alia est retractio in
+      illis propter ordinationem earum et non propter unionem earum in una substantia, et hoc modo
+      tres differentie anime in homine se retrahunt non quia habeant idemptitatem in substantia
+      set quia ordinate sunt ad intellectiuam ut secundum <seg>intellectiuam</seg> siue secundum
+      exigentiam <seg>illius</seg>
+            <seg>operentur,</seg> et quando contra exigentiam ipsius <seg>intellectiue</seg> operatur
+      tunc operationes ipsius intellectiue deprauantur et retrahuntur, unde <seg>quando</seg> homo
+      multum intendit ad cibandum se uel ad uidendum aliquid uel audiendum </hi>
+          <hi>|</hi>
+          <hi> non potest bene studere et quando bene studet oportet quod cessent alie operationes.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17326">
+          <hi>Ad secundam <seg>rationem</seg> dicendum est quod unitas in differentis anime est triplex:
+      quedam est unitas earum in subiecto et hanc habent a corpore et hec est unitas materialis
+      uel etiam hanc habent a composito in quo sunt. Est alia unitas ipsarum que est in substantia
+      anime et hanc unitatem non habent differentie anime in homine set solum uirtutes que sunt
+      eiusdem <seg>diffinitione</seg> habent hanc <seg>unitatem</seg> sicut uirtutes sensibiles
+      inter se habent hanc unitatem in sensibili. non autem differentie anime. Est tercia unitas
+      que est in corpore et hanc habent inuicem differentie anime prout sunt in eodem sicut in
+      homine et ordo tenet eas et unit eas secundum quem ordinem in corpore nate sunt se habere,
+      unde sicut in maiori mundo ordo tenet et conseruat res et formas rerum similiter ordo tenet
+      et conseruat istas differentias anime in corpore. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17341">
+          <hi>Ad terciam <seg>rationem</seg> dicendum <seg>est</seg> quod homo generat hominem
+       <seg>et</seg>
+            <seg>animal</seg> generat animal. Set in homine est principium generationis duplex: unum
+      quod inmediate operatur ad operationem et hec est anima <seg>uegetabilis.</seg> Aliud est
+      quod est regulans et secundum cuius exigentiam et regulationem anima uegetabilis operatur ad
+      generationem et hec principium regulans est anima intellectiua in homine et anima sensibilis
+      in bruto secundum quarum exigentiam <seg>tota</seg> generatio fit in istis, quia illud quod
+      agit dispositio prior agit propter complementum ultimum et regulatur ab eo. Et ideo quod
+      homo generet hominem hoc non est propter unitatem ipsarum differentiarum anime in substantia
+      set quia operantur secundum rationem et exigentiam anime intellectiue, et ita anima
+      intellectiua differt ab illis in substantia et potencia. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17366">
+          <hi>Ad <seg>quartum</seg> dicendum <seg>est</seg> quod concauum et conuexum differunt secundum
+      substantiam et rationem in circumferentia et sunt idem solum in subiecto et similiter
+      differentie anime in homine differunt secundum substantiam <seg>et</seg> sunt idem in
+      subiecto, et ita intellectiua differt ab illis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17381">
+          <hi>Ad quintam <seg>rationem</seg> dicendum <seg>est</seg> quod sicut ex differentiis resultat
+      unum secundum ordinem non tamen differentie una essentia <seg>sunt,</seg> set una differt ab
+      alia secundum essentiam <seg>et</seg> rationem similiter in existentia naturali in eodem
+      naturaliter differunt tres differentie anime secundum substantiam et ex illis resultat
+      tercium secundum ordinem quod est complementum et differentie illarum, scilicet uegetabilis
+      et sensibilis sunt, sicut dispositiones, intellectiua autem <seg>sicut</seg> complementum.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e16912-d1e17403">
+          <hi>Ad sextam rationem dicendum <seg>est</seg> quod non est inconueniens hominem cum sit
+       <seg>compositum</seg> ex multis principiis constitutum habere in se
+       <seg>aggregationem</seg> diuersarum substantiarum habentium ordinem ad inuicem, sicut
+       <seg>etiam</seg> patet in membris eius </hi>
+          <hi>|</hi>
+          <hi> a parte corporis et in elementis et in omnibus principiis eius. </hi>
+          <hi>|</hi>
+          <hi> Ymaginatio autem secundum quam est unio illarum substantiarum <seg>trium</seg> est per
+      similitudinem in diuersis luminibus <seg>que</seg> ad inuicem <seg>coniunguntur</seg> que,
+       <seg>licet</seg> essentia <seg>differant,</seg> non tamen faciunt maiorem aceruum secundum
+      quantitatem set <seg>solum</seg> maiorem intensionem claritatis, similiter est de illis
+      tribus substantiis in corpore hominis, cum sint spirituales secundum magis et minus non
+       <seg>faciente</seg> maiorem aceruum in corpore secundum quantitatem. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

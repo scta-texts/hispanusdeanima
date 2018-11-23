@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e13552" >
+        <head>Quaestio 6</head>
+        <head type="question-title">Utrum anima
+    uegetabilis et sensibilis perficiant corpus 
+    per suas substantias aut per suas potentias
+   </head>
+        <p xml:id="da-236-ed1e13552-d1e13560">[lec3 q6] Circa sextam <seg>questionem</seg> sic proceditur et queritur utrum anima
+    uegetabilis et sensibilis perficiant corpus per suas substantias aut per suas potentias. Et
+    ostenditur <seg>quod</seg> per suas substantias et per sui existentiam in partibus corporis
+    perficiant partes corporis, forma est principium actus primi et secundi. Per eius autem
+    unionem per essentiam est forma principium actus primi. Per sui autem potentiam est principium
+    actus secundi, qui est operatio que egreditur a potentiis. Set anima uegetabilis et sensibilis
+    sunt principium actus primi et <seg>hunc</seg>
+          <seg>dant</seg> corpori et cuilibet parti corporis, ergo unionem habent per <seg>suas</seg>
+    essentias cum partibus corporis. Iterum dant partibus actum secundum, ergo uniuntur cum illis
+    per potentias et in <seg>dando</seg> primum actum perficiunt partes quantum <seg>ad</seg>
+    operationem, ergo anima uegetabilis et sensibilis perficiunt partes corporis quantum ad suas
+    potentias et substantias, scilicet per unionem suarum substantiarum cum partibus et
+    potentiarum suarum. </p>
+        <p xml:id="da-236-ed1e13552-d1e13585">Secunda ratio hec <seg>est:</seg> anima dat uitam et operationem. In quantum autem dat uitam
+    respondet ei a parte corporis equalitas complexionis et distantia a <seg>contrarietate.</seg>
+    In quantum est autem principium diuersarum operationum ei respondet difformitas partium a
+    parte corporis, ergo equalitas potentiarum respondet toti substantie <seg>anima.</seg>
+    Diuersitas uero partium corporis diuersitati potentiarum, ergo necesse est quod si anima dat
+    uitam cuilibet parti, ut det ei uitam que est esse in uiuentibus <seg>et</seg> per unionem
+    potentiarum diuersis <seg>partibus,</seg> det operationem. Et sicut complexio est prius quam
+    diuersitas partium sic ista unio est prior illa, ergo anima per unionem sue essentie et
+    potentiarum perficit singulas partes corporis. Et hec ratio confirmatur <seg>sit:</seg>
+          <seg>sicut</seg> uult Auerrois, multa animalia sunt in quibus est actus primus sine secundo,
+    sicut animalia concilia que nullo modo operantur set solum modo uiuunt. Ergo cum mediante
+    substantia anima <seg>det</seg> esse mediante potentia <seg>dat</seg> operationem in eis
+    existentia essentie anime et in partibus suis et in toto corpore, quamuis non sit in eis
+    quantum ad operationem suarum potentiarum que dicuntur actus primi. Anima ergo dat esse
+    quantum ad unionem sue essentie partibus corporis. </p>
+        <p xml:id="da-236-ed1e13552-d1e13616">Ad oppositum: sicut dicit <seg>Aristoteles</seg> in secundo, sicut se habet, tota anima ad
+    totum corpus <hi>|</hi>
+          <seg>ita</seg> se habent partes anime ad partes corporis. Dicit enim quod tota anima est
+    perfectio corporis et partes anime sunt perfectiones <seg>partium</seg> corporis, unde dicit
+    quod uisus est perfectio oculi et auditus est perfectio auris. Hee autem partes anime sunt
+    potentie, ergo anima cum det esse partibus corporis per suas partes patet quod anima
+      <seg>per</seg> unionem suarum potentiarum dat <seg>esse</seg> partibus corporis et non per
+    suam essentiam. </p>
+        <p xml:id="da-236-ed1e13552-d1e13639">Secunda ratio hec <hi>|</hi> est: corpus animatum <seg>est</seg> organicum diuerse rationis
+    in partibus et in toto, ergo ei respondent diuerse perfectiones particulares, cum ergo partes
+    corporis sint diuerse habent diuersas perfectiones particulares, ergo anima perficit partes
+    corporis a parte illa qua est diuersitas in <seg>ipsa,</seg> set ratione suarum partium est
+    diuersitas in ipsa et non ratione sue substantie, ergo perficit totum corpus ratione sue
+      <seg>substantie</seg> et partes corporis ratione suarum potentiarum. <seg>Hoc</seg> autem
+    declaratur, quia, sicut diximus superius, anima quantum ad diuersas suas potentias recipit
+    diuersitatem partium corporis et ideo propter diuersitatem potentiarum anime sunt diuersitates
+    partium corporis. Ergo necesse est potentias anime perficere partes corporis et ita anima per
+    suam substantiam non perficit illas.</p>
+        <p xml:id="da-236-ed1e13552-d1e13657">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod anima uegetabilis et sensibilis dant
+    esse singulis partibus corporis et perficiunt eas quantum ad actum primum per unionem sue
+    substantie et non solum per unionem suarum potentiarum, unde in anima sunt duo, scilicet
+    substantia anime <seg>et</seg> potentie et per eius unionem quantum ad substantiam perficit
+    anima partes corporis quantum ad esse et ad actum primum. Per <seg>suas</seg> autem potentias
+    perficit corporis <seg>partes</seg> quantum ad suas operationes diuersas et quantum ad
+    substantiam non coartatur anima, <seg>immo</seg> per indifferentiam est in qualibet parte
+    corporis, quantum uero ad potentias diuersas diuersis partibus coartatur. </p>
+        <p xml:id="da-236-ed1e13552-d1e13677">Ad primam rationem in contrarium dicendum <seg>est</seg> quod duobus modis comparatur anima
+    ad corpus: uno modo, sicut perfectio, et sic est in unaquaque parte corporis per
+      <seg>suam</seg> substantiam. Alio modo comparatur ad ipsum et ad partes <seg>suis</seg>
+    tanquam ad <seg>ea</seg> per que operatur et hoc modo per diuersas suas potentias diuersas
+    exercet operationes. Quantum <seg>ergo</seg> ad potentias intelligit Aristoteles quod sicut
+    tota anima <seg>comparatur</seg>
+          <seg>ad</seg> totum corpus, ita potentie perficiunt quamlibet partem quantum ad operationem,
+    unde oculus perficitur a potentia anime quantum ad hoc quod uidet. Perficitur autem a
+    substantia anime quantum ad hoc <seg>quod</seg> est animatum uiuens. Et sic anima uegetabilis
+    et sensibilis perficiunt partes corporis per unionem suarum substantiarum et non per
+      <seg>unionem</seg> suarum potentiarum solum modo. </p>
+        <p xml:id="da-236-ed1e13552-d1e13708">Ad secundam <seg>rationem</seg> dicendum est quod in partibus corporis est duplex actus,
+    scilicet primus, et hic egreditur ab anima per unionem sue substantie cum partibus corporis,
+    et est secundus actus in partibus corporis et hic egreditur ab animam per unionem suarum
+    potentiarum cum partibus corporis. Diuersitas ergo partium corporis non respondet anime
+    quantum ad actum primum set quantum ad actum secundum. Oculus enim participat actum primum,
+    scilicet uitam, et quantum ad hoc non respondet ei potentia uisiua set substantia anime in qua
+    communicat cum omnibus aliis membris. Et quantum ad substantiam non <seg>requiritur</seg>
+          <seg>diuersitas</seg> partium in illo. Similiter quantum ad potentias suas perficit diuersitas
+    partes quantum ad actum secundum, et primo modo communicat partes corporis, scilicet in
+    substantia anime. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

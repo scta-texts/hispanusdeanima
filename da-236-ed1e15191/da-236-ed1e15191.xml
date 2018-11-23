@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 8</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 8</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e15191" >
+        <head>Quaestio 8</head>
+        <head type="question-title">Secundum quem modum anima de corpore demonstratur.</head>
+        <p xml:id="da-236-ed1e15191-d1e15199">[lec4 q8] Circa <seg>octauam</seg> questionem sic proceditur et queritur secundum quem modum
+    anima de corpore <seg>demonstratur.</seg> Et ostenditur quod per operationes: operationes enim
+    manifestant existentiam anime in corpore, set per illud debet anima <seg>demonstrari</seg>
+    quod manifestat existentiam <seg>eius</seg> in corpore. Ergo anima demonstratur de corpore per
+    operationes. </p>
+        <p xml:id="da-236-ed1e15191-d1e15214">Secunda ratio hec est: anima est principium corporis <seg>et</seg> dispositionum eius. Ergo
+    si fiat aliqua cognitio de ipsa, fiet per priora ipsa que manifesta sunt quo ad nos,
+    posteriora uero naturaliter. Huiusmodi autem sunt operationes eius, ergo per operationes
+      <seg>eius</seg> de corpore demonstratur. </p>
+        <p xml:id="da-236-ed1e15191-d1e15223">Ad oppositum: omnis demonstratio <seg>debet</seg> esse per priora naturaliter. Operationes
+    sunt posteriores naturaliter substantia a qua egrediuntur. Ergo anima per suas operationes non
+    potest de corpore <seg>demonstrari.</seg>
+        </p>
+        <p xml:id="da-236-ed1e15191-d1e15233">Secunda ratio hec est: anima comparatur ad corpus sicut materia ad <seg>formam.</seg> Set
+    subiecta materia <hi>|</hi> cum forma causa est omnium accidentium. Item anima prius est
+    principium actus primi in corpore quam operationis, ergo existentia eius in corpore non potest
+    demonstrari per operationes, immo etiam potius per actum primum.</p>
+        <p xml:id="da-236-ed1e15191-d1e15242">
+          <seg>Solutio:</seg> Ad hoc dicendum <seg>est</seg> quod anima demonstratur de corpore per
+    uiam duplicem: una uia est a parte dispositionum corporis. Hee autem sunt dispositiones
+    partium corporis per quas totum corpus est habile ad animam, sicut est equalitas complexionis,
+    organizatio partium secundum quod competit subiecto in sua specie a <seg>parte</seg> ipsius
+    anime sunt operationes quas <seg>ipsa</seg> exercet in <seg>corpore</seg> et actus primi per
+    quos manifestatur sua existentia in corpore et <seg>determinatur,</seg> per quos uidetur
+    distinctio rei participantis animam a re <seg>non</seg> participante animam. Et sic per
+    dispositiones a parte corporis demonstratur de corpore et per operationes et actus a parte sui
+      <seg>quos</seg> in corpore exercet. </p>
+        <p xml:id="da-236-ed1e15191-d1e15269">Ad primam rationem in contrarium dicendum <seg>est</seg> quod prius est dupliciter: uno modo
+    in uia cognitionis, alio modo in uia nature; secundo modo sunt operationes posteriores ipsa
+    anima. Primo autem modo sunt priores, scilicet in uia cognitionis et sic per illas potest
+    anima de corpore demonstrari, et hec demonstratio est demonstratio per effectum, que
+    demonstratio per effectum necesaria in rebus prioribus occultis spiritualibus ad quas aliter
+    intellectus humanus non potest attingere, <seg>et</seg> per hoc soluitur secunda ratio. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

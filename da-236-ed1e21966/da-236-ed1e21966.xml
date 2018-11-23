@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e21966" >
+        <head>Quaestio 3</head>
+        <p xml:id="da-236-ed1e21966-d1e21971">
+          <hi>[lec9 q3] Circa terciam questionem sic proceditur et queritur quo modo uirtus
+       <seg>differt</seg> uitalis <seg>qui</seg> reducitur ad animam uegetabilem ab illa que
+      radicatur in corde, quia uirtus uitalis <seg>est</seg> que est ab anima uegetabili est in
+      omni uirtute <seg>uiuente,</seg> sicut et anima uegetabilis. Virtus autem uitalis que
+      radicatur in corde solum est in animalibus, ergo hec uirtus fundatur in anima sensibili et
+       <seg>illa</seg> in uegetabili, ergo differunt iste <seg>uirtutes</seg> uitales. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21966-d1e21996">
+          <hi>Ad oppositum: ponit Aristoteles radicem et primum principium uite esse animam uegetabilem,
+      ergo omnis uirtus uitalis ad animam uegetabilem reducitur, ergo non differt illa que
+      radicatur in anima uegetabili ab illa que in corde radicatur, quia illa etiam que in corde
+      radicatur ad animam uegetabilem reducitur et non differt ab <seg>alia</seg>
+            <seg>uirtus</seg> uitalis radicatur in anima uegetabili. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21966-d1e22008">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi>
+            <seg>Ad</seg> hoc dicendum <seg>est</seg> quod duplex est uirtus uitalis, quedam est
+       <seg>unibilis</seg> que conuenit cuilibet differentie anime et hec predicatur de omnibus
+      uirtutibus uitalibus et non diuiditur ex opposito contra aliquam uirtutem uitalem. Est autem
+      que est propria et <seg>diuersa</seg> contra alias et hec est duplex: una que fundatur in
+      anima uegetabili in qua communicant omnia uiuentia et hec <seg>est</seg> in plantis et in
+      animalibus. Alia autem est que mouet cor et arterias secundum dilatationem et contrictionem
+      et infundit spiritum et calorem naturalem et uitam toti corpori. Et secundum istam
+      diuisionem medicus ponit tres uirtutes, scilicet uirtutem naturalem, et hec fundatur in
+      anima uegetabili et operatur sicut natura in nutriendo, augendo, generando. Alia est que
+      mouet cor et arterias quam <seg>appellant</seg> uitalem uel spiritualem. Terciam enim
+      apellant </hi>
+          <hi>|</hi>
+          <hi> animalem uel sensibilem et una radicatur in anima uegetabili. Alie due in sensibili. Set
+      tercia radicatur in ipsa propter cognitionem, scilicet sensibilis. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

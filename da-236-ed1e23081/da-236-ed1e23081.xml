@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e23081" >
+        <head>Quaestio 1</head>
+        <head type="question-title">Utrum anima
+    uegetabilis sit et a qua necessitate sit utrum a natura</head>
+        <p xml:id="da-236-ed1e23081-d1e23089">
+          <hi>[lec10 q1] Circa primam <seg>ergo</seg> questionem sic proceditur et queritur utrum anima
+      uegetabilis sit et <seg>a</seg> qua necessitate sit utrum <seg>a</seg> natura. Et ostenditur
+      necessitas eius hoc modo: corpora que uitam participant continue dissoluuntur a calore
+      naturali interiori et exteriori. Item non exeunt in esse in completa <seg>quantitate</seg>
+      et <seg>indigent</seg> completa quantitate, igitur ut in suo simili conseruentur, aliter
+      enim deficeret uniuersalitas rerum <seg>cum</seg> necesse est quod corpora que uitam
+      participant habeant uirtutem per quam hec operentur. Hec autem uirtus non est forma
+      corporalis cum non sit ad hoc sufficiens, ergo illa uirtus est aliquid quod est supra res
+      naturales. Hec autem est anima quam uegetabilem dicimus. Eius enim sunt predicte
+      operationes, ergo animam <seg>uegetabilem</seg> in rerum natura necesse est esse. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23081-d1e23117">
+          <hi>Secunda ratio hec est: corpus animatum componitur ex contrariis. Item nutritur ex
+       <seg>composito</seg> ex contrariis, scilicet ex <seg>mixtis.</seg> Item nutrimentum
+      receptum in corpore cuilibet membro exhibetur secundum electionem quam exigit natura
+      cuiuslibet membri. Item sursum et deorsum in rebus sunt opposita, sursum et deorsum in mundo
+      quia radix in planta est sursum, sicut uult </hi>
+          <hi>|</hi>
+          <hi> Aristoteles, rami <seg>uero</seg> deorsum. In mundo autem e contrario sunt, ergo planta
+      uel uiuens quodlibet habet uirtutem consueruantem elementa contraria <seg>ut</seg>
+            <seg>quod</seg>
+            <seg>eleuatur</seg> a composito et tendat <seg>ad</seg> locum suum et que nutrimentum ad
+      singula membra mandet secundum omnem partem et que hoc faciat cum el</hi>
+          <hi>eccio</hi>
+          <hi>ne exhibens cuilibet membro quod sibi proprium est </hi>
+          <hi>|</hi>
+          <hi> et que <seg>faciunt</seg> nutrimentum sursum moueri et deorsum in uiuente. Hec autem non
+      est uirtus corporalis, quia non conseruat nec continet elementa <seg>ullo</seg> modo et
+      signum huius est <seg>quod</seg> recedente illo principio quod facit istas operationes
+      remanet natura corporalis, ergo est supra naturam corporalem que uirtus unita corpori ista
+      corpori ista operatur. Hec autem non est nisi anima quam appellamus uegetabilem, ergo
+      necesse est animam uegetabilem esse et eam esse in corpore. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23081-d1e23172">
+          <hi>Ad oppositum: sicut uolunt multi, plante uiuunt per <seg>uiriditatem,</seg> uirtutem, unde
+      uult Aristoteles quod uiriditas est uis <seg>communissima</seg> in plantis. Set uiriditas
+      non est differentia anime nec uis anime, ergo ad uitam plante non requiritur differentia
+      anime hoc <seg>operante,</seg> ergo ad uitam corporum uiuentium non est necesse ipsam
+      uegetabilem esse. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23081-d1e23188">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod necesse est animam uegetabilem esse que corpori ad
+       <seg>aptetur</seg>
+            <seg>que</seg> ut ipsum conseruet in se et in suo simili in <seg>se</seg> conseruet corpus
+      per nutrimentum ipsum consueruando, restaurando, dissolutum. Et etiam per augmentum ad
+      perfectam quantitatem reducendo. in suo autem <seg>consimili</seg> conseruat ipsum per
+      generationem. Quid autem sit anima uegetabilis patet per diffinitionem Auicenne, anima
+      uegetabilis est que est prima corporis <seg>perfectio</seg> naturalis
+       <seg>instrumentalis</seg> quod generatur et augmentatur et nutritur. Nutrimentum autem est
+      corpus quod solet assimulari nature corporis cuius dicitur esse nutrimentum et restaurat ei
+      quantum <seg>dissolutum</seg> est de <seg>eo</seg> aut plus aut minus. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23081-d1e23228">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod causa nutrimenti est duplex:
+      una est causa et principium nutrimenti sicut instrumentum. Alia sicut regulans
+       <seg>principium</seg> et causa nutrimenti regulans est anima uegetabilis et est illud a
+      quo <seg>exit</seg> operatio supra nutrimentum et ita non <seg>potest</seg> esse principium
+      sufficiens nutriendi calor, set anima uegetabilis. Ob hoc et propter alias operationes
+      necessario attribuitur corpori uiuenti.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

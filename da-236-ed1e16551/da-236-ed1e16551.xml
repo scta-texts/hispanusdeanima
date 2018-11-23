@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e16551" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e16551-d1e16556">
+          <hi>Distinctio tercia de questionibus et actibus circa potencias <seg>anime</seg> et
+      differentias anime. Continuatio intensionis.</hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16565">
+          <hi>Vtrum autem <seg>horum</seg>
+            <seg>unumquodque</seg> anima aut pars <seg>anime</seg>
+          </hi>
+          <hi>, quia in superiori parte fecit philosophus mentionem de operationibus et actionibus anime
+      et de differentiis ipsius a quibus procedunt actus et operationes et in fine dixit quod
+      anima omnium predictarum operationum est <seg>principium</seg> mediante triplici
+      differentia, scilicet uegetabili, sensibili et intellectiua. Questiones autem oriuntur circa
+      diuisionem et </hi>
+          <hi>|</hi>
+          <hi> diuersitatem <seg>et</seg> distinctionem partium anime. Ideo in hac parte questiones
+      illas inquirit et hec pars spectat ad presentem speculationem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16594">
+          <hi>Diuisio. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16600">
+          <hi>Recipit autem hec pars diuisionem in tres partes, in quarum prima mouet questiones circa
+      diuisionem partium anime secundum diuisionem <seg>partium</seg> subiecti. In secunda,
+      scilicet in hac, </hi>
+          <hi>de intellectu autem et perpetua <seg>potentia</seg>
+          </hi>
+          <hi> et cetera, tangit inquisitionem circa distinctionem differentiarum anime secundum quam
+      una, scilicet intellectiua, ab aliis separatur. In tercia, scilicet in hac, </hi>
+          <hi>quod autem in quibusdam quidem animalium omnia insunt hec</hi>
+          <hi> et cetera, tangit separationem earum ad inuicem prout una in quibusdam
+       <seg>uiuentibus</seg> reperitur et due sine tercia et prout omnis in uno reperiuntur.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16627">
+          <hi>Prima autem pars diuiditur in duas in quarum prima mouet questionem quasdam. In secunda,
+      scilicet in hac, </hi>
+          <hi>de quibusdam autem horum non difficile est uidere</hi>
+          <hi> et cetera, prosequitur de quadam questione que querit de diuisione partium anime per
+      partes <seg>corporis</seg> de qua est difficultas. Et sic sunt in presenti lectione
+       <seg>partes</seg> quatuor, quarum uniuersalis intensio manifesta est. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16645">
+          <seg>
+            <hi>Hec</hi>
+          </seg>
+          <hi> est diuisio huius partis.</hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16657">
+          <hi>Sentencia prime partis de questionibus incidentibus circa distictionem uirtutum anime.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16663">
+          <hi>Circa primam partem procedit philosophus hoc modo <seg>dicens:</seg> primo mouet
+      questiones incidentes circa <seg>diuersitatem</seg> partium anime dicens quod dubitatio est
+      utrum predicte differentie anime sint ipsa anima ut dicantur singule earum <seg>anima</seg>
+      an singule solum sint partes anime et hec est prima questio. Secunda est supposito quod sint
+      partes anime utrum singule sint distincte ad inuicem diffinitione solum et non subiecto an
+      diffinitione et etiam subiecto. Et hec questio duas inuoluit, quarum prima est utrum partes
+      anime sint diuerse an non. Secunda est supposito quod sint diuerse utrum differant
+      diffinione solum an diffinitione et <seg>subiecto.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16681">
+          <hi>Sentencia <seg>secunde</seg> partis in qua exequitur quasdam predictarum questionum.
+      Secundo autem ostendit quod in quibusdam anime differentiis hoc est manifestum et in
+      quibusdam est maxime dubitabile. Dicit igitur quod in quibusdam non est difficultas
+      cognoscere differentiam, sicut in intellectiua ad alias differentias cum ab ipsis
+       <seg>separetur</seg> et etiam in animalibus in quibus partes decise non uiuunt. Et hoc
+      tangit cum dicit, </hi>
+          <hi>de quibusdam autem horum</hi>
+          <hi> et cetera, deinde tangit ea in quibus est hoc o</hi>
+          <hi>c</hi>
+          <hi>ultum et dubitabile dicens, </hi>
+          <seg>
+            <hi>quod</hi>
+          </seg>
+          <hi> quedam habent dubitationem</hi>
+          <hi> et cetera, et intendit quod in quibusdam uiuentibus est dubitatio <seg>de</seg>
+            <seg>diuisione</seg>
+            <seg>partium</seg>
+          </hi>
+          <hi>|</hi>
+          <hi> anime. Et diuersitate ipsarum ad inuicem secundum diffinitionem et subiectum, sicut in
+      plantis in quibus quedam partes decise uiuunt et quelibet habet animam. Et hoc est quia
+      anima uidetur existere una actu in una planta quecumque sit et pote</hi>
+          <hi>nc</hi>
+          <hi>ia plures et actu efficitur plures per diuisionem partium ut quot sunt partes actu tot
+      uideantur anime <seg>partes</seg> actu distincte. Post hec autem tangit <seg>hanc</seg>
+      eandem naturam esse in <seg>aliis</seg> uiuentibus sicut in animalibus anulosis dicens quod
+      hoc etiam accidit in aliis differentiis anime, scilicet in sensibili et appetitiua et motiua
+      secundum locum. Animalia enim quedam decisa <seg>uidentur</seg> uiuere, sicut anguille,
+      colubri et similia que similitudinem habent in partibus et in toto. Et ostendit quod in
+      illis est anima sensibilis per quam uiuunt <seg>dicens</seg> quod partes illorum animalium
+      singule habent sensum et motum secundum locum, habent phantasiam et appetitum, et causa
+      huius est, quia in eis <seg>in</seg> quibus est sensus in eis est tristi</hi>
+          <hi>c</hi>
+          <hi>ia et delectatio, et in quibus hec sunt in eis est appetitus, quia appetitus est rei
+      delectabilis, set in illis animalibus est sensus et motus et in partibus decisis, ergo in
+      ipsis et in partibus <seg>decisis</seg> est phantasia et appetitus, <seg>et</seg>
+            <seg>sic</seg> patet </hi>
+          <hi>|</hi>
+          <hi> quod in ipsis sunt omnes uirtutes anime sensibilis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16780">
+          <hi>Sent</hi>
+          <hi>enci</hi>
+          <hi>a tercie partis de separatione differentiaum anime inquirenda secundum quam intellectiua
+      ab aliis separatur. Consequenter agreditur partem illam in qua inquirit distinctionem
+      differentiarum anime <seg>secundum</seg> quam <seg>una,</seg> scilicet intellectiua, ab
+      aliis separatur, et hec est illa que non uidetur habere naturam anime, sicut alie et in qua
+      manifesta est distinctio ab aliis. Dicit igitur quod de intellectiua differentia que est in
+      corporalis <seg>nondum</seg> est manifestum nec de <seg>diuisione</seg> nec de natura ipsius
+       <seg>nec</seg> quo modo comparatur ad corpus et ad alias anime differentias. Set uidetur
+      esse anima alterius generis ab aliis anime <seg>duabus</seg> differentiis, et tangit quo
+      modo est <seg>aliud</seg> genus dicens quod contingit <seg>ipsam</seg> separari ab aliis
+      ipsis <seg>in</seg> corpore pereuntibus sicut perpetuum a corruptibili <seg>separatur</seg>
+      et non solum <seg>hanc</seg> habet separationem immo etiam distinctionem substantie ab
+      ipsis, set alie partes anime non sunt separabiles, sicut quibusdam placet nec distincte
+      secundum substantiam, set sunt alie secundum diffinitionem, et hec diuersitas
+       <seg>conuenit</seg> eis ex parte suorum obiectorum et actuum quod patet. Eo enim quod
+      obiectum separabile est diuersum ab obiecto opinabili, et actus sentiendi est diuersus ab
+      actu opinandi, et quia hec sunt diuersa opinatiua uirtus est diuersa a uirtute sensibili et
+      eodem modo <seg>est</seg> intelligendum <seg>de</seg> diuersitate aliarum uirtutum. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16837">
+          <hi>Sentencia quarte partis de separatione differentiarum anime ad inuicem secundum quod in
+      qui</hi>
+          <hi>|</hi>
+          <hi>busdam uiuentibus omnes et in quibusdam non reperiuntur. Consequenter accedit ad illam
+      partem in qua ostendit separationem differentiarum <seg>anime</seg> ad inuicem eo quod omnes
+      differentie sunt in quibusdam uiuentibus et in quibusdam non, dicens quod in quibusdam
+      uiuentibus sunt omnes differentie anime, sicut in hominibus, et in quibusdam due sicut in
+      brutis et in quibusdam una, sicut in plantis, et hoc facit differentiam in uiuentibus, set
+      huius causa postea determinabitur. <seg>Set</seg> quia hec etiam diuersitas reperitur in
+      uirtutibus anime sensibilis, ideo tangit eam in <seg>ipsis</seg> dicens quod hec eadem
+      differentia <seg>est</seg> in uirtutibus sensibilibus, quia in quibusdam animalibus sunt
+      sensus <seg>omnes</seg> sicut in homine et in animalibus perfectis in quibusdam quidam sicut
+      in talpa que uisu caret et in multis que quibusdam carent sensibilibus et in quibusdam est
+      unus <seg>solus</seg> sensus, scilicet tactus, et hoc <seg>sensu</seg> in animalibus facit
+      differentiam, et sic declaratur intensio huius partis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e16551-d1e16871">
+          <seg>
+            <hi>Circa</hi>
+          </seg>
+          <hi> partem istam quinque <seg>incidunt</seg> questiones. Prima [lec6 q1] est utrum anima
+      uegetabilis, sensibilis et intellectiua secundum quod sunt in homine <seg>sint</seg> una
+      substantia differentes habens potencias an sint tres substantie differentes habentes
+       <seg>etiam</seg> potencias. Secunda [lec6 q2] est utrum uegetabilis et sensibilis in eodem
+      sint una substantia an diuerse intellectiua differente ab <seg>hiis,</seg> sicut quidam
+      dicunt. Tercia [lec6 q3] <seg>est</seg> utrum anima intellectiua sit alicuius partis
+      corporis actus. Quarta [lec6 q4] est utrum sit separabilis a corpore. Quinta [lec6 q5] est
+      utrum <seg>operetur</seg> ad corpus sicut nauta ad nauem. Questiones autem de diuisione et
+      multiplicatione <seg>anime</seg> per diuisionem partium corporis in fine primi
+       <seg>tractatus</seg> sunt <seg>discurse.</seg>
+          </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

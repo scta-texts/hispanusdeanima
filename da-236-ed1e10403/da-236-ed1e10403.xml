@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e10403" >
+        <head>Quaestio 1</head>
+        <p xml:id="da-236-ed1e10403-d1e10408">[lec2 q1] Circa primam questionem decem inquiruntur. </p>
+        <p xml:id="da-236-ed1e10403-d1e10411">[lec2 q1.1] Primum est utrum anima sit perfectio, et ostenditur quod sic: omnis substantia
+    que rei materiali et in potentia existenti confert esse specificum et operationem et
+    conseruationem et per sui recessum infert ei contraria est perfectio. Hec propositio manifesta
+    est de se. Set anima est huiusmodi, <seg>quia</seg> dat esse specificum ipsi corpori, sicut
+    uisum est, ergo anima est perfectio. </p>
+        <p xml:id="da-236-ed1e10403-d1e10417">Ad oppositum: non est eadem comparatio <seg>motoris</seg> ad mobile et forme ad materiam. Set
+    anima comparatur ad corpus, sicut motor ad mobile, cum utatur eo sicut instrumento, ergo non
+    comparatur ad ipsum sicut forma ad <seg>materiam,</seg> quia forma perficit, ergo anima non
+    est perfectio. </p>
+        <p xml:id="da-236-ed1e10403-d1e10426">&lt;Secunda ratio hec est: nulla forma separabilis est a materia, quia omnis forma dependet a
+    materia, set anima separabilis est a corpora ad minus quantum ad animam intelligentiuam. Ergo
+    anima non est <seg>perfectio.&gt;</seg>
+          <seg>Et</seg> ad <seg>hoc</seg> possunt adduci rationes ostendentes superius quod anima non
+    sit forma.</p>
+        <p xml:id="da-236-ed1e10403-d1e10439">
+          <hi>|</hi>
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod anima est perfectio, sicut ostendit
+    ratio. </p>
+        <p xml:id="da-236-ed1e10403-d1e10450">Ad <seg>rationem</seg> in contrarium dicendum <seg>est</seg> quod motor est duplex: quidam
+      <seg>enim</seg> est motor tantum, et <seg>talis</seg> non comparatur ad mobile
+      <seg>sicut</seg>
+          <seg>forma</seg> ad materiam. Alius est qui est motor et forma et talis comparatur ad illud in
+    quo est sicut motor ad mobile, et sicut perfectio ad perfectibile, et talis <seg>motor</seg>
+    est anima. </p>
+        <p xml:id="da-236-ed1e10403-d1e10475">&lt;Ad secundam dicendum quod forma duplex est, quia quedam est forma tantum et hec non
+    separatur ab eo cuius est, sicut forma ignis. Alia est forma que est forma et substantia et
+    hec est duplex, quia quedam habet eradicationem in corpore et est alicuius corporis actus et
+    hec est anima uegitabilis et sensibilis et hec non separatur. Alia est que non habet
+    eradicationem in corpore nec est actus partis corporis, sicut anima intellectiua, et hec est
+    separabilis genere eius quod est substantia et non genere eius quod est forma et ita est
+      <seg>perfectio.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e10403-d1e10480">[lec2 q1.2] Secundo queritur <seg>circa</seg> hoc cuius sit anima perfectio utrum corporis,
+    et ostenditur quod sit perfectio corporis, sicut dicit <seg>Algazel,</seg> proprium
+      <seg>enim</seg> est substantiarum spiritualium <seg>ut</seg> imprimant supra corporales et
+    non e <seg>conuerso.</seg>
+          <seg>Ergo</seg> cum anima sit substantia spiritualis et sit forma, sicut ostensus est,
+    superius, imprimet supra corpus, ergo anima est forma et perfectio corporis et non alterius,
+    cum hoc sit <seg>ei</seg> proprium, scilicet imprimere supra substantiam corporalem. </p>
+        <p xml:id="da-236-ed1e10403-d1e10505">Secunda <seg>ratio</seg> hec est: ex eis que sunt actu non fit tercium, set ex eis quorum
+    unum est actu et alterum <seg>in</seg> potentia. Illud autem quod est potentia ad formam est
+    corpus et non substantia spiritualis, quia substantia spiritualis est <seg>actus</seg> et
+    forma. Ergo anima cum sit forma et perfectio alicuius erit perfectio alterius. </p>
+        <p xml:id="da-236-ed1e10403-d1e10517">&lt;Tercia ratio hec est: anima est perfectio eius quod complet, cuius partes ligat et
+    continet et regulat et a quo per sui absentiam recedit completio et esse speciem et
+    conseruatio. Hoc autem est corpus, quia recedente anima a corpore exspirat corpus et marcesit,
+    ergo anima est forma et perfectio <seg>corporis.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e10403-d1e10523">Ad oppositum: materia est proportionalis forme, cum igitur anima sit forma spiritualis ei
+    debet respondere materia <seg>spiritualis</seg> et non corporalis, ergo anima non est forma
+    nec perfectio <seg>corporis.</seg>
+          <seg/>
+        </p>
+        <p xml:id="da-236-ed1e10403-d1e10533">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod anima est perfectio corporis quod
+    complet, continent et conseruat. </p>
+        <p xml:id="da-236-ed1e10403-d1e10541">Ad rationem in contrarium dicendum <seg>est</seg> quod aliquid dicitur corporale duobus
+    modis: uno modo quia fit ex materia corporali et hoc modo anima non est <seg>corporalis.</seg>
+    Alio modo dicitur <seg>aliquid</seg> corporale, quia perfectio <seg>est</seg>
+          <seg>rei</seg> corporalis et non propter aliud, et hoc modo anima potest dici corporalis non
+    quia sit ex materia corporali constituta, set quia est perfectio et forma <seg>rei</seg>
+    corporalis, unde anima hoc modo est corporalis et ita potest <seg>esse</seg> modo forma et
+    perfectio corporis. </p>
+        <p xml:id="da-236-ed1e10403-d1e10566">[lec2 q1.3] Tercio queritur <seg>circa</seg> hoc utrum anima possit esse perfectio corporis
+    artificialis an naturalis solum et non <seg>artificialis.</seg> Naturalia habent intra
+      <seg>se</seg> principium sui motus. Artificia uero que sunt in genere per accidens non
+    habent proprium motum nisi per illud quod contrahunt a natura, ergo cum corpus quod ab anima
+    perficitur se ipso moueatur. Corpus autem artificiale non est <seg>manifestum</seg> quod anima
+    non est perfectio corporis artificialis, set solum corporis naturalis <seg>quod</seg> se ipso
+    mouetur. </p>
+        <p xml:id="da-236-ed1e10403-d1e10584">Secunda ratio hec est: secundum <seg>Auicennam</seg> corpus habile <seg>est</seg> ad uitam
+    est recedens a contrarietate. Item habet in se dipositiones per quas recipit in se influentias
+    anime et in partibus suis que dispositiones sunt spiritus et uie et <hi>|</hi> alie. Set
+    corpora artificialia non sunt huiusmodi, <seg>quod</seg>
+          <seg>habeant</seg> in se istas dispositiones set solum naturalia, ergo corpora artificialia
+    non sunt perfectabilia ab anima, set solum naturalia. </p>
+        <p xml:id="da-236-ed1e10403-d1e10602">Tercia ratio hec est: natura ordinata est in suis operationibus et dator et regulator nature
+    ordinatus est. Set anima est prior quolibet corpore in uia perfectionis et nobilitatis et
+    similiter corpus animatum. Corpora <seg>autem</seg> artificialia sunt posteriora omni
+      <seg>natura,</seg> ergo corpora artificialia non sunt habilia ad uitam et ad animam set
+    solum naturalia, ergo <seg>anima</seg>
+          <hi>|</hi> non potest esse perfectio corporum artificialium set solum naturalium. </p>
+        <p xml:id="da-236-ed1e10403-d1e10618">&lt;Quarta ratio hec est: corpora artificialia perficiuntur a forma artis. Forma autem artis,
+    ut patet in <hi>Metaphisica</hi>, non differt a quantitate materie immo est sicut quantitas
+    materie disposita in figura sicut patet in <hi>anillo</hi>* et in domo et consimilibus. Hec
+    autem forma non habet rationem per quam moueat, ergo cum anima sit perfectio corporis quod
+    natum est moueri ab ipsa et recipere motum ab ipsa et a forma sua patet quod anima non est
+    perfectio corporis artificialis set solum naturalis, quod sic natum est moueri, sicut anima
+      <seg>exigit.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e10403-d1e10629">Ad oppositum: anima est perfectio corporis diuerse rationis in <seg>parte</seg> et in toto
+    per cuius partium diuersitatem diuersas operationes operatur. Set corpus artificiale
+      <seg>maxime</seg> est huiusmodi, ergo anima potest esse perfectio corporis artificialis.
+    Minor patet, <seg>quia</seg> corpus artificiale habet diuersitatem partium, sicut patet in
+    domo. </p>
+        <p xml:id="da-236-ed1e10403-d1e10641">Secunda ratio hec est: motus nature est ad unam partem. Motus autem qui est ad diuersos
+    effectus et diuersos fines et diuersas partes est ab anima, set motus rerum artificialium
+      <seg>est</seg> ad diuersas partes, sicut patet de scamno, quod habet motum ad diuersas
+    partes, quia de natura una est natum descendere, de alia autem natura est natum sedere ut
+      <seg>supra</seg> ipsum sedat homo, <seg>igitur</seg> anima potest esse perfectio corporis
+      <seg>artificialis.</seg>
+        </p>
+        <p xml:id="da-236-ed1e10403-d1e10656">
+          <seg>Solutio.</seg> Ad hoc <seg>dicendum</seg> est quod anima est perfectio corporis
+    naturalis et <seg>non</seg> artificialis. Unde corpora naturalia <seg>sint</seg> habilia ad
+    uitam <seg>et</seg> animam et non quelibet corpora naturalia, set solum illa que dicta sunt,
+    et non est perfectio corporis <seg>artificialis.</seg> Unde corpora artificialia non sunt
+    habilia ad uitam et animam, sicut ostendunt rationes. </p>
+        <p xml:id="da-236-ed1e10403-d1e10676">Ad primam rationem in contrarium dicendum <seg>est</seg> quod diuersitas partium in corpore
+    est duobis modis: uno modo est <seg>diuersitas</seg> in corpore propter exigentiam diuersarum
+    operationum anime et uirtutum anime in corpore cui anima unitur et <seg>diuersitas</seg> et
+    hec diuersitas partium disponit ad receptionem anime et hec non est in corpore artificiali.
+    Alia est diuersitas partium in corpore propter diuersos fines ad quod agens ordinat
+      <seg>corpora</seg> ut ipsis utatur in <seg>exercendibus</seg> operationibus et non in
+    celestibus, et talem diuersitatem partium habent corpora artificialia. Set hec non est
+    dispositio ad animam et uitam recipiendam. </p>
+        <p xml:id="da-236-ed1e10403-d1e10694">Ad secundam dicendum <seg>est</seg> quod motus est in rebus artificialibus diuersus non
+    propter naturam suorum principiorum nec propter naturam anime set propter diuersitatem partium
+    et finium ad quos ars ipsa ordinat. Item habet alium motum propter naturam <seg>suam</seg> et
+    alium ab arte et sic non debent ab anima perfici. </p>
+        <p xml:id="da-236-ed1e10403-d1e10704">[lec2 q1.4] Quarto queritur <seg>circa</seg> hoc cuius corporis sit anima perfectio, utrum,
+    scilicet, corporis organici uel alterius corporis. Et ostenditur quod sit perfectio corporis
+    organici: omnis substantia spiritualis que multarum operationum est principium per
+    diuersitatem suarum potentiarum operans per corpus et <seg>per</seg> corporis
+      <seg>partes</seg> t<hi>an</hi>quam per instrumentum est perfectio corporis habentis diuersam
+      <seg>rationem</seg> in partibus et in toto secundum diuersas rationes componentium
+      <seg>compositas.</seg> Set anima est talis perfectio et talis substantia. Corpus autem
+    organicum est tale corpus, ergo anima <hi>|</hi> solum est perfectio corporis organici. </p>
+        <p xml:id="da-236-ed1e10403-d1e10729">Ad oppositum: si anima solum esset perfectio corporis organici, ergo cum multa sint corpora
+    que non habent organa illa corpora non habent animam. Hoc autem est falsum, quia multa corpora
+    habent animam que non habent organa, sicut anguille et serpentes. Immo habent partes
+    consimiles, unde anguille decise uiuunt propter similitudinem in partibus et in toto, sicut
+    uult Auerrois in fine primi <hi>De <seg>anima</seg>
+          </hi>. Ergo anima non solum est perfectio
+    corporis organici et ad hanc questionem possunt adduci rationes que ponuntur in questione
+    precedenti, que est de necessitate et causa <seg>organizationis</seg> in corporibus. </p>
+        <p xml:id="da-236-ed1e10403-d1e10740">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod anima est perfectio corporis organici
+    solum per cuius partium diuersitatem diuersas exercet operationes. </p>
+        <p xml:id="da-236-ed1e10403-d1e10748">Ad <seg>rationes</seg> in contrarium dicendum <seg>est</seg> quod omnia uiuentia participant
+    organa. Set tamen secundum maiorem et minorem perfectionem. Quanto enim aliquod corpus
+    animatum pluribus differentiis anime perficitur tanto plura organa obtinet. Animalia enim
+      <seg>anulosa</seg> habent organa et plante similiter, set non habent ea in tanta diuersitate
+    et expressione, sicut habent alia animata. Unde serpens quamuis non habeat exterius organum
+    motus progressiui tamen interius habet organum <seg>quod</seg> ordinat ipsum ad motum
+    progresiuum, et pisces similiter habent interius <seg>organum</seg> per quod nati sunt natare
+    et hec est uirtus cordis per quam prorumpunt <seg>in</seg> operationes suas et motus, et
+    dispositio in ipsis <seg>ad</seg> hoc est a parte figure corporis et <seg>completionis</seg>
+    disponere ad hoc, quia enim serpens longum est et directum ideo serpit. </p>
+        <p xml:id="da-236-ed1e10403-d1e10776">[lec2 q1.5] Quinto queritur circa hoc utrum anima sit actus corporis phisici organici primus
+      <seg>an</seg> secundus. Et prius sciendum quod forma dicitur actus primus secundum quod dat
+    esse specificum ei cuius est forma, et dicitur actus secundus secundum quod est principium
+    operationis speciei debite. Videtur autem quod anima sit actus utroque modo hac ratione, quia
+    omnis forma dans esse specificum et operationem speciei conuenientem et mouet semper in
+    materia et operatur et est actus primus <hi>|</hi> et secundus. Set anima uegetabilis et
+    sensibilis est huiusmodi, ergo utraque est actus primus et secundus. Maior patet secundum
+    expositionem actus primi et secundi. Minor patet quia uegetabilis nutrimenti et intellectiua
+      <seg>semper</seg> est in suo actu secundum Aristotelem et hoc est quod dicit commentator
+    supra locum istum, scilicet supra principium secundi <hi>De <seg>anima</seg>
+          </hi>, quod de
+    sensibili probatum est cum sit principium sompni et uigilie et aliarum operationum. </p>
+        <p xml:id="da-236-ed1e10403-d1e10793">Ad hoc intelligendum est quod anima est perfectio corporis substantialis dans esse specificum
+    corpori et est principium operationis eius et principium motus et quietis in eo non secundum
+    quod secundo modo est principium materie, set secundum quod primo eo quod hoc modo est actus
+    intransmutabilis et ideo dicitur esse actus primus et iste modus proprie precedit alterum per
+    naturam, quamuis forte simul in quibusdam <seg>sit</seg> duratione et ponit <hi>|</hi>
+    commentator supra <seg>passum</seg> istum quod quedam animalia per partem <seg>unam</seg> non
+    habent opus uegetabilis in nutriendo sicut serpentes et quedam rane, set melius est dicendum,
+    sicut dictum est, quod anima est actus primus et secundus, et non diffinitiur per secundum,
+    quia <seg>per</seg> illum non dat esse sicut uult <seg>Aristoteles,</seg>
+          <seg>quia</seg> anima est principium motus et status, motus ad differentiam motoris celi, qui
+    est <seg>infinite</seg> potentie et operationis. Anima autem non est huiusmodi, et per hoc
+    patet solutio ad obiectum, quia quamuis primus actus sit simul tempore cum secundo, tamen
+      <seg>primus</seg> precedit secundum naturam. Iuxta hoc queritur de hoc quod dicit quod
+    scientia precedit considerare, set hoc uidetur falsum, quia in moralibus ita est quod ex
+    frequenti bene <seg>agere</seg> causatur uirtus, ergo a simili ex frequenti considerare
+      <seg>causatur</seg> scientia et <seg>ita</seg> considerare precedit scientiam cum sit causa
+    eius. Et ratione huius queritur quare in naturalibus habitus precedit operationes, in
+    moralibus <seg>uero</seg> e conuerso fit. Queritur <seg>etiam</seg> de hoc quod dicit in
+    littera quod actus primus qui est sicut scientia est sicut sompnus, actus <seg>secundi</seg>
+    qui est considerare assimilatur <seg>uigilie</seg> queritur super hoc quo modo actus sit
+    uigilia et sompnus, quia si accipiatur hic, sicut in libro <hi>De sompno et uigilia</hi>,
+    falsum dicit, quia illo modo uigilia precedit sompnum secundum naturam. </p>
+        <p xml:id="da-236-ed1e10403-d1e10850">Ad primum <seg>horum</seg> dicendum <seg>est</seg> quod in naturalibus precedunt
+      <seg>habitus</seg> operationes et quia in illis a potentiis substantiarum
+      <seg>elicimus</seg> operationes et ita primus actus precedit secundum. </p>
+        <p xml:id="da-236-ed1e10403-d1e10865">Ad <seg>illud</seg>
+          <seg>uero</seg> quod obicitur de scientia et considerare dicendum <seg>est</seg> quod scientia
+    potest considerare habitum scientis mediante quo operatur et considerare operationem elicitam
+    ab illo actu sicut patet in docente quem secundum Aristotelem necesse est habere scientiam
+    antequam doceat. Potest autem scientia alio modo nominare effectum doctrine et
+      <seg>inuentionis</seg>
+          <seg>eius</seg>
+          <seg>principium</seg> est frequens est considerare et considerare potest dicere operationem ex
+    qua huiusmodi habitus relinquitur, sicut patet in discipulo, qui ex doctrina et inuentione
+    scientiam adquirit. Alio <seg>modo</seg> precedit considerare, et hoc modo intendit
+    Aristoteles. Secundo autem modo <seg>est</seg> e conuerso. Ad illud autem quod querebatur de
+    habitibus naturalibus et uoluntariis dicendum quod in uoluntariis, sicut dictum est, habitus
+    sunt cause operationum et ideo habitus precedunt operationes. In uoluntariis autem
+      <seg>est</seg> e conuerso propter ea, <seg>quia</seg> habitus sunt acquisiti et non innati.
+    Set <seg>quedam</seg> operationes sunt innate quia ad minus dispositiones, quia, sicut uult
+    Boetius in libro <hi>De consolatione</hi>
+          <seg>
+            <hi>philosophie</hi>,</seg> est <seg>enim</seg> in mentibus hominum ueri boni inserta
+    cupiditas et <seg>hoc</seg> per naturam quam habent ad habitus acquisitos homines
+      <seg>mouentur</seg> et ita operationes prime precedunt primos habitus et hoc dico quia ex
+    bonis operibus causantur boni habitus et ex bonis habitibus regulantibus nos causantur bone
+    operationes. </p>
+        <p xml:id="da-236-ed1e10403-d1e10920">Ad aliud dicendum <seg>est</seg> quod sompnus non accipitur hic prout est uinculum et
+    immobilitatio sensuum quantum ad actus exteriores sicut accipitur in libro <hi>|</hi>
+          <hi> De
+      sompno et <seg>uigilia</seg>
+          </hi>, nec uigilia est excitatio uirtutum sensibilium ad
+    operationes exteriores, set <seg>accipitur</seg> sompnus sicut primus actus et uigilia pro
+    operatione naturali et actu secundo secundum proportionem. </p>
+        <p xml:id="da-236-ed1e10403-d1e10936">[lec2 q1.6] Queritur <seg>sexto</seg> utrum hec diffinitio anime que est actus corporis
+    organici et cetera conueniat omni anime. Et uidetur quod non conueniat anime intellectiue quia
+      <seg>nichil</seg> quod non sit <seg>illius</seg> partis corporis actus est actus corporis
+    phisici organici. Anima <seg>intellectiua</seg> non est actus <seg>corporis</seg> phisici et
+    cetera. Maior patet quia forma perficiens perfectibile secundum totum necesse est ipsam
+    perficere secundum partes, quia <seg>alter</seg> diminute perficeret ipsum. Minor patet in
+    sensibilibus. </p>
+        <p xml:id="da-236-ed1e10403-d1e10958">Secunda ratio hec est: omnis diffinitio semper et per se conuenit suo <seg>diffinitio.</seg>
+    Set hec diffinitio non semper conuenit anime intellectiue, ergo non est eius diffinitio. Maior
+    per se patet. Minor patet, quia si semper ei conueniret non esset separabilis a corpore. </p>
+        <p xml:id="da-236-ed1e10403-d1e10964">Ad oppositum est illud quod dicetur postea <seg>quod</seg> si etiam <seg>aliquid</seg>
+    commune est in omni anima <seg>oporteret</seg> dicere <seg>quia</seg> est perfectio corporis
+    phisici et cetera, et ita diffinitio illa conuenit omni anime. Et quia hoc magis
+    manifestabitur postea, ideo pauca obiciuntur circa hoc. </p>
+        <p xml:id="da-236-ed1e10403-d1e10980">
+          <seg>Solutio.</seg> Ad hoc intelligendum <seg>est</seg> quod hec diffinitio omni anime
+    conuenit, set non uniuoce set diuersimode, et ad hoc melius intelligendum. Notandum est quod
+    forma est multis modis. Est enim quedam forma que perficit <seg>materiam</seg> secundum eandem
+    rationem in partibus et in toto et secundum quam denominantur partes ab actu et operatione
+    totius. Et talis forma est anima uegetabilis et sensibilis, quia, sicut dicit, non quelibet
+    pars <hi>|</hi> plante est planta, nec quelibet pars <seg>animalis</seg> animal, set quelibet
+    pars plante uegetat et quelibet pars animalis sentit, et huiusmodi forme sunt actus totius et
+    partium secundum operationes diuersas quamuis partes plante magis sint homogenee partibus
+    animalis, sicut postea patebit. Est autem alia forma que ita perficit totum quod non partes et
+    que nullius partis corporis est actus, et hec denominat totum ab actu <seg>suo</seg> et nullam
+    suarum partium, et hec est anima rationlis que ita perficit totum hominem quod nullam
+      <seg>partem</seg> ipsius, et sic patet solutio ad primam rationem. </p>
+        <p xml:id="da-236-ed1e10403-d1e11004">Ad secundam dicendum <seg>est</seg> quod anima diffinitur secundum quod est forma et non
+    secundum quod <seg>est</seg> substantia, et hac uia essentiale est anime intellectiue esse in
+    corpore, scilicet secundum quod est forma et non secundum quod <seg>est</seg> substantia. </p>
+        <p xml:id="da-236-ed1e10403-d1e11016">[lec2 q1.7] Septimo queritur utrum forma et actus sint eadem, et ostenditur quod non: in
+    quolibet quod est ab aliquo ad <seg>aliquod</seg> dependens per cuius unionem cum altero
+    resultat ter<hi>c</hi>ium differt in eo sua substantia et unio sua et illud quod resultat ex
+    hiis. Hoc autem est actus qui resultat <seg>ex</seg> unione forme cum materia, ergo actus
+    differt ab essentia forme. </p>
+        <p xml:id="da-236-ed1e10403-d1e11028">Secunda ratio hec est: duplex est actus, scilicet primus et secundus. Actus primus est esse,
+    quia sicut <seg>Auicenna,</seg> est actus primus entis esse uel <hi>|</hi> uiuere in
+    uiuentibus, quia uiuere uiuentibus est esse. Actus autem secundus est operatio, set sicut
+    habetur in libro <hi>De unitate et <seg>uno</seg>
+          </hi> esse est actus relictus ex unione forme
+    cum materia, et uiuere est actus <seg>relictus</seg> ex unione anime cum corpore, ergo actus
+    primus est effectus forme existentis in materia, ergo differt ab essentia forme. Item secundus
+    qui est operatio differt a forma, quia in qualibet substantia creata differt sua actio a sua
+    substantia, et iterum actus secundus posterior est ipsa essentia forme, ergo tam actus primus
+    quam secundus differt a sua forma. </p>
+        <p xml:id="da-236-ed1e10403-d1e11045">Ad oppositum: dicit Aristoteles in <seg>
+            <hi>Metaphisica</hi>
+          </seg>
+          <hi/> quod actus et forma
+    sunt idem, et in libro <hi>De <seg>anima</seg>
+          </hi>, et hoc etiam patet quia anima que est
+    forma diffinitur per actum, set quelibet pars diffinitionis est eadem cum diffinitio, ergo
+    actus est idem cum forma uel anima <seg>in</seg> quantum est forma. </p>
+        <p xml:id="da-236-ed1e10403-d1e11061">Secunda ratio hec est: in forma non differt quo est et quod est, cum forma <seg>sit</seg>
+    principium simplex non compositum ex aliis. <seg>Aliter</seg> enim esset <seg>abire</seg>
+    infinitum in principiis uel oportet ponere principia non <seg>esse</seg> composita, ergo in
+    forma non differt quod sit forma et actus nisi secundum rationem, quia esset compositio in
+    ipsa et non esset status in ipsa tanquam in principio. </p>
+        <p xml:id="da-236-ed1e10403-d1e11077">
+          <seg>Solutio.</seg> Ad hoc dicendum est quod in forma differt sua essentia et actus. Set
+    actus est duplex: primus et secundus. Secundus est operatio que elicitur a forma et iste
+    omnino differt ab essentia forme et a composito, et iste actus est accidens compositi. Actus
+    autem primus est duplex, <seg>quia</seg> quidam est qui est actus <seg>essentialie</seg>
+    compositi resultans ex unione suorum principiorum et iste <seg>actus</seg> differt et a forma
+    et a materia et iste actus est in entibus esse et in uiuentibus uiuere. Alius est actus primus
+    qui est principium esse uel uite sicut illud quo datur esse et uita ex sui unione cum materia
+    et <seg>iste</seg> est principium secundi actus qui est operatio et talis actus et
+      <seg>forma</seg> sunt idem. Differunt autem <seg>solum</seg> secundum rationem. Dicitur enim
+    forma esse substantia a parte sui et dicitur actus in quantum perficit materiam et est
+    principium operationis et per hoc soluuntur rationes. </p>
+        <p xml:id="da-236-ed1e10403-d1e11101">[lec2 q1.8] Octauo queritur utrum anima sit perfectio corporis mixti uel simplicis, et
+    ostenditur quod sit perfectio corporis mixti, sicut dicit <seg>Auicenna,</seg> sicut
+      <seg>maior</seg> mundus consituitur ex <seg>quatuor</seg> elementis similiter minor mundus,
+    quod est corpus animatum ex omnibus elementis constituitur que in ipso miscentur. Et iterum
+    anima exigit corpus diuersarum rationum in partibus et in toto <seg>in</seg> cuius partibus
+    diuerse sunt compositiones proportionales potentiis et obiectis. Tale uero corpus
+      <seg>est</seg> mixtum et non <seg>simplex,</seg> ergo anima exigit corpus mixtum et non
+    simplex. Anima ergo est perfectio corporis mixti et non <seg>simplicis.</seg>
+        </p>
+        <p xml:id="da-236-ed1e10403-d1e11126">Ad oppositum est ratio philosophorum talis quam ponunt in fine primi <hi>De
+      <seg>anima</seg>
+          </hi> eiusdem nature <seg>sunt</seg> elementa in partibus et in toto, set
+    elementa prout sunt in moto, scilicet in corpore animato perficiuntur ab <seg>anima,</seg>
+          <seg>ergo</seg> et extra corpus animatum cum sint eiusdem nature essentialiter perficitur ab
+    anima. </p>
+        <p xml:id="da-236-ed1e10403-d1e11143">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod anima est perfectio
+    cor<hi>|</hi>poris mixti et non simplicis in quo est recessus a contrarietate per commixtionem
+    et confractionem contrarietatis et reductionem contrariorum ad medium in quo sunt diuersitates
+    partium secundum diuersas compositiones et <seg>proportiones</seg> elementorum, unde corpus
+    animatum est compositum duplici compositione, <seg>scilicet</seg> compositione mixtionis et
+    compositione difformitatis partium, et compositio mixtionis respondet substantie anime in
+    quantum est forma et principium uite que <seg>requirit</seg> temperamentum complexionis.
+    Compositio autem difformitatis partium in corpore respondet anime prout est motor utens
+    partibus corporis sicut instrumentis, per quas diuersarum uirtutum diuersas exeret
+    operationes. </p>
+        <p xml:id="da-236-ed1e10403-d1e11163">Ad rationem in contrarium dicendum <seg>est</seg> quod elementa non habent animam nisi
+    potentia solum. Ex coniunctione enim eorum ad <seg>inuicem</seg> et confractione resultat
+    complexio corporis mixti que est habilis ad anime receptionem et uite quam non habuerunt
+    elementa primo, et ideo in mixto elementa animam participant, extra mixtum uero <hi>|</hi>
+    non. Unde non sunt eiusdem nature intra mixtum et <seg>extra</seg> quantum ad receptionem
+    anime quamuis in se sint eiusdem nature intra et extra. </p>
+        <p xml:id="da-236-ed1e10403-d1e11178">[lec2 q1.9] Nono queritur utrum anima sit diffinibilis per uitam ut anima sit perfectio
+    corporis potentia uitam habentis. Et ostenditur quod sic: uiuere in uiuentibus est esse, ergo
+    cum perfectio det esse et non perfectio <seg>quelibet,</seg> set perfectio prima, cum anima
+    sit perfectio prima <seg>in</seg> uiuentibus anima dat esse. Illud autem in uiuentibus esse
+    est uita, ergo anima dat <seg>esse,</seg> set per actum primum quem dat anima corpori debet
+    anima diffiniri, ergo per uitam quam dat anima corpori ta<hi>n</hi>quam per actum primum debet
+      <seg>diffiniri.</seg>
+        </p>
+        <p xml:id="da-236-ed1e10403-d1e11196">Secunda ratio hec est: anima dupliciter diffinitur: uno modo secundum suam substantiam et hoc
+    modo non diffinitiur a philosopho naturali. Alio modo diffinitur per comparationem ad corpus
+    et hoc modo diffinitur secundum quod est perfectio corporis et a parte actus quem dat corpori,
+    ergo per illum actum debet diffiniri, quem actum dat corpori qui est uniuersalis omnibus
+    differentiis anime. Ille autem actus uniuersalis est uita, ergo anima debet diffiniri per
+    uitam, ergo anima est perfectio corporis habentis uitam. </p>
+        <p xml:id="da-236-ed1e10403-d1e11199">Ad oppositum: forma dicitur ad materiam et materia ad formam. Materia autem est potentia ad
+    formam et ad substantiam forme per se et primo, ex consequenti uero ad actum resultatem ex
+    unione forme cum materia, ergo corpus <seg>cum</seg> sit perfectibile ab anima inmediate
+    dicitur ad animam et mediate debet dici ad <seg>uitam</seg> que ab anima fluit, ergo
+      <seg>debet</seg> sic <seg>diffiniri:</seg> anima est perfectio corporis potentia ad animam
+    et non potentia ad uitam, cum omnis diffinitio detur per inmediata. </p>
+        <p xml:id="da-236-ed1e10403-d1e11214">Secunda ratio hec est: diffinitio anime debet conuenire cuilibet differentie eius, sicut uult
+      <seg>Aristoteles,</seg> uita est ab anima uegetabili. <seg>Hec</seg> enim est principium
+    uite in omni <seg>uiuente,</seg> ergo omne principium et <seg>perfectum</seg> quantum ad
+    animam non conuenit omnibus aliis differentiis anime, ergo diffinitio, <seg>scilicet</seg>
+    anima est perfectio corporis uitam habentis, non est uniuersalis cuilibet anime. Debet igitur
+    dici anima est <hi>|</hi> perfectio corporis anima <seg>habentis</seg> et hoc modo erit
+    uniuersalis diffinitio et data per inmediata. </p>
+        <p xml:id="da-236-ed1e10403-d1e11239">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod anima diffinitur per comparationem ad
+    corpus quod perficit. Anima uero per sui presentiam in corpore, quantum ad omnem sui
+      <seg>differentiam</seg> actualiter perficiens corpus dat ei primum actum et secundum. Primus
+    autem est uiuere quod est esse in uiuentibus. Secundus <seg>autem</seg> est operari et ita
+    anima dat corpori uitam et operationem. Per primum autem <seg>actum,</seg> qui est uniuersalis
+    et <seg>principalis</seg> diffinitur anima <seg>cum</seg> diffinitur per comparationem ad
+    corpus et in quantum est perfectio. Hoc autem modo dat actum primum qui est uita ipsi corpori
+    et in hoc complet corpus, unde complet corpus per uitam, et ideo cum diffiniatur hic per
+    comparationem ad corpus diffinitur per uitam, qui est actus per quem corpora <seg>sunt</seg>
+    uiuentia. </p>
+        <p xml:id="da-236-ed1e10403-d1e11266">Ad prima rationem in contrarium dicendum <seg>est</seg> quod ratio illa procedit secundum
+    accidens, non enim corpus potentia est ad animam <seg>nisi</seg> in quantum anima est
+    perfectio corporis. Hoc autem modo dat anima actum corpori resultantem ex sui unione cum
+    corpore per quem corpus complet et perficit. Et quia anima <seg>diffinita</seg> per
+    comparationem ad corpus tanquam <seg>eius</seg> perfectio <seg>debet</seg> diffiniri per illud
+    per quod complet corpus cum per actum primum qui est uita corpus compleat propter hoc per
+    relationem ad corpus per uitam diffinitur. </p>
+        <p xml:id="da-236-ed1e10403-d1e11284">Ad secundam rationem dicendum <seg>est</seg> quod uiuere est quatuor modis: uno modo est
+    uiuere, aliquo uti et operationibus anime sensibilis que ab anima uegetabili exeunt. Et hoc
+    modo anima uegetabilis est principium uite. Secundo modo uiuere est sentire, et sic conuenit
+    anime sensibili et hoc modo anima sensibilis est principium uite. Tercio modo dicitur uiuere
+    intelligere, et hoc modo anima intellectiua est principium uite. Quarto modo dicitur uiuere
+    moueri secundum locum, et hoc modo <seg>uita</seg> conuenit corporibus superioribus. Vita
+    autem communiter se habet ad omnes istas differentias uite et de illis nomine an<hi>olo</hi>go
+    predicatur. Sic ergo patet quod <seg>quelibet</seg> differentia anime est principium uite, et
+    ideo quelibet potest diffiniri per uitam. </p>
+        <p xml:id="da-236-ed1e10403-d1e11300">[lec2 q1.10] Decimo queritur utrum anima sit perfectio corporis potentia uitam habentis uel
+    actu uitam habentis. Et ostenditur quod sit perfectio corporis <seg>potentia</seg> uitam
+    habentis. Materia <seg>enim</seg> id quod <seg>est</seg> potentia est. Forma uero actus est
+    uel <seg>actus,</seg> cum ergo corpus sit materia respectu anime, et uite et anima et uita sit
+    perfectio et completio eius necesse est quod corpus sit potentia ad animam, ergo est potentia
+    ad actum per quem anima complet et perficit corpus. Hoc autem est uita, ergo corpus quod est
+    perfectibile ab anima est potentia uitam habens, ergo anima est perfectio corporis
+      <seg>potentia</seg> uitam habentis et non actu. </p>
+        <p xml:id="da-236-ed1e10403-d1e11318">Secunda ratio hec est: ex illis quorum utrumque est actu non fit ter<hi>c</hi>ium, set ex
+    illis quorum unum est actu alterum potentia. Set ex anima et corpore fit unum in perficiendo,
+    ergo unum est potentia et relicum <seg>siue</seg> alterum actu. Anima uero non est potentia
+    cum compleat et perficiat corpus, ergo corpus est potentia respectu eius per quod
+    a<hi>|</hi>nima perficit ipsum corpus. Hoc autem est uita, ergo corpus quod perficitur ab
+    anima est potentia ad <seg>uitam,</seg> ergo anima est perfectio corporis <seg>potentia</seg>
+    uitam habentis. </p>
+        <p xml:id="da-236-ed1e10403-d1e11336">Ad oppositum: sicut uult Aristoteles, anima habet essentialem unionem cum corpore, ergo
+    corpus prout habile est ad <seg>animam</seg> actu perficitur, ergo <seg>actum</seg> quem anima
+    ei exibet semper actu participat. Hoc autem est uita, ergo actu <seg>semper</seg> participat
+      <seg>uitam,</seg> ergo corpus quod perficitur ab anima habet actu uitam et non solum
+    potentia. Est igitur anima perfectio corporis actu uitam habentis et non <seg>solum</seg>
+    potentia. </p>
+        <p xml:id="da-236-ed1e10403-d1e11354">
+          <hi>|</hi>
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod corpus perfectibile ab anima
+      <seg>est</seg> sicut materia. Anima <seg>uero</seg> sicut <seg>perfectio</seg> et forma.
+    Corpus est potentia ad animam et ad actum completiuum quem recipit <seg>ab</seg> anima per
+    quem ipsum corpus completur. Iste <seg>autem</seg> actus est uita, et ideo corpus quod ab
+    anima perficitur <seg>est</seg> potentia ad uitam. </p>
+        <p xml:id="da-236-ed1e10403-d1e11384">Ad rationem in contrarium dicendum <seg>est</seg> quod corpus consideratur duobus modis: uno
+    modo in sui natura. Alio modo per relationem ad animam a qua perficitur. Corpus igitur in sui
+    natura potentia est ad animam et uitam per quam completur. Quod autem sit actu habens uitam
+    hoc non est de sui <seg>natura</seg> per relationem ad animam a qua perficit, et ideo de
+    natura sua non habet actu uitam, set potentia et ideo dicitur anima esse actus corporis
+    potentia uitam habentis, quia ipsam de natura sua non habet, set ab alio influxam. Ex hiis
+      <seg>ergo</seg> patet quod anima corporis naturalis instrumentalis principium completiuum
+    existens <seg>ad</seg>
+          <seg>ipsam,</seg> sicut instrumentum artificiale sua perfectionis necessitas comparatur. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

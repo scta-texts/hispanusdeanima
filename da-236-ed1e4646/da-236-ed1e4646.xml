@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e4646" >
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum numeri sint
+    principia exemplaria rerum
+    uiuente conditoris primi producentis res 
+    in esse sicut posuit Plato</head>
+        <p xml:id="da-236-ed1e4646-d1e4654">[lec 12 q2] Circa secundam <seg>questionem</seg> sic proceditur et queritur utrum numeri sint
+    principia exemplaria <seg>rerum</seg>
+          <seg>uiuente</seg> conditoris <seg>primi</seg> producentis res in esse sicut posuit Plato, et
+    ostenditur quod sic: | omne agens secundum ordinem et distinctionem et rerum
+      <seg>distinctionem</seg>
+          <seg>operatur</seg> secundum illius exigentiam quod est ratio distinctionis et discretionis
+    rerum. Set agens primum est huiusmodi, ergo operatur secundum exigentiam illius quod est ratio
+    distinctionis et discretionis <seg>rerum.</seg> Minor patet, quia agens primum est intellectus
+    &lt;agujero&gt; primus qui est principium segregationis et discretionis rerum. Illud
+      <seg>autem</seg> quod est ratio huiusmodi distinctionis <seg>est</seg> segregationis et
+    ordinationis rerum debet <seg>esse</seg> numerus, sicut uisum est. Ergo agens primum operatur
+    secundum exigentiam numerorum et <seg>regulationem.</seg> Illud autem secundum cuius
+    regulationem et <seg>exigentiam</seg> operatur agens <seg>ad</seg> intellectum est primum
+    exemplare in mente illius rerum producendarum, ergo numeri sunt principia <seg>extraria</seg>
+    rerum in mente conditoris primi.</p>
+        <p xml:id="da-236-ed1e4646-d1e4701"> Secunda ratio hec est: sicut dicit Boetius in principio <seg>
+            <hi>Arismetice</hi>,</seg>
+    omnia que sunt a prima rerum etate numero constituta sunt. Hoc <seg>enim,</seg> scilicet
+    numerus fuit maximum exemplar in anima conditoris. Illud autem est principium exemplare omnium
+    sub quo res ita constitute sunt et producte et quod in anima conditoris fuit maximum exemplar.
+    Set numeri sunt huiusmodi, ergo numeri sunt principia exemplaria ipsarum <seg>rerum.</seg>
+    	    </p>
+        <p xml:id="da-236-ed1e4646-d1e4715">Ad oppositum est <seg>ratio:</seg> si numerus esset principium exemplare rerum, ergo esset in
+    illo quod <seg>est</seg> primum principium rerum. Set primum est huiusmodi, ergo numerus esset
+    in primo. Set ubi est numerus ibi est multitudo, ergo in primo esset multitudo. Hoc autem est
+    falsum et inconueniens, ergo numerus non est principium exemplare rerum in conditore primo et
+    non potest dici quod hec multitudo sit in comparatione ad res solum et non in comparatione ad
+    primum, quia hoc esset falsum dicere. Primum enim non operatur secundum exigentiam rerum, et
+    ideo hec diuersitas esset a parte <seg>regulationis</seg> ipsius et non a parte rerum. </p>
+        <p xml:id="da-236-ed1e4646-d1e4728">Solutio. Ad hoc dicendum <seg>est</seg> quod &lt;Plato posuit numerum esse principium
+    exemplare omnium rerum. Posuit enim ydeas distinctas in mente creatoris, quare ratio
+    distinctionis et proportionis fuit numerus et per huius proportiones numerorum et ydearum
+    posuit Plato agens primum ordinare et stabilire tanquam per exemplar. Set intelligendum est
+    quod de rebus est de exitu rerum est loqui duobus modis: uno modo secundum ueritatem et
+    exigentiam status rerum et hoc modo non est ponere ydeas nec numeros in primo agente tanquam
+    exemplaria per que regulatur in productione* rerum. Immo causatur solus se ipso regulat* et se
+    ipso operatur. alio modo est loqui de rebus et de exitu rerum, set usum nostrum intelligendi
+    et loquendi, et hoc modo per relationem creaturarum ad creatorem et manifestatiorem
+    operationem creatoris in creaturis ponimus exemplaria numeros in creatore, non tamen propter
+    hoc ponimus multiplicationem in creatore nec ponimus ipsum in sua operatione per aliud
+    regulari, set operationem eius et ordinationem circumloquimus per numeros qui sint magis a
+    parti ad distinctiones rerum exprimendas et hec uia concedimus rationem que ostendit numeros
+    esse principia exemplaria rerum. </p>
+        <p xml:id="da-236-ed1e4646-d1e4734">Ad rationem in contrarium dicendum <seg>quod&gt;</seg> multa sunt in aliquo duobus modis: uno
+    modo secundum modum corporalem et hec multitudo est in uniuerso et talis ponit multitudinem in
+    rebus in quibus est. Alio modo est multitudo in aliquo sicut in cognoscente modo spirituali.
+    Et hoc est duobus modis, quia uno modo est multitudo in <seg>aliquo</seg> modo spirituali per
+    impressionem <seg>factam</seg> a rebus extra, et hoc modo est multitudo modo spirituali in
+    anima, scilicet per impressionem a rebus extra. Et hec multitudo non ponit multitudinem in eo
+    in quo est nisi secundum quid, unde hec multitudo non ponit in anima diuersitatem et
+    multitudinem essentie, set solum diuersitatem aspectus ipsius anime ad plura, quia anima
+    respicit illa plura <hi>|</hi> et apprehendit. Alio modo est multitudo in aliquo modo
+    spirituali non per impressionem a rebus extra, set per solam estimationem rerum exterius
+    producendarum, et hoc modo ponit multitudinem nec diuersitatem in eo in quo est, nec
+    simpliciter nec secundum quid, et hoc modo est multitudo in primo, quia non ponit multitudinem
+    essentie in ipso nec diuersitatem, nec ponit diuersitatem aspectus in ipso loquendo de
+      <seg>ipso</seg> aspectu per comparationem ad ipsum, licet <seg>tamen</seg> per comparationem
+    ad | res sit <seg>diuersitas</seg> in illo. Set ponit hec multitudo in <seg>illo</seg>
+    excellentiam uirtutis sue et operationis sue et multiplicationem in rebus, et ita numerus non
+    ponit multitudinem in ipso. Vnde licet res ab ipso exeant sub ratione numeri discretionis et
+    ordinationis, non tamen est multitudo in ipso a parte sui aliquo modo, quia per solam
+    estimationem aspicit plura. Anima autem per impressionem. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

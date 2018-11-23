@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e13260" >
+        <head>Quaestio 4</head>
+        <head type="question-title">Utrum anima intellectiua sit ita
+    in corpore quod in nulla parte illius</head>
+        <p xml:id="da-236-ed1e13260-d1e13268">[lec3 q4] Circa quartam <seg>questionem</seg> sic proceditur et queritur utrum anima
+    intellectiua sit <seg>ita</seg>
+          <seg>in</seg> corpore quod in nulla parte illius. Et ostenditur quod sic: anima intellectiua
+    secundum Aristotelem nullius partis corporis est actus. Set anima dicitur actus per sui
+    unionem cum eo cuius est actus. Dicitur autem actus primus in quantum dat esse in genere
+    uiuentium. Dicitur autem secundus actus in quantum dat operationem. Set anima intellectiua
+    nullius partis corporis <seg>est</seg> primus <seg>actus</seg> nec secundus. Est autem primus
+      <seg>actus</seg> per <seg>unio<hi>|</hi>nem</seg> sue essentie. Est autem <seg>actus</seg>
+    secundus per unionem sue uirtutis uel potentie, ergo anima intellectiua non unitur partibus
+    corporis nec secundum essentiam nec secundum uirtutem. Set ipsa <seg>est</seg> actus
+      <seg>primus</seg> totius. Item dat ei actum secundum et nullum dat partibus. Ergo ita unitur
+    toti secundum <seg>essentiam</seg> et uirtutem, quod non alicui parti. Ergo anima intellectiua
+    ita est in toto quod non in aliqua parte.</p>
+        <p xml:id="da-236-ed1e13260-d1e13308">Secunda ratio hec est: duplex est substantia regens aliam substantiam: quedam est que
+    dependet ab eo quod regit; quedam non. Illa autem quod dependet ab eo quod <seg>regit</seg> et
+    habet radicem in eo quod regit et <seg>dependet</seg> quantum ad operationem ab eo est ut
+    anima uegetabilis et sensibilis. Illa autem que non dependet ab eo quod regit non habet
+    radicem in eo in <seg>quo</seg>
+          <seg>est,</seg> sicut intelligentia. Anima autem intellectiua regit corpus. Set ipsa nullam
+    radicationem habet in corpore, quia non habet principia a corpore. Immo omnino ab extrinseco
+    est et in se fixa per essentiam. Set in corpore <seg>fit,</seg>
+          <seg>set</seg> regens <seg>aliud</seg> quod non habet radicem nec dependentiam ab eo quod
+    regit in se fixum est et in sui <seg>essentia,</seg>
+          <seg>quamuis</seg> uniatur ei in <seg>quo</seg> regit, sicut igitur si intelligentia
+      <seg>moueret</seg> corpus non esset in aliqua parte corporis nec in qualibet, propterea
+      <seg>quod</seg> non dependet aliquo modo similiter, nec anima intellectiua est in corpore
+    ita quod <seg>secundum</seg> aliquem situm habe<hi>|</hi>at in corpore nec in aliqua eius
+      <seg>parte,</seg> et est simile de nauta qui est unitus naui. Set ponatur quod nauta nullo
+      <seg>modo</seg> dependeat a naui, set se ipso conseruetur nullum situm habebit in naui, immo
+    ita reget nauem quod nullum situm habebit in parte eius, <seg>similiter</seg> nec
+      <seg>anima</seg> habet situm aliquem in aliqua parte corporis. </p>
+        <p xml:id="da-236-ed1e13260-d1e13368">Hoc autem declaratur hoc modo: si enim corpus corrumpatur remanebit anima in substantia sua
+    fixa, et tamen non erit ubique tota per essentiam. Hoc autem non habet a natura corporis quod
+    non sit ubique, set a sua coartatione propria, sicut et intelligentia. Ergo dum erat in
+    corpore in se fixa erat natura propria, set substantia talis nullum situm in aliquo
+    determinat, set habet proprium situm spiritualem et ita unitur alii quod in se ipsa est per
+    essentiam fixa. Ergo anima intellectiua non habet aliquem situm in corpore. Est ergo in toto
+    corpore <seg>ita</seg> quod non in aliqua parte et ita in toto quod nullum situm habet in eo,
+    nec coartationem immo in se ipsa existens fixa dat ei complementum. </p>
+        <p xml:id="da-236-ed1e13260-d1e13375">Ad oppositum: anima intellectiua est forma corporis, ergo unitur ei per essentiam. Item ipsa
+    dat esse toti corpori et conseruationem et singulis <seg>partibus</seg> eius et regit totum
+    corpus et singulas partes, ergo toti unitur et partibus per essentiam, set sicut ostensum
+      <seg>est,</seg> non determinat anima intellectiua aliquam partem in corpore, ergo est in
+    omnibus partibus corporis, est ergo ita in toto corpore quod in omnibus partibus eius.
+    <seg/>
+        </p>
+        <p xml:id="da-236-ed1e13260-d1e13385">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod circa istam <seg>questionem</seg>
+    multe sunt opiniones: quidam autem ponunt quod anima intellectiua appropriat sibi partem in
+    corpore substantia et uirtute, et hec pars cerebrum appellatur. Hoc autem est contra
+    Aristotelem et contra <seg>Auicennam</seg> et contra omnes auctores. Alii ponunt quod anima
+    intellectiua est in qualibet parte corporis et habet <seg>distensionem.</seg> Set hec
+      <seg>distensio</seg> inest ei per accidens, quia per naturam corporis et aliarum uirtutum et
+    non per se. Alii ponunt quod anima intellectiua est in toto corpore et in qualibet parte, et
+    tota simul per essentiam et ad nullam coartatur et hec positio melior est predictis. Quarta
+    positio est celebrior quam <seg>sustinemus</seg> ad <seg>presens</seg> quod anima intellectiua
+    est in toto corpore ita quod in nulla parte per essentiam nec simul nec secundum prius et
+    posterius. Et <seg>etiam</seg> ita perficit totum quod nullam partem et ita operatur in toto
+    quod non in aliqua parte et tamen magis manifestantur sue operationes in una parte corporis
+    quam in alia, sicut in cerebro. Et hec positio non est contraria positioni precedentis
+    questionis, sicut uisum est, dando intelligere. Nam sicut datum fuit quod alio modo peccaret
+    illa positio cum enim dicimus animam intellectiuam esse in qualibet parte corporis totam simul
+    hoc intelligamus propter independentiam et <seg>indifferentiam</seg> et indetractionem quam
+    habet in corpore. Unde est simul et coartatur ad illas per suas potentias et sunt in qualibet
+    parte per dependentiam et applicationem eo <seg>quod</seg> omnibus partibus dat completionem
+    et toti, <hi>|</hi> et ita hoc <seg>modo</seg> sunt in toto et in qualibet parte. Sumendo
+    autem hoc modo <seg>esse</seg> in qualibet parte <seg>dicimus</seg> quod anima intellectiua
+    est in toto ita quod in nulla parte. Sumendo autem esse in qualibet parte aliter, scilicet
+    primo modo, sicut dictum est, dicimus animam intellectiuam in toto <seg>esse</seg> in qualibet
+    parte. Anima enim intellectiua non est in aliqua parte per dependentiam nec per applicationem,
+    set ita est in toto quod ad nullam partem applicatur. Positio autem precedentis questionis
+      <seg>est:</seg> quantum ad hoc quod ponit quod anima intellectiua <hi>|</hi>
+          <seg>non</seg> determinat sibi partem in corpore <seg>conuenit</seg> cum ista, set per
+    indifferentiam se habet ad omnes nullam earum determinando, si uero ponat quod singulis
+    partibus applicet suam essentiam et ita sit in toto quod in singulis partibus eis applicando
+    suam <seg>essentiam</seg> tunc discrepat ab ista. Set hoc non intendit ponere, set ponit sicut
+    ostensum est, et specialiter hic et ibi quod non repugnat poneri <seg>ista</seg> set
+    conueniunt. </p>
+        <p xml:id="da-236-ed1e13260-d1e13456">Ad primam rationem in contrarium dicendum <seg>est</seg> quod anima est forma corporis set
+    duplex est forma: quedam est <seg>forma</seg> et hec per diuersas sui partes est in diuersis
+    partibus materie. Est <seg>autem</seg> alia que non est distensa et hec est duplex: quedam est
+    que perficit totum et partes et dependet a partibus et hec tota simul est in qualibet parte,
+    quia enim dependet a toto, ideo est in illo et quia a partibus dependet, ideo est in illis, et
+    quia non distenditur, ideo est tota simul in illis, et hec forma est sicut uegetabilis
+      <seg>et</seg> sensibilis. Est alia non distensa que perficit totum ita quod nullam partem et
+    talis <seg>ita</seg> est in toto quod in nulla parte et hec est anima intellectiua quia ita
+    totum perficit quod nullam <seg>partem</seg> per sui <seg>applicationem</seg> cum illis, unde
+    licet regat utrumque, scilicet totum <seg>et</seg> partes, <seg>et</seg> non tamen regit
+    partes per sui applicationem cum illis, quia ab illis non dependet, set solum toti unitur. Et
+    ita patet <seg>solutio</seg> huius <seg>questionis.</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

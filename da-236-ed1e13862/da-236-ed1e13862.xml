@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e13862" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e13862-d1e13867">Paragraphus tercius de manifestatio<hi>|</hi>ne existentie anime in <seg>corpore</seg> per
+    causam operationum eius continens tres distinctiones. Prima est de modo processus. </p>
+        <p xml:id="da-236-ed1e13862-d1e13876">Continuatio intensionis. </p>
+        <p xml:id="da-236-ed1e13862-d1e13879">
+          <seg>
+            <hi>Quoniam</hi>
+          </seg>
+          <hi> autem ex incertis certioribus <seg>autem</seg> certior fit et
+      secundum rationem notius</hi> et caetera, compleuit philosophus anime
+      <seg>distinctionem</seg> uniuersalem in parte precedenti. Set cognitio
+      <seg>distinctionis</seg> uniuersalis anime et etiam cuiuslibet rei non sufficit ad
+    cognitionem propriarum differentiarum ipsius siue dicatur uniuoce diffinitio siue equiuoce cum
+    faciat solum cognitionem uniuersalem et non specialem et ideo in hac parte philosophus
+    determinat uiam per quam habetur cognitio propria cuiuslibet differentiarum anime. Hec autem
+    uia procedit per proprias operationes et actus primos et secundos proprios et proprias
+    potentias cuiuslibet <seg>specialium</seg> differentiarum ipsius. </p>
+        <p xml:id="da-236-ed1e13862-d1e13899">Diuisio. </p>
+        <p xml:id="da-236-ed1e13862-d1e13903">Recipit autem hec pars <seg>diuisionem</seg> in duas <seg>partes,</seg> in quarum prima
+    ostendit uiam secundum quam intendit procedere esse necessariam in hac doctrina. In secunda,
+    scilicet in hac, <hi>dicamus igitur principium <seg>accipientes</seg>
+          </hi> et cetera, procedit
+    secundum illam <seg>uiam</seg>
+          <seg>circa</seg> propositum intensionis. </p>
+        <p xml:id="da-236-ed1e13862-d1e13923">Prima autem pars spectat ad presentem <seg>speculationem</seg> et sic patet de quo est
+    intensio in hac parte. Intendit enim <seg>philosophus</seg> ostendere necessitatem uie
+    secundum quam procedere intendit. Recipit autem hec <seg>pars</seg> diuisionem in partes tres,
+    in quarum prima ostendit quod secundum aliam uiam a predicta procedendum est circa noticiam
+    completam anime. In secunda, scilicet in hac, <hi>non enim quod <seg>quicquid</seg> est
+      diffinitiua ratione oportet ostendere</hi> et <seg>cetera,</seg> reddit causam
+      <seg>huius</seg> et ostendit quod <seg>diffinitio</seg> preassignata non sufficit in
+    completa cognitione anime. In tercia parte, scilicet in hac, <hi>nunc autem sunt conclusiones
+      rationes terminorum</hi> et cetera, ostendit quod quedam sunt <seg>diffinitiones</seg>
+    conclusiones demonstrationis que per principia alia probantur, quedam sunt principia
+    demonstrationis. Hec est autem diuisio huius partis. </p>
+        <p xml:id="da-236-ed1e13862-d1e13957">Sententia prime partis in qua tangitur modus procedendi circa cognitionem differentiarum
+    anime. Circa uero <seg>primam</seg> parte procedit philosophus hoc modo, <seg>dicens</seg>
+    quod ordo <seg>naturalis</seg> in scientia est procedere a <seg>manifestis</seg> quo ad
+    naturam et inmanifestis quo ad nos ad ea que sunt <seg>inmanifesta</seg> nature et iste est
+    processus a communibus ad propria. Per hunc enim processum fit unumquodque certius et notius
+    secundum rationem. Set aliter est secundum <seg>Auerroysticum</seg> procedendum ut a prioribus
+    quo ad nos, posterioribus <seg>uero</seg> quo ad naturam fiat processus ad priora secundum
+    naturam quoniam ab operationibus potenciis propriis <seg>differentiarum</seg>
+          <seg>spiritualium</seg> anime <seg>contingit</seg> deuenire in noticiam singularum
+    differentiarum ipsius. </p>
+        <p xml:id="da-236-ed1e13862-d1e13991">Sententia secunde <hi>|</hi> partis in qua assignatur distinctio <seg>diffinitionum,</seg>
+    consequenter reddit causam sui processus dicens quod <seg>uia</seg> superius assignata non
+    sufficit ad habendum completionem de anima, quia diffinitio predicta est simul diffinitionibus
+    que sunt demonstrationis conclusiones et tales diffinitiones non sufficiunt ad perfectam rei
+    noticiam. Tales enim sunt uniuersales communes et non sunt <seg>proprie</seg> alicui et
+    predicta diffinitio non est alicui differentie <seg>anime</seg> propria <seg>set</seg> oportet
+    inquirere diffinitiones <seg>dicentes</seg> proprias causas rerum et differentiarum
+    singularum. </p>
+        <p xml:id="da-236-ed1e13862-d1e14016">Sententia tercie partis in qua assignatur distinctio diffinitionum, consequenter distinguit
+    modos diffinitionum dicens quod quedam sunt conclusiones demonstrationis, sicut hec figura
+    orthogonia equilatera est parte altera longiori figure equalis. Talis enim demonstrabilis est.
+    Alie sunt diffinitiones <seg>que</seg> sunt conclusiones demonstrationis, set potius principia
+    ut figura habens tres angulos uel <seg>quatuor</seg> que tetragonismus dicitur est media rei
+    inuentio proportionalis. Hec enim <seg>diffinitio</seg> est principium propter quod figura
+    orthogonia est equalis parte altera longiori per quam hec conclusio probatur, et hec
+    declarantur in Geometria. Alia sunt exempla competencia <seg>que</seg> in questionibus huius
+    loci requirantur, et in hiis terminatur hec pars. </p>
+        <p xml:id="da-236-ed1e13862-d1e14031">Circa partem istam queruntur decem <seg>questiones.</seg> Prima [lec4 q1] <seg>questio</seg>
+    est utrum <seg>aliqua</seg> diffinitio sit demonstrabilis. <seg>Secunda</seg> [lec4 q2] est
+    utrum illa diffinitio <hi>|</hi>
+          <seg>sit</seg> materialis <seg>an</seg> formalis. <seg>Te<hi>rc</hi>ia</seg> [lec4 q3] est que
+    sit illa materialis que demonstratur. <seg>Quarta</seg> [lec4 q4] est de distinctione
+      <seg>diffinitionum</seg> omnium ut accipiantur ille que <seg>intenduntur.</seg>
+          <seg>Quinta</seg> [lec4 q5] est utrum diffinitio naturalis que est per principia naturalia
+    demonstret diffinitionem logicam, que est per principia predicabilia, que sunt
+      <seg>principia</seg> secundum rationem. <seg>Sexta</seg> [lec4 q6] est utrum
+      <seg>naturalis</seg> artifex <seg>diffiniat</seg> per omnem causam uel per unam solum.
+      <seg>Septima</seg> [lec4 q7] est utrum anima possit demonstrari de corpore.
+      <seg>Octaua</seg> [lec4 q8] est per quam uiam possit demonstrari de corpore. <seg>Nona</seg>
+    [lec4 q9] est quo modo uia diffinitiua que procedit per diffinitionem dicentem propter quid
+    applicetur hinc scientie. <seg>Decima</seg> [lec4 q10] est de modo ymaginandi existentiam
+    anime in corpore. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

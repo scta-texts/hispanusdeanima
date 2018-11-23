@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e2616" >
+        <head>Quaestio 6</head>
+        <head type="question-title">Utrum intellectus
+    sit idem cum substantia anime ut dicatur quod intellectus sit ipsa anima, sicut posuit
+    Democritus et Anaxagoras</head>
+        <p xml:id="da-236-ed1e2616-d1e2624">[lec 10 q6] <seg>Circa</seg> sextam questionem sic proceditur, et queritur utrum intellectus
+    sit idem cum substantia anime ut dicatur quod intellectus sit ipsa anima, sicut posuit
+    Democritus et Anaxagoras, et ostenditur quod sic: perfectio substantialis hominis est
+    intellectus et est forma perfectiua hominis. Set omnes potentie actiue que a parte forme
+      <seg>radicantur</seg> in aliquo radicantur in forma illius, ergo omnes potentie anime que
+    sunt in homine radicantur in forma perfectiua hominis. Hec autem est intellectus, ergo
+    potentie omnis <seg>anime</seg> radicantur in <seg>intellectum.</seg> Illud autem in quo
+    radicantur potentie anime est substantia anime, quia potentie <seg>anime</seg> radicantur in
+    substantia, ergo intellectus est substantia anime. </p>
+        <p xml:id="da-236-ed1e2616-d1e2642">Secunda ratio hec est: anima humana est separabilis secundum suam substantiam, ergo illud
+    quod in ipsa est separabile est sua substantia, set separabile in ipsa non est nisi
+    intellectus, ergo intellectus est substantia anime humane. </p>
+        <p xml:id="da-236-ed1e2616-d1e2645">Tercia ratio hec est: omne illud quod operatur et est principium operationis in natura
+    irradians <seg>supra</seg> alia est habens naturam substantie, quia solius substantie est
+    operari et irradiare supra alia et influere in operatione, set intellectus agens irradiat
+    supra potentias anime in operationibus illarum. Ergo habet intellectus naturam substantie et
+    non habet naturam substantie nisi substantie anime, ergo intellectus agens habet naturam
+    substantie anime, ergo intellectus agens est substantia <seg>anime.</seg>
+        </p>
+        <p xml:id="da-236-ed1e2616-d1e2655">Ad <seg>oppositum:</seg> omnis substantia in qua differt sua actio a sua substantia est
+    habens <seg>aliquid</seg>
+          <seg>sine</seg> quo non agit et est medium inter ipsam et suam operationem per quod ordinatur
+    ad operationem. Set anima est substantia in qua differt sua actio a sua substantia, ergo est
+      <seg>aliquid</seg> medium inter ipsam et suam operationem. Medium autem inter substantiam et
+    suam operationem est potentia per quam substantia ad operationem ordinatur, ergo in anima sua
+    potentia est medium <seg>inter</seg> substantiam et suam operationem, ergo potentia
+      <seg>anime</seg> differt a sua substantia. Set intellectus est potentia anime, ergo differt
+    a substantia anime, ergo intellectus non est substantia anime.</p>
+        <p xml:id="da-236-ed1e2616-d1e2677">Secunda ratio hec est: si intellectus <seg>esset</seg> substantia anime eadem ratione sensus
+    esset substantia anime, et uirtus <seg>uegetalis</seg> similiter, cum sese habeant ad
+    substantiam anime sicut intellectus, set iste uirtutes sunt diuerse et coartate ad diuersa
+    obiecta et organa, ergo sic unum et idem haberet diuersitatem essentie et coartationem a parte
+    sensus et uirtutis uegetabilis et non coartationem a parte intellectus, hoc autem
+    inconueniens, et sequitur ex hoc quod substantia anime sit intellectus, ergo hoc est falsum,
+    ergo intellectus non est substantia anime et procedit bene ista ratio de anima simpliciter et
+    non <seg>comprehendo</seg> ad materiam, quia faciendo nullam differentiam ponebant philosophi
+    intellectum esse substantiam anime <seg>simpliciter.</seg>
+        </p>
+        <p xml:id="da-236-ed1e2616-d1e2691">
+          <seg>Solutio:</seg> dicendum<hi> |</hi> est quod antiqui philosophi posuerunt animam et
+    intellectum esse eadem simpliciter ignorantes differentias anime non ponentes nisi
+    differentiam que est intellectiua. Et propter hoc <seg>manifestat</seg> | eius operationes, et
+    ideo posuerunt in solo homine animam et intellectum posuerunt esse idem cum substantia anime
+    et esse substantiam anima intellectum. Hoc autem est <seg>falsum.</seg> Dicendum
+      <seg>tantum</seg> est quod intellectus potest nominare substantiam uel potentiam si nominet
+    intellectus substantiam, sic est idem cum substantia anime, quia hoc modo intellectus est
+    substantia intelligens. <seg>Hoc</seg> autem est anima. Si autem nominet potentiam sic non
+    nominat <seg>substantiam</seg> anime. <seg>Set</seg> potentiam ab anima intellectiua
+      <seg>fluentem</seg>
+          <seg>et</seg> non est substantia ipsius anime, et quia <seg>tantum</seg>
+          <seg>hee</seg> ostendunt rationes, scilicet quod intellectus sit simpliciter substantia anime,
+    ideo ad illos <seg>respondendum</seg> est. </p>
+        <p xml:id="da-236-ed1e2616-d1e2734">Ad primam ergo rationem in contrarium dicendum est quod perfectio hominis est anima
+    intellectiua, set anima intellectiua prout nominat substantiam habet tres potentias, scilicet
+      <seg>uegetalem,</seg> sensitiuam et intellectiuam. Dicit <seg>Dyonisus</seg> et
+      <seg>Auicenna</seg> quod anima non <seg>est</seg> nomen substantie set officii, et ita anima
+    intellectiua non <seg>debet</seg> dici intellectus nisi ab operatione et posteriori, unde
+    intellectus non est substantia ipsius anime, quod autem dicatur anima intellectiua hoc non
+    est, quia intellectus sit eius substantia. Set quia est eius potentia et intelligere eius
+    operatio, et ita intellectus non est perfectio hominis set est potentia uel operatio eius,
+    quod est perfectio hominis, hoc autem est anima. </p>
+        <p xml:id="da-236-ed1e2616-d1e2752">Ad secundam rationem dicendum <seg>est</seg> quod anima humana est separabilis. Set in illa
+    separatione sunt duo, scilicet illud quod separatur, et hoc est substantie anime humane, et
+    illud quo separatur et hoc est intellectus agens, unde <seg>illud</seg> quod est in anima
+    separabile tanquam illud quod separatur <seg>illud</seg> est substantia anime. Intellectus
+    autem non est huiusmodi, set <seg>illud</seg> quo separatur. </p>
+        <p xml:id="da-236-ed1e2616-d1e2767">Ad terciam rationem dicendum est quod principium <seg>operationis</seg> est duplex: unum est
+    influens et hoc modo anima est principium operationis. Aliud autem est quo influit et hoc modo
+    potentia anime est principium operationis, quia mediante ipsa influit anima operationem, sicut
+    lux influit operationem mediante lumine, scilicet illuminando, et lumen est de genere lucis
+    tamen non est lux set est de genere lucis tanquam illud quo influit lux operationem. Similiter
+    potentia anime non est anima set de genere substantie <seg>anima</seg> tanquam illud quo
+    influit anima operationem et est spiritualis illa potentia, sicut anima, et operans per
+    naturam ipsius anime et exigentiam, et ita intellectus non est substantia anime set potentia
+    anime, quia est illud quo influit anima operationem.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e24555" >
+        <head>Quaestio 1</head>
+        <head type="question-title">
+    Utrum in se mine deciso a patre sit aliqua natura anime.
+   </head>
+        <p xml:id="da-236-ed1e24555-d1e24563">
+          <hi>[lec11 q1] Circa <seg>primam</seg> questionem sic proceditur et queritur utrum in se</hi>
+          <hi>|</hi>
+          <hi>mine deciso a patre sit aliqua natura anime. Et ostenditur quod sic: in rebus que
+      producuntur per decisionem seminis <seg>simili</seg> producit simile et hoc fit per
+      decisionem seminis a generante qui ex illo generat simile. Ergo necesse est ut in semine sit
+      aliqua natura effectiua operans ad illam similitudinem. Illa uero natura que ad
+       <seg>huius</seg> multiplicationem similis operatur est natura anime, quia anima est forma
+      et species corporis animati, ergo necesse est quod in semine deciso a generante in rebus
+      animatis sit aliqua natura anime que operetur ad productionem indiuidui similis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24555-d1e24584">
+          <hi>Secunda ratio hec est: sicut habetur in libro </hi>
+          <hi>De animalibus</hi>
+          <hi>, sperma uiri comparatur ad semen mulieris, sicut artifex <seg>et</seg> causa efficiens,
+      ergo in semine uiri est <seg>aliquid</seg> per quod agit et mouet, set sperma non mouet per
+      se ipsum, unde sperma omnino mortificatum non moueret, ergo necesse est aliquam
+       <seg>uirtutem</seg> esse in ipso quod sit principium mouendi ipsum et
+       <seg>uiuificans</seg> ipsum. Hec <seg>autem</seg> natura non est <seg>nisi</seg> natura
+      anime, ergo necesse est in spermate deciso a generante esse naturam anime. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24555-d1e24615">
+          <hi>Tercia ratio hec est: sperma secundum Aristotelem nutritur, unde dicit Aristoteles quod
+       <seg>embrio</seg> nutritur et <seg>communicat</seg> nutrimentum in sui naturam. Item
+      distendit membra et distinguit et reddit ea habilia ad operationes anime, ergo <seg>in</seg>
+      ipso est aliquid quod est principium nutrimenti et augmenti et distensionis membrorum et
+      distinctionis. Hoc autem non est uirtus nature set natura anime. Natura enim ad ista non
+      operatur, ergo in semine est aliqua natura anime. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24555-d1e24631">
+          <hi>Ad oppositum: sicut habetur in libro </hi>
+          <hi>De animalibus</hi>
+          <hi>, semen est superfluitas nutrimenti quo non indigemus. Nutrimentum <seg>uero</seg> non
+      habet animam in se <seg>nisi</seg> postquam unitur membris et efficitur pars substantie
+      membrorum. Set semen, cum sit superfluitas que relinquitur a nutrimento <seg>nec</seg> est
+      assimulatum membris nec eis unitum, ergo nullo modo habet naturam anime in se. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24555-d1e24652">
+          <hi>Secunda ratio hec est: multe sunt superfluitates in corpore et quedam remanent in corpore,
+      quedam exterius abiciuntur. Ille que remanent in corpore sunt sicut pili et ungues. Ille
+      uero que abiciuntur sunt sicut semen et sputum et urina et egestiones. Set magis accedunt ad
+      naturam corporis animati illa que remanent in corpore de sui natura quam illa que
+      abiciuntur, ergo superfluitates que remanent magis accedunt ad naturam corporis animati quam
+      semen. Set superfluitates remanentes non habent regimen ab anima per se nec a natura anime,
+      unde non <seg>augmentatur</seg>
+            <seg>propter</seg> coniunctionem nutrimenti, set proper hoc quod superfluitas que est
+      materia ex qua generantur <seg>augmentatur,</seg> ergo multo fortius cum semen sit
+      superfluitas existens extra corpus semen non habet regimen ab </hi>
+          <hi>|</hi>
+          <hi> anima nec a natura anime, ergo in semine deciso a generante non est aliqua natura anime.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e24555-d1e24673">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod in semine est natura anime que mouet ad productionem
+      fetus et distinctionem et organizationem et <seg>formationem</seg> membrorum et mouet et
+      operatur illa natura anime ad dispositionem corporis supra quam anima que est perfectio
+       <seg>reducitur.</seg> Et rationes ad hoc ostendendum sunt concedende.</hi>
+        </p>
+        <p xml:id="da-236-ed1e24555-d1e24694">
+          <hi>Ad primam rationem in contrarium dicendum quod semen superfluitas est nutrimenti quantum
+      ad maiorem quantitatem ipsius; quantum ad minores partes ipsius est substantia decisa a
+      substantiis omnium membrorum et quia semen diuiditur propter multiplicationem speciei et
+      conseruationem in simili, ideo in semine est natura anime que operatur ad istam
+       <seg>multiplicationem</seg> exercerdam. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24555-d1e24703">
+          <hi>Ad secundam <seg>rationem</seg> dicendum <seg>est</seg> quod non est simile de aliis
+      superfluitatibus et de semine, quia alie superfluitates non sunt propter multiplicationem
+      rei in suo simili set solum sunt ille que a corpore <seg>abiciunt</seg> ad
+       <seg>exhonerandum</seg> naturam et ne nocumentum faciant in corpore. Alie autem que
+      remanent in corpore sunt ad decorationem partium corporis et defensionem, et ideo cum nulla
+      superfluitate alia fluit natura anime nisi cum sola illa ex qua fit sperma. Vnde si etiam
+      emittatur sanguis </hi>
+          <hi>|</hi>
+          <hi> a corpore superfluus non tamen cum eo fluit natura anime, licet cum eo fluat spiritus et
+      calor. Set cum spermate fluunt spiritus, <seg>spiritus</seg> et calor et anima uel uirtus
+      anime. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

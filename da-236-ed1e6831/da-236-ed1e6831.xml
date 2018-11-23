@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e6831" >
+        <head>Quaestio 3</head>
+        <head type="question-title">Utrum omne quod mouetur moueatur uiolentia</head>
+        <p xml:id="da-236-ed1e6831-d1e6839">[lec 15 q3] Circa terciam questionem sic proceditur et queritur utrum omne quod mouetur
+    moueatur uiolentia et circa hoc queruntur due questiones. Prima est utrum corpus superius
+    moueatur uiolentia, cum moueatur natura tanquam a principio intrinseco. Et ostenditur quod
+    non: omnis motus secundum uiolentiam et naturam requirit duos terminos oppositos ad quorum
+    unum naturaliter sit motus et ad aliud uiolenter. Set huiusmodi termini oppositi solum sunt in
+    motu recto, qui est ab uno in aliud et non sunt in <hi>|</hi> motu circulari, cum sint ab
+    eodem in idem. Ergo in motu circulari non est uiolentia set solum naturalis motus, ergo cum
+    corpus superius moueatur naturaliter motu circulari, patet quod non mouetur per uiolentiam. </p>
+        <p xml:id="da-236-ed1e6831-d1e6845">Secunda ratio est ista: motus <seg>uiolentus</seg> est fortior in principio et debilior in
+    fine, et hoc propter distantiam a principio uiolento. Motus autem naturalis fortior est in
+    fine et debilior in principio, et hoc proter distantiam eius a principio uiolento et ad
+    proximationem eius ad principium naturale. Ergo in eis in quibus est huiusmodi natura que est
+    distantia a principio naturali et approximatio eius ad principium uiolentum uel e conuerso est
+    motus naturalis et uiolentus. Set in solis corporibus inferioribus est hec natura et non in
+    superioribus, quia motus superiorum corporum est continuus et uniformis non habens intensionem
+    et remissionem, ergo habet approximationem ad principium naturale quod mouet continue et
+    uniformiter et non ad principium uiolentium. Ergo in motu corporum superiorum est natura
+    mouens et non uiolentia. Non mouentur ergo corpora superiora uiolenter. </p>
+        <p xml:id="da-236-ed1e6831-d1e6851">Ad oppositum: omnis motus qui est cum resistentia mobilis ad motorem est cum uiolentia. Set
+    motus primus circularis huiusmodi est, sicut dicit commentator in quarto
+       <seg>
+            <hi>Phisicorum</hi>.</seg> Dicit enim quod motus celi resistit motori et uirtuti eius
+    et propter illam resistentiam fit successio in illo. Ergo motus circularis primus qui est
+    motus corporum superiorum est uiolentus.</p>
+        <p xml:id="da-236-ed1e6831-d1e6860">
+          <hi>VOY</hi>
+          <seg>Solutio.</seg> Ad hoc dicendum est quod motus corporis celestis non est cum uiolentia,
+    unde corpora superiora non mouentur uiolentia. Set sola corpora inferiora que habent oppositos
+    situs et terminabilia sunt ad quietem mouentur natura et uiolentia, unde quando mouentur ad
+    situm compatientem*, tunc mouentur natura. Quando autem mouentur ad situm contrarium tun
+    mouentur uiolentia. In corpore autem celesti non est reperire istos situs oppositos et ideo in
+    corpore celeste non est uiolentia in mouendo. Mouetur enim ab eodem in idem et non a termino
+    opposito ad terminum oppositum. Aristoteles autem cum dixit quod omne quod mouetur natura
+    mouetur uiolentia intellexit de corporibus inferioribus. Corpus etiam celeste non est corpus
+    quod moueatur tanquam a principio sufficiente mouente, set ab intellectu mouetur tanquam a
+    principio sufficiente <seg>mouenter,</seg> natura uero est mouens ipsum, sicut principium
+    inclinans ad motum. <seg>Intellectus</seg> uero sicut principium complens motum. Concedente
+    ergo sunt rationes que ostendunt quod corpus celeste non possit moueri uiolentia. </p>
+        <p xml:id="da-236-ed1e6831-d1e6874">Ad rationem in contrarium dicendum est quod resistencia mobilis ad motorem est duobus modis:
+    uno modo quia quedam est <seg>resistencia</seg> que prouenit a contrariis inclinationibus ad
+    diuersos situs secundum quos mobile natum est ad unum situm dirigi et motor mouet ipsum ad
+    oppositum situm et ideo resistit mobile motori et hec resistencia facit motum uiolentum. Alias
+    est resistentia mobilis ad motorem que est a natura corporalitatis <hi>|</hi> et
+    partibilitatis proueniens que facit successionem in motu et non efficit motum
+      <seg>subiectum,</seg> est tamen mobile cum obedientia substantie motoris de natura sua et
+    inclinationis mobilis ad motorem, quia ducit ipsum motor ubi uult, et talis resistencia non
+    facit uiolentiam in motu et talis est in corpore celesti, et ideo corpus celeste cum uiolentia
+    non mouetur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

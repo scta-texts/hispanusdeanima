@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e2056" >
+        <head>Quaestio 4</head>
+        <head type="question-title">Utrum intellectus 
+    qui est motor uniuersalis omnium sit in omnibus 
+    secundum essentiam uel secundum uirtutem</head>
+        <p xml:id="da-236-ed1e2056-d1e2064">[lec 10 q4] <seg>Circa</seg> quartam <seg>questionem</seg> sic proceditur et queritur utrum
+    intellectus qui est motor uniuersalis omnium sit in omnibus secundum essentiam uel secundum
+    uirtutem, et hoc est querere utrum ille intellectus uel primum, quod idem est, sit ubique
+      <seg>et</seg> in quolibet per essentiam, et ostenditur quod <seg>sic:</seg> cuiuslibet
+    substantie uel <seg>coartationis</seg> coartatio in sua existentia causa est aut defectus
+    simplicitatis aut dependentia a materia aut limitatio essentie et uirtutis et operationis.
+      <seg>Hoc</seg> per inductionem comprobatur. Coartatur enim substantia propter defectum
+    simplicitatis, sicut patet in substantiis corporalibus que non possunt extendi ultra terminos
+    sue dimensionis et materie propter dependentiam a materia sicut patet in formis et substantiis
+    materie alligatis, sicut patet in anime <seg>differentiis.</seg> Propter limitationem autem
+    predictorum sicut patet in omnibus <seg>causatis</seg> tam simplicibus separatis quam
+    compositis coniunctis <seg>consideratis</seg> sua uirtute et operatione et existentia ipsarum
+    in rebus aliis, ergo illud a quo omnia predicta remouentur ad nichil <seg>coartatur</seg> sue
+    essentie in <seg>existencia,</seg> set primum est huiusmodi, ergo ad nichil coartatur in sue
+    essentie existentia, set primum est huiusmodi, ergo ad nichil coartatur in sue essentie
+      <seg>existentia,</seg>
+          <seg>ergo</seg> qua ratione est per essentiam alicui eadem et ubique <seg>et</seg> qua ratione
+    in uno eadem et in pluribus. Primum igitur existit in omnibus et ubique per essentiam et ita
+    intellectus uniuersalis | mouens omnia existit in omnibus per essentiam. </p>
+        <p xml:id="da-236-ed1e2056-d1e2111">Secunda ratio hec est: in omnibus conditionibus simplicitatis et inmunitatis a coartatione
+    existentie creator infinitam habet excellentiam ad creaturas. <seg>Hoc</seg> patet sanam
+    habentibus mentem, quia non solum in hiis creator | excellit in <seg>infinitum</seg>
+    creaturas, set in omnibus conditionibus perfectionis et uirtutis et operationis, set
+    intelligentia propter sui simplicitatem nata est esse ubique non tamen tota simul et celum
+    secundum suarum partium <seg>reuolutionem</seg> et anima in qualibet parte corporis per
+    essentiam propter sui simplicitatem et ydolum in qualibet <seg>parte</seg> medii et species
+    abstracte in diuersis intellectibus. Ergo creator quantum ad hoc in infinitum excellit omnes
+    creaturas, ergo necesse est ipsum esse ubique in omnibus per essentiam totum simul. Aliter
+    enim non est predictas excellere creaturas in predicta existentia. </p>
+        <p xml:id="da-236-ed1e2056-d1e2126">Ad <seg>oppositum:</seg> sicut dicit Aristoteles in octauo <seg>
+            <hi>Physicorum</hi>,</seg>
+    primus unus <seg>est</seg> solus inmobilis per se et per accidens separatus ab omnibus et
+    existens extra <seg>omnia</seg> et separatus ab omnibus. Ergo no est in omnibus per essentiam. </p>
+        <p xml:id="da-236-ed1e2056-d1e2144">Secunda ratio hec est: omnis motor coniunctus essentia et uirtute mobili mouetur secundum
+    exigentiam mobilis, sicut patet de anima que est motor coniunctus essentia et uirtute corpori.
+    Et ideo mouetur secundum exigentiam corporis, ergo si intellectus primus esset coniunctus
+    omnibus rebus et esset in omnibus essentia et uirtute moueretur secundum motum omnium rerum.
+    Hoc autem falsum <seg>est</seg> et contra Aristoteles in <seg>octauo,</seg> ergo intellectus
+    primus uel causa <seg>prima,</seg> quod idem est, qui <seg>est</seg> motor uniuersalis
+    omnibus, non est in omnibus <seg>et</seg> ubique per essentiam. </p>
+        <p xml:id="da-236-ed1e2056-d1e2162">
+          <seg>Solutio.</seg> Dicendum est quod intellectus qui est motor uniuersalis omnium, sicut
+    intellectus prime cause uel prima causa, quod <seg>id</seg> est in essentia, est in omnibus
+    essentia et uirtute, sicut ostendunt rationes, et non dependet ab ipsis. Immo in sui essentia
+    fixum existens est nec est contrahens dependentiam nec coartationem ab eis in quibus est et
+    quia ad nichil coartatur, ideo in omnibus est non recipiens ab eis diuersitatem nec
+    contractionem, set est in omnibus manens <seg>unum</seg> per essentiam et fixum, et stans et
+    independens ab eis tanquam mouens et regens et conseruans et dirigens omnia. </p>
+        <p xml:id="da-236-ed1e2056-d1e2173">Ad primam rationem in contrarium dicendum <seg>est</seg> quod cum <seg>Aristoteles</seg>
+    posuit quod primus motor est extra omnia et separatus intellexit quod est extra omnia per
+    independentiam, unde aliquid est extra <seg>alia</seg> duobus modis: uno modo quia nullo modo
+    est in eis, et sic non est motor primus extra omnia. Alio <seg>modo</seg> quod quamuis in eis
+    sit tamen nullo modo dependet ab ipsis et sic primus <seg>motor</seg> est extra omnia et est
+    omnibus per essentiam non dependens ab eis. </p>
+        <p xml:id="da-236-ed1e2056-d1e2191">Ad secundam <seg>rationem</seg> dicendum <seg>est</seg> quod duplex est motor: quidam est
+    coniunctus, quidam est separatus. Dicitur autem motor coniunctus qui est in aliquo per
+    dependentiam ab ipso, sicut anima in corpore, et talis mouetur secundum exigentiam sui
+      <seg>mobilis</seg> in <seg>quo</seg> est. Dicitur autem <seg>motor</seg> separatus
+      <seg>qui,</seg> licet existat in alio per essentiam, nullo <seg>tamen</seg> modo dependet ab
+    eo, sicut motor primus, est ergo in omnibus per essentiam. Dicitur autem separatus,
+      <seg>quia</seg> per essentiam nullo modo nec per uirtutem dependet a rebus, unde sicut
+    radius solaris existit in aere et aqua et tamen illis motis non mouetur radius et hoc est quia
+    non dependet ab illis, set ab alio principio fixo non moto, | sicut a sole, similiter primus
+    motor est in omnibus per essentiam independens ab eis, cum sit fixus de sua essentia, et ideo
+    dicitur separatus et ideo non mouetur secundum motum uel exigentiam rerum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

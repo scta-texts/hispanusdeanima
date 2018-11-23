@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e19063" >
+        <head>Quaestio 3</head>
+        <head type="question-title">Cui substantie competit, utrum
+    materie uel forme</head>
+        <p xml:id="da-236-ed1e19063-d1e19071">
+          <hi>[lec7 q3] Circa terciam questionem sic proceditur. Supposito quod uitam competat
+       <seg>dare</seg> substantie, <seg>tunc</seg> queritur cui substantie competit, utrum
+      materie uel forme, et quod forme competat hoc <seg>sic</seg> ostenditur: proprium est forme
+      ut influat supra materiam esse et conseruationem et perfectionem et non e conuerso. Set
+      illud quod dat uitam confert ista uiuentibus, ergo dare uitam competit substantie que est
+      forma. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19063-d1e19086">
+          <hi>Ad oppositum: uita est actus resultans ex unione forme cum materia, ergo uita est actus
+      compositi. Set actus compositi non <seg>magis</seg> datur forme quam materie, ergo dare
+      uitam non magis competit forme quam <seg>materie.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e19063-d1e19098">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum est quod dare uitam non competit materie set forme, quia forma dat esse
+      rei et perficit ipsam et conseruat et quia uiuere uiuentis est esse et perfectio, ideo forme
+      est dare uitam et non materie. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19063-d1e19111">
+          <hi>Ad rationem in contrarium dicendum <seg>est</seg> quod uita competit materie et forme. Set
+      competit <seg>forme</seg> tanquam ei a quo fluit. Materie autem competit tanquam recipienti
+      et exhibitione forme et receptione materie causatur uita que est actus compositi, et sic
+      patet quod forme est dare et exhibere uitam.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e22526" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e22526-d1e22531">
+          <hi>Capitulum tercium de speciali sermone circa uirtutes anime sermo de <seg>uniuersali</seg>
+      continens duos paragraphos in quorum primo continente tres distinctiones agitur de uirtute
+      prout est principium uite et generationis. Prima autem distinctio <seg>est</seg> de eius
+      primis operibus. </hi>
+          <hi>|</hi>
+          <hi> Continuatio intensionis.</hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22549">
+          <hi>Necessarium autem est debentem <seg>mentionem</seg> facere</hi>
+          <hi> et cetera. Posquam assignauit philosophus distinctionem <seg>differentiarum</seg> anime
+      et ordinem naturalem. Et ostendit quod diffinitio uniuersalis anime non sufficit in
+      cognitione sue substantie et differentiarum eius. In hac parte spiritualiter de singulis
+      eius differentiis determinat. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22564">
+          <hi>Diuisio. Recipit <seg>autem</seg> hec <seg>pars</seg> in duas, in quarum prima determinat
+      modum procedendi circa ipsas. In secunda, scilicet in hac, </hi>
+          <hi>uegetatiua enim anima et aliis inest et propria et maxime communis anime potencia</hi>
+          <hi> et cetera, de singulis differentiis anime per ordinem determinat. Secunda autem pars
+      recipit diuisionem in duas <seg>partes,</seg> in quarum prima determinat de illis
+      differentiis anime que alicuius partis corporis sunt actus et que omnino a corpore
+      dependent, quarum una est uegetabilis et altera sensibilis. In secunda, scilicet in hac, </hi>
+          <hi>de parte autem anime qua anima intelligit et sapit</hi>
+          <hi> et cetera, determinatur de illa que nullius partis corporis est actus et hec est
+      intellectiua. Et prima pars continet unam partem huius secundi tractatus. Secunda autem
+      continet tercium tractatum. Prima autem pars recipit diuisionem in duas partes, in quarum
+      prima determinat de prima differentia anime, que est principium esse, que <seg>est</seg>
+      uegetabilis. In secunda, scilicet in hac, </hi>
+          <hi>determinatis autem hiis dicemus communiter de omni sensu</hi>
+          <hi> et cetera, determinat de altera differentia que est principium cognitionis que est
+      sensibilis. In hoc igitur capitulo determinat de differentia uegetabili et de uirtutibus et
+      operationibus et obiectis ipsius. Hec autem differentia habet duas uirtutes, scilicet
+       <seg>generatiuam,</seg> que est principium esse et conseruationis <seg>rei</seg> in suo
+      simili. Altera est nutritiua que est principium conseruationis rei in se <seg>ipsa</seg> que
+      siquidem diuiditur per nutritiuam que ordinatur ad conseruationem subiecti et augmentatiuam
+      que ordinatur ad perfectam et debitam quantitatem subiecti. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22610">
+          <hi>Recipit <seg>igitur</seg> hoc capitulum diuisionem in duas partes, in quarum prima
+      determinat de anima uegetabili quantum ad uirtutem generatiuam et operationem ipsius. In
+      secunda, scilicet in hac, &lt;quoniam autem hec potencia anime est uegetatiua et cetera,
+      determinat de ipsa quantum ad uirtutem nutritiuam et augmentatiuam et operationes et obiecta
+      ipsarum. Prima autem pars recipit diuisionem in duas, in quarum prima determinat de anima
+      uegetabili quantum ad uirtutem generatiam et operationem eius, quia anima est principium
+      uite quod est esse in uiuentibus et operationis in corpore et est causa omnium que sunt in
+      corporibus animatis. Et ideo in secunda parte, scilicet in <seg>hac&gt;,</seg>
+          </hi>
+          <hi>est autem anima uiuentis corporis causa et principium</hi>
+          <hi> et cetera, <seg>ostendit</seg> secundum tres modos causarum <seg>anima</seg> comparatur
+      ad corpus et hoc primo <seg>supposuerat.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22638">
+          <hi>Prima <seg>uero</seg> istarum partium spectat ad presentem speculationem cum illa
+       <seg>parte</seg> in qua tangit modum procedendi circa differentias anime. Sunt igitur in
+      lectione <seg>presenti</seg> partes due, in quarum </hi>
+          <hi>|</hi>
+          <hi> prima determinat modum procedendi circa differentias anime. In secunda determinat de
+      differentia uegetabili a parte uirtutibus generatiue et operationis eius. Prima istarum
+      partium recipit diuisionem in duas, in quarum prima ostendit <seg>modum</seg> procedendi
+      circa speciales anime differentias. In secunda, scilicet in hac, </hi>
+          <hi>si autem congruit dicere quid unaqueque ipsarum</hi>
+          <hi> et cetera, tangit uiam secundum quam ad cognitionem anime est procedendum, quia a
+      potenciis ad substantias et ab actibus <seg>ad</seg> potencias. <seg>Secunda</seg> pars
+      principalis recipit diuisionem in duas, in quarum prima diuidit animam uegetabilem per suas </hi>
+          <hi>|</hi>
+          <hi>potencias. In secunda, scilicet in hac, </hi>
+          <hi>naturalium enim omnibus uiuentibus <seg>inest</seg>
+          </hi>
+          <hi> et cetera, determinat de operatione prime uirtutis eius que est generatiua.</hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22689">
+          <hi> Hec est diuisio huius partis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22695">
+          <hi>Sententia prime partis de modo procedendi <seg>circa</seg> anime differentias. Circa
+      primam partem procedit <seg>philosophus</seg> hoc modo: cum <seg>determinatum</seg> sit quod
+      diffinitio uniuersalis anime predicta non sufficit in cognitionem anime oportet singularum
+      differentiarum eius diffinitiones proprias assignare et ideo necesse est artificem tradentem
+      scientiam de istis differentiis anime determinare diffinitiones proprias singularum
+      differentiarum ipsius dicendo <seg>quid</seg> unaquecumque sit et oportet inuestigare
+      contingentia circa ipsas que sunt questiones incidentes sicut hec <seg>est,</seg> utrum
+      intellectus sit abstractus an non, et consimiles. Et etiam proprietates singularum quousque
+      habeatur perfecta <seg>demonstratio</seg> et propria uniuscuiusque ipsarum. De uia
+       <seg>enim</seg>
+            <seg>per</seg> quam <seg>precedet</seg>
+            <seg>predicta</seg> cognitio <seg>communiter</seg> determinat per quam <seg>uiam</seg>
+            <seg>huiusmodi</seg> cognitio habetur. Hec autem est uia procedens ex illis que sunt priora
+      quoad nos et posteriora natura ad priora natura et posteriora quoad <seg>nos.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22745">
+          <hi>In hac parte duo determinat: primum est processus ab actibus ad potentias dicens quod in
+      hac uia <seg>primo</seg> debemus cognoscere quid est intelligere et post quid est
+      intellectus, et similiter est de sentire et sensu et similiter est de aliis actibus et
+      potenciis et reddit causam <seg>huius,</seg> quia ab <seg>eis</seg> que sunt priora secundum
+      diffinitionem et cognitionem primo <seg>est</seg> procedendum in scientia ad illa que sunt
+      posteriora in hac uia. Set actus priores <seg>sunt</seg> potenciis in hac uia, ergo in
+      scientia prius procedendum est ab actibus ad potencias. Secundo autem, cum dicit, </hi>
+          <hi>si autem <seg>sicut</seg> hiis adhuc priora sunt opposita</hi>
+          <hi> et cetera, ostendit secundum hanc uitam quod prius incipiendum est ab obiectis, cum sint
+      priora actibus. Dicit igitur quod propter eandem rationem prius deter</hi>
+          <hi>|</hi>
+          <hi>minandum est de oppositis uirtutum anime et <seg>uocat</seg> opposita obiecta eo quod in
+      uirtutes nata sunt agere et actiuum et passiuum sunt <seg>contrarie</seg> opposita, ut prius
+       <seg>oportet</seg> scire quid alimentum quod est obiectum uegetabilis et quid est
+       <seg>obiectum</seg> sensibilis, et sic de aliis. Et est ratio eadem que et
+       <seg>prior</seg> a prioribus in uia cognitionis et diffinitionis est inchoandum in
+      scientia. Set obiecta priora <seg>sunt</seg> in hac uia, ergo ab obiectis est inchoandum.
+      Sunt ergo priora in uia cognitionis quoad nos. Set quia inter omnia obiecta prius est
+      obiectum uegetabilis et ipsa est prior aliis differentiis, ideo prius de obiecto ipsius et
+      de ipsa est determinandum, et ideo primo de alimento et generatione est dicendum. Sic autem
+       <seg>terminatur</seg> prima pars. Sciendum autem <seg>est</seg> quod hec pars potest
+      ordinari ut sit de integritate precedentis, ut dictum est. Set nos tamen ad sequentem
+       <seg>continuamus</seg> propter dependentiam et <seg>unionem</seg> quam habet cum ipsa.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22812">
+          <hi>Sententia secunde partis in qua agitur de differentia uegetabili et de eius distinctione
+      per suas potencias, consequenter accedit ad secundam partem principalem in qua determinat de
+      differentia uegetabili et primo determinat distinctionem potenciarum ipsius, et in illa
+      parte sunt <seg>duas</seg> partes in quarum prima tangit prioritatem ipsius respectu
+       <seg>aliarum;</seg> in secunda, scilicet in hac, </hi>
+          <hi>cuius sunt opera</hi>
+          <hi> et cetera, tangit distinctionem uirtutum et operum ipsius. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22830">
+          <seg>
+            <hi>Circa</hi>
+          </seg>
+          <hi> primam partem procedit dicens, diximus quod ad habendam perfectam cognitionem substantie
+      anime et potenciarum ipsius oportet ad singularum differentiarum diffinitiones descendere,
+      et oportet incipere ab obiectis ad actus procedendo et ab actibus ad potencias uiam
+      dirigendo. Et inter hec a prioribus inchoandum. Set obiectum uegetatiue prius est omnibus,
+      et uirtus eius, <seg>ergo</seg> ab obiecto et eius uirtute primo inchoandum. Quod autem
+      uegetatiua prior <seg>sit</seg> aliis manifestatur hoc modo: omnis substantia que est prior
+      aliis et maxime communis que inest omnibus uiuentibus omnibus existens uite principium est
+      illa que est prius cadens in scientiam et obiecta et operationes ipsius. Set uegetabilis est
+      huiusmodi, ergo prius est cadens in <seg>scientia</seg>
+            <seg>ipsa</seg> et obiecta et operationes eius. Causa uero huius processus est quia, sicut
+      habetur in principio </hi>
+          <hi>phisici negotii</hi>
+          <hi>, communia sunt priora et notiora nobis quam propria et ab illis prius inchoandum est.
+      Deinde distinguit operationes et uirtutes huius differentie dicens quod eius operationes et
+      uirtutes huius differentie dicens quod eius <seg>operationes</seg> sunt due, scilicet
+      generare et per hoc intelligit uirtutem generatiuam et suum actum, qui est generare et
+      nutrire per uirtutem <seg>uel</seg> intelligit nutritiuam et eius actum qui est nutrire et
+      ad hunc reducit uirtutem augmentatiuam et operationem <seg>eius.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22870">
+          <hi>|</hi>
+          <hi> Sentencia de <seg>operatione</seg>
+            <seg>prima</seg> differentie uegetabilis que est generare a uirtute generartiua procedens.
+      Consequenter determinat operationem prime uirtutis, scilicet generatiue et in illa parte
+      sunt due partes, in quarum prima determinat de operatione generationis ad quam differentia
+      uegetabilis ordinatur. In secunda, scilicet in hac, </hi>
+          <seg>
+            <hi>quatinus</hi>
+          </seg>
+          <hi> ipso semper diuino participent </hi>
+          <hi>et cetera, tangit causam finalem huius operationis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e22897">
+          <hi>Circa primam igitur partem procedit dicens, uirtus uegetabilis habet unum opus quod est
+      generare, et hoc est quia omnia corpora naturalia animata habent uirtutem generatiuam in
+      quibus sunt <seg>et</seg> iste conditiones que sunt tres: prima est ut animatum quod est
+      natum generare pertingat tempus in quo sit completum </hi>
+          <hi>|</hi>
+          <hi> et aptum ad generandum cum non sit semper in effectum ad generationem aptum. Secunda
+       <seg>est</seg> ut non habeat impedimentum quod impediat hanc actionem nec in uirtute
+       <seg>neque</seg> in instrumento. Tercium est ut non sit de numero illorum uiuentium
+       <seg>que</seg> per se <seg>generantur</seg> et non a simili et sunt herbe que sine semine
+      generantur et <seg>alia</seg> putrefactione generata et cum iste conditiones fuerint
+       <seg>contingentes</seg> tunc unumquodque generabit sibi simile sicut animal animal et
+      planta plantam. Deinde tangit causam finalem propter quam est generatio ad quam ordinatur
+      hec uirtus et primo dat illam causam et secundo diuidit causam. Dicit igitur quod generatio
+      est in rebus ut participent diuinum et sempiternum esse secundum quod est <seg>in</seg> eis
+      possibile per naturam et que <seg>in</seg> ipsis non possunt <seg>conseruari</seg> in simili
+      secundum speciem conseruerentur. Sollicitudo enim diuina cum <seg>ipsum</seg> non potuit
+       <seg>permanere</seg> secundum indiuiduum miserta est in dando ei uirtutem qua potest in
+      specie permanere. Et deinde dicit quod omnia appetunt hunc finem, scilicet permanentia
+       <seg>sempiternam</seg> et mouentur ad ipsam consequendam secundum quod innatum est nature
+      et gratia istius finis agunt quecumque naturaliter agunt. Deinde diuidit intensionem
+       <seg>cause</seg> finalis, cum dicit, </hi>
+          <hi>id <seg>autem</seg> quod cuius causa <seg>sit</seg> dupliciter</hi>
+          <hi> et <seg>cetera,</seg> intensio illius partis <seg>est</seg> talis: <seg>cum</seg>
+      determinauit causam finalem propter quam uirtus generatiua existit in rebus et hec causa est
+       <seg>ablatio</seg>
+            <seg>corporalis</seg> diuino et incorruptibili secundum quod unicuique possibile
+       <seg>est</seg> per naturam incipit assignare diffinitionem modorum finis, dicens quod
+      causa finalis est duplex: una est propter quam res operantur in hac generatione, et alia est
+      in qua communicant per illam generationem. Causa uero finalis cuius gratia agunt est
+       <seg>continuatio</seg> esse secundum perpetuitatem. Causa uero in qua communicant est res
+      perpetua cui assimulantur in illa perpetua continuatione. Vt si ponamus quod agunt ut suum
+      esse secundum <seg>perpe</seg>
+          </hi>
+          <hi>|</hi>
+          <hi>tuitatem <seg>continuent</seg>
+            <seg>et</seg> ut perpetuo sicut corpori celesti assimulentur quod indiuiduo suum esse
+       <seg>continuat</seg> uel dicatur quod finis cuius <seg>gratia</seg>
+            <seg>continuatio</seg> esse perpetui. Illud autem quo fit hec continuatio est anima et
+      uirtus generatiua et operatio generationis eius et <seg>inde</seg> dat modum secundum quem
+      generabilia <seg>corporalia</seg> possunt cum eternis communicare dicens quod quia non
+      possunt actu communicare cum ipso, sempiterno et diuino eo quod nullum in
+       <seg>corporale</seg> potest cum <seg>eo</seg> in uno eodem statu indiuidui secundum
+      naturam permanere. Ideo eo modo quo eis <seg>est</seg> possibile per naturam diuinum esse et
+      perpetuum participant in suo simili ipsum participantia ut quod unum numero permanere non
+      potest unum secudum speciem in suo simili permaneat ut non permaneat idem. Set simile eidem
+      ut idem specie permaneat quod idem numero permanere no potest. Et sic terminatur intensio
+      huius partis.</hi>
+        </p>
+        <p xml:id="da-236-ed1e22526-d1e23027">
+          <hi>In generali <seg>questiones.</seg>
+            <seg>Circa</seg> partem istam ad presentem sex incidunt questiones. Prima [lec10 q1] est de
+      necessitate anime uegetabilis. Secunda [lec10 q2] est utrum sit principium uite in omni
+       <seg>uiuente.</seg> Tercia [lec10 q3] <seg>questio</seg> est utrum det uitam per suam
+      substantiam <seg>an</seg> per suas potencias. Quarta [lec10 q4] questio <seg>est</seg> utrum
+      uiuere in uiuentibus esse <seg>sit.</seg> Quinta [lec10 q5] utrum generatio sit in
+      uiuentibus ab anima. Sexta [lec10 q6] <seg>utrum</seg> sit ab anima secundum omnem sui
+      differentiam an secundum <seg>uegetabilem.</seg> Questiones uero que <seg>incidunt</seg>
+            <seg>circa</seg> modos omnes generationis et <seg>circa</seg> embrionem in tractatu quem
+      sufficienter <seg>apponemus</seg> determinabuntur et <seg>in</seg> ipso
+       <seg>requiratur</seg> et si placet determinantur hic. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

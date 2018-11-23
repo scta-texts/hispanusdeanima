@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2 Utrum anima uegetabilis et
+    sensibilis prout sunt in eodem differant secundum substantiam.</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2 Utrum anima uegetabilis et
+    sensibilis prout sunt in eodem differant secundum substantiam.</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e17457" >
+        <head>Quaestio 2</head>
+        <head type="quesiton-title">Utrum anima uegetabilis et
+    sensibilis prout sunt in eodem differant secundum substantiam.</head>
+        <p xml:id="da-236-ed1e17457-d1e17465">
+          <hi>[lec6 q2] Circa secundum sic proceditur et queritur habito quod anima intellectiua
+      differat secundum substantiam ab anima uegetabili et sensibili prout sunt in eodem, queritur
+      de opinione quorumdam qui ponunt quod anima uegetabilis et sensibilis prout sunt in eodem
+      non differunt <seg>secundum</seg> substantiam et queritur utrum anima uegetabilis et
+      sensibilis prout sunt in eodem differant secundum substantiam. <seg>Et</seg> ostenditur quod
+      sic: anime sensibili debetur cognitio, unde uita <seg>eius</seg> est cognitio et esse eius
+      est cognitio et perficit corpus in cognoscendo formas materiales. Anime uero uegetabili non
+      debetur hec natura set solum perficit corpus quantum ad esse et uitam, ergo anima
+      uegetabilis et sensibilis in <seg>eo</seg> differunt secundum substantiam, quia si eedem
+       <seg>essent</seg>
+            <seg>secundum</seg> substantiam haberent idemptitatem in naturis <seg>istis.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17493">
+          <hi>Secunda ratio hec est: genera et differentie fundantur in formis naturalibus, et hec
+      differentia que est uiuens fundatur <seg>primo</seg> in anima uegetabili, que est primum
+      principium uite. Hec autem differentia que est sensibile fundatur in anima sensibili et non
+      fundantur differentie in istis a parte potenciarum set a parte substantiarum que differentie
+      sunt in genere substantie, potentie uero non. Set iste differentie non sunt eedem per
+      essentiam, ergo radices earum non sunt eedem per essentiam, <seg>ergo</seg> anima
+      uegetabilis et sensibilis que sunt radices earum differunt per essentiam prout etiam sunt in
+      eodem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17505">
+          <hi>Tercia ratio hec est: maior simplicitas et minor in substantiis et potenciis a parte
+      obiectorum et operationum diuersificat essentias. Per hoc enim debetur substantiis diuersis
+      quod quedam cognoscunt <seg>et</seg>
+            <seg>quedam</seg> non. Set anima uegetabilis et sensibilis differunt secundum maiorem
+      simplicitatem <seg>uel</seg> minorem in substantiis et potenciis et <seg>operationibus</seg>
+      in eodem, ergo differunt secundum substantiam prout sunt in eodem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17524">
+          <hi>Ad hoc idem inducuntur rationes predicte que probant qud anima intellectiua differt
+      secundum substantiam ab anima uegetabili et sensibili et hoc <seg>patet</seg> per
+      auctoritatem Aristotelis in libro </hi>
+          <hi>De <seg>animalibus</seg>
+          </hi>
+          <hi> dicentis quod anima uegetabilis precedit sensitiuam tempore et natura. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17541">
+          <hi>Ad oppositum: causa propter quam </hi>
+          <hi>|</hi>
+          <hi> ponimus animam intellectiuam differe ab aliis secundum substantiam est quia intellectiua
+      nullius partis corporis est actus et quia est separabilis. Alie autem sunt actus partium
+      corporis et <seg>sunt</seg>
+            <seg>separabiles.</seg> Item alie a natura producuntur et sunt impresse materie,
+      intellectiua uero non, set anima uegetabilis et sensibilis participant easdem conditiones,
+      ergo non facit eas differe per essentiam, set solum per potentias. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17559">
+          <hi>Secunda ratio hec est: sicut uult Aristoteles in libro </hi>
+          <hi>De <seg>anima</seg>
+          </hi>
+          <hi>, potencia intellectiua est alterum <seg>genus</seg> ab anima uegetabili et sensibili et
+       <seg>separetur</seg> ab illis, sicut perpetuum a <seg>corruptibili.</seg> Set alie non
+      sunt separabiles ad inuicem secundum <seg>Aristotelem</seg> et loquitur de separatione
+      substantie et de distionctione ad inuicem, <seg>et</seg> dicit quod solum differunt ratione
+      et <seg>quod</seg> non differunt anima uegetabilis et sensibilis nisi per obiecta sicut
+      differt uirtus sensitiua ab opinatiua <seg>per</seg> diuersitatem obiectorum. Ergo per
+      auctoritatem Aristotelis anima uegetabilis et sensibilis non differunt in eodem secundum
+      substantiam set solum secundum potencias et rationem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17595">
+          <hi>Tercia ratio hec est: anima uegetabilis et sensibilis ducuntur de potencia anime ad actum
+      per operationem nature ex principiis <seg>nature.</seg> Set fiunt secundum maiorem et
+      minorem puritatem complexionis et subtilitatem, set idem est principium in <seg>natura</seg>
+      ex quo fit res magis subtilis et minus subtilis et <seg>eadem</seg> res facta differens
+      secundum maiorem subtilitatem et minorem, sicut spiritus naturalis et <seg>sensibilis</seg>
+      sunt in substantia <seg>idem,</seg> differentes solum secundum maiorem subtilitatem et
+      minorem, quia spiritus sensibilis subtilior est quam spiritus naturalis, ergo eodem modo
+      eadem erit substantia anime uegetabilis et sensibilis differens secundum maiorem
+      subtilitatem et minorem, et ita anima uegetabilis et sensibilis in eodem sunt eedem secundum
+      substantiam et <seg>differunt</seg> solum secundum <seg>potencias.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17622">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod quidam ponunt <seg>quod</seg> anima uegetabilis et
+       <seg>sensibilis</seg> sunt eedem secundum substantiam et differunt solum
+       <seg>secundum</seg> potencias differentes secundum maiorem subtilitatem et minorem.
+      Intellectiua uero differt ab illis per essentiam et potencias et operationes, unde ponunt
+      quod in homine sunt due anime differentes secundum substantiam quia uegetabilis et
+      sensibilis non differunt secundum substantiam set solum secundum potencias. Dicendum
+       <seg>est</seg> autem quod anima uegetabilis et sensibilis in eodem et <seg>in</seg>
+      diuersis differunt secundum substantias et uirtutes et operationes tamen maior
+       <seg>diuersitas</seg> est inter animam intellectiuam et ipsas quam inter ipsas
+       <seg>ad</seg> inuicem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17659">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod predicte conditiones </hi>
+          <hi>|</hi>
+          <hi> non faciunt differe animam intellectiuam ab anima </hi>
+          <hi>|</hi>
+          <hi> sensibili et <seg>uegetabili,</seg> set <seg>sequuntur</seg> ad differentias ipsius ad
+      illas. Differentia autem ipsarum prouenit a parte ordinis nature ordinantis res et
+       <seg>distinguentis</seg> essentias et potencias et operationes earum. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17690">
+          <hi>Ad secundam <seg>rationem</seg> dicendum <seg>est</seg> quod separatio est duplex,
+       <seg>quedam</seg> que est anime a corpore, et <seg>secundum</seg> istam anima intellectiua
+      dicitur separabilis. Alie dicuntur inseparabiles et de hac non loquitur Aristoteles. Alia
+      est separabilitas substantie secundum diuersitatem essentie et hec est duplex, quedam que
+      attenditur in naturalibus dispositionibus eiusdem differentie et talis separatio facit
+      separationem <seg>solum</seg> in potenciis et obiectis <seg>et</seg> operationibus et non in
+      substantia anime. Alia est in diuersis differentiis, sicut in uegetabili et sensibili, et
+      hec est duplex, quedam in <seg>substantia</seg> quedam in essentia. Sunt ergo separabiles
+      anima sensibilis et anima <seg>uegetabilis</seg>
+            <seg>non</seg> in <seg>subiectis</seg> set in essentiis, unde sunt unum in
+       <seg>subiecto</seg> et differunt per essentias. Vt autem breuius dicamus dicendum
+       <seg>est</seg> quod ille due <seg>differentie</seg> anime habent duplicem rationem, unam
+      per quam perficiunt corpus et sic reducuntur ad unitatem subiecti, aliam habent rationem que
+      est secundum intensionem essentie sue et sic non reduncuntur ad unitatem substantie.
+      Aristoteles enim exemplificat in potenciis eiusdem differentie sicut in opinatiua et
+      sensitiua. </hi>
+        </p>
+        <p xml:id="da-236-ed1e17457-d1e17737">
+          <hi>Ad terciam rationem dicendum quod forme corporales reducuntur de potentia materie ad actum
+      et similiter iste due anime differentie non tamen fit reductio istarum differentiarum anime
+      secundum maiorem subtilitatem et minorem, unde non est simile de istis et de spiritu, quia
+      spiritus est corpus natum subtiliari et etiam ingrossari, et ideo potest secundum hoc
+      diuersas habere naturas et diuersis uirtutibus adaptari, set differentie non possunt habere
+      diuersas naturas secundum maiorem subtilitatem et minorem, cum non sint corpus, et ita non
+      sunt possibiles ad maiorem <seg>subtilitatem</seg> et minorem, set sunt forme spirituales
+      quamuis a corpore dependeant. Reducuntur autem de potencia materie ad actum non per hanc
+      subtilitatem set per uirtutem agentis ipsas ad actum <seg>producentes.</seg> Subtiliatio
+      autem maior et minor si sit in productione istarum est a parte corporis et per illam maiorem
+      et minorem subtilitatem habile <seg>est</seg> corpus ad hoc <seg>ut</seg> nobiliori
+      differentia anima perficiatur non tamen fit subtiliatio a parte substantie anime. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

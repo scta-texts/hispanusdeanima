@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e4846" >
+        <head>Quaestio 4</head>
+        <head type="question-title">Cui quantitatem
+    competat hoc, scilicet principium exemplare rerum</head>
+        <p xml:id="da-236-ed1e4846-d1e4854">Circa quartam <seg>questionem</seg> sic proceditur et queritur cui <seg>quantitatem</seg>
+    competat hoc, <seg>scilicet</seg> principium exemplare rerum, et ostenditur quod continue
+    quantitati et non discrete, que est numerus, quia sicut habetur in libro
+       <seg>
+            <hi>Phisicorum</hi>,</seg> numerus resultat ex decisione continui. Set omne quod
+    resultat ex alio est posterius eo, ergo numerus est posterior quam continuum. Set prius magis
+    debet esse principium exemplare quam posterius, ergo continuum magis debet esse principium
+    exemplare quam numerus. </p>
+        <p xml:id="da-236-ed1e4846-d1e4871">Ad oppositum, illud in genere quantitatis est exemplar rerum, quo <seg>id</seg> est ratio
+    ordinandi res et discernendi et discretionis o|perationis agentis. Hoc autem est quantitas
+    discreta que est numerus et non continua, ergo quantitas discreta que est numerus
+      <seg>debet</seg> esse principium exemplare omnium et non quantitas continua. </p>
+        <p xml:id="da-236-ed1e4846-d1e4880">
+          <seg>Solutio.</seg> Ad hoc dicendum est quod exemplaria habent potius intensionem quantitatis
+    discrete que est numerus quam quantitatis continue, et causa huius est quia numerus maxime
+    abstrahit et maxime est <seg>commnunis</seg> omnibus rebus, et ratio <seg>discretionis</seg>
+    rerum et quia iste sunt proprie rationes et conditiones ipsius exemplaris, ideo numerus uel
+    quantitas discreta que est numerus potius habet naturam et rationem exemplaris quam continua
+    quantitas. </p>
+        <p xml:id="da-236-ed1e4846-d1e4892">Ad rationem in contrarium dicendum <seg>est</seg> quod duplex est <seg>numerus:</seg> quidam
+    enim numerus uniuersalis abstrahens ab omni sustantia et ab omni re, et talis numerus est
+    exemplar <seg>uniuersale</seg> omnium rerum. Alius autem est numerus numeralis non abstrahens
+    et talis a continuo non separatur, set sequitur continuum et diuisionem continui, et iste
+    numerus est duplex siue dupliciter <seg>est</seg>
+          <seg>consideratus:</seg> uno modo prout ex continuo resultat et ex diuisione eius, et hoc modo
+    posterius est eo, nec est principium rerum exemplare. Alio modo consideratur iste
+      <seg>numerus</seg> prout ad mentem agentis in eductione <seg>effectiuum</seg> refertur
+      <seg>ex</seg> continuo, et hoc modo prius est effectibus, et hoc modo est principium
+    exemplare rerum.}</p>
+      </div>
+    </body>
+  </text>
+</TEI>

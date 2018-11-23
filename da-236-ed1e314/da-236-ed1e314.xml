@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e314" >
+        <head>Quaestio 1</head>
+        <head type="question-title">Utrum anima habeat naturam ignis</head>
+        <p xml:id="da-236-ed1e314-d1e322">[lec9 q1] Circa primam questionem sic proceditur, et queritur utrum anima habeat naturam
+    ignis, et ostenditur quod sic per <seg>duas</seg> rationes, prima talis est: omnis forma
+    corporis mixti que maxime in natura est principium motus et <seg>operationis</seg> maxime est
+    habens naturam illius elementi quod maxime habet de <seg>specie.</seg> Set anima est forma
+    corporis mixti que maxime est principium operationis et <seg>motus,</seg> ergo maxime habet
+    naturam illius elementi quod maxime est principium operationis et maxime habet de specie. Hoc
+    autem est ignis sicut testatur <seg>Aristoteles,</seg> ergo anima maxime habet naturam uel
+    similis igni. </p>
+        <p xml:id="da-236-ed1e314-d1e340">Secunda ratio est hec: omne illud quod per sui presentiam est influens calorem in materia et
+    per sui recessum relinquit(d?) priuationem caloris habet <seg>maxime</seg> naturam illius
+    elementi <seg>quod</seg> est ignis, cum sit calidus simpliciter uel similis ignis. Set anima
+    est forma | per cuius presentiam in corpore uiget <seg>calor</seg> et per cuius absentiam a
+    corpore priuatur calor. Unde cum anima egreditur a corpore est corpus frigidum, ergo anima
+    habet naturam ignis uel similis cum igne. </p>
+        <p xml:id="da-236-ed1e314-d1e352">&lt;Tercia ratio talis est: omne illud quod est principium uite influit illud per quod stat
+    uita. Set anima est principium uite, hoc patet plane. Ergo anima influit illud per quod stat
+    uita. Set sicut habet in libro <hi>Mortis et uite</hi>, principium uite est calidum cum
+    humido, unde calor cum humido est principium per quod stat uita. Ergo anima influit calorme.
+    Omne autem tale habet naturam ignis uel alicuius similis igni, ergo anima habet naturam ignis
+    uel similis <seg>igni.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e314-d1e361">Ad oppositum sunt <seg>due</seg> rationes, prima talis est: dicit Aristoteles in libro <hi>De
+      anima</hi> quod anima conseruat corpus et tenet elementa et ligat ea ne unumquodque eorum
+      <seg>uel</seg> illorum redeat ad locum proprium. Cum enim anima a corpore egreditur fit
+    dissolutio in corpore et redeunt elementa in que fit dissolutio ad loca propria, set ignis est
+    unum elementorum habens contrarietatem cum aliis, ergo tendit ad locum proprium. Anima autem
+    ipsum tenet et ligat per sui presentiam in corpore, ergo non habet anima naturam ignis nec
+    alicuius elementi contrarii. Tenet enim elementa, et sic non habet naturam ignis, quia sic
+    haberet contrarietatem cum <seg>aliis</seg> nec ipsa teneret. Hoc autem falsum est, ergo non
+    habet naturam alicuius elementi. </p>
+        <p xml:id="da-236-ed1e314-d1e376">Secunda ratio <seg>talis</seg> est: si anima esset ignis aut esset ignis quod est elementum
+    aut esset igneum mixtum habens in se predominium ignis. Si autem esset ignis quod est
+    elementum sic <seg>consumeret</seg> alia elementa et totum corpus destrueret sicut ignis, cum
+    habet predominium. Ergo cum anima habeat predominum supra corpus sic anima corrumperet corpus.
+    Hoc autem <seg>est</seg> falsum, quia consueruat ipsum, ergo | anima non habet naturam ignis,
+      <seg>quia</seg> est elementum. Si autem sit igneum mixtum habens in se predominum ignis, sic
+    esset forma mixti quia mixta esset. Set omnis forma mixti habet distentionem secundum
+    distensionem materie &lt;ergo anima haberet diffinitionem secundum diffinitionem
+      <seg>materia&gt;.</seg> Set nulla talis forma mouet sufficienter, et hoc est propter sui
+    alligationem cum materia. Ergo anima non moueret sufficienter. Hoc autem est
+      <seg>falsum,</seg> ergo anima nullo modo habet naturam ignis. </p>
+        <p xml:id="da-236-ed1e314-d1e398">&lt;Tercia ratio hec est: omne quod mouet mouetur secundum predominium uincentis* in eo, ergo
+    cum anima habeat predominium in corpore uiuenti mouetur corpus uiuens secundum predominium et
+    exigentiam anime. Et quia anima mouet undique propter hoc corpus mouetur in omnem partem. Si
+    ergo anima esset ignis cum ignis solum sit moueri et mouere propter sensum, sic non habet
+    naturam <seg>ignis.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e314-d1e403">
+          <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod fuit opinio philosophorum quod anima
+    habet naturam ignis et causa huius positionis fuit propter operationes anime. Est enim anima
+    maxime principium <seg>et</seg> motus et <seg>operationis,</seg> et quia ignis talis est inter
+    omnia corpora ideo moti fuerunt propter istam proportionem ad ponendum animam esse ignem.
+    Iterum uita <seg>fluit</seg> per calidum, unde calor uiuificus est radix uite. Unde sicut in
+    corporibus inferioribus influit uita a corporibus superioribus mediante calore, similiter in
+    minori mundo influit uita corpori ab anima mediante calore, et hoc patet. Cum enim anima in
+    corpore calor est in eo, et cum eggreditur <seg>anima</seg> a corpore membrum quod erat
+    calidissimum fit frigidissimum, scilicet cor, et quia anima influit uitam et calorem quia
+    reddente anima recedit calor. Omne autem tale quod influit calorem est ignis uel habens
+    naturam ignis, ideo posuerunt animam esse ignem uel habere naturam ignis. Dicamus autem
+    secundum ueritatem et secundum <seg>Aristotelem</seg> quod non est uerum quod anima habeat
+    naturam ignis, quia anima est substantia spiritualis que est supra elementa et distat ab eis
+    secundum magis et minus, quia anima rationalis magis distat ab eis quam sensibilis, et
+      <seg>sensibilis</seg> quam uegetabilis. Elementa autem omnia sunt a parte corporis et
+    constituunt corpus animalis. Anima autem non est huiusmodi, immo anima est supra corpus, et
+    propter hoc est supra elementa constituentia corpus, nec constituit | anima corpus, set
+    compositum ex anima et corpore, et ideo anima non est ignis nec habet naturam ignis nec
+    alterius elementi. </p>
+        <p xml:id="da-236-ed1e314-d1e430">Ad primam rationem in contrarium dicendum est quod forma corporis <seg>mixti</seg> est
+    duplex: quedam est forma corporis mixti que est forma mixtionis. Alia autem est addita
+    mixtioni. Loquendo ergo de forma mixti que est forma mixtionis uerum est quod ipsa est
+    principium alicuius operationis per naturam alicuius elementi in ea <seg>determinati,</seg>
+    quia resultat ex formis elementaribus et maxime est illa forma principium operationis per
+    naturam caloris, quia forme elementares que sunt maxime principia operationum maxime sunt
+    habentes naturam caloris. Loquendo autem de forma mixti que non est forma mixtionis set addita
+    mixtioni, talis non est principium operationis per naturam alicuius elementi, quia non
+    resultat ex elementis, set est principium operationis per sui substantiam. Est enim substantia
+    simplex et ideo multarum operationum est principium per naturam sue spiritualitatis et sue
+    substantie et non per naturam alicuius elementi. Talis autem forma mixti est anima. Et ideo
+    anima non est principium per <seg>naturam</seg> alicuius elementi, et ita non <seg>est</seg>
+    aliquod elementorum, nec habet naturam alicuius elementi <seg>nec</seg> ignis.</p>
+        <p xml:id="da-236-ed1e314-d1e448">Ad secundam rationem dicendum <seg>est</seg> quod anima non influit calorem illum in corpore
+    set conseruat. Set aliqua substantia potest conseruare calorem in aliquo corpore
+      <seg>dupliciter:</seg> uno modo tanquam influens ipsum, et sic ignis in corpore mixto
+    conseruat calorem tanquam influens. Alio modo potest <seg>aliquis</seg> conseruare calorem in
+    corpore non tanquam influens illum, set quia continet corpus et conseruat et tenet et ligat ea
+    quibus calor est influxus corpori que dum tenentur in corpore, necesse est corpus esse calidum
+    et conseruatur calor in corpore, et hoc modo anima conseruat et influit calorem, quia tenet ea
+    in corpore, quibus est calor in corpore. Ligat enim ignem cum aliis et tenet illud quo est
+    calor in corpore, et <seg>ita</seg> conseruat calorem non quia det ipsum corpori. Per
+    absentiam autem anime aduenit priuatio caloris, quia tunc <seg>relinquid*</seg> corpus sue
+    nature, et quia corpus maxime constat et constituitur ex natura aque et terre. Hec
+      <seg>tamen</seg> duo elementa sunt maxime frigida, ideo corpus fit frigidum per absentiam
+    anime, quia amplius non tenentur in corpore <seg>ea</seg> quibus erat calor in corpore,
+    scilicet ignis, set totus a corpore recessit, et calor naturalis, et sic illud quod sic
+    conseruat calorem, nec est ignis nec habet illius <seg>naturam.</seg>
+        </p>
+        <p xml:id="da-236-ed1e314-d1e476">&lt;Ad terciam rationem dicendum est quod uita causatur a duplici principio: ab uno tanquam
+    ab influente, et sicut causatur ab anima que uitam influit rationi*, alio modo causatur uita
+    ab aliquo tanquam a dispositione materiali que est receptiua uite et per quam corpus est
+    receptiuum* uite, et sic causatur a calore et humido. Patet ergo quo modo stat uita per
+    calorem. Stat enim per calorem tanquam per dispositionem materialem, que est a parte corpori
+    et per quam uitam recipit et non tanquam per formalem et circa* anima ipsum non debet
+      <seg>influere.&gt;</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

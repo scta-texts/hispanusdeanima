@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e24944" >
+        <head>Quaestio 3</head>
+        <head type="question-title">De uirtute illa anime quo modo procedat cum semine
+    an per decisionem an per solam sui multiplicationem et influentiam.</head>
+        <p xml:id="da-236-ed1e24944-d1e24952">
+          <hi>[lec11 q3] Circa terciam questionem sic proceditur: supposito quod natura illa anime que
+      est in semine sit uirtus anime. Queritur de uirtute illa anime quo modo procedat cum semine
+      an per decisionem an per solam sui multiplicationem et influentiam. Et ostenditur
+       <seg>quod</seg> procedit cum semine uirtus illa sine decisione. Set per solam sui
+      multiplicationem et influentiam duplex est <seg>forma:</seg> quedam que est distensa
+      secundum <seg>uel</seg> per materiam, quedam <seg>que</seg> non. Illa que est distensa
+      diuiditur secundum diuisionem materie. Illa uero que non est distensa non diuiditur secundum
+      diuisionem materie, ergo procedit cum semine in quo est sine decisione et diuisione et non
+       <seg>decinditur</seg> sicut semen. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24944-d1e24973">
+          <hi>Secunda ratio hec est: diuisio omnis accipitur a parte materie, unde forma non diuiditur
+      nisi per diuisionem materie. Set per suam <seg>naturam</seg>
+            <seg>multiplicatur,</seg> unde in <seg>formis</seg> est multiplicatio sine diuisione. Virtus
+      autem anime est habens naturam materie forme <seg>maxime,</seg> ergo de sui natura non
+      diuiditur. Ergo cum ab anima fluat supra semen fluit in semine <seg>sine</seg> decisione,
+      ergo per solam influentiam et multiplicationem <seg>exit</seg> cum <seg>semine</seg> et sine
+       <seg>sui</seg> decisione et <seg>diuisione.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e24944-d1e25007">
+          <hi>Ad oppositum: uirtus anime que fluit cum semine sequitur calorem naturalem et spiritum.
+      Set spiritus et calor naturalis <seg>decinduntur</seg> et procedunt in semine per uiam
+      decisionis, ergo uirtus illa procedit in semine secundum uiam decisionis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24944-d1e25017">
+          <hi>Secunda ratio hec est: uirtus anime procedit cum semine deciso a superfluitate nutrimenti
+      et a substantia membrorum et uirtus illa est insita membris et a membris fluit cum decisione
+      seminis, ergo necesse est ut <seg>sequantur</seg> decisionem humiditatis membrorum et
+       <seg>diuisionem.</seg> Ergo uirtus illa decinditur, ergo procedit secundum uiam
+      decisionis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24944-d1e25029">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad quod dicendum <seg>est</seg> quod uirtus que est in semine fluens ab anima patris
+      procedit cum ipso semine per uiam multiplicationis et influentie et non per uiam decisionis.
+      Hoc enim proprium <seg>est</seg> uirtutis et maxime in uirtutibus substantiarum
+      incorporearum, scilicet quod procedunt per uiam influentie non per uiam decisionis. Et
+      concedende sunt rationes inducte ad </hi>
+          <hi>|</hi>
+          <hi> hanc <seg>partem.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e24944-d1e25055">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod uirtus anime procedens cum
+      semine sequitur calorem naturalem et spiritum tanquam media <seg>differentia</seg> ipsam et
+      quibus ipsa operatur in semine, non tamen ad decisionem eorum decinditur. Spiritus enim et
+      calor naturalis cum suo subiecto quod est humor sunt res corporales et ideo diuiduntur et
+      decinduntur. Virtus uero anime cum sit spiritualis res non decinditur set solum
+      multiplicatur in semine et cum eo procedit per uiam influentie sine decisione. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24944-d1e25067">
+          <hi>Ad secundam rationem dicendum <seg>est</seg> quod sicut deciso membro non decinditur
+      substantia anime cum eo nec uirtus eius, sicut ostensum est, similiter ad decisionem
+      humiditatum membrorum nec ad decisionem substantie seminis sequitur decisio
+       <seg>uirtutis</seg> anime que procedit cum semine, set sola multiplicatio et influentia
+      cum non sit distensa. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

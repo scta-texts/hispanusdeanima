@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e6411" >
+        <head>Quaestio 4</head>
+        <head type="question-title">Utrum concordia et discordia sint principia</head>
+        <p xml:id="da-236-ed1e6411-d1e6419">[lec 14 q4] Circa quartam questionem sic proceditur et queritur utrum concordia et discordia
+    sint principia et ostenditur quod sic: omne illud per quod unitur forma materie est principum
+    esse, quia ex unione forme cum materia resultat esse. Omne autem quod est principium
+    separationis forme a materia est principium destructionis esse rei, set per concordiam unitur
+    forma cum materia per discordiam <seg>autem</seg> se iungitur forma a materia, ergo discordia
+    et <seg>concordia</seg> sunt principia rerum. </p>
+        <p xml:id="da-236-ed1e6411-d1e6428">Secunda ratio hec est: sicut in maiori mundo ita <seg>est</seg> in minori mundo. Set in
+    maiori mundo sunt elementa contraria ad inuicem et cum separatur anima a corpore
+      <seg>quelibet</seg> illorum petit locum proprium et dissoluuntur elementata. Hec autem
+    dissolutio non fit nisi propter discordiam. Quodlibet enim elementum appetit salutem suam, et
+    quia non habet salutem cum contrario nisi teneantur per concordiam, ideo petit quodlibet eorum
+    dissolutionem illo separato, quia illa tenet in minori mundo, et hoc est anima.
+      <seg>Iterum</seg> non sunt in corpore simul nisi propter proportionem et concordiam quam dat
+    eis anima, ergo et ita est in maiori mundo. Iterum sicut generatio unius est alterius, ita
+    concordia est causa constitutionis mixti et causa destructionis simplicis, quia concordia
+    facit simplicia <seg>componi,</seg> discordia autem causa generationis simplicis et causa
+    destructionis compositi, quia discordia destruit mixtum ex simplicibus et facit quodlibet
+    illorum esse simplex, ita <hi>|</hi> ergo est in maiori mundo et in minori. Ergo concordia et
+    discordia sunt principia in maiori mundo, sunt ergo principia rerum. </p>
+        <p xml:id="da-236-ed1e6411-d1e6446">Ad oppositum: in nullo genere illud quod est posterius est principium priorum. Set accidens
+    est posterius omni re, ergo accidens nullius est principium. Set concordia et discordia sunt
+    accidentia, ergo non sunt principia. </p>
+        <p xml:id="da-236-ed1e6411-d1e6450">Secunda ratio hec est, et est argumentum <seg>Aristotelis:</seg> concordia et discordia solum
+    sunt in rebus animatis in quibus est amor et odium, ergo non sunt in rebus animatis in quibus
+    est amor et odium, <seg>ergo</seg> non sunt principia nisi rerum animatarum, set in aliis sunt
+    generationes quam in animatis, ergo concordia et discordia non sunt uniuersalia principia
+    rerum. </p>
+        <p xml:id="da-236-ed1e6411-d1e6459">
+          <seg>Solutio.</seg> Ad hoc dicendum est quod opinio fuit philosophorum quod omnia essent ex
+    elementis et posuerunt chaos esse constitutum ex elementis et ipsum esse principium materiale
+    omnium rerum, et quia chaos confusum est posuerunt duo principia: unum quod distinguit partes
+    elementorum ordinans omnes res, et hoc fuit intellectus. Aliud autem principium fuit a parte
+    mobilium quod posuerunt per quod mobilia congregantur et segregantur et appellauit ista
+    Empedocles concordiam et discordiam. Concordia est per quam mixtum generatur et simplex
+    corrumpitur. Discordia per quam simplex generatur et mixtum corrumpitur et dissoluitur.
+    Dicendum autem est quod concordia et discordia non sunt proprie et uere principia rerum, set
+    sunt annexa principiis rerum. Aliquid enim est principium unionis forme cum materia duobus
+    modis: uno modo sicut inducens formam cum materia et generans formam in materiam, et hoc modo
+    est agens principium unionis forme cum materia, scilicet illud quo forma unitur materie, quod
+    est annexum principiis et hoc modo concordia et discordia sunt principia, quia agens unit
+    formam materie per ista principia que <seg>sunt</seg> concordia et discordia. Et propter hoc
+    soluuntur in contrarium rationes preter quam Aristoteles. </p>
+        <p xml:id="da-236-ed1e6411-d1e6467">Ad rationem autem dicendum est suple* <seg>Aristotelis</seg> quod concordia est duplex:
+    quedam est naturalis et quedam est uoluntaria. Concordia autem uoluntaria est in rebus
+    animatis et de hac intellexit Aristoteles et hanc non posuerunt philosophi esse principium nec
+    discordiam sibi oppositam. Concordia autem naturalis est in omnibus rebus et non solum in
+    animatis, et <seg>hec</seg> est principium omnium rerum compositarum et discordia ei opposita
+    et de hac non non intellexit Aristoteles improbans hanc, scilicet quod concordia non sit
+    principium omnium rerum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

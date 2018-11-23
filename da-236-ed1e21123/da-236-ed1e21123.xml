@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 4</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 4</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e21123" >
+        <head>Quaestio 4</head>
+        <head type="question-title">Utrum substantia anime sit
+    eadem cum suis potenciis</head>
+        <p xml:id="da-236-ed1e21123-d1e21131">
+          <hi>[lec8 q4] Circa quartam questionem sic proceditur et queritur utrum substantia anime sit
+      eadem cum suis potenciis. Et ostenditur quod sic: quia sicut dicit Augustinus anima humana
+      in hoc est similima creatori et trinitati, quia sicut quelibet trium personarum est
+      substantia diuina sic quelibet potencia anime est substantia <seg>anime,</seg> et similiter
+      est de aliis intelligendum, cum simplices sint et sic anima eadem <seg>est</seg> cum suis
+      potenciis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21123-d1e21143">
+          <hi>Secunda ratio hec est: sicut dicit Aristoteles in secundo </hi>
+          <hi>De <seg>anima</seg>
+          </hi>
+          <hi>, sicut se habet tota anima ad totum corpus ita partes anime ad partes corporis, quia
+      partes anime sunt perfectio cuiuslibet partis corporis. Set partes anime sunt potencie
+      anime, quia alias <seg>partes</seg> non habet <seg>anima,</seg> ergo necesse est quod
+      quelibet potencia anime perficiat partes corporis. Set nichil </hi>
+          <hi>|</hi>
+          <hi> perficit nisi forma, ergo quelibet potencia </hi>
+          <hi>|</hi>
+          <hi> anime est forma partis corporis. <seg>Set</seg> et non est quelibet <seg>forma,</seg> set
+      forma subtantialis. Forma uero substantialis corporis animati est anima, ergo quelibet pars
+      anime est anima, <seg>tamen</seg> quelibet pars uel potencia anime sit forma substantialis
+       <seg>partis</seg> corporis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21123-d1e21188">
+          <hi>Tercia ratio hec est: differentie completiue rerum animatarum accipiuntur a potenciis
+      anime <seg>ut</seg> sensibile accipitur a potencia <seg>anime</seg> sentiendi et rationale
+       <seg>accipitur</seg> a potencia ratiocinandi. Set differentie sunt in genere substantie,
+      ergo et potencie anime sunt in genere <seg>substantie,</seg> set non sunt nisi in genere
+      substantie que est forma et non cuiuslibet forme, set forme que est anima, ergo quelibet
+      potencia anime est in genere anime et non <seg>est</seg> eius accidens, ergo quelibet
+      potencia anime est eadem cum anima. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21123-d1e21210">
+          <hi>Ad oppositum: anima est una per essentiam equaliter existens in qualibet parte corporis.
+      Potencie autem corporis sunt <seg>diuerse</seg> per essentiam non existentes equaliter in
+      qualibet parte corporis set coartate ad singulas partes corporis et operationes, ergo anima
+      non est <seg>eadem</seg> cum illis per essentiam, quia <seg>ei</seg> accideret multiplicatio
+      essentie, quod est inconueniens. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21123-d1e21225">
+          <hi>Secunda ratio hec est: anima comparatur ad corpus sicut principium esse quod est uita et
+      sicut principium operationis. Secundum quod anima est principium esse et uite respondet ei a
+      parte corporis distantia a contrarietate et equalitas complexionis. Secundum quod est
+      principium operationis ei respondet diuersitas partium corporis et a parte anime
+       <seg>quantum</seg> ad hoc est diuersitas potenciarum. Set per idem nec per easdem
+      conditiones est <seg>anima</seg> principium actus primi et secundi. Ergo cum anima per
+      essentiam uel per substantiam sit principium esse uel uite, quod est actus primus, per
+      potencias <seg>sit</seg> principium operationis quod est actus secundus, patet quod anima
+      non est eadem cum suis potenciis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21123-d1e21240">
+          <hi>Tercia ratio hec est: si anima esset eadem cum suis potenciis in quocumque esset
+      substantia <seg>anime</seg> in eodem esset potencia anime. <seg>Quelibet</seg> ergo cum in
+      quolibet uiuenti sit substantia anime in <seg>quolibet</seg> uiuenti erit quelibet potencia
+      anime. Hoc autem <seg>est</seg> falsum, quia quedam sunt animalia que habent tactum et non
+       <seg>habent</seg> alias potencias sensitiuas. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21123-d1e21261">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod quidam posuerunt quod anima esset eadem cum qualibet
+      suarum potenciarum. Dicendum autem est quod anima differt a qualibet suarum potenciarum.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e21123-d1e21276">
+          <hi>Ad primam rationem dicendum <seg>est</seg> quod intellectus est nomen substantie et
+      potencie. Secundum quod est nomen potencie differt a substantie anime. Secundum quod est
+      nomen substantie non differt a substantia anime neque est omnino simile de potencia
+      creatoris ad ipsam animam, quia <seg>anima</seg> multum elongatur a simplicitate ipsius
+      creatoris in substantia et <seg>potencia.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e21123-d1e21291">
+          <hi>|</hi>
+          <hi> Ad secundam rationem dicendum <seg>est</seg> quod anima comparatur ad corpus uel secundum
+      quod est dans esse et sic perficit per suam subtantiam corpus et partes corporis
+       <seg>uel</seg> secundum quod dat operationem et sic perficit partes corporis per suas
+      potencias et sic potencie eius respondent partibus corporis, non quia dent <seg>eis</seg>
+      esse set solum operationem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21123-d1e21310">
+          <hi>Ad terciam rationem dicendum <seg>est</seg> quod differentie non accipiuntur a potenciis
+      anime set a substantia <seg>anime</seg> proprie. Rationale enim secundum quod accipitur a
+      potencia anime non est proprie differentia hominis completiua set consequitur ac
+      complementum ipsius. Set secundum quod est differentia hominis <seg>completiua</seg>
+      accipitur a substantia anime <seg>tantum</seg>
+            <seg>quando</seg> circumloquimur <seg>differentiam</seg> completiuam per potenciam sue
+      perfectionis ut rationale, id est, aptum natum rationari. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

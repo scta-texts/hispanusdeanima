@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 10</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 10</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e15401" >
+        <head>Quaestio 10</head>
+        <head type="question-title">De modo imaginandi existentiam anime in corpore</head>
+        <p xml:id="da-236-ed1e15401-d1e15409">[lec4 q10] Circa <seg>decimam</seg>
+          <seg>questionem</seg> sic proceditur et queritur de modo ymaginandi existentiam anime in
+    corpore. Modus autem iste hoc modo declaratur: anima enim habet tres differentias, scilicet
+    animam uegetabilem, animam sensibilem, animam rationalem. Singule autem iste <hi>|</hi> anime
+    cognoscuntur per operationes proprias. Videmus enim in quibusdam corporibus esse uitam,
+    augmentum, nutrimentum secundum omnem partem. Hoc autem non est a forma naturali
+      neque<hi> </hi>a natura, quia natura non mouet nisi in unam partem, ergo hoc est ab alio
+    principio. Hoc autem est anima uegetabilis, ergo necesse est eam ponere in corpore et
+    ymaginari. Item uidemus quedam corpora cognoscere res in materia. Hoc autem non conuenit
+    formis corporalibus naturalibus, ergo hoc competit forme spirituali. Hec autem anima
+    sensibilis. Ergo hoc competit anime sensibili, ergo necesse est animam sensibilem ponere in
+    corpore et ita <seg>ymaginatur</seg> esse in corpore per istas differentias. Similiter autem
+    anima intellectiua cognoscit, et imaginatur esse in corpore <seg>per</seg>
+          <hi> </hi>operationes et proprietates hominis que ab <seg>anima</seg> exeunt. Hee autem sunt
+      <seg>cognitio</seg> rerum per ueras causas et cognitio quidditatis rei sine appendiciis
+    corporalibus supra que non possunt sensibiles uirtutes nec etiam natura, cum igitur habeamus
+    hanc substantiam in nobis et hec est anima intellectiua. Necesse est <seg>ergo</seg> animam
+    intellectiuam esse et inmaginari in nobis. </p>
+        <p xml:id="da-236-ed1e15401-d1e15442">Alia est ratio <seg>Auicenne</seg> per quam possumus animam intellectiuam
+      <seg>ymaginari</seg> esse in nobis. Intelligamus quod aliquis sit subito creatus et
+    perfectus ultima perfecctione habens in se animam intellectiuam et habeat omnia exteriora
+      <seg>uelata</seg> et uisum exteriorem uelatum. Item non tangat ipsum spissitudo aeris ut
+    moueat membra eius, nec <seg>aliquod</seg> extrinsecum moueat membra eius ut ipsum excitet ad
+    operationem nec etiam sentiat aliquod membrum moueri, nec <seg>unum</seg> alterum moueat ut
+    non concurrant membra ad inuicem nec se tangant nec faciant motum, <seg>tamen</seg> ille in
+    tali statu <seg>affirmauit</seg> se esse, unde si <seg>sic</seg>
+          <seg>interrogatur,</seg> interrogatione spirituali utrum sit respondebit responsione
+    spirituali intrinseca quod est. Si autem queratur utrum ipse sit sua manus aut pes respondebit
+    quod non et quod ignorat omnia illa esse partes suas cum illas non sentiat nec se credat eas
+    habere, similiter si <seg>interrogatur</seg> utrum sit totum corpus quo uelatur respondebit
+    quod non, quia non sentit <seg>corpus</seg> nec <seg>scit</seg> ipsum esse partem
+      <seg>sui.</seg> Ergo aliquid aliud preter corpus et partes <seg>corporis</seg> est in ipso
+    quod affirmat se esse. Hoc autem non est nisi substantia cognoscitiua que est anima
+    intellectiua que est in corpore que confirmat se ipsam et que non eget corpore ad hoc ut
+    affirmet se et sic necesse est <seg>eam</seg> ponere et ymaginari esse in corpore humano.
+    Modus uero existentie secundum quem anima uegetabilis et sensibilis existunt in corpore dictus
+    est et similiter modus secundum quem anima intellectiua <seg>est</seg> in corpore et sic patet
+    quod anima ymaginatur esse in <hi>|</hi> corpore per operationes suas et iste est modus
+    ymaginandi eam qui dictus est. </p>
+        <p xml:id="da-236-ed1e15401-d1e15498">Contra hoc autem sic obicitur: omnes iste cognitiones sunt per effectus et per posteriora.
+    Tales uero non sunt <seg>demonstratiue,</seg> ergo iste cognitiones non sunt ille quas querit
+    Aristoteles in parte ista, ergo non est illa uia quam querit Aristoteles. </p>
+        <p xml:id="da-236-ed1e15401-d1e15505">
+          <seg>Solutio:</seg> Ad hoc dicendum <seg>est</seg> quod anima intellectiua
+      <seg>cognoscitur</seg> quantum ad suam <seg>existentiam</seg> per operationes suas, sicut
+    ostensum est. </p>
+        <p xml:id="da-236-ed1e15401-d1e15519">Ad rationem dicendum <seg>est</seg> quod anima, et precipue <seg>anima</seg> intellectiua,
+    respicit corpus quod perficit et cuius est forma et a parte ista cognoscitur sua existentia in
+    corpore per proprietates et operationes, quas corporis attribuit. A parte <seg>uero</seg> sue
+      <seg>substantie</seg> cognitio eius reducitur ad causam superiorem a qua exit que ordinat
+    omnes res et est dans diuersas causas et fines omnibus secundum quod exigit genus cuiuslibet
+      <seg>rei.</seg> Ratio autem soluitur per predicta. Demonstratio enim per effectum est
+      <seg>potissima</seg> in rebus que occulte sunt sensui que non <seg>potest</seg> cognosci
+    nisi per suos effectus. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

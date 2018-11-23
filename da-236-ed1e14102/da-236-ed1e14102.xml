@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e14102" >
+        <head>Quaestio 1</head>
+        <head type="question-title">Utrum aliqua diffinitio 
+    sit demonstrabilis ut illa diffinitio sit conclusio
+    demonstrationis
+   </head>
+        <p xml:id="da-236-ed1e14102-d1e14110">[lec4 q1] Circa primam <seg>questionem</seg> sic proceditur et queritur utrum
+      <seg>aliqua</seg> diffinitio sit demonstrabilis ut illa diffinitio <seg>sit</seg> conclusio
+    demonstrationis. Et ostenditur quod sic: habemus ab Aristotele in libro
+       <seg>
+            <hi>Posteriorum</hi>
+          </seg>
+          <hi/> quod quedam <seg>sunt</seg>
+          <seg>diffinitiones</seg> quarum est causa <seg>altera</seg>
+          <seg>et</seg> quarum non est causa <seg>altera.</seg> Set omne habens causam
+      <seg>alteram</seg> potest demonstrari per illam, ergo omnis diffinitio habens causam
+      <seg>alteram</seg> potest demonstrari per illam, ergo aliqua diffinitio est demonstrabilis
+    et est conclusio demonstrationis. </p>
+        <p xml:id="da-236-ed1e14102-d1e14149">Secunda ratio hec est: sicut uult Aristoteles in secundo <hi>De anima</hi>, quedam
+    diffinitiones sunt principia, <seg>set</seg> quedam sunt conclusio demonstrationis, set omnis
+    conclusio <seg>demonstrationis</seg> est demonstrabilis, ergo aliqua diffinitio est
+    demonstrabilis. </p>
+        <p xml:id="da-236-ed1e14102-d1e14161">Ad oppositum: nichil quod est principium demonstrationis est de<hi>|</hi>monstrabile. Set
+    sicut uult Aristoteles in principio <hi>De <seg>anima</seg>
+          </hi> omnis demonstrationis
+    principium est quodquid est, ergo quodquid est non potest demonstrari, set quodquid est est
+    definitio. Ergo diffinitio non potest demonstrari. </p>
+        <p xml:id="da-236-ed1e14102-d1e14173">Secunda ratio hec est: sicut uult commentator supra librum <hi>De <seg>anima</seg>
+          </hi>, tres
+    fuerunt secte <seg>de</seg> diffinitione. Quidam <seg>enim</seg> posuerunt eam haberi per uiam
+    diuisionis, sicut Plato. Quidam <seg>uero</seg> per uiam compositionis, sicut Aristoteles.
+    Quidam per uiam demonstrationis, sicut Ypocras. Cum igitur diffinitio sola uia
+      <seg>diffinitionis</seg> secundum Aristotelem habeatur et si habeatur per uiam diuisionis
+      <seg>hoc</seg> erit tanquam per uiam <seg>remotam,</seg>
+          <seg>ergo</seg> necesse est quod non habeatur per uiam demonstrationis, ergo diffinitio non
+    potest demonstrari. </p>
+        <p xml:id="da-236-ed1e14102-d1e14203">Tercia ratio hec est: diffinitio est obiectum <seg>ipsius</seg> intellectus
+      <seg>simplicis,</seg> unde sicut habetur in tercio <hi>De <seg>anima</seg>
+          </hi> quodquid
+      <seg>est</seg> obiectum <seg>est</seg> intellectus, ergo cum intellectus simplex sit et
+      <seg>suis</seg>
+          <seg>habitus,</seg> sit sine collatione <seg>diffinitio</seg>
+          <seg>omnis</seg> sine uia <seg>collationis,</seg> ergo nulla diffinitio habetur per
+    demonstrationem. </p>
+        <p xml:id="da-236-ed1e14102-d1e14239">
+          <seg>Solutio:</seg> Ad hoc dicendum <seg>est</seg> quod aliqua diffinitio est demonstrabilis
+    et aliqua non, et que sit illa iam patebit. </p>
+        <p xml:id="da-236-ed1e14102-d1e14247">Ad primam rationem in contrarium dicendum quod triplex est diffinitio: quedam que est
+    principium demonstrationis et hec est indemonstrabilis et de hac loquitur Aristoteles in primo
+      <hi>De <seg>anima</seg>
+          </hi>. Est <seg>autem</seg> alia diffinitio que est conclusio
+    demonstrationis et hec est demonstrabilis. <seg>Est</seg> alia diffinitio que est
+      <seg>ponere</seg> differens a demonstratione, et hec <seg>completitur</seg> diffinitionem
+    subiecti et causam passionis et hec est indemonstrabilis.</p>
+        <p xml:id="da-236-ed1e14102-d1e14267">Ad secundam <seg>rationem</seg> dicendum <seg>est</seg> quod in diffinitione sunt duo,
+    scilicet constitutio diffinitionis ex suis principiis et quantum ad hoc habetur diffinitio per
+    uiam diuisionis, set hoc remote. <seg>Proxime</seg> autem per uiam compositionis. Item in
+    diffinitione constituta ex suis principiis est uia ostendendi ipsam de <seg>aliquo</seg> per
+    causam sue inherentie in illo et hoc modo habetur diffinitio per uiam demonstrationis. </p>
+        <p xml:id="da-236-ed1e14102-d1e14282">Ad terciam <seg>rationem</seg> dicendum <seg>est</seg> quod dupliciter est loqui de
+    diffinitione: uno modo a parte sue nature et suorum principiorum constituentium ipsam et sic
+      <seg>non</seg> habetur per uiam collationis et sic est obiectum intellectus simplicis. Alio
+    modo est loqui de diffinitione prout per decursum principiorum supra conclusionem
+      <seg>ostenditur</seg> alicui inesse, et hoc modo habetur per uiam collationis et sic est
+    demonstrabilis. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

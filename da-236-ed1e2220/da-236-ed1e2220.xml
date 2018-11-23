@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e2220" >
+        <head>Quaestio 5</head>
+        <head type="question-title">Utrum intellectus primus, 
+    qui est motor uniuersalis, sit forma uel natura</head>
+        <p xml:id="da-236-ed1e2220-d1e2228">[lec 10 q5] &lt;Circa quintam sic proceditur et queritur utrum intellectus primus, qui est
+    motor <seg>uniuersalis,</seg> sit forma uel natura. In uiuentibus autem sit anima uel uita, in
+    intelligentibus autem sit intellectus ut dicatur quod res nichil aliud sint quam primum
+    multiplicatum et ut dicatur quod uniuersitas rerum sit substantia creatoris multiplicata. Et
+    ostenditur quod sic: omne illud quod ab aliquibus participatur rebus secundum differentias
+    essentiales illarum rerum per quas sunt res id quod sunt est principium essentiale
+    constitutiuum omnium que sunt in illo genere. Set primum est huiusmodi respectu uniuersitatis
+    rerum, ergo primum est principium constitutiuum omnium rerum essentiale. Maior patet.
+      <hi>Aliter/animalitas</hi>* enim quod participatur ab omni animali per differentias
+    constitutiuas eius est principium essentiale cuiuslibet animalis et idem cum quolibet in
+    quolibet. Minor patet, quia triplex est genus rerum: sunt enim quedam res entes, quedam
+    uiuentes, quedam intelligentes et secundum ista tria participatur creator a creaturis. Est
+    enim ens et uiuens et intelligens et per rationem entis participatur ab omnibus entibus. Per
+    uitam autem <seg>a</seg> uiuentibus, per <seg>intellectum</seg> ab intelligentibus. Cum ergo
+    ista <seg>recipiantur</seg>
+          <hi> </hi>in creatura per que creator <seg>participatur</seg> ab
+    illis, necesse est quod primum sit in entibus <seg>principium</seg> entis et ita
+      <seg>naturalis</seg>
+          <seg>forma</seg> in uiuentibus sit principium uite et ita anima <seg>et</seg> intelligentibus
+    sit principium intellectus, cum igitur non sint plura genera <seg>rerum</seg> patet quod
+    primum est omnia in omnibus, nichil aliud ergo est <seg>uniuersitas</seg> rerum quam
+    substantia primi multiplicata. </p>
+        <p xml:id="da-236-ed1e2220-d1e2271">Secunda ratio hec est: sicut scribitur in libro <hi>De causis</hi>, prima rerum creaturarum
+    est esse, quia ens latius est omni re et communius. | Est enim supra animam et supra sensum et
+    supra <seg>intellectum</seg> et dicit etiam <seg>commentator</seg> ibi quod ens <seg>est</seg>
+    adherentie, quia cum omnibus adheret et hoc est quia pluribus adheret et <seg>communius.</seg>
+    Set primum quod est motor omnium est supra omne ens et communius est omni ente creato, ergo
+    est <seg>uehementis</seg> adherentie quam aliquod ens. Set omne principium quod maxime
+      <seg>est</seg> adherentie maxime est idem cum <seg>omnibus,</seg> quia illa adherentia est
+    propter idemptitatem, ergo primum maxime est idem cum <seg>omnibus,</seg> sicut ergo ens est
+    idem cum omni ente per essentiam et est anima in omnibus creatis, quia ens in homine
+      <seg>idem</seg> quod homo et in ligno idem quod lignum, et sicut uniuersale est
+      <seg>idem</seg> cum quolibet singulari, unde homo in <seg>
+            <hi>Sorte</hi>
+          </seg>
+          <hi> </hi>idem
+    est quam Socrates, eodem modo primum principium in quolibet est idem cum quolibet, ergo est in
+    homine homo et in bruto brutum uel eius principium, et sic de aliis. Ergo primum est omnia in
+    omnibus <seg>est,</seg> ergo <seg>unitas</seg> rerum ipsum primum multiplicatum. </p>
+        <p xml:id="da-236-ed1e2220-d1e2321">Tercia ratio hec est: omne illud propter cuius esse est esse cuiuslibet et cuius esse est
+    esse omnium et propter cuius uitam est uita <seg>omnium</seg> et propter cuius
+      <seg>motor</seg> est motus omnium, et propter cuius intellectum est intellectus omnium
+    uniuersaliter est principium esse in entibus <seg>et</seg> uite in uiuentibus et intellectus
+    in intelligentibus. Set causa prima est huiusmodi, ergo est essentiale principium omnium
+    istorum in creatis. Set omne tale principium <seg>est</seg> cum omnibus in quibus est, ergo
+    primum est idem cum omnibus creatis cum sit eorum essentiale principium, ergo est omnia in
+    omnibus. Minor escribitur in libro <hi>De <seg>causis</seg>
+          </hi>que talis est: omnis essentia est propter ens primum et omnes res uiue sunt mote per
+    uitam primam, et res sunt habentes scientiam propter intelligentiam <seg>primam,</seg> et
+    dicit <seg>commentator</seg> quod hoc est quia causa omnis dat suo <seg>causato</seg>
+          <seg>conditiones</seg> quas recipit et dat uitam causa prima suis causatis et motum et uita
+    est et <seg>cessio</seg> ex ente primo quieto, sempiterno. Et propter hoc datur scientia rebus
+    scientibus quia primum est sciens influens scientiam super omnes res. Set in hac triplici
+    differentia complectuntur omnes res, scilicet in ente uiuente et intelligente. Ergo cum sit
+    principium esse in entibus est forma uel natura in illis, et cum sit principium uite in
+    uiuentibus est anima in illis, et cum sit principium scientie in <seg>scientibus</seg> est
+    intellectus in illis et non sunt plura genera rerum, ergo cum <seg>anima</seg> in omnibus
+    resultat ergo opinio eorum qui posuerunt quod primum in entibus et mobilibus sit forma uel
+    natura in uiuentibus anima, in intelligentibus intellectus.</p>
+        <p xml:id="da-236-ed1e2220-d1e2366">Quarta ratio hec est: duplex est agens: quoddam est agens quod agit ex suppositione alicuius,
+    quoddam autem quod agit ex nichilo. Agens autem ex suppositione alicuius multiplicat res per
+    multitudinem rei sibi suppositione per quam agit, sicut si multiplicetur domus* uel aliquid
+    tale, hoc erit per multiplicationem materie ex qua est. Agens autem ex nichilo non potest
+    multiplicare res hec modo, quia non agit ex suppositione alicuius, et propter hoc per aliquid
+    sibi suppositionem non potest res intelligere, ergo si multiplicat eas hec erit per
+    multitudinem sui ipsius. Set primum est agens non ex suppositione alicuius, set ex
+    uoluntario*, ergo multiplicat res per multiplicationem sui ipsius, quia non potest eas
+    multiplicare cum ei non supponatur aliquid in sua operatione, ergo multiplicatio creaturarum
+    nichil aliud est quam primum multiplicatur, ergo primum est omnia in omnibus, quia illa uia
+    idem est <seg>omnibus.</seg>
+        </p>
+        <p xml:id="da-236-ed1e2220-d1e2371">Ad oppositum, omne illud quod est quod est principium intrinsecum in omnibus recipit
+    diuersitatem secundum eorum diuersitatem, quia diuersorum diuersa sunt principia, sicut dicit
+      <seg>Aristoteles.</seg> Set primo non accidit diuersitas, ergo non est principium
+    intrinsecum et essentiale omnium, ergo non est natura in entibus <seg>nec</seg> anima in
+    uiuentibus nec intellectus in intelligentibus, ergo non est omnia in omnibus. </p>
+        <p xml:id="da-236-ed1e2220-d1e2380">Secunda ratio hec est: omne principium intrinsecum rerum dependet quodam modo a materia et a
+    re composita. Set primum nullo modo ab illo dependet, quia omne quod est
+      <seg>independens</seg> est incompletum. Nullum autem tale est primum simpliciter, ergo
+    primum non esset primum simlicter. Hoc autem falsum, ergo primum nullo modo dependet a rebus.
+    Primum ergo non est omnia in <seg>omnibus.</seg>
+        </p>
+        <p xml:id="da-236-ed1e2220-d1e2389">Ad hoc dicendum est quod intellectus uniuersalis mouens omnia est principium omnium in
+    omnibus, unde est principium esse in entibus et est <seg>principium</seg> uite in uiuentibus
+      <seg>et</seg> intellectus in intelligentibus, nec tamen est omnia in omnibus, unde ipse non
+    est esse in entibus set est principium esse in entibus et sic de aliis, unde multiplicatio
+    principiorum rerum non facit multiplicationem in creatore a quo<hi> </hi>
+          <seg>exierunt<hi>,</hi>
+          </seg>
+          <hi/> set ipso existente uno et indiuisibili
+      <seg>exierunt</seg> ab ipso multa. Iterum influit <seg>omnibus</seg> esse et uiuentibus
+    uitam et motum et intelligentibus intellectum sine aliqua idemptitate et dependentia cum eis
+    et sine commixtione aliqua et ita non est omnia in omnibus, set est principium omnium que sunt
+    in omnibus. Et concedende sunt rationes que ostendunt quod non sunt omnia in omnibus
+    creaturis. </p>
+        <p xml:id="da-236-ed1e2220-d1e2413">Ad primam rationem in contrarium dicendum quod participatio est duplex: quedam enim est
+    participatio secundum communitatem essentie et hoc modo omnia que sunt in genere substantie
+    participant substantiam et hoc | etiam modo participatur forma ab omnibus formis sub ipsa
+    contentis et hec participatio non est participatio creaturis respectu creaturarum, set est
+    illa participatio secundum quam ratio intellectus participatur ab intelligentibus, et ratio
+    esse ab entibus et ratio uite a uiuentibus loquendo de istis protu sunt in creatis. est alia
+    participatio que est secundum influentiam, et hec est participatio in creaturis respectu
+    creatoris, sicut enim omnes res entes assimilantur creatori in esse et uiuentes assimilantur
+    ei in uita et intelligentes assimilantur ei in intellectu. Similiter creator entibus influit
+    esse in uiuentibus uitam et intelligentibus intellectum et una est influentia istorum.
+    Receptio autem influentie <seg>diuersa,</seg> unde in entibus influit motum mediante natura in
+    uiuentibus uitam mediante anima, in intelligentibus intellectum mediante intellectu uel
+      <seg>scientiam,</seg> et sic creature participant creatorem solum secundum influentiam, quia
+    influit eis quod habent non tamen participant ipsum participatione que est secundum essentiam,
+    prima uero participatio, scilicet illa que est participatio essentie, ponit idemptitatem inter
+    participantia et participatum, unde omnes substantie participantes substantiam sunt eedem cum
+    substantia. </p>
+        <p xml:id="da-236-ed1e2220-d1e2422">Secunda autem participatio que <seg>est</seg> influentie non ponit idemptitatem inter
+    participantia et participatum, set ponit diuersitatem inter ea cum alia <seg>proportione</seg>
+    similitudinis, et hoc modo participant creature creatorem. Assimilantur enim ei omnes
+    creature, set hoc non est assimilatio participationis in <seg>esse,</seg> set influentia
+    solum, et hec assimilatio <seg>est</seg> cause ad effectum, sicut pater <seg>assimilatur</seg>
+    filio sicut causa ad effectum, non tamen <seg>esse</seg> patris applicatur filio, sic est de
+    creaturis respectu creatoris. Nec tamen omnino est simile de patre respectu filii et de
+    creatore respectu creaturarum, quia pater per decisionem a <seg>se</seg>
+          <seg>factam</seg> generat et producit <seg>filios,</seg> creator autem sine ulla sui decisione
+    producit creatas uel <seg>creatum,</seg>
+          <seg>set</seg> sic primum licet participetur a creaturis participatione influentie
+      <seg>tamen</seg> est idem in essentia cum illis nec est omnia in omnibus nec principium
+      <seg>horum</seg> intra, quia solum influit in illis quod habent et <seg>intelligendum</seg>
+    quod hec omnia influit et operatur per intellectum. Vnde per intellectum influit uitam in
+    omnibus uiuentibus et per intellectum influit motum et esse omnibus et per intellectum influit
+    intellectum et scientiam intelligentibus, et ita per eandem operationem hec omnia influit et
+    operatur. posuerunt tamen quidem quod Deus in quantum natura est influit esse et motum
+    entibus, in quantum autem est uiuens influit <seg>uitam</seg> uiuentibus, in quantum autem
+    intelligens influit intellectum intelligentibus. Hoc autem ponere est erroneum <seg>et</seg>
+    dico quod omnia influit et operatur per intellectum et per intellectum principium est omnium
+    in omnibus, unde per eandem operationem que est intelligere operatur, sicut anima influendo
+    uitam et sicut natura influendo motum, et sic intellectus influendo intellectum. </p>
+        <p xml:id="da-236-ed1e2220-d1e2476">Ad secundam rationem dicendum quod non est simile de ente et de primo. Duplex enim est
+    communitas et prioritas: quedam est communitas et <seg>prioritas</seg> participationis et hoc
+    modo ens prius est et communius omni re, quia participatur ab omnibus rebus creatis, et hec
+    communitas et <seg>prioritas</seg> uniuersalitatis secundum participationem quam habet ens
+    facit quod ens sit omnia in omnibus et quod contrahatur secundum diuersas differentias rerum,
+    sicut in entibus contrahitur per differentias entium, in uiuentibus per differentias
+    uiuentium, in intelligentibus per intelligentium <seg>differentias.</seg> Vnde uiuens nichil
+    aliud est quam ens contractum per differentiam uite, quia <seg>uiuens</seg>
+          <seg>est</seg> habens uitam et ita est omnia in omnibus creatis. Est autem alia communitas et
+      <seg>prioritas</seg> que est secundum causalitatem et non secundum participationem essentie,
+    et hoc modo dicitur primum esse communius et prius, scilicet secundum causalitatem, et
+    uniuersalius, quia est causa communis et <seg>uniuersalis</seg> omnium non tamen est communis
+    in uia altera, et hec <seg>communitas</seg> causalitatem idem <seg>est</seg> quam communitas
+    secundum participationem influentie, quia causa influit supra causatum <seg>suum.</seg> Hec
+    autem communitas et uniuersalitas non ponit idemptitatem in essentia <seg>illius</seg> cuius
+    est cum eis a quibus participatur, set prima et ideo licet ens sit idem cum omnibus entibus
+    contractum per differentias entium non tamen primum est idem cum <seg>omnibus</seg> causantis
+    nec est omnia in omnibus. Ad hoc <seg>etiam</seg> quod dicit <seg>commentator</seg> quod ens
+    est uehementissime adherentie dicendum quod aliquid dicitur esse
+      <seg>uehementis</seg>
+          <hi> </hi>adherentie duobus modis: uno modo quantum ad participationem
+    omnium rerum, quia, scilicet omnes res participant ipsum, et ideo ipsis uehementer adheret, et
+    hoc modo ens dicitur esse <seg>uehementis</seg> adherentie, quia hoc modo inmediatius inheret
+    omni <seg>rei.</seg> Alio modo dicitur aliquid <seg>uehementis</seg> adherentie quantum ad
+    influentiam et quantum <seg>ad</seg> conseruationem et non quantum ad participationem
+    essentie, et hoc modo <seg>primum</seg> dicitur esse <seg>uehementis</seg> adherentie, quia
+    super omnia influit conseruando ipsa. Vnde scribitur in libro <hi>Fontis uite</hi> quod
+    uoluntas primi est ligans formam cum <seg>materia.</seg> Prima autem uehementia adherentie
+    ponit idemptitatem in <seg>esse</seg> eius quod adheret omnibus quibus adheret et ponit illud
+    esse omnia in illis <seg>omnibus,</seg> secunda autem <seg>uehementia</seg> non. Prima autem
+    conuenit enti, <seg>secunda</seg> prime cause, et ideo causa prima que es motor uniuersalis
+    omnium non est omnia in omnibus.</p>
+        <p xml:id="da-236-ed1e2220-d1e2566">| Ad terciam rationem <seg>dicendum</seg> quod principium uite et esse et intellectus in
+      <seg>entibus</seg> uiuentibus et intelligentibus est duplex, quia quiddam est particulare
+    intrinsecum sicut anima est particulare principium intrinsecum uite in uiuentibus et
+    intellectus in intelligentibus et natura principium <seg>est</seg> et motus in entibus, et
+    tale <seg>diuersificat</seg> secundum diuersitatem rerum differentium numero et specie, et
+    tale non est unum set plura. Est aliud principium illorum quod est uniuersale
+      <seg>principium</seg> uite et esse <seg>intellectus</seg> quod etiam est
+      <seg>principium</seg>
+          <hi> </hi>particularium principiorum et tale est principium esse
+      <seg>et</seg> uite et intellectus in omnibus manens unum et idem fixum per essentiam non
+    dependens ab illis, set separatum, et tale non est idem cum omnibus et tale est principium
+    unde non influit uitam, quia sit anima illius in quo influit uitam nec intellectum, quia sit
+    illius intellectum cui <seg>influit</seg> nec esse, quia sit natura illius cui influit esse
+    set influit supra animam que dat uitam. Et influit supra naturam que dat esse et motum, et
+    influit etiam super intellectum, et ita non contrahitur secundum contractionem et diuersitatem
+    rerum nec multiplicatur. Et ideo non est omnia in omnibus.<hi> </hi>
+        </p>
+        <p xml:id="da-236-ed1e2220-d1e2601">Ad quartam rationem dicendum quod multiplex est agens ex suppositione alicuius, quoddam est
+    agens ex nichilo. Agens uero ex suppositione diuersificat suam actionem secundum diuersitatem
+    materie que supponitur eis, sicut agens quod est natura. Agens autem ex nichilo sicut primum
+    non diuersificat actionem suam nec effectus suos secundum diuersitatem materie sibi suppponit
+    cum nichil ei supponatur, set secundum exigentiam uirtutis sue, nam agens multiplicans est
+    duplex, quia quedam est multiplicatio per diffinitionem, et hoc modo pater multiplicat per
+    filios. Tercia uero est multiplicatio per effectus extrinsecos, sicut multiplo datoris per
+    dona. In prima autem multiplicationem que est per dffinitionem sit multiplo essentie rei, unde
+    lumen dispergit et diffundit et multiplicat suam substantiam in aere nec tamen decindit eam
+    nec deperdit. In secunda enim producendo filium et multiplicando se per filios pederdit et
+    decindit <seg>suam</seg> substantiam. In multiplicatione autem que est datoris per dona uel
+    per effectus extrinsecos, quod idem est, non multiplicat agens quodam modo suam substantiam
+    nece deperdit nec diffundit, quia illa multiplicatio est per effectus extrinsecos. Vnde agens
+    in illa multiplicat dona, scilicet dator et non suam substantiam, et causa huius est
+    multiplicatio per extrinseca quam facit. Principium ergo hoc tercio modo multiplicauit
+    creaturas et non primo nec secundo modo set tercio modo scilicet largitudo, sicut dator
+    multiplicat dona sua, scilicet largitudo sua. Vnde dicit Raby Moysis bene dicens in hoc quod
+    creature exeunt a creatore non sicut radius a lumine uel sole nec sicut filius a patre, set
+    sicut donum a datore et a largietate. Vnde dicit <seg>Algazel</seg> quod factor primus
+    excelsus et gerens largissimus est a quo emanant omne bonum et dicit quod bonum emanat ab
+    aliqua*. Vno modo propter retributionem a materia, alio modo non per retributionem a materia.
+    Largitus autem natura est conferre beneficium operationum unicuique sine spe compensationis*.
+    Hoc autem modo dicit <seg>Algazel</seg> quod Deus largus est, et ideo ab eo exeunt multa,
+    sicut a largitate, et ideo non multiplicat se multiplicando <seg>ea.&gt;</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

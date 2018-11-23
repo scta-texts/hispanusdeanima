@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e3408" >
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum hec
+    conformitas quam habet anima cum rebus sit per similitudines rerum uel per participationem
+    nature et esse rerum ita quod anima sit conformis rebus, quia in ipsa sint secundum
+    ueritatem uel quia in ipsa sint
+    per similitudinem</head>
+        <p xml:id="da-236-ed1e3408-d1e3416">[lec 11 q2] Circa secundam <seg>questionem</seg> sic proceditur et queritur utrum hec
+    conformitas | quam habet anima cum rebus sit per similitudines rerum uel per participationem
+    nature et esse rerum ita quod anima sit conformis rebus, quia in ipsa <seg>sint</seg> secundum
+      <seg>ueritatem</seg> uel quia in ipsa <seg>sint</seg>
+          <seg>per</seg> similitudinem, et ostenditur quod hec conformitas solum sit secundum
+      <seg>similitudines</seg> et quod res solum <seg>sint</seg> in anima per suas similitudines
+    et non secundum ueritatem, quia, sicut <seg>Algazel</seg> ad hoc ut fiat cognitio, tria
+    requiruntur: primum est ut substantia cognoscens sit inmunis a materia. Secundum est
+      <seg>ut</seg>
+          <seg>res</seg> que cognoscitur sit denudata a materia. Tercium est ut sit unio istorum ad
+    inuicem, set anima est inmunis a materia, et ideo cognoscit. Ergo res que est in ea per
+    cognitionem et denudata a materia, ergo in anima est illud de re quod denudatum <seg>est</seg>
+    a materia. Hoc autem est solum species uel similitudo rei, <seg>ergo</seg> species
+      <seg>uel</seg> similitudo rei est in anima et non res secundum ueritatem. Ergo anima habet
+    conformitatem cum rebus <seg>secundum</seg> similitudinem solum et non per ipsas res nec per
+    participationem nature et esse earum.</p>
+        <p xml:id="da-236-ed1e3408-d1e3463">Secunda ratio hec est: sicut dicit Boethius in libro <hi>De conslatione
+       <seg>philosophie</seg>
+          </hi>, omne quod est in aliquo est secundum possibilitatem eius in
+    quo est. Set res sunt in anima, ergo sunt in <seg>anima</seg> secundum
+      <seg>possibilitatem</seg> anime. Set anima est spiritualis, ergo sunt in <seg>ea</seg> modo
+    spirituali. Illud autem quod est spirituale in <seg>re</seg> est sola species uel similitudo,
+    ergo res sunt in anima per solam speciem <seg>uel</seg> similitudinem, et hoc
+      <seg>confirmatur</seg> in hunc modum, nam in substantiis spiritualibus uel
+      <seg>corporalibus</seg> que aliquo modo habent naturam spiritualem representantur res non
+    secundum substantiam suam set secundum suas similitudines solum, sicut patet in speculo et in
+    luce in quibus apparent ydola rerum, ergo multo magis in anima, cum sit substantia
+    spiritualis, sunt res secundum suas similitudines et non secundum suas substantias. Ergo habet
+    anima conformitatem cum rebus per similituindes rerum et non per participationem essentie
+    rerum. </p>
+        <p xml:id="da-236-ed1e3408-d1e3493">Ad oppositum: omne illud quod operatur secundum proportionem et exigentiam elementorum habet
+    naturam elementorum participatione. Set anima est huiusmodi, ergo habet naturam elementorum
+    participatione, ergo habet conformitatem cum rebus secundum essentiam et participationem
+    essentie et non secundum similitudinem solum. Maior patet <seg>quia</seg> uidemus corpora
+    moueri secundum exigentiam elementorum que participant elementa. Minor patet ab Augustino in
+    libro <hi>De <seg>anima</seg>
+          </hi>, ubi dicit quod appropriantur elementa uirtutibus anime in
+    suis <seg>operationibus.</seg>
+        </p>
+        <p xml:id="da-236-ed1e3408-d1e3508">Secunda ratio hec est: omne illud quod est forma et completio corporis compositi ex elementis
+    habet naturam elementorum. Anima autem est huiusmodi, ergo habet in se naturas elementorum et
+    secundum ueritatem et non per similitudines, <seg>rerum</seg> autem inferiores sunt elementa
+    uel ex elementis, ergo <seg>habent</seg> conformitatem cum rebus per participationem
+      <seg>rerum</seg> secundum <seg>ueritatem</seg> et non per similitudines earum.
+      <seg>Minor</seg> patet, quia elementa sunt <seg>cause</seg> eorum que sunt ex elementis et
+    eorum que in ipsis sunt, sicut completiones et forme. Ergo cum anima sit completio et forma
+    que est in composito, anima resultabit ex formis elementorum secundum ueritatem, ergo habet
+    naturas rerum in se secundum ueritatem et non secundum similitudines solum. </p>
+        <p xml:id="da-236-ed1e3408-d1e3530">
+          <hi>|</hi>
+          <seg>Solutio.</seg> Dicendum est quod anima habet conformitatem cum <seg>omnibus</seg> rebus.
+    Hec autem conformitas est duplex: una enim est in cognoscendo secundum quam species omni|um in
+    ipsa representantur. Alia est in participando communiter <seg>omnis</seg> res. Participat enim
+    esse cum entibus et uitam cum uiuentibus et <seg>intellectum</seg> cum intelligentibus. Prima
+    autem conformitas est per similitudines et <seg>per</seg> species rerum per quas cognoscit
+    res. Per similitudines enim rerum cognoscit res et non per earum <seg>ueritatem.</seg> Secunda
+    autem conformitas est secundum ueritatem, set hec est secundum proportionem. Ad primam
+    rationem in contrarium dicendum <seg>est</seg> quod anima operatur secundum exigentiam
+    elementorum non quia ex eis componatur, set propter proportionem organorum quibus anima
+    operatur que sunt ex elementis que organa sequitur anima in operando et per que operatur. </p>
+        <p xml:id="da-236-ed1e3408-d1e3557">Ad secundam rationem dicendum est quod in <seg>composito</seg>
+          <seg>ex</seg> elementis est duplex forma: una est forma mixtionis, alia est forma addita
+    mixitioni sicut anima, <seg>alia</seg> enim non est forma mixtionis <seg>set</seg> addita
+    mixtioni. Prima autem forma que est forma mixtionis resultat ex elementis. Secunda autem que
+    est anima non nisi <seg>sicut</seg> ex preparantibus et disponentibus, set hec est duplex,
+    quia quedam habet radicem in materia <seg>et</seg> quedam non. Illa que non habet radicem in
+    materia est ab extrinseco, sicut anima intellectiua, et non est ex elementis nisi sicut
+    preparantibus ad sui existentiam in corpore. Illa autem que habet radicem in materia est per
+    uirtutem nature ex elementis, non quia elementa sint partes eius, set quia potentia
+      <seg>est</seg> in elementis ut per operationem nature ex ipsa materia <seg>elementari</seg>
+    educantur ad actum. </p>
+        <p xml:id="da-236-ed1e3408-d1e3585">Rationes autem alie due sunt concedente in uia illa qua procedit, quia ostendunt quod anima
+    habet conformitatem cum rebus in materia communi non fixa, non determinata, non
+      <seg>detractata</seg> et hoc est uerum. Set non ostendunt quod secundum ueritatem
+    comformetur <seg>illi</seg> gerendo secundum ueritatem naturas <seg>illarum.</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

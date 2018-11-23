@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e3598" >
+        <head>Quaestio 3</head>
+        <head type="question-title">Utrum conformitas
+    ista quam habet anima cum rebus in cognoscendo sit per
+    representationem rerum uel principiorum rerum</head>
+        <p xml:id="da-236-ed1e3598-d1e3606">[lec 11 q3] Circa terciam <seg>questionem</seg> sic proceditur et queritur utrum conformitas
+      <seg>ista</seg> quam habet anima cum rebus in cognoscendo <seg>sit</seg> per
+    representationem rerum uel principiorum rerum, et ostenditur quod sit per
+      <seg>representationem,</seg> quia sicut habetur in principio <seg>
+            <hi>Physicorum</hi>,</seg>
+    intelligere et scire est per causas et principia in rebus habentibus causas et principia, ergo
+    representatio rerum ipsi intellectui per cognitionem erit per representationem causarum et
+    principiorum. </p>
+        <p xml:id="da-236-ed1e3598-d1e3626">Secunda ratio est <seg>ista:</seg> duplex est cognitio, scilicet sensitiua et intellectiua.
+    Sensitiua autem fit per exteriora; intellectiua uero cognitio fit per interiora <seg>et</seg>
+    per uera rerum <seg>principia,</seg> set illorum gerit anima similitudines per que cognoscit,
+    set cognoscit et intelligit per principia, ergo gerit similitudines principiorum, sicut enim
+    unumquodque se habet ad esse ita se habet ad cognitionem loquendo de cognitione intellectiua.
+    Set res sunt ex principiis ueris, ergo per sua uera principia intelliguntur, ergo conformitas
+    anime cum rebus est per representationem similitudininum principiorum rerum et non per
+    similitudines rerum nec per ipsas res. </p>
+        <p xml:id="da-236-ed1e3598-d1e3638">Ad oppositum: omne illud quod in se habet principia rerum si <seg>est</seg> substantia
+    spiritualis habet ipsa, sicut exemplaria, unde <seg>dicitur</seg> in libro <hi>Fontis
+      uite</hi> quod substantie spirituales habent in se exemplaria <seg>rerum.</seg> Set anima
+    est substantia spiritualis, ergo si habet in se principia rerum habet in se exemplaria rerum.
+    Set omne aliud quod habet in se exemplaria rerum est causa efficiens rerum, | quia exemplaria
+    sunt cause <seg>et</seg> rerum per que fiunt res et per que <seg>regulantur</seg> in factione
+    ipsarum rerum, ergo anima est principium effectiuum rerum. Hoc autem falsum est, ergo anima in
+    se non gerit principia nec similitudines <seg>principiorum</seg> cognoscendo ipsas res. </p>
+        <p xml:id="da-236-ed1e3598-d1e3664">Secunda ratio hec est: cognitio intellectiua prouenit <seg>ex</seg> cognitione sensitiua,
+    sensitiua <seg>autem</seg> cognoscit effectus, sicut uult Aristoteles, et non causas rerum nec
+    principia intrinseca rerum, ergo anima intellectiua insurgit in cognitionem per effectum et
+    solum cognoscit effectus et <seg>principaliter,</seg> set non gerit in se similitudines nisi
+    illorum <seg>que</seg> principaliter cognoscit, ergo gerit in se principaliter similitudines
+    effectuum et non principiorum. Effectus autem sunt res ipse ex principiis constitute, ergo
+    gerit in se similitudines rerum et non principiorum, ergo anima intellectiua cognoscit res per
+    res et non per principia rerum, et ita non habet conformitatem cum rebus per similitudinem
+    principiorum.</p>
+        <p xml:id="da-236-ed1e3598-d1e3679">
+          <seg>Solutio.</seg> Dicendum est quod anima intellectiua non cognoscit res per res set
+    cognoscit res per uera <seg>sui</seg> principia in quibus res communicant quorum principiorum
+    anima <seg>gerit</seg> similitudines. Habet ergo anima conformitatem cum <seg>principiis</seg>
+    propter similitudines principiorum quas gerit in quibus omnes res communicant et per que
+    principia cognoscit res. Et concedende sunt rationes hoc ostendentes. </p>
+        <p xml:id="da-236-ed1e3598-d1e3693">Ad primam rationem in contrarium dicendum <seg>est</seg> quod principia sunt in aliquo multis
+    modis: uno modo tanquam in efficiente et cognoscente quod habet potestatem super illa
+    principia et hoc modo sunt <seg>inferiore</seg> primo. Alio <seg>modo</seg> in aliquo
+      <seg>sunt</seg> in effectu et in eo quod ex ipsis efficitur et hoc modo sunt in rebus que
+    sunt ex principiis. Tercio modo sunt in aliquo sicut in cognoscente solum, et hoc modo sunt in
+    anima. De illo ergo in quo sunt principia uel exemplaria primo modo uerum obicit sicut est
+    factor primus. Talis enim habet potestatem supra principia uel exemplaria et per illa producit
+    rem, de eo in quo sunt tercio modo non uerum concludit ratio cum non habeat potestatem supra
+      <seg>principia</seg> non est causa aliarum rerum per exemplaria <seg>illa</seg> uel
+    similitudines principiorum quas habet in se. </p>
+        <p xml:id="da-236-ed1e3598-d1e3715">Ad secundam rationem dicendum <seg>est</seg> quod anima habet duplicem cognitionem: unam per
+    applicationem ad sensum et hec non est ei propria et per istam deuenit in cognitionem
+    effectuum et posteriorum. Alia est ei propria per cognitionem rerum in sua propria ueritate
+    cum quibus habet conformitatem et hoc est per causas ueras rerum et uera principia et hec est
+    cognitio intellectiua. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

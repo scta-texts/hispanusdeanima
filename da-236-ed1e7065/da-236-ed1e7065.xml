@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 6</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 6</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e7065" >
+        <head>Quaestio 6</head>
+        <head type="question-title">Utrum anima moueatur aliquo modo motu locali</head>
+        <p xml:id="da-236-ed1e7065-d1e7073">[lec 15 q6] Questio <seg>sexta.</seg>
+          <seg>Circa</seg> sic proceditur et queritur utrum anima moueatur aliquo modo motu locali. Et
+    ostenditur quod sic: omnis substantia mouens secundum apprehensionem rei exterioris mouetur
+    primo secundum exigentiam <seg>rei</seg> exterioris quam ad illam corpus moueat, set anima
+    mouet corpus ad locum per apprehensionem loci, ergo prius mouetur aliquo modo ad locum ad quem
+    mouet corpus quam ad ipsum corpus moueat. <seg>Iterum</seg> cum mouet corpus ad locum per
+    apprehensionem mouet se et dirigit se ad motum corporis et dirigendo se mouet et dirigit
+    corpus. Omnis talis uero substantia mouetur ab alio et mouendo se mouet aliud, ergo anima
+    mouendo corpus localiter mouetur aliquo modo motu locali ad minus* secundum intensionem et
+    estimationem. </p>
+        <p xml:id="da-236-ed1e7065-d1e7088">Secunda ratio hec est: sicut uult Aristoteles in septimo <seg>
+            <hi>Metaphisice</hi>,</seg>
+    omnis actio<hi>|</hi>nes reducuntur ad uniuocationem, et dicit Auerrois super hoc in undecimo
+    quod uulnera que facit percutiens per corrigias in dorso reducuntur ad uniuocationem per
+    intensionem quia uulnera que sunt in dorso sunt in mente percutientis secundum
+      <seg>intensionem.</seg> Set anima mouet corpus et influit motum supra ipsum, ergo hec
+    influentia reducitur ad uniuocationem. Set hoc non potest esse nisi ad minus anima
+      <seg>participet</seg> motum localem secundum intensionem, set non potest
+      <seg>participare</seg> motum secundum intensionem nisi moueatur se ipsa secundum intensionem
+    mouendo corpus, ergo anima mouendo corpus localiter aliquo modo participat motum localem. </p>
+        <p xml:id="da-236-ed1e7065-d1e7108">Ad oppositum: omne quod mouetur ad locum est natum occupare locum. Omne autem tale est
+    corpus, ergo omne quod mouetur ad locum est corpus. Set anima non est corpus, ergo anima non
+    mouetur ad locum, ergo anima nullo modo mouetur motu locali nec ipsum participat. </p>
+        <p xml:id="da-236-ed1e7065-d1e7112">
+          <seg>Solutio.</seg> Ad hoc dicendum eset quod anima mouet corpus motu locali et cum mouet
+    corpus motu locali mouetur aliquo modo ad locum ad quem mouet corpus secundum apprehensionem,
+    et mouet se dirigendo se ipsam et dirigendo se dirigit corpus ad locum determinatum et sic
+    mouetur a loco per intensionem et se mouet ad locum per intensionem et mouet corpus. Motus
+    uero corporalis et locus <seg>attribuitur</seg> corpori et non anime. Huiusmodi autem motus
+    quo anima mouetur motu locali non est motus proprie set est motus intensionis et est
+    spiritualis. Soli autem corpori competit motus corporalis, unde anima prius quam moueat corpus
+    ad locum estimat illum locum et estimat se esse in illo loco ante quam sit ibi et per istam
+    estimationem corpus ad locum dirigit, sicut si aliquis uelit ire Romam, anima sua prius
+    estimat locum illum Rome et mouetur ad illum intendendo ipsum et estimando et postea mouet
+    corpus ad illum. </p>
+        <p xml:id="da-236-ed1e7065-d1e7120">Dicendum est igitur ad rationes quod motus est duplex, scilicet corporalis et spiritualis.
+    Motus autem corporalis competit soli corpori; motus autem spiritualis est motus secundum
+    intensionem et apprehensionem et talis competit anime in mouendo se et dirigendo. Cum enim
+    apprehendit locum statim estimat modum uie ad locum et dirigit se per estimationem ad illum et
+    estimat se esse in illo loco antequam sit in eo et secundum istam estimationem postea corpus
+    ad locum dirigit et mouet, et ideo dicitur mouere corpus localiter secundum istam
+    estimationem. Et <unclear>intellidendum <!-- typo ?? --></unclear> est quod motus corporalis
+    competit anime tanquam principio effectiuo solum et participatur ab ea solum secundum
+    intensionem. Competit uero corpori, sicut subiecto, et ideo motus localis corporalis competit
+    anime, sicut principio regulanti et effectiuo et intendenti. Corpori autem competit sicut
+    subiecto in quo est. Et ita patet quod anima participat aliquo modo motum localem mouendo
+    corpus localiter, scilicet secundum intensionem ipsum participat solum et
+    esti<hi>|</hi>mationem, et hoc probat ratio prima. Et per hoc soluuntur omnes rationes ad
+    oppositum. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 10</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 10</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e19750" >
+        <head>Quaestio 10</head>
+        <p xml:id="da-236-ed1e19750-d1e19755">
+          <hi>[lec7 q10] Circa decimam questionem sic proceditur et queritur quo modo actus actiuorum
+      sunt in patiente et disposito per hoc, ergo uult Aristoteles quod actus sit in patiente,
+      sicut in subiecto disposito per ipsum. Set cum sit duplex actus, scilicet primus, et hic est
+      forma, et secundus et hic est <seg>comparatio.</seg> Queritur <seg>enim</seg> de quo actu
+      hoc intelligendum est et intelligimus hoc de actu secundo, qui est operatio, et queritur de
+      illo actu in quo <seg>sit</seg> ut in subiecto utrum, scilicet in agente <seg>uel</seg> in
+      patiente, et ostenditur quod sit in agente tanquam in subiecto et non in patiente, sicut
+       <seg>dicitur</seg> in libro </hi>
+          <hi>Phisicorum</hi>
+          <hi>, actio et passio idem sunt. Set dicitur actio in comparatione ad agentem. Dicitur passio
+      in comparatione ad patientem, ergo actio debet esse in <seg>agente</seg> ut in subiecto
+       <seg>et</seg> non in patiente.</hi>
+        </p>
+        <p xml:id="da-236-ed1e19750-d1e19788">
+          <hi>Secunda ratio hec <seg>est:</seg> sicut habetur in libro </hi>
+          <hi>De generatione</hi>
+          <hi>, proprium est forme agere <seg>et</seg> materie pati. Set in illo est actio ut in
+      subiecto cuius est agere, ergo actio est in forma ut in subiecto. Set forma est agens et non
+      patiens, ergo actio est in agente ut in subiecto et non in patiente. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19750-d1e19806">
+          <hi>Ad oppositum: dicit in <seg>libro</seg> secundo </hi>
+          <hi>De anima</hi>
+          <hi>
+            <seg>hic</seg> quod omnis actus natus est fieri in propria potencia et in propria materia et
+      etiam dicit</hi>
+          <hi> </hi>
+          <hi>quod</hi>
+          <hi> </hi>
+          <hi>|</hi>
+          <hi> actus actiuorum sunt in patiente et disposito et sic habetur per ipsum quod actio est in </hi>
+          <hi>|</hi>
+          <hi> materia et in patiente <seg>ut</seg> in subiecto et disposito. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19750-d1e19849">
+          <hi>Secunda ratio hec est: actio est cum motu, ergo actio est in eo ut in subiecto in quo est
+      motus ut in subiecto. Motus autem non est in agente <seg>sicut</seg> in subiecto set sicut
+      in <seg>causa</seg> solum et in patiente sicut in subiecto, ergo similiter et actio. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19750-d1e19862">
+          <hi>Tercia ratio hec est: in eo est actio ut in subiecto quod est potencia ad actionem quia
+      eiusdem est potencia et actus. Set patiens est potencia respectu actionis, ergo in patiente
+      est actio ut in subiecto. Set agens est in potencia actiua respectu actionis, ergo in
+       <seg>eo</seg> non est actio sicut in subiecto set solum sicut in <seg>causa.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e19750-d1e19873">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod duplex est actus, scilicet primus et hic est forma,
+      secundus et hic est operatio et <seg>utrumque</seg> est in propria materia sicut in
+      subiecto. Vnde actus primus qui est forma respicit materiam primam quam perficit et que est
+      potencia ad ipsum et que est patiens respectu <seg>agens</seg> introducentis formam in illa.
+      Secundus actus respicit proprium subiectum quod est obiectum ipsius et proicit ad eius
+      receptionem. Et sermonem illum intelligit Aristoteles de <seg>forma,</seg> cum ponit quod
+      forma que est actus sit in propria materia et in propria potencia <seg>ordinata</seg> ad
+      ipsum. Et sermo similiter uerus est de actu <seg>secundo.</seg> Vnde dicendum <seg>est</seg>
+      quod omnis actus siue primus siue secundus est in propria materia uel in patiente est, quod
+      est idem, <seg>ut</seg> in subiecto. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19750-d1e19910">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod actio est in duobus, in uno,
+      sicut in causa a qua <seg>est</seg> et hoc modo est in agente, et est in alio sicut in
+       <seg>subiecto</seg> in quo est et hoc modo est in patiente, quod est subiectum recipiens
+      actum et quod est potencia ad ipsum. Vnde forma est in agente ut in causa a qua fluit et in
+      materia patiente, sicut in subiecto <seg>quod</seg> complet et perficit. </hi>
+        </p>
+        <p xml:id="da-236-ed1e19750-d1e19928">
+          <hi>Ad secundam similiter <seg>rationem</seg> dicendum <seg>est</seg> quod, cum proprium sit
+      forme agere, actio est in forma sicut in causa a qua fluit et <seg>in</seg>
+            <seg>materia</seg> patiente sicut in subiecto <seg>in</seg> quo sustinetur. Vtrum
+       <seg>anima,</seg> forma et actus sint idem et quo modo differant superius determinatum
+      est. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

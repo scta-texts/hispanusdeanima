@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e21336" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e21336-d1e21341">
+          <hi>P</hi>
+          <hi>aragraphus secundus de comparatione anime ad suas differentias. Continuatio intensionis.
+    </hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21350">
+          <hi>Manifestum est autem quoniam eodem <seg>modo</seg> una est ratio anime et
+       <seg>figure</seg>
+          </hi>
+          <hi> et cetera, determinata est distinctio anime <seg>differentiarum</seg> per operationem ad
+      subiecta participantia ipsas. In hac parte tangit secundum quem modum uia
+       <seg>distinctionis</seg> anime suis differentiis applicetur, et hec pars
+       <seg>spectat</seg> ad presentem speculationem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21373">
+          <hi>Diuisio. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21379">
+          <hi>Recipit autem diuisionem hec <seg>pars</seg> in duas, in quarum prima tangit modum
+      diffinitionis anime communem et proprium respectu differentiarum ipsius. In secunda,
+      scilicet in hac, </hi>
+          <hi>similiter autem se habent ea que sunt de figuris ad ea que sunt secundum animam</hi>
+          <hi> et cetera, <seg>determinatur</seg>
+            <seg>modus</seg> ordinis naturalis differentiarum anime ad inuicem secundum se habent prius
+      et posterius accipientes communem diffinitionem et proprias. Prima autem istarum partium
+      recipit diuisionem in duas <seg>partes,</seg> in quarum prima tangit modum
+       <seg>diffinitionis</seg> anime communem et proprium respectu suarum differentiarum. In
+      secunda, scilicet in hac, </hi>
+          <hi>unde ridiculum est querere communem rationem</hi>
+          <hi> et cetera, concludit ex predictis quod uia diffinitiua anime que <seg>inquirit</seg>
+      communem <seg>diffinitionem</seg> absque propria exigentia singularum differentiarum anime
+      est <seg>insufficiens.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21422">
+          <hi>Secunda pars principalis recipit diuisionem in duas, in quarum <seg>prima</seg> ostendit
+      ordinem naturalem differentiarum anime ad inuicem. In secunda, scilicet in hac, </hi>
+          <hi>propter quam autem causam <seg>communiter</seg> sic se habeant <seg>considerandum</seg>
+      est</hi>
+          <hi> et cetera, secundum predictum </hi>
+          <hi>|</hi>
+          <hi> ordinem eas ad inuicem comparat causam illius determinans. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21449">
+          <hi>Diuisionis recollectio. Sunt igitur in presenti <seg>lectione</seg> partes quatuor, in
+      quarum prima tangit comparationem modi diffinitionis anime ad suas differentias. In secunda
+      concludit quod diffinitio uniuersalis anime non sufficit absque propriis diffinitionibus
+      singularum differentiarum. In tercia tangit ordinem naturalem differentiarum anime. In
+      quarta secundum ordinem preassignatum eas ad inuicem comparat causam ordinis determinans.
+      Hec est diuisio huius partis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21458">
+          <hi>Sentencia </hi>
+          <hi>|</hi>
+          <hi> prime partis de comparatione modi diffinitionis anime ad suas differentias.
+       <seg>Circa</seg> primam partem procedit philosophus hoc modo dicens: dans similitudinem
+      extra <seg>rem</seg>
+            <seg>in</seg> figurarum diffinitionibus et diffinitionibus anime et ipsius differentiarum et
+      est sua ratio <seg>talis:</seg> sicut se habet diffinitio uniuersalis figure et
+      diffinitiones proprie singularum figurarum ad figuras singulas, similiter se habet
+      diffinitio anime uniuersalis et diffinitiones proprie <seg>singularum</seg> differentiarum
+      eius ad anime differentias. Set in figuris est quedam diffinitio communis que conuenit
+      figure uniuersali ita quod nulli particulari appropriatur immo ad omnes extenditur et sunt
+      diffinitiones proprie per quas singule figure particulares ad inuicem distinguntur. et
+      figura uniuersalis nichil est preter particulares et <seg>similiter</seg> uniuersalis
+       <seg>diffinitio</seg> nichil est preter proprias <seg>diffinitiones.</seg> Ergo eodem modo
+      in anima et eius differentiis est quedam diffinitio uniuersalis que omni eius differentie
+      conuenit et nulli est propria et sunt proprie singularum diffinitiones per quas singule
+      differentie ad inuicem distinguntur et anima uniuersalis et eius <seg>diffinitio</seg>
+      nichil est preter differentias eius particulares et diffinitiones proprias singularum. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21498">
+          <hi>Sententia secunde partis <seg>in</seg> qua concluditur quod diffinitio uniuersalis anime
+      non sufficit ad <seg>notiorem</seg> singularum <seg>abque</seg> specialibus diffinitionibus.
+      Consequenter concludit ex predictis quod ex quo non est anima preter particulares eius
+      differentias neque diffinitio uniuersalis preter <seg>particulares</seg> anime
+       <seg>differentias</seg> et diffinitiones proprias, ridiculosum est querere diffinitionem
+      anime uniuersalem que ita <seg>assignetur</seg> uniuersaliter de <seg>anima</seg> ut nulli
+      eius differentie conueniat et dimittatur propria diffinitio singularum differentiarum eius.
+      Sciendum <seg>est</seg> autem quod diffinitio assignata de anima non est talis, immo omni
+      differentie anime conuenit, tamen non sufficit ad cognitionem singularum ipsius
+      differentiarum nisi ad <seg>specialem</seg> diffinitionem singularum differentiarum
+      descendamus. Set diffinitio quam reprobat auctor nec est competens <seg>neque</seg>
+          </hi>
+          <hi>|</hi>
+          <hi> sufficiens, immo est ridiculosa.</hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21541">
+          <hi>Sentencia tercie partis de naturali ordine differentiam anime, consequenter accedit ad
+      partem <seg>illam</seg> in qua determinat naturalem ordinem differentiarum anime ad inuicem
+      in cuius rei determinatione predicta similitudo declaratur. In illa uero parte duo intendit.
+      Primo enim tangit ordinem differentarum anime dicens quod eadem ratio est in differentiis
+      anime et in omnibus figuris a parte ordinis ipsarum ad inuicem et a parte suarum
+      differentiarum specialium <seg>et</seg> diffinitionis communis. In figuris autem est talis
+      ordo ut semper in figura posteriori est prior, sicut in <seg>quadrangulo</seg> est
+      triangulus secundum potenciam. Ergo in differentiis anime hoc idem <seg>contingit</seg> ut
+      semper in differentia posteriori existat prior, sicut in eo in quo est differentia
+      sensibilis est differentia uegetabilis et in eo in quo est differentia intellectiua est
+      differentia uegetabilis et <seg>sensibilis.</seg> Secunda uero intendit ostendere ex
+      predictis quod non solum sufficit inquirere uniuersalem anime diffinitionem set etiam
+      necesse est inquirere propriam uniuscuiusque differentie diffinitionem, ut inquiratur que
+      est diffinitio anime, plante et bruti et hominis. Hec autem intendit cum dicit, </hi>
+          <hi>quare unumquodque querendum <seg>est</seg>
+          </hi>
+          <hi>et cetera.</hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21571">
+          <hi>Sentencia quarte partis de comparatione differentiarum anime ad inuicem <seg>per</seg>
+      naturalem ordinem et de causa huius ordinis, consequenter accedit ad partem illam in qua
+      tangit causam predicti ordinis naturalis uegetabilis ad alias differentias. In
+       <seg>secunda,</seg> scilicet in hac, </hi>
+          <hi>iterum autem sine eo quod potest <seg>tangi</seg>
+          </hi>
+          <hi> et cetera, tangit ordinem differentiarum sensibilium ad inuicem ad intellectiuam. Dicit
+      igitur quod dicendum est propter quam causam <seg>uirtutem</seg> anime se habent secundum
+      predictum modum et tangit manifestationem huiusmodi in differentia uegetabili dicens quod
+      sine uegetabili differentia sensibilis non potest esse, set e conuerso, uegetabilis potest
+      esse sine sensibili, sicut in plantis. Et que habent se hoc modo unum est prius altero, ergo
+      uegetabilis <seg>est</seg> prior sensibili. Deinde tangit comparationem aliarum
+      differentiarum ad inuicem et in illa parte duo intendit: primum est determinare
+      comparationem sensus primi, scilicet tactus ad alias differentias dicens quod sine tactu
+      alie uirtutes sensibiles non possunt esse, set solus tactus potest esse sine illis, et hoc
+       <seg>ostendit</seg> dicens quod multa animalia <seg>sunt</seg> in quibus neque est uisus
+      nec auditus neque olfatus, set solus tactus et reducit gustum ad tactum. Animal enim quod
+      alitur <seg>nutrimentum</seg> caret sapore et consistit in solis quatuor qualitatibus que
+      sunt obiectum tactus habet tactum sine gustu. Videntur autem multa animalia gustu </hi>
+          <hi>|</hi>
+          <hi> carere sicut spongia marina et similia. Deinde secundo in parte illa tangit comparationem
+      aliarum uirtutum que sunt proprie in animalibus ad inuicem, cum dicit, </hi>
+          <hi>sensitiuorum alia quidem habent secundum locum motum</hi>
+          <hi> et cetera, et in illa parte multa dicit. Primo enim ponit diuisionem animalium secundum
+      participationem differentiarum sensibilium dicens quod quedam sensibilia participant
+      uirtutem motiuam secundum locum et quedam non, et tamen quedam habent intellectum et hoc est
+      principium simpicissimum ad quod status est omnium animalium et totius nature et
+       <seg>illa</seg> participant animum et mentem. Per animum autem anima dirigitur in
+      operatione. Per mentem uero in cognoscibilium et operationum discretione. Deinde penes
+      predictam distinctionem assignat ordinem differentiarum anime ad inuicem <seg>dicens</seg>
+      quod in quibus uiuentibus <seg>uiuentibus</seg> corruptibilibus inest animus uel intellectus
+      quantum</hi>
+          <hi> </hi>
+          <hi>|</hi>
+          <hi> ad superiorem eius uirtutem eisdem insunt omnes alie anime <seg>differentie,</seg> sicut
+      hominibus et loquitur de corruptibilibus ut excludat corpora superiora in quibus secundum
+      philosophos est appetitus et intellectus sine aliis anime differentiis. Et etiam ut excludat
+       <seg>substantias</seg> separatas in quibus est <seg>intellectus</seg> sine aliis anime
+      uirtutibus. Set non contingit e conuerso ut quibus insunt alie quod eisdem insit
+      intellectus, quia multa sunt que non habent ymaginationem et multo fortius <seg>nec</seg>
+      cognitionem siue mentem, ergo nec intellectum. Multa etiam animalia <seg>sola</seg>
+      imaginatione <seg>uiuut,</seg> sicut uirtute superiori quelibet alia superiori carentia ut
+      etiam aliis inferioribus sub ymaginatione uiuant. Ex hiis <seg>autem</seg> potest elici
+      talis ratio: quecumque sic se habent <seg>quod</seg> et in quibuscumque sunt, quedam eorum
+      in eisdem sunt reliqua et non e conuerso habent ad inuicem ordinem naturalem secundum prius
+      et posterius. Set differentie anime sunt huiusmodi, sicut ostensum est, ergo differentie
+      anime sunt huiusmodi, sicut ostensum est, ergo differentie anime habent naturalem ordinem ad
+      inuicem secundum prius et posterius. Deinde speculatiuum intellectum qui est suppremus inter
+      omnes uirtutes anime excludit ab aliis uirtutibus propter sui nobilitatem dicens quod de
+      ipso est <seg>altera</seg> ratio, quia de ipso est sermo extra naturam, cum non
+       <seg>uideatur</seg> esse anima uel pars anime. Set uideatur habere diuersitatem ad alias
+      anime differentias et esse ex natura superiori que est supra animam. In fine autem tangit
+      epylogum uniuersalem huius totalis partis dicens quod declaratum est ex predictis quod
+       <seg>conueniens</seg>
+            <seg>est</seg> in hac scientia determinare proprias diffinitiones anime que singulis ipsis
+      differentiis approprientur ut <seg>procedatur</seg> circa diffinitiones uniuscuisque.
+       <seg>Et</seg> hoc consistit manifesta</hi>
+          <hi>|</hi>
+          <hi>tio <seg>intensionis.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e21336-d1e21692">
+          <seg>
+            <hi>Questiones.</hi>
+          </seg>
+          <hi>
+            <seg>Circa</seg> partem istam quinque sunt inquirenda. Primum [lec9 q1] est utrum anima
+      intellectiua sit prior aliis differentiis anime per naturam. Secundum [lec9 q2] est utrum
+      ipsa possit in corpore <seg>esse</seg> sine aliis. Tercium [lec9 q3] <seg>est</seg> quo modo
+      differt uirtus uitalis que reducitur ad animam uegetabilem qua uiuimus a uirtute cordis
+      uitalis. <seg>Quartum</seg> [lec9 q4] est utrum uirtus uitalis animalis et naturalis sint
+      una uirtus an diuerse. Quintum [lec9 q5] est utrum uita <seg>insit</seg> uniuoce an equiuoce
+      omnibus uiuentibus. Sextum [lec9 q6] est per <seg>quam</seg> uiam est deuenire in noticiam
+      potenciarum anime. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

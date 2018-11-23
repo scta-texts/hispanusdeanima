@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e1907" >
+        <head>Quaestio 3</head>
+        <head type="question-title">Utrum intellectus 
+    qui est motor uniuersalis omnium sit impermixtus an permixtus
+   </head>
+        <p xml:id="da-236-ed1e1907-d1e1915">[lec 10 q3] <seg>Circa</seg> terciam <seg>questionem</seg> sic proceditur et queritur utrum
+    intellectus qui est motor uniuersalis omnium sit impermixtus an <seg>permixtus,</seg> et
+    ostenditur quod sit impermixtus, sicut dicit <seg>Algazel,</seg>
+          <seg>et</seg> hoc ut sit cognitio tria requiruntur: primum est ut res que <seg>cognoscit</seg>
+    sit inmunis a materia. Secundum est ut res que cognoscitur sit denudata a materia. Tercium est
+    ut sit unio istorum ad inuicem. Et cum hec tria sunt simul, tunc est perfecta
+      <seg>cognitio,</seg> ergo cum in primo maxime uigeat <seg>cognitio</seg> et sufficientia
+    cognitionis necesse est quod omnino sit inmunis a materia et independens, ergo intellectus
+    primi qui est motor uniuersalis omnium est independens a materia, set omnis talis est
+    impermixtus, ergo intellectus qui est motor omnium <seg>uniuersalis</seg> est impermixtus. </p>
+        <p xml:id="da-236-ed1e1907-d1e1946">Secunda ratio hec est: sicut dicit <seg>Aristoteles</seg> sub auctor <seg>Anaxagoras,</seg>
+    bene posuit Anaxagoras intellectum esse impermixtum ut omnia cognosceret. <seg>Iterum</seg> in
+      <seg>octauo</seg> dicit quod <seg>intellectus</seg> est causa omnis ordinationis et ille est
+    impermixtus, ergo impermixtio est causa cognitionis intellectus sufficientis, et propter quam
+    omnia cognoscit et comprehendit, set <seg>intellectum</seg> primo qui est motor uniuersalis
+    omnium est perfectissima cognitio et uniuersalis omnium est perfectissima cognitio et
+      <seg>uniuersalis</seg> rerum comprehensio, ergo intellectus qui est motor uniuersalis omnium
+    est <seg>impermixtus.</seg>
+        </p>
+        <p xml:id="da-236-ed1e1907-d1e1974">Ad oppositum: omnis substantia que in omnibus existit uel essentia uel uirtute est permixta
+    omnibus uel essentia uel uirtute uel utroque <seg>modo.</seg>
+          <seg>Set</seg> | motor uniuersalis omnium existit in omnibus uel essentia uel uirtute uel
+    utroque modo, ergo est permixtus uel essentia uel <seg>uirtute.</seg> Set si uirtute est
+    permixtus, tunc est permixtus essentia cum in ipso non differant uirtus et essentia, et
+    necesse est ipsum esse permixtum <seg>uel</seg> essentia uel uirtute, ergo motor uniuersalis
+    omnium est permixtus, ergo intellectus qui est motor uniuersalis omnium est permixtus. </p>
+        <p xml:id="da-236-ed1e1907-d1e1990">Secunda ratio hec <seg>est:</seg> primum participatur a tribus generibus rerum secundum tres
+    proprietates que sunt in ipso, quarum prima est esse, secunda est uiuere, tercia est
+    intelligere. Vnde primum est ens uiuens et <seg>intelligens,</seg> et secundum istas
+    proprietates participatur ab istis rebus, quia in quantum est ens participatur a rebus
+    entibus, in quantum est uiuens participatur a rebus uiuentibus, in quantum est intelligens
+    participatur a rebus intelligentibus, et sic primum participatur ab omnibus rerum generibus,
+    set omne quod participatur ab omnibus est in omnibus uel uirtute uel essentia, <seg>ergo</seg>
+    est per | mixtum omnibus, ergo eius intellectus est permixtus, set eius intellectus est motor
+    uniuersalis <seg>omnium</seg> est permixtus et <seg>non</seg> impermixtus. </p>
+        <p xml:id="da-236-ed1e1907-d1e2008">
+          <seg>Solutio.</seg> Dicendum est quod Anaxagoras posuit intellectum mouere et
+      <seg>ordinare</seg> omnia et ipsum esse impermixtum, quia substantia quanto magis permixta
+    est, tanto magis coartata <seg>est</seg> operatione et cognitione, et propter hoc intellectus
+    uniuersalis <seg>quia</seg> ad omnia se extendit, et omnia mouet et omnia cognoscit et
+    comprehendit operatione et cognitione, et omnino est impermixtus. Aliter enim non ad omnia se
+    extenderet nec omnia cognosceret nec omnia sufficienter moueret, unde impermixtio est causa
+    illius motus sufficientissimi quam exercet supra <seg>omnia.</seg> Et concedende sunt rationes
+    ad istam partem inducte. </p>
+        <p xml:id="da-236-ed1e1907-d1e2025">Ad primam rationem in contrarium dicendum <seg>est</seg> quod intellectus mouens omnia, sicut
+    primum in omnibus existit per essentiam et uirtutem. Set aliquid est in alio duobus modis: uno
+    modo tanquam <seg>ab</seg> eo a quo dependet et tale quod sic est in alio contrahit labem et
+    sordem ab eo in quo est, et permixtum est ei, et hoc modo intellectus humanus est in corpore
+    humano, scilicet tanquam in eo ad <seg>quod</seg> dependet, et ideo est <seg>ei</seg>
+    permixtus. Alio modo est aliquid in alio tanquam independens ab eo in quo est <seg>et</seg>
+    sic est in alio non contrahit ab eo <seg>in</seg> corruptionem nec permixtionem, unde quod sic
+    existit in alio non est permixtum ei. Hoc autem modo existit primum in omnibus et eius
+    intellectus qui mouet omnia t<hi>an</hi>quam independens ab omnibus et ideo impermixtus est. </p>
+        <p xml:id="da-236-ed1e1907-d1e2050">&lt;Ad secundam rationem dicendum quod aliquid participatur ab alio duobus modis: uno modo
+    secundum solam influentiam, alio modo secundum participationem essentie, sicut ens quod
+    positum* est a philosophis* esse principium omnium* participatur* ab omnibus per essentiam et
+    participante* essentie et hec est participatio dependente*, unde quod sic participatur ab alio
+    dependet ab ipso, unde ens dependet ab omnibus entibus a quibus participatur primum*
+    participatur ab omnibus non participante essentie set participatione et influentie et exitus.
+    Hoc enim modo participant res ipsum quia participant influentiam eius, unde quedam* entitatem
+    participant cum ipso, quia eis influit esse aliis uitam, aliis intellectum sicut res omnes ab
+    ipso exierunt ita participant ipsum secundum exitum et influentiam, set iste existus non est
+    sicut radiis exit a lumine. Radiis enim ita exit a lumine quod lumen est in eo secundum
+    essentiam et participat lumen* secundum essentiam. Et propter hoc res non exeunt a primo sicut
+    radius a lumine set exeunt ab ipso sicut donum exit a datore et a largiente. Donum enim non
+    participat datorem per essentiam nec e contrario, nec similiter creature participant primum
+    ule influentiem esse uel uite uel intellectus, et quod hoc modo participetur ab aliquo non est
+    ei permixtum set qud primo modo participatur ab aliquo est eis permixtum et ideo intellectus
+    uniuersalis impermixtus <seg>est.&gt;</seg>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

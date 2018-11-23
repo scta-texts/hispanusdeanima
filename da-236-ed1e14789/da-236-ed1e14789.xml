@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e14789" >
+        <head>Quaestio 5</head>
+        <p xml:id="da-236-ed1e14789-d1e14794">[lec4 q5] Circa <seg>quintam</seg>
+          <seg>questionem</seg> sic proceditur et queritur utrum diffinitio naturalis demonstret
+    diffinitionem logicam que <seg>sit</seg> per principia predicabilia que sunt principia
+    secundum <seg>rationem,</seg> fundantur in principiis nature quia principia secundum rationem
+      <seg>ut</seg> genus et differentia consequuntur compositum et principia compositi que sunt
+    principia naturalia, ergo causantur a principiis naturalibus. Set a quo <seg>unumquodque</seg>
+    habet causam per illud habet demonstrari, ergo principia <seg>predicabilia</seg> secundum
+    rationem habent demonstrari per principia naturalia, ergo diffinitio logica formalis que fit
+    per principia secundum rationem, que sunt genus et differentia, habet demonstrari per
+    diffinitionem naturalem, que fit per principia naturalia. </p>
+        <p xml:id="da-236-ed1e14789-d1e14819">Secunda ratio hec <seg>est:</seg> predicabilia dantur per aspectum ad rationem, set ratio est
+    ultimum in natura, ergo illa principia sunt posteriora principiis naturalibus. Set posterius
+    demonstratur per <seg>prius</seg> non e conuerso. Ergo diffinitio que fit per principia
+      <seg>predicabilia</seg> habet demonstrari per diffinitionem naturalem que fit per principia
+    naturalia et non e conuerso. </p>
+        <p xml:id="da-236-ed1e14789-d1e14831">Ad oppositum: principia secundum rationem sunt priora in uia cognitionis et completionis et
+    diffinitionis. Set per istam uiam procedit demonstratio quia procedit per <seg>priora</seg>
+    quantum ad cognitionem, et iterum ista principia magis accedunt ad naturam uniuersalis. Set
+    demonstratio recipit uniuersalia, ergo et prima principia secundum rationem
+      <seg>demonstrant</seg> naturalia, ergo diffinitio secundum rationem &lt;demonstrat
+    diffinitionem naturalem et non e conuerso. </p>
+        <p xml:id="da-236-ed1e14789-d1e14840">Secunda ratio hec est: diffinitio secundum <seg>rationem&gt;</seg> competit rei ordinabili in
+    genere. Res autem ordinabilis in genere non demonstratur set solum res prout comparatur ad
+    subiectum cui <seg>inheret.</seg>
+        </p>
+        <p xml:id="da-236-ed1e14789-d1e14850">Ergo diffinitio data per principia predicabilia que <seg>est</seg> secundum rationem non
+    demonstratur per diffinitionem aliquam nec per principia naturalia. </p>
+        <p xml:id="da-236-ed1e14789-d1e14856">
+          <seg>Solutio:</seg> Ad hoc dicendum <seg>est</seg> quod sicut diximus soli rei inherenti
+    habenti causam inherentie in <seg>subiecto</seg> competit demonstratio. Diffinitio uero
+    substantie que datur per principia <seg>predi<hi>|</hi>cabilia</seg> que sunt genus et
+    differentia que sunt extra naturam accidentium, quia accidentis esse est inherere et similiter
+      <seg>substantiabilia</seg> non habent causam sue inherentie in subiecto <seg>aliquo,</seg>
+    ideo non demonstrantur nec per diffinitionem consimilem nec per <seg>aliam</seg> secundum quod
+    huiusmodi. Si autem <seg>demonstrantur</seg> hoc accidit et non demonstrantur nisi quantum
+    inherent et habent intensionem accidentium quia accidentis esse est inherere. Si uero hoc modo
+    competat diffinitionibus secundum rationem demonstratio prout <seg>inherent</seg> diffinitio
+    que datur per genus et differentiam demonstrabitur per illam que est ex principiis naturalibus
+    et non e conuerso, <seg>et</seg> hec principia <seg>radicentur</seg> in illis, sicut in suis
+    causis. Non ponimus autem quod una demonstret aliam nec e conuerso proprie eo quod non est
+    medium inter diffinitionem et diffinitum per quod diffinitio <seg>demonstretur</seg> de
+    diffinito nisi in diffinitione accidentium. Si <seg>autem</seg> diffinitio secundum rationem
+      <seg>demonstretur</seg> per diffinitionem nature, <seg>hec</seg> non est proprie
+    demonstratio set conuertibilis ostensio. Sustinendum tamen <seg>est</seg> quod si una
+    demonstret aliam diffinitio naturalis que datur per principia naturalia demonstret
+    diffinitionem secundum rationem et non e conuerso. </p>
+        <p xml:id="da-236-ed1e14789-d1e14911">Ad primam rationem in contrarium que ostendit quod diffinitio secundum rationem
+      <seg>demonstrat</seg> diffinitionem naturalem dicendum <seg>est</seg> quod diffinitio logica
+    que datur per genus et differentiam sicut abstrahit generaliter et habet naturam uniuersalis,
+    similiter principia <seg>naturalia</seg> abstrahunt et habent naturam uniuersalis, et
+    similiter diffinitio que datur ex illis principiis <seg>uniuersalibus</seg> uniuersalis
+      <seg>est,</seg> unde hec diffinitio, homo est ex anima et corpore, ita est uniuersalis
+      <seg>sicut</seg> hec, homo est animal rationale <seg>mortale.</seg> Et sic una non superat
+    aliam quantum ad hoc. Item cognitio intellectiua est duplex: quedam <seg>enim</seg> est
+    apprehensio rei per suam quidditatem et quantum ad <seg>hanc</seg> cognitionem
+      <seg>diffinitio</seg> que fit per principia predicabilia <seg>precedit</seg> naturalem. Est
+      <seg>autem</seg> alia cognitio intellectiua que est per resolutionem rei in sua principia
+    ultima quibus res constituitur, et hec est cognitio demonstratiua et in ista cognitione
+    diffinitio naturalis est prior quam diffinitio secundum rationem, eo quod principia huius sunt
+    principia principiorum illius in quibus <seg>illa</seg> radi<hi>|</hi>cantur. Aliam rationem
+    concedo <seg>que</seg> probat quod diffinitio secundum rationem non habet demonstrari, set non
+    probat quod diffinitio secundum <seg>rationem</seg> si demonstrari haberet non demonstraretur
+    per diffinitionem naturalem, hoc non ostendit illa ratio, set solum quod non demonstretur et
+    hoc bene concedimus. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

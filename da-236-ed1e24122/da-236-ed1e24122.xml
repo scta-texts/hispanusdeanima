@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e24122" >
+        <head>Praeambulum</head>
+        <p xml:id="da-236-ed1e24122-d1e24127">
+          <hi>Distinctio secunda in qua ostenditur comparatio anime ad corpus secundum tria genera
+      causarum. Continuatio intensionis.</hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24133">
+          <hi>Est autem anima uiuentis corporis causa et principium</hi>
+          <hi> et cetera, ex diffinitione uniuersali <seg>anime</seg> patuit quod anima est causa
+      corporis cum sit <seg>ipsius</seg> perfectio et ostensum est in parte <seg>precedenti</seg>
+      quod anima uegetabilis secundum uirtutem generatiuam est causa efficiens corporis animati,
+      cum sit principium generationis ipsius. Non solum autem anima est causa corporis secundum
+      hos duos modos, immo etiam est causa finalis ipsius. Ideo in hac parte determinat quod anima
+      secundum tria genera causarum est causa corporis animati. Per hoc enim ostenditur
+       <seg>quod</seg> secundum omnes illos tres modos anima uegetabilis est causa corporis et
+      quod generatio <seg>cuius</seg> ipsa est principium est ab ipsa sicut a causa efficiente
+      mouente ad generationem et ordinatur ad ipsam sicut ad causam finalem. Et hec pars spectat
+      ad presentem speculationem. Diuisio. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24157">
+          <hi>Recipit autem hec pars diuisionem in duas <seg>partes,</seg> in quarum prima proponit quod
+       <seg>anima</seg> comparatur ad corpus in ratione triplicis cause et <seg>distinguit</seg>
+      triplex genus cause. In secunda, scilicet in hac, </hi>
+          <hi>quid <seg>igitur</seg> substantia manifestum est</hi>
+          <hi> et cetera, ostendit secundum quem modum, scilicet anima habeat rationem triplicis generis
+      cause respectu corporis. Prima autem pars indiuisa remanet. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24181">
+          <hi>Secunda autem <seg>pars</seg> recipit diuisionem in tres <seg>partes,</seg> in quarum
+       <seg>prima</seg> ostendit animam habere rationem <seg>cause</seg> formalis. In
+       <seg>secunda,</seg> scilicet in hac, </hi>
+          <hi>manifestum <seg>est</seg> autem propter quid anima causa est</hi>
+          <hi> et cetera, ostendit animam habere rationem cause finalis. In tercia, scilicet in hac, </hi>
+          <seg>
+            <hi>at</hi>
+          </seg>
+          <hi/>
+          <hi> </hi>
+          <hi>uero <seg>per</seg> quod unum principium est <seg>quodquid</seg>
+            <seg>est</seg>
+          </hi>
+          <hi>, ostendit animam habere rationem cause efficientis. <seg>Hee</seg> autem tres rationes
+      causarum de anima uegetabili sunt intelligende in hac parte. Prime autem due partes remanent
+      indiuise. Tercia autem <seg>pars</seg> diuiditur in duas, in quarum prima ostendit
+       <seg>animam</seg> causam efficientem </hi>
+          <hi>|</hi>
+          <hi> in corpore ratione motus localis in animalibus habentibus differentiam anime que est
+      motiua secundum locum. In secunda, scilicet in hac, </hi>
+          <hi>est autem alteratio et augmentum secundum <seg>animam</seg>
+          </hi>
+          <hi>, ostendit animam esse causam efficientem in motu alterationis et augmenti et detrimenti.
+      Prima autem pars <seg>manet</seg>
+            <seg>indiuisa.</seg> Secunda <seg>autem</seg>
+            <seg>pars</seg> diuiditur in duas, in quarum prima ostendit animam esse causam efficientem
+      motus alterationis et augmenti et detrimenti. In secunda, scilicet in hac, </hi>
+          <hi>Empedocles autem non benedixit hec addens augmentum accidere plantis</hi>
+          <hi> et cetera, improbat opinionem Empedoclis ponentis augmentum et detrimentum non esse ab
+      anima set a natura elementorum.</hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24280">
+          <hi>Diuisionis recollectio. Sunt igitur in lectione <seg>presenti</seg> partes sex, in quarum
+      prima assignat diuisionem causarum ostendens rationem triplicis generis <seg>cause</seg>
+      anime conuenire. In secunda specialiter ostendit secundum quem modum ei competit ratio cause
+      formalis. In tercia ostendit secundum quam rationem intensio cause finalis. In quarta
+      ostendit secundum quem modum ei competit intensio cause efficientis quantum ad motum
+      localem. In quinta ostendit secundum quem modum ei competit intensio cause efficientis
+      quantum ad <seg>motum</seg> alterationis et augmenti et detrimenti. In sexta
+       <seg>probat</seg> opinionem Empedoclis errantis circa motum augmenti. Hec autem sexta pars
+      ad sequentem pertinet <seg>speculationem.</seg> Hec est diuisio huius partis.</hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24301">
+          <hi>Sentencia prime partis in qua ostendit rationem triplicis cause anime conuenire. Circa
+      primam partem procedit hoc modo dicens quod anima est causa et principium, et causa est
+      illud <seg>post</seg>
+            <seg>quod</seg> sequitur <seg>aliud;</seg> principium ante quod non est aliud. Est igitur
+      anima principium et <seg>causa</seg> corporis cuius est perfectio, et causa dicitur secundum
+      tres modos <seg>ut</seg> habetur in scientia </hi>
+          <hi>de phisico negotio</hi>
+          <hi> qui <seg>modi</seg> concidunt in unum, scilicet causa formalis que dat esse rei et causa
+      efficiens a qua exit motus et causa <seg>finalis</seg> propter quam res est et anima est
+      causa hiis tribus modis respectu corporis. Est autem causa formalis sicut patet in eius
+      diffinitione. Est causa efficiens quantum ad <seg>motum</seg> generationis et nutrimenti et
+      augmenti et detrimenti, et est causa finalis quia sicut declaratum est </hi>
+          <hi>|</hi>
+          <hi> in </hi>
+          <hi>Phisicis</hi>
+          <hi>, materia est propter formam et necessitas <seg>materie</seg> est propter necessitatem
+      forme et non propter aliud consequens. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24353">
+          <hi>Sentencia secunde partis in qua ostendit animam habere <seg>rationem</seg> cause formalis,
+      consequenter ostendit animam habere rationem singulorum istorum modorum, et primo ostendit
+      eam habere intensionem forme per duas rationes, et <seg>ratio</seg> prima </hi>
+          <hi>|</hi>
+          <hi> talis est: omnis causa que est principium esse rei est causa formalis ipsius. Set anima
+      est principium esse rei, scilicet corporis animati, ergo est causa formalis corporis
+      animati. Minor ostenditur sic: uiuere in uiuentibus est esse. Set anima est causa uite in
+      uiuentibus, ergo anima est causa esse in ipsis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24371">
+          <hi>Secunda autem <seg>ratio</seg> hec est: omne illud quod est perfectio rei
+       <seg>existentis</seg> in potencia est causa formalis ipsius. Set <seg>anima,</seg> sicut
+      patet ex sua diffinitione, est perfectio corporis uiuentis existentis in potencia, ergo
+      anima est causa formalis ipsius. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24386">
+          <hi>Sentencia tercie partis in qua <seg>ostendit</seg> animam habere rationem cause finalis,
+      consequenter ostendit secundum quem modum anima habet rationem cause finalis et in illa
+      parte duo intendit: primum est ostendere hoc quod sic ostendit dicens quod anima est causa
+      finalis corporis, cum propter ipsam sit corpus productum in <seg>esse.</seg> Et est ratio
+      sua talis: sicut operatur intellectus in rebus artificialibus, sicut patet in mechanicis,
+      similiter operatur natura in rebus naturalibus. Set intellectus operatur propter aliquem
+      finem, ergo natura operatur propter aliquem finem, <seg>igitur</seg> corpora animata propter
+      aliquem finem producit. <seg>Huius</seg> autem finis est anima, ergo anima est causa finalis
+      corporis. Quod autem anima sit ille finis propter quem natura <seg>operatur</seg> et
+       <seg>producit</seg> corpora sic ostenditur: illud cuius omnia corpora naturalia tam
+      animalium quam plantarum sunt instrumenta <seg>et</seg> causa finalis <seg>ipsorum.</seg>
+      Set anima est huiusmodi, ergo anima est causa <seg>finalis</seg> corporum, sicut
+       <seg>igitur</seg> instrumenta artis sunt propter finem ad quem ordinantur, similiter omnia
+      corpora <seg>animata</seg> sunt propter animam que <seg>ipsis</seg> utitur sicut instrumento
+      ad quam sicut <seg>ad</seg> finem ordinantur. Secundum autem quod intendit est distinctio
+      cause formalis quam tangit cum dicit, </hi>
+          <hi>dupliciter autem dicitur quod <seg>huius</seg> causa est</hi>
+          <hi> et cetera, dicit igitur quod causa finalis est duplex: una est illa cuius est aliquid
+      propter <seg>quod</seg> inuenitur aliquid et <seg>hanc</seg> rationem cause
+       <seg>finalis</seg> est ponere secundum proportionem quam <seg>habet</seg> anima ad corpus
+      animatum quod est ipsum compositum, quia compositum est causa finalis corporis et anime
+      tanquam illius finis cuius est utrumque et anima et corpus. Alia est causa finalis illa per
+      quam est in finem rei deuenire et secundum hunc modum est anima causa finalis secundum
+      proportionem quam habet ad corpus cuius est perfectio, quia per ipsam corpus deuenit in suum
+      finem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24454">
+          <hi>Sentencia quarte partis in qua ostendit rationem <seg>cause</seg> efficientis anime
+      conuenire quantum ad motum localem, consequenter ostendit modum secundum quem anima habet
+      rationem cause efficientis. Anima igitur est principium efficiens motus in corpore et
+      secundum ueros motus et estimatiuos, et ostendit quod est principium motus localis. Hoc
+      autem non est in omnibus uiuen</hi>
+          <hi>|</hi>
+          <hi>tibus, quia <seg>non</seg> in plantis set solum in quibusdam <seg>animalibus</seg> in
+      quibus est uirtus motiua secundum motum progressiuum.</hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24476">
+          <hi>Sentencia quinte partis in qua <seg>ostendit</seg> rationem cause efficientis anime
+      competere quantum ad motum alterationis et augmenti et detrimenti, consequenter ostendit
+      animam esse causam efficientem quantum ad motum <seg>alterationis</seg> augmenti et
+      detrimenti, et primo proponit intensionem dicens quod alteratio et augmentum in rebus
+      animatis procedunt ab anima et primo ostendit alterationem esse ab <seg>anima</seg> et est
+      ratio <seg>sua</seg> talis: omnis motus sensus est ab anima et nichil participat sensum quod
+      non participat animam, set motus sensus est quedam alteratio, cum non sit alteratio formarum
+       <seg>omnino</seg> habentium naturam corporalem, ergo ab anima est alteratio. Deinde
+      ostendit quod anima est principium augmenti et detrimenti cum dicit, </hi>
+          <hi>et de augmento et detrimento similiter se habet</hi>
+          <hi> et cetera. Et est sua <seg>ratio</seg> talis: omne quod nutritur habet uitam, et omne
+      habens uitam habet animam et uitam ab anima, ergo omne quod nutritur est habens animam et
+      nutrimentum habet ab anima. Set omne quod habet augmentum et detrimentum <seg>naturale</seg>
+      habet uitam et animam et augmentum et detrimentum habet ab anima. Dicitur autem augmentum et
+       <seg>detrimentum</seg> naturale quod <seg>fit</seg> a principio <seg>intra</seg> naturali.
+      Potest enim additio fieri rebus sicut per artem fit in rebus animatis uel in quantitatibus
+      mathematicis sicut quadrangulus addito gnomone crescit et hoc augmentum non est naturale et
+      similiter omnes quantitates et etiam mathematice et alie crescere possunt per accidens et
+      preter naturam. Non est autem augmentum naturale in illis neque detrimentum. In hiis
+      completur manifestatio intensionis huius partis in <seg>speciali.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e24122-d1e24521">
+          <seg>
+            <hi>Questiones.</hi>
+          </seg>
+          <hi> Circa partem istam inquirendum est est operationibus anime in semine circa actum
+      generationis. Nouem autem occurrunt questiones. Prima [lec11 q1] est utrum in semine deciso
+      sit aliqua natura anime. Secunda [lec11 q2] <seg>est</seg> utrum </hi>
+          <hi>|</hi>
+          <hi>
+            <seg>illa</seg> natura sit anima an uirtus anime. Tercia [lec11 q3] est quo modo illa uirtus
+      procedat cum semine utrum per decisionem an aliter. Quarta [lec11 q4] <seg>est</seg> utrum
+      substantia anime que est futura fetus perfectio sit aliquo modo in semine. Quinta [lec11 q5]
+      est quo modo sit in semine utrum <seg>actu</seg> an potencia. Sexta [lec11 q6] est quo modo
+       <seg>ducatur</seg> ad actum. Septima [lec11 q7] est quo modo anima comparetur ad corpus
+      secundum triplex genus cause. Octaua [lec11 q8] est utrum eadem anima sit causa efficiens et
+      forma et finis eiusdem corporis. Nona [lec11 q9] est utrum et quo modo corpora sint anime
+      instrumenta. </hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

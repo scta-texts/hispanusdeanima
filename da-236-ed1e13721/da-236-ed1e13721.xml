@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 7</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 7</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e13721" >
+        <head>Quaestio 7</head>
+        <head type="question-title">Utrum corpus abiciat animam per naturam</head>
+        <p xml:id="da-236-ed1e13721-d1e13729">[lec3 q7] Circa septimam <seg>questionem</seg> sic proceditur et queritur utrum corpus
+    abiciat animam per naturam. Et uidetur quod sic: omne mobile quod mouetur a motore contra
+    inclinationem eius cum labore et <hi>|</hi> pena mouente appetit per naturam abiectionem
+    motoris. Set corpus est huiusmodi respectu anime, ergo corpus appetit <seg>abiectione</seg>
+    anime per naturam. Maior per se patet. Minor patet per Aristotelem dicentem in
+      <seg>libro</seg>
+          <hi>De <seg>celo</seg>
+          </hi> quod <seg>omne</seg> mobile compositum ex duobus <seg>e</seg>
+    conuerso mobilibus mouet cum labore et pena, et tale est animatum et maxime animal. </p>
+        <p xml:id="da-236-ed1e13721-d1e13756">Secunda ratio hec est: uidetur quod anima appetat abici a corpore per naturam hac ratione:
+    omne existens in aliquo cuius existentia est in <seg>ipso</seg> non cum delectatione set
+    uiolentia et cum labore et cui melius est extra quam <seg>intra,</seg> appetit abici extra per
+    naturam. Set anima est huiusmodi respectu corporis, ergo appetit abici ab eo per
+      <seg>naturam.</seg> Maior per se patet. Minor patet in <seg>primo</seg>
+          <hi>De anima</hi>, ubi dicit <seg>Aristoteles</seg> in probando opinionem Platonis quantum ad
+    hoc quod ponit animam esse circulum.</p>
+        <p xml:id="da-236-ed1e13721-d1e13778">Ad oppositum: nullum perfectibile appetit suam perfectionem abicere que dat <seg>ei</seg>
+    esse specificum et operationem et ipsum <seg>conseruat</seg> in esse per sui influentiam qua
+    ab ipso egrediente expirat ipsum et marcessit. Set anima est huiusmodi respectu corporis, ergo
+    animam non abicit corpus per naturam. Maior per se <seg>patet.</seg> Minor per se et per
+    textum. </p>
+        <p xml:id="da-236-ed1e13721-d1e13791">
+          <seg>Solutio.</seg> Ad hoc dicendum est quod corpus non est abiciens animam per naturam cum
+    sit <seg>anima</seg> eius <seg>perfectio</seg> eo modo quo dictum est et <seg>sumatur</seg>
+          <seg>corpus</seg> perfecte organizatum et non imperfecte, sicut semen in <seg>embrione</seg>
+    habet ipsam pro motore ad ultimam suam perfectionem. Unde cum dicit Aristoteles, corpus per
+    naturam non abicit animam, hoc est quia est eius perfectio et hoc intelligit quod habent
+      <seg>anima</seg> et corpus nexum indissolubilem ut quando corpus est <seg>in</seg> potentia
+      <seg>quo</seg> anima est in potentia et quando corpus est actu organizatum complete, quia
+    tunc actu respectu anime tam cito anima est <hi>|</hi>
+          <seg>actu</seg> nec tamen propter hoc intelligit quin anima actualiter <seg>separetur</seg> a
+    corpore. Set semper sicut unum habet esse ita et aliud. </p>
+        <p xml:id="da-236-ed1e13721-d1e13830">Ad secundam dicendum <seg>est</seg> quod de anima intellectiua intellexit Aristoteles illud
+    quod dictum est et non de aliis. Et cum hoc <seg>dictum</seg> est quod anima intellectiua
+    consideratur multipliciter: uno modo secundum suum <seg>exitum</seg> in esse aut secundum suas
+    operationes per quas mouentibus aliis uirtutibus et corpore completur et ordinatur ab bonum in
+    uita ista aut secundum scientias et uirtutes quas adquirit per speculationem sensibilem et
+      <seg>forsitam</seg> per quas completur, et istis omnibus modis est <seg>ei</seg> esse in
+    corpore aut potest considerari secundum substantiam suam aut secundum contractionem suam
+      <seg>aut</seg> secundum operationes quas principaliter corpus exercet <seg>sicut</seg> in
+    contemplendo primum et diligendo et sic de aliis. Et hoc modo melius esset ei esse extra,
+      <seg>et</seg> in una uia procedit ratio. In alia <seg>uero</seg> uia non. </p>
+      </div>
+    </body>
+  </text>
+</TEI>

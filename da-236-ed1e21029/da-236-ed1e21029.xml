@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 3</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 3</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e21029" >
+        <head>Quaestio 3</head>
+        <head type="question-title">Utrum potencie anime
+    reducantur ad aliquam primam radicem que sit substantia anime.</head>
+        <p xml:id="da-236-ed1e21029-d1e21037">
+          <hi>[lec8 q3] </hi>
+          <hi>|</hi>
+          <hi>
+            <seg>Circa</seg> terciam questionem sic proceditur et queritur utrum potencie anime
+      reducantur ad aliquam primam radicem que sit substantia anime. Et ostenditur quod sic: quia
+      substantia est causa et radix suarum potenciarum, ergo, cum anima habeat potencias, patet
+      quod potencie anime ad substantiam anime reducuntur. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21029-d1e21052">
+          <hi>Secunda ratio hec est: una potencia iugens retrahit aliam a suis operationibus. Hoc autem
+      non est nisi quia potencie anime habent colligationem in aliqua prima radice. Hoc autem non
+      est nisi substantia anime, ergo potencie anime reducuntur ad unam primam radicem que est
+      substantia anime. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21029-d1e21058">
+          <hi>Tercia ratio hec est: anima dat esse <seg>corpori</seg> et est principium operationis in
+      corpore, et per <seg>hoc</seg> diuersas sui uniones cum corpore per unionem sue substantie
+      dat esse corpori per <seg>unionem</seg> potenciarum est principium operationis. Set operatio
+      reducitur ad esse et actus secundus ad primum et diuersitas partium ad unitatem totius et ad
+       <seg>temperantiam</seg> complexionis, ergo diuersitas potenciarum ad unitatem substantie
+      anime reducitur, sicut ad primam radicem. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21029-d1e21077">
+          <hi>Ad oppositum: <seg>si</seg> omnes potencie anime <seg>reducuntur</seg> ad substantiam
+      anime, ergo cum omnes differentie anime habeant ordinem ad inuicem omnes differentie anime
+      reducerentur ad unam substantiam. Hoc autem <seg>est</seg> falsum, <seg>quia</seg> sic omnes
+      differentie anime essent una substantia. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21029-d1e21095">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod omnes potencie reducuntur ad substantiam anime
+      tanquam ad radicem primam in qua radicantur. </hi>
+        </p>
+        <p xml:id="da-236-ed1e21029-d1e21110">
+          <hi>Ad rationem in contrarium dicendum est <seg>quod</seg> non propter hoc sequitur quod tres
+      differentie anime sint una substantia, set quod solum una sit superior ad alias que illas
+      regulet et secundum cuius regulationem et exigentiam alie operantur. Et hec est
+      intellectiua, et <seg>hec</seg> in eodem corpore sicut in homine quia in alio non habent
+      ordinem.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

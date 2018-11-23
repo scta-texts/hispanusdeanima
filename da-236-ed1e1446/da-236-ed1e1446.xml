@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 1</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 1</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e1446" >
+        <head>Quaestio 1</head>
+        <head type="question-title">Utrum intellectus moueat omnia</head>
+        <p xml:id="da-236-ed1e1446-d1e1454">[lec 10 q1] <seg>Circa</seg> primam <seg>questionem</seg> sic proceditur, et queritur
+      <seg>utrum</seg> intellectus moueat omnia, et ostenditur quod sic: sicut habetur in octauo
+       <seg>
+            <hi>Physicorum</hi>,</seg> in quolibet genere motus est ponere unum quod ita
+      <seg>mouet</seg> quod non mouetur et ad illum est status, unde dicit quod primum ita mouet
+    quod non mouetur. Medium autem mouet et mouetur, ultimum autem mouetur et non mouet. Ergo in
+    genere naturalium mouentium est unus motor qui ita mouet quod non mouetur. Set motor primus
+    qui, cum <seg>mouet</seg> non mouetur, mouet omnia uniuersaliter et ad ipsum est status omnium
+    mouentium et non dependet aliquo modo a mobilibus, set omnis substantia que nullo modo mouetur
+    omnino independens a materia corporali et a substantiis mobilibus est mouens omnia sola extra
+    omnia existens separata. Propter hoc enim appellatur motus primus talis substantia in
+      <seg>octauo,</seg> quia omnino separata <seg>est</seg> a materia est substantia spiritualis
+    simplex, ergo motor mouens omnia est substantia spiritualis <seg>simplex.</seg> Set
+    substantiis spiritualibus debetur cognitio sicut dicitur in libro <hi>Fontis
+      <seg>uite</seg>
+          </hi>, unde forme in illis colliguntur, sicut dicitur <seg>ibidem,</seg> et
+    hoc est quia operatio simplex debetur substantie simplici. Intelligere autem est operatio
+    simplex, ergo debetur substantie spirituali, que mouet omnia, set in illa non differt suus
+    intellectus et sua essentia, quia ipsa est prima causa mouens omnia. Ergo intellectus illius
+    omnia mo|uet, intellectus ergo <seg>moueret</seg> omnia. </p>
+        <p xml:id="da-236-ed1e1446-d1e1499">Secunda ratio <seg>talis</seg> est, sicut dicit <seg>Auicenna,</seg> omnis motor qui mouet ad
+      <seg>diuersa</seg> differentias positionis et ad diuersos effectus est motor, qui cum mouet
+    ad unum habet intentionem alterius. Set motor qui mouet omnia est huiusmodi quod mouet ad
+    omnes differentias positionis. Mouet enim corpora superiora ad omnes differentias positionis
+    et non ad aliquam determinatam. Inferiora autem mouet ad diuersos effectus, ergo motor ille
+    est talis qui cum mouet ad unum <seg>habet</seg> ymaginationem alterius. Set, sicut uult
+      <seg>Auicenna,</seg> talis motor est solus motor per intellectum, quia solus intellectus
+    propter sui impermixtionem et independentiam habet respectum ad omnia et diuersa, ergo motor
+    uniuersalis <seg>communium</seg> est intellectus. </p>
+        <p xml:id="da-236-ed1e1446-d1e1521">&lt;Tercia ratio talis: sicut dicit raby <seg>Moysi</seg> recte in hoc dicens: solus
+    intellectus et agentis per cognitionem est proprium quod cum mouet unus et idem inmobilis
+    perseuerans* et inuariabilis sit principium multarum opinionum. Set motor uniuersalis | est
+    motor a quo mediante ipso inuariabili et uno multa fluxunt. Ergo est solum agens per
+    intellectum et uoluntatem, quia causa que producit in esse conseruat eas et per ipsam mouetur
+    res et uniuersaliter. Inuunt* ergo a <seg>tali</seg> solo mouere per intellectum exierint a
+    talo* solo mouetur, ergo omnis res mouetur per intellectum et intellectum mouet
+      <seg>omnia.&gt;</seg>
+        </p>
+        <p xml:id="da-236-ed1e1446-d1e1533">Ad oppositum: Aristoteles improbat opinionem Anaxagore, quia ponebat intellectum mouere
+    omnia, ergo secundum Aristoteles intellectus non mouet omnia. </p>
+        <p xml:id="da-236-ed1e1446-d1e1536">Secunda ratio est <seg>ista:</seg> operatio sequitur exigentiam nature substantie, ergo prior
+    operatio et uniuersalior sequitur priorem substantiam et uniuersaliorem. Set prior operatio
+    est esse, quia est primus actus entis et uniuersalior, quia, sicut dicitur in libro <hi>De
+       <seg>causis</seg>
+          </hi>, prima rerum creatarum est esse et latius et <seg>communius.</seg>
+    Vltimus autem actus inter omnes est <seg>intellectus,</seg> ergo operatio primi motoris
+    uniuersalis non est intelligere, set esse uel aliud, ergo non mouet omnia per intellectum,
+    ergo intellectus non mouet omnia. </p>
+        <p xml:id="da-236-ed1e1446-d1e1553">
+          <seg>Solutio.</seg> Dicendum <seg>est</seg> quod Anaxagoras posuit intellectum mouere omnia.
+    Posuit enim intellectum primum a nullo dependentem nulli permixtum mouere omnia et omnia
+    distinguere et esse principium ordinationis omnium, unde posuit <seg>chaos</seg> esse
+    principium omnium et principium <seg>distinctionis</seg> illius posuit esse
+      <seg>intellectum.</seg> Et concedimus rationes que probant auctoritatem eius. Ponimus
+      <seg>enim</seg> uniuersalem motorem omnium esse intellectum et mouere per intellectum. </p>
+        <p xml:id="da-236-ed1e1446-d1e1573">Ad primam rationem in contrarium dicendum <seg>est</seg> quod descendunt sermones secundum
+    exigentiam scientie. Anaxagoras uero posuit <seg>intellectum</seg> omnia mouere de solo primo
+    intellectu <seg>intelligens</seg> et de motore primo, et ideo Aristoteles approbat positionem
+    eius in locis illis in quibus loquimur de motore primo omnium, sicut in <seg>octauo</seg> et
+    in <seg>
+            <hi>Methaphysica</hi>
+          </seg>
+          <hi/> et opinio eius fuit quod actio primi motoris est
+    intelligere. Est <seg>iterum</seg> alius intellectus, scilicet intellectus permixtus, et
+      <seg>hic</seg> est intellectus humanus, et iste non potest omnia mouere. Et ideo in scientia
+    de anima humana et de intellectu humano esset hec opinio erronea, scilicet quod intellectus
+    mouet omnia, et ideo in parte ista reprobat Aristoteles opinionem eius quantum ad hoc quod
+    intellectus <seg>humanus</seg> mouet omnia et tamen Anaxagoras hoc non posuit, set quia non
+    certificauit de quo intellectu intenderet, uisum fuit Aristoteli quod utrumque intellectum
+    confunderet in simul et <seg>quia</seg> de utroque intelligeret, et ideo quantum ad
+    intellectum humanum hoc reprobat, scilicet quod intellectus non mouet omnia, set tamen non
+    uere improbat, quia procedit <hi>acs</hi>i Anaxagoras acciperet huiusmodi humanum
+      <seg>intellectum.</seg>
+        </p>
+        <p xml:id="da-236-ed1e1446-d1e1612">Ad secundam rationem dicendum <seg>est</seg> quod prius est duobus modis: quoddam est prius
+    in uia generationis et incompletionis, et hoc modo materia <seg>prior</seg>
+          <seg>est</seg> | <seg>forma,</seg> et hoc modo esse <seg>est</seg> prius quam intelligere. Est
+      <seg>autem</seg> aliud prius secundum completionem <seg>uel</seg> in <seg>uia</seg>
+    completionis et perfectionis et nobilitatis et sic intelligere est prior actus quam esse, quia
+      <seg>est</seg> nobilissimus et <seg>completissimus.</seg> Actus uero completissimus debet
+    conuenire motori uniuersali qui est completissimus, et ideo intelligere <seg>competit</seg>
+    motori uniuersali <seg>omni</seg> qui mouet per intellectum. Et ideo intellectus mouet
+    omnia.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e23686" >
+        <head>Quaestio 5</head>
+        <head type="question-title">Utrum generatio
+    sit ab anima.</head>
+        <p xml:id="da-236-ed1e23686-d1e23694">
+          <hi>[lec10 q5] Circa quintam questionem <seg>sic</seg> proceditur et queritur utrum generatio
+      sit ab anima. Et ostenditur quod sic et <seg>loquor</seg> de generatione rerum animatarum
+      uiuentium, generatio competit rebus animatis et <seg>animatis</seg> set differenter,
+       <seg>quia</seg> generatio <seg>competit</seg> rebus in animatis per conuersionem unius in
+      alterum, sicut ignis generatur ex aqua per conuersionem <seg>aque</seg> in <seg>igne,</seg>
+      et generatio competit rebus mixtis inanimatis per mixtionem. Generatio autem in rebus
+      animatis est per solam propagationem et per seminis decisionem et non per conuersionem unius
+      in alterum, et animatum non generat nisi animatum de sui natura, ergo animatum per illud per
+      quod differt ab inaminato generat. Hoc autem est anima, ergo animatum per animam generat,
+      ergo anima est principium generationis in rebus animatis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23686-d1e23722">
+          <hi>Secunda ratio hec est: generatio in rebus <seg>animatis</seg> fit per seminis decisionem,
+      que decisio est a quolibet membro et a superfluitate <seg>nutrimenti,</seg>
+            <seg>ergo</seg> necesse est quod post completam nutritionem reseruetur aliquid de nutrimento
+      quod ordinetur ad generationem. Hoc autem non est nisi <seg>per</seg> uirtutem generatiuam,
+      set uirtus illa per quam fit illa reseruatio non est uirtus elementorum, quia uirtus
+       <seg>elementorum</seg> totum consumit et conuertit in sui naturam nec <seg>etiam</seg>
+            <seg>conseruatiua</seg> alicuius ex quo fiat alterum. Ergo illa uirtus est supra elementa.
+      Hoc autem non est nisi uirtus anime in corporibus animatis que est supra elementa, ergo ab
+       <seg>illa</seg> fit illa <seg>reseruatio,</seg> ergo ab anima fit generatio in
+       <seg>rebus</seg> uiuentibus.</hi>
+        </p>
+        <p xml:id="da-236-ed1e23686-d1e23759">
+          <hi>Tercia ratio hec est: illud quod est principium esse et conseruationis in rebus animatis
+      in se <seg>illud</seg> est principium conseruationis earum in suo simili, quia forma dat
+      esse et conseruationem rei in se. Item forma est principium multiplicationis rei et ita
+      conseruat rem in suo simili secundum speciem. Set omne tale est principium generationis in
+      rebus animatis, ergo anima est principium <seg>generationis</seg> in rebus animatis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23686-d1e23772">
+          <hi>Ad oppositum: In rebus naturalibus est generatio per naturam contrarii et generatio unius
+      est corruptio alterius, quia idem est principium generationis et corruptionis in
+      naturalibus, sicut patet. Ignis enim qui est principium generandi ignem ex aqua est
+      principium corruptionis aque. Set anima non habet contrarietatem <seg>aliquam</seg> cum
+       <seg>alio,</seg> ergo non est principium generationis in natura, ergo generatio corporum
+      animatorum naturalium non est ab anima set ab alio principio. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23686-d1e23784">
+          <hi>|</hi>
+          <hi> Secunda ratio hec est: omnis operatio corporalis est a principio corporali inmediate. Set
+      generatio est operatio corporalis, ergo generatio <seg>est</seg>
+            <seg>corporalis</seg> in rebus animatis est a principio corporali. Set anima non est
+      corporalis immo simplex et spiritualis, ergo <seg>generatio</seg> non est in rebus animatis
+      ab <seg>anima.</seg>
+          </hi>
+        </p>
+        <p xml:id="da-236-ed1e23686-d1e23805">
+          <hi>Tercia ratio hec est: illud est principium generationis quod ex principium decisionis
+      seminis et distensionis eius in partes et conuersionis eius. <seg>Hoc</seg> autem est calor
+      primo et per se in rebus animatis, ergo anima non est principium generationis in rebus
+      animatis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23686-d1e23814">
+          <seg>
+            <hi>Solutio.</hi>
+          </seg>
+          <hi> Ad hoc dicendum <seg>est</seg> quod principium generationis in corporibus
+       <seg>animatis</seg> uiuentibus est anima. Anima enim est principium triplicis operationis,
+      scilicet nutrimenti per quod deperditum restauratur et est principium augmenti per quod
+      corpus ad debitam quantitatem <seg>ducitur</seg> et est principium generationis per quam
+      corpus animatum in suo simili conseruatur. Et concedente sunt rationes ad hoc inducte. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23686-d1e23835">
+          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod duplex est generatio in
+      rebus naturalibus. Quedam enim est per <seg>conuersionem</seg> mutuam unius in alterum,
+      sicut generatio elementorum, et hec generatio est per naturam contrarietatis et de hac etiam
+      dicit Aristoteles quod generatio unius est corruptio alterius et hec etiam generatio quantum
+      ad transmutationem et mutuam conuersionem fit per naturam contrarietatis; quantum uero ad
+      impressionem fit per naturam similis. Est enim <seg>alia</seg> generatio que fit per
+      propagationem et emissionem seminis et hec est generatio animatorum et de hac non est uerum
+      quod generatio unius sit corruptio alterius nisi modo equiuoco ut dicatur quod corruptio
+      forme nutrimenti sit generatio forme spermatis et corruptio forme spermatis sit generatio
+      forme <seg>fetus.</seg> Vnde in ista non est contrarietas et <seg>huiusmodi</seg> potest
+      esse principium illud quod non habet contrarietatem. Hoc autem est anima.</hi>
+        </p>
+        <p xml:id="da-236-ed1e23686-d1e23856">
+          <hi>Ad secundam rationem dicendum <seg>est</seg> quod corporale dicitur duobus modis. Vno modo
+      dicitur corporale quod est forma <seg>corporea,</seg> sicut forma elementi. Alio modo
+      dicitur aliquid corporale, quia in corpore est et in corpore operatur et a corpore dependet
+      et hoc modo dicitur anima esse corporalis et sic potest esse principium generationis, que
+      est operatio corporalis. </hi>
+        </p>
+        <p xml:id="da-236-ed1e23686-d1e23869">
+          <hi>Ad terciam dicedum quod principium duplex est: quoddam quod <seg>primo</seg> mouet et
+      regulat totam operationem et hoc </hi>
+          <hi>|</hi>
+          <hi> modo anima est principium generationis et conuersionis seminis et distinctionis eius per
+       <seg>substantiales</seg> partes lineares sicut regulans et primo <seg>uiuens.</seg> Ad hoc
+       <seg>est</seg> principium alicuius quod inmediate mouet sicut instrumentum regulatum a
+      primo principio mouente <seg>et</seg> hoc modo calor est principium emissionis seminis et
+      conuersionis eius et <seg>distensionis</seg> eius in partes et regulatur per animam.</hi>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

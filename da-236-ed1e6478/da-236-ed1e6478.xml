@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 5</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 5</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e6478" >
+        <head>Quaestio 5</head>
+        <head type="question-title">Utrum amor sit principium omnium</head>
+        <p xml:id="da-236-ed1e6478-d1e6486">[lec 14 q5] Circa quintam questionem sic proceditur et queritur utrum amor sit principium
+    omnium. Et ostenditur quod sic: omne illud quod est conseruans omnia in esse et ligans et
+    principia omnium est causa et principium omnium. Amor est huiusmodi, ergo amor est principium
+    omnium. Maior patet et minor similiter patet per <seg>Dionisium</seg> dicentem: amor est
+      <seg>uis</seg> unificans <seg>infima</seg>
+          <seg>summis</seg> et <seg>summa</seg> infimis et infima ad inuicem. Amor ergo conseruat omnia
+    secundum proportionem rerum et uniones earum ad inuicem. </p>
+        <p xml:id="da-236-ed1e6478-d1e6504">Secunda ratio hec est: omne agens producens multa et conseruans per suam influentiam sine
+    specie recompensa<hi>|</hi>tionis est agens per amorem et largitatem, quia ille qui ita
+    conseruat et producit res multas et dirigit eas dirigit ipsas propter motum amoris et
+    largitatis. Set agens primum est huiusmodi, sicut dicit Algazel, dicens quod factor primus
+    excessus et sanctus <seg>largitimus</seg> est a quo emanat omne bonum, et dicit quod uera
+    largitas est conferre unicuique beneficium optimum sine spe recompensationis. Hoc autem modo
+    factor primus largitunis est, ergo cum factor primus sit principium omnium patet quod primum
+    principium rerum est amor uel operans per amorem.</p>
+        <p xml:id="da-236-ed1e6478-d1e6513">Ad oppositum: nichil quod habet naturam accidentis, ergo amor, non est primum principium
+    omnium. </p>
+        <p xml:id="da-236-ed1e6478-d1e6517">Solutio: ad hoc dicendum est quod multiplex fuit positio philosophorum. Quidam posuerunt
+    intellectum esse principium propter distinctionem eius in suis operationibus. Alii posuerunt
+    principia rerum esse numeros propter rationem exemplarium et ordinationem et distinctionem
+    rerum per exemplaria. Alii posuerunt amorem esse principium omnium propter unionem rerum ad
+    inuicem propter <seg>approximitatem</seg> ipsarum et iste amor fuit a parte rerum. Posuerunt
+    enim amorem esse principium omnium propter largitatem creatoris producentis et dantis
+    bonitatem rebus sine spe recompensationis et iste amor fuit a parte largitatis creatoris et
+    omnes uere posuerunt secundum diuersas rationes et acceptiones. Nos ponimus tamen quod amor
+    sit principium omnium efficiens producens omnia in esse, quod tamen ostendit prima ratio et
+    secunda loquendo de primo amore, scilicet qui causatur a rebus. Set loquendo de amore qui est
+    a parte factoris primi illi <seg>amor</seg> est agens principium omnium. Rationes tamen
+    ostendunt de alio amore quod sit omnium efficiens principium. </p>
+        <p xml:id="da-236-ed1e6478-d1e6526">Ad primam rationem in contrarium dicendum est quod illud quo uniuntur res et principia rerum
+    duplex <seg>est:</seg> unum est sicut et appellatur primum et operatur per amorem. Aliud autem
+    est sicut dispositio <seg>habilitatis</seg> res et principia rerum ad <seg>unionem,</seg> et
+    hic est amor naturalis ipsarum rerum secundum cuius proportionem ipsa uniuntur et ita
+      <seg>hec</seg> amor non est principium agens illius unionis set est dispositio habilitans
+    rerum et principia rerum ad unionem. <seg>Iterum</seg> primum dicitur operari per amorem non
+      <seg>quia</seg> sit amor set quia habet modum amoris in operando secundum usum loquendi,
+    quia operatur sicut largus et diligens res et operans in eis sine spe recompensationis. </p>
+        <p xml:id="da-236-ed1e6478-d1e6548">Per hoc patet solutio ad secundam rationem et ad terciam que erat ad oppositum, que probat
+    quod non sit principium efficiens omnium rerum amor naturalis earum, set non probat quod non
+    sit principium rerum habilitans res et earum principia et dispositiones ad unionem. Et de hiis
+    in <seg>
+            <hi>Mathematicis</hi>
+          </seg>
+          <hi/> latius disputauimus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

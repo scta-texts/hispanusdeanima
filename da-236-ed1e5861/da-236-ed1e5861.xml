@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Quaestio 2</title>
+        <author ref="#PetrusHispanus">Petrus Hispanus</author>
+        <editor>Celia López</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Quaestio 2</title>
+          <date when="2018-11-09">November 09, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a 
+           <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-11-09" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="da-236-ed1e5861" >
+        <head>Quaestio 2</head>
+        <head type="question-title">Utrum anima moueat omnia</head>
+        <p xml:id="da-236-ed1e5861-d1e5869">[lec 13 q2] Circa secundam questionem sic proceditur et queritur utrum anima moueat omnia et
+    ostenditur quod sic: in quocumque est appetitus in eodem est sensus et cognitio et ita anima,
+    set omnia corpora mouentur per appetitum. Graue enim mouetur deorsum, quia appetit locum
+    deorsum et similiter leue mouetur sursum, quia appetit locum sursum, ergo omnia corpora
+    mouentur per animam. </p>
+        <p xml:id="da-236-ed1e5861-d1e5872">Secunda ratio hec est: sicut dicit Aristoteles in octauo <hi>Phisicorum</hi> sub
+      <seg>auctore</seg> Anaxagore, natura que est principium ordinationis partium uniuersi est
+    intellectus distinguens res et <hi>|</hi> ordinans et in suis sitibus propriis eas disponens,
+    set per illam naturam mouentur grauia et leuia que est principium ordinationis et
+    dispositionis partium <seg>uniuersis</seg> in suis sitibus propriis, ergo grauia et leuia
+    mouentur per intellectum, et ita per animam omnia, ergo corpora mouentur per animam. </p>
+        <p xml:id="da-236-ed1e5861-d1e5887">Ad oppositum: anima solum mouet corpora organi<hi>z</hi>ata que sunt diuerse nature in
+    partibus et in toto. Huiusmodi autem natura non est in omnibus corporibus, scilicet quod sunt
+    diuerse nature in partibus et in toto, et quod sint organizata. Ergo non omnia corpora
+    mouentur ab anima. </p>
+        <p xml:id="da-236-ed1e5861-d1e5894">Secunda ratio hec est: anima est motor sufficiens quia est distans a mobili per essentiam,
+    set multa sunt corpora que non habent motores sufficientes, <seg>sicut</seg> corpora grauia et
+    leuia, ergo multa sunt corpora que non mouentur ab anima. Non omnia ergo corpora mouentur ab
+    anima. </p>
+        <p xml:id="da-236-ed1e5861-d1e5900">
+          <seg>Solutio.</seg> Ad hoc dicendum est quod Anaxagoras posuit omnia moueri ab intellectu et
+    intellexit de motore uniuersali omnium quo omnia regulat et mouet et est extra omnia, sicut
+    discussum est superius. Et propter hoc bene posuit. Set ponentes omnia habere animam, sicut
+    ponentes adamantem attrahere ferrum per uirtutem anime crediderunt quod in omnibus esset anima
+    propter motum ordinatum et propter electionem quas habent res naturales super illas res quas
+    mouent secundum quam electionem adamas eligit ferrum quod moueat. Isti autem male posuerunt,
+    unde non est <seg>dicere</seg> quod anima moueat omnia corpora et quod omnia corpora moueantur
+    ab anima, quia non omnia proficiuntur ab anima nec ab intellectu. mouentur <seg>tamen</seg>
+    intellectu uniuersali primo, set de hoc non intelligimus, quia ille est motus uniuersalis
+    regulans motores particulares, set intelligimus quod non omnia corpora mouentur ab anima
+    tanquam motore suo proprio et speciali et particulari. Et concedimus rationes hoc probantes.
+    Sola enim corpora organica, sicut animata corpora ab anima mouentur et non alia. </p>
+        <p xml:id="da-236-ed1e5861-d1e5911">Ad primam rationem in contrarium dicendum est quod duplex est appetitus, scilicet naturalis
+    et animalis. Naturalis appetitus in omnibus corporalibus est et per illum mouentur omnia
+    corpora grauia et leuia ad suos situs proprios, et talis appetitus non est ab anima, set a
+    natura. Animalis autem appetitus non est nisi in corporibus animatis que sunt homines et bruta
+    et talis ab anima <seg>est</seg> per talem non mouentur omnia corpora grauia et leuia ad suos
+    situs, et de isto uerum est quod ubi est appetitus ibi est sensus. </p>
+        <p xml:id="da-236-ed1e5861-d1e5917">Ad secundam rationem dicendum est quod duplex est motor, scilicet uniuersalis, et hic est
+    extra, et hic est intellectus qui diuersas res ad diuersa dirigit et uirtus illius est
+    principium ordinationis rerum uniuersali in situ suo et hic est intellectus quem posuit
+    Anaxagoras mouere omnia. Set hic non est intellectus <seg>anima.</seg> Est autem alius motor
+    particularis hic in grauibus et leuibus natura est in animatis anima et natura in grauibus, et
+    leuibus non mouet secundum cognitionem set regulatur a motore uniuersali secundum cognitionem
+    qui <seg>est</seg> intellectus uniuersalis primus. </p>
+      </div>
+    </body>
+  </text>
+</TEI>
