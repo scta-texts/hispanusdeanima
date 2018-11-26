@@ -83,7 +83,7 @@
             quod est commune a<hi>no</hi>logum ad omnia in illa scientia et sic ens est subiectum in
             metaphysica. Set primum subiectum est nobilius et prius quam anima.
             <pb ed= "#V" n="55-v"/>
-            <cb ="#V" n="a"/> | Secundum autem subiectum et tercium nobilius est et prius quam anima et superius.
+            <cb ed="#V" n="a"/> | Secundum autem subiectum et tercium nobilius est et prius quam anima et superius.
             Ergo quodlibet subiectum metaphysice est prius et nobilius quam anima. Scientia ergo metaphysice prior
             est et nobilior quam scientia de anima. </p>
           <p xml:id="da-236-d1e60-d1e85">&lt;Tercia ratio est hec: scientie distinguuntur secundum
@@ -176,7 +176,7 @@
             est sustinens omnem scientiam sine quo nulla scientia potest esse, sicut anima est
             subiectum omni scientie et sine qua nulla scientia potest esse.
             <pb ed="#V" n="55-v"/>
-            <cb ed="#V" n="b"> | Sexta est quia
+            <cb ed="#V" n="b"/> | Sexta est quia
             subiectum illius scientie est principium abstractionis cuiuslibet scientie et
             cognitionis rerum, sicut anima est principium cuiuslibet abstractionis. Omnis autem
             scientia habetur per abstractionem, et quantum ad hoc est anima principium cuiuslibet
@@ -270,7 +270,8 @@
             de anima que per suas differentias est principium inuestigationis cuiuslibet scientie. A
             parte autem alia mathematice sunt nobiliores, set hoc non est nobilitas simpliciter. A
             parte autem modi demonstrandi est nobilitas inter scientias dupliciter: uno modo quia
-            illa scientia procedit per causas <pb ed ="#V" n="56-r"/> <cb ed="#V" n="a">| magis abstractas a sensibilibus et proximiores
+            illa scientia procedit per causas <pb ed ="#V" n="56-r"/> <cb ed="#V" n="a"/> 
+            magis abstractas a sensibilibus et proximiores
             intellectui, et sic mathematice sunt nobiliores a parte modi demonstrandi. Alio modo
             quia illa scientia procedit per uiam que est proximior nobis et nature et sic hec
             scientia est nobilior a parte modi demonstrandi quam ille, quia obiecta anime et
@@ -301,7 +302,7 @@
             motum, ergo scientia physicorum a parte demonstrationis est prior quam scientia de
             anima.</p>
           <p xml:id="da-236-d1e60-d1e170">Ad oppositum est hoc quod dicit <name>Aristoteles</name> in litera in
-            principio <title><hi>De anima</hi><title/>. </p>
+            principio <title><hi>De anima</hi></title>. </p>
           <p xml:id="da-236-d1e60-d1e176">Secunda ratio hec est: illud subiectum scientie est
             nobilius quod est completiuum in genere uniuersali, et propter quod facta sunt ea que
             facta sunt in uniuerso &lt;et ad quod est status in uniuerso&gt;. Set homo est
