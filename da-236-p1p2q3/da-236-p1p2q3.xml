@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,11 +50,22 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 3</head>
-                <p>Tercia questio est propter quid in eadem sciencia determinatur de corpore animato sensibili, humano et bruto, non autem de uegetabili in eadem sciencia cum aliquo istorum, unde non cadit corpus humanum cum uegetabili in sciencia nec brutum similiter. Et obicitur sic: secantur sciencie sicut et subiecta, cum ergo corpus humanum sit diuersum a bruto, debet determinari in alia sciencia quam brutum et non cum bruto. </p>
-                   <p> Solutio. Dicendum est quod corpus uegetale non determinatur cum bruto nec cum humano in eadem sciencia, set brutum et humanum simul, et hoc est propter duas causas, prima causa est quia complexio corporis bruti et humani communicant in eisdem principiis, scilicet in carne et osse et organis. Vtrumque enim habet carnem et ossa et organa formata. Vegetale autem corpus non habet hanc naturam, et propter hoc non habet communicantiam cum corpore bruto et humano, et ideo in eadem sciencia cum illis non determinatur. Corpus autem brutum et humanum habent communicantiam prehibitam, et ideo simul determinantur. Secunda causa est quia, sicut uult <name>Aristoteles</name> in libro <title> De sensu et sensato</title>, per complexionem hominis regulamur in cognitionem complexionis animalium, quia partes hominis manifeste sunt. Set non est regulatio ab animali circa cognitionem complexionis partium plantarum nec e conuerso, quia non possunt partes animalium comparari ad partes plantarum. Et ita quia regulamur in cognitionem complexionis animalium per complexionem humanam, ideo in eadem sciencia determinatur de complexione corporis humani et bruti et non corporis uegetabilis; et per hoc patet solutio ad rationem.</p>
+                <p>
+                  Tercia questio est propter quid in eadem scientia determinatur de corpore animato sensibili, humano et bruto, non autem de uegetabili in eadem scientia cum aliquo istorum,
+                  unde non cadit corpus humanum cum uegetabili in scientia nec brutum similiter.
+                  Et obicitur sic: secantur sciencie sicut et subiecta, cum ergo corpus humanum sit diuersum a bruto, debet determinari in alia scientia quam brutum et non cum bruto.
+                </p>
+                   <p>
+                     Solutio. Dicendum est quod corpus uegetale non determinatur cum bruto nec cum humano in eadem scientia, set brutum et humanum simul, et hoc est propter duas causas,
+                     prima causa est quia complexio corporis bruti et humani communicant in eisdem principiis, scilicet in carne et osse et organis.
+                     Vtrumque enim habet carnem et ossa et organa formata. Vegetale autem corpus non habet hanc naturam, et propter hoc non habet communicantiam cum corpore bruto et humano,
+                     et ideo in eadem scientia cum illis non determinatur. Corpus autem brutum et humanum habent communicantiam prehibitam, et ideo simul determinantur.
+                     Secunda causa est quia, sicut uult <name>Aristoteles</name> in libro <title>De sensu et sensato</title>, per complexionem hominis regulamur in cognitionem complexionis animalium,
+                     quia partes hominis manifeste sunt. Set non est regulatio ab animali circa cognitionem complexionis partium plantarum nec e conuerso, quia non possunt partes animalium comparari ad partes plantarum.
+                    Et ita quia regulamur in cognitionem complexionis animalium per complexionem humanam, ideo in eadem scientia determinatur de complexione corporis humani et bruti et non corporis uegetabilis;
+                  et per hoc patet solutio ad rationem.
+                </p>
             </div>
         </body>
     </text>
 </TEI>
-                    
-                    

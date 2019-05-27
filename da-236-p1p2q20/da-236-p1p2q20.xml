@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,9 +50,25 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 20</head>
-                <p>Vicessima questio est que est causa distinctionis sciencie a sciencia et partium sciencie ad inuicem. </p>
-                <p>Solutio. Dicendum est quod diuersitas ista prouenit a parte subiecti et a parte eorumque in subiecto indicantur, set hec diuersitas multiplex est. Etenim quoddam subiectum distinguitur ab altero subiecto secundum genus abstractionis, sicut res coniuncta motui et materie distinguitur a re omnino separata a materia et a motu et ab illa que est coniuncta secundum esse separata secundum distinctionem, et hec diuersitas facit diuersitatem distinctionum in scienciis principalibus sicut in partibus philosophie principalibus. Est autem alia diuersitas que est per additionem dispositionis supra subiectum que dispositio est alterius nature, et sic linea uisualis addit supra <cb ed="#K" n="51va"/>lineam simpliciter, et hec diuersitas facit separationem sciencie per modum subalternationis. Linea enim uisualis addit supra lineam simpliciter aliud principium, scilicet uisibile, quod est alterius nature, quia est a principio nature et subalternatur sciencia de linea uisuali sciencie de linea simpliciter. Tercia diuersitas est que attenditur inter partes integrales ipsius subiecti alicuius uel eorum que ad principale subiectum concurrunt que partes addunt aliquas proprietates et passiones supra subiectum que tamen sunt eiusdem abstractionis, et hec diuersitas facit separationem librorum principalium, qui ad inuicem diuersas passiones habent que partes continentur sub diuersis partibus principalibus et hec facit diuersitatem capitulorum. Quarta diuersitas est que est ratione diuersarum conclusionum et passionum que probantur de eadem parte subiecti et hec facit distintionem in paragraphis in sciencia. Hec autem distinctio sciencie penes diuersitates predictas non procedit secundum exigentiam traditionis nostre, set secundum exigentiam rerum et status sciencie et rationem ipsius. </p>
-                <p>Et sic patet uerificatio et notificatio eorum que circa secundum probleuma principale propositum inquiruntur.</p>
+                <p>Vicesima questio est que est causa distinctionis scientie a scientia et partium scientie ad inuicem.
+                 </p>
+                <p>
+                 Solutio. Dicendum est quod diuersitas ista prouenit a parte subiecti et a parte eorumque in subiecto indicantur, set hec diuersitas multiplex est.
+                 Etenim quoddam subiectum distinguitur ab altero subiecto secundum genus abstractionis, sicut res coniuncta motui et materie distinguitur a re omnino separata
+                 a materia et a motu et ab illa que est coniuncta secundum esse separata secundum distinctionem, et hec diuersitas facit diuersitatem distinctionum in scientiis principalibus sicut
+                 in partibus philosophie principalibus. Est autem alia diuersitas que est per additionem dispositionis supra subiectum que dispositio est alterius nature,
+                 et sic linea uisualis addit supra
+                 <pb ed="#K" n="51-v"/>
+                 <cb ed="#K" n="a"/>lineam simpliciter, et hec diuersitas facit separationem sciencie per modum subalternationis.
+                 Linea enim uisualis addit supra lineam simpliciter aliud principium, scilicet uisibile, quod est alterius nature, quia est a principio nature et subalternatur scientia de linea uisuali scientie
+                 de linea simpliciter. Tercia diuersitas est que attenditur inter partes integrales ipsius subiecti alicuius uel eorum que ad principale subiectum concurrunt que partes addunt aliquas proprietates
+                 et passiones supra subiectum que tamen sunt eiusdem abstractionis, et hec diuersitas facit separationem librorum principalium, qui ad inuicem diuersas passiones habent que partes continentur
+                 sub diuersis partibus principalibus et hec facit diuersitatem capitulorum. Quarta diuersitas est que est ratione diuersarum conclusionum et passionum que probantur de eadem parte subiecti et hec
+                 facit distintionem in paragraphis in scientia. Hec autem distinctio scientie penes diuersitates predictas non procedit secundum exigentiam traditionis nostre, set secundum exigentiam rerum et status
+                 scientie et rationem ipsius.
+               </p>
+                <p>Et sic patet uerificatio et notificatio eorum que circa secundum probleuma principale propositum inquiruntur.
+                </p>
             </div>
         </body>
     </text>

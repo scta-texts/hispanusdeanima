@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -58,7 +58,7 @@
         <head>Quaestio 7</head>
         <head type="question-title">Utrum anima moueatur et patiatur a sensibilibus extra</head>
         <p xml:id="da-236-ed1e7131-d1e7139">[lec 15 q7] Circa septimam questionem sic proceditur, et queritur utrum anima moueatur et
-    patiatur a sensibilibus extra, et ostenditur quod sic: sicut uult Aristoteles in
+    patiatur a sensibilibus extra, et ostenditur quod sic: sicut uult <name>Aristoteles</name> in
       <seg>secundum,</seg> patitur sensus a sensibili et intellectus ab intelligibili, set omne
     quod patitur ab alio mouetur <seg>ab</seg> eo, ergo sensus et intellectus patiuntur et
     mouentur a sensibilibus extra. Ergo anima patitur a sensibilibus <seg>extra.</seg>
@@ -72,23 +72,27 @@
     actu cognoscendi, set omnis substantia que cognoscit per species acquisitas quandoque existens
     in actu cognoscendi quandoque non transmutatur secundum specierum receptionem. Hec autem sunt
     species sensibilium extra, ergo anima transmutatur a speciebus rerum extra
-      <seg>sensibilium,</seg> ergo mouetur ab illis et patitur.</p>
-        <p xml:id="da-236-ed1e7131-d1e7160">Ad oppositum, sicut uult Algazel, proprium est substantiarum spiritualium ut imprimant supra
+      <seg>sensibilium,</seg> ergo mouetur ab illis et patitur.
+    </p>
+        <p xml:id="da-236-ed1e7131-d1e7160">Ad oppositum, sicut uult <name>Algazel</name>, proprium est substantiarum spiritualium ut imprimant supra
     corporales et non e <seg>contrario.</seg> Igitur cum anima sit substantia spiritualis non
     recipiet impressionem a substantiis corporalibus sensibilibus extra, ergo non patitur ab eis
-    nec mouetur. </p>
+    nec mouetur.
+  </p>
         <p xml:id="da-236-ed1e7131-d1e7167">Secunda ratio hec est: actio et passio attenduntur per contrarietatem. Set in anima non est
-    contrarietas, ergo anima non patitur a sensibilibus extra. </p>
+    contrarietas, ergo anima non patitur a sensibilibus extra.
+  </p>
         <p xml:id="da-236-ed1e7131-d1e7170">
           <seg>Solutio.</seg> Ad hoc dicendum est quod anima patitur a rebus sensibilibus et
     intelligentibus corporalibus per receptionem similitudinum ipsarum, sicut ostendunt rationes,
     unde ab illis mouetur et patitur hoc modo. </p>
         <p xml:id="da-236-ed1e7131-d1e7175">Ad primam rationem in contrarium dicendum est quod substantia spiritualis est duplex: quedam
-    est separata a materia, sicut <seg>intelligentia,</seg> et de tali intelligit Algazel,
+    est separata a materia, sicut <seg>intelligentia,</seg> et de tali intelligit <name>Algazel</name>,
     scilicet quod imprimit supra substantias corporales et non e <seg>contrario,</seg> cum sit ab
     eis separata. Est autem alia substantia spiritualis que est alligata materie corporali, sicut
     anima, et talis in cognoscendo potest pati et moueri a substantiis corporalibus per suas
-    species. </p>
+    species.
+  </p>
         <p xml:id="da-236-ed1e7131-d1e7184">Ad secundam rationem dicendum est quod actio est duplex, scilicet corporalis et spiritualis.
     Corporalis autem est duplex quia quedam est cum abiectione et impressione et hec est per
     contrarietatem et secundum talem actionem agunt elementa. Alia autem est actio corporalis que
@@ -97,7 +101,8 @@
     est per impressionem et corruptionem secundum excellentiam obiecti et talis est in sensu
     excellentie, <seg>namque</seg> sensibilium corrumpunt sensum. Alia autem est per impressionem
     solum sine excellentie corruptione et talis est in anima intellectiua prout recipit
-    intelligibilium excellentiam non tamen ab illis corrumpitur. Alia autem est in sensu. </p>
+    intelligibilium excellentiam non tamen ab illis corrumpitur. Alia autem est in sensu.
+  </p>
       </div>
     </body>
   </text>

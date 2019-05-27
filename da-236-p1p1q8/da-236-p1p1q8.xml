@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -49,21 +49,32 @@
   <text>
       <body>
          <div>
-            
-            <head>Preambula, Problema 1, Quaestio 8</head>
-            <p>Octauo queritur cuius uirtutis anime intellectiue sit hoc facere, scilicet se ipsam cognoscere, utrum possibilis aut agentis. Et uidetur quod agentis, quia uirtus magis abstracta et minus intendens sensibilibus uirtutibus est magis sibi presens. Hec autem est agens et talis maxime se cognoscit. Ergo uirtus anime se cognoscentis est intellectus agens et non possibilis.</p> 
-               <p>Ad oppositum, illius uirtutis est cognoscere se ipsam cognoscendo alia, cuius est alia cognoscere. Set hoc est intellectus possibilis, ergo uirtus possibilis est illa cui debetur cognoscere se ipsam.</p> 
-               <p>Solutio. Dicendum est quod uirtuti anime agenti intellectiue debetur hoc, scilicet cognoscere se ipsam. Set dicendum est quod cognitio anime sui ipsius est duplex: una est anime per reflectionem supra se, et hec maxime appropriatur intellectui agenti, cum sit lux ipsius anime et acies per quam nunquam deuiat a ueritate. Alia est que est per reflectionem supra alia per quam ultimo se cognoscit; et in ista sunt duo, scilicet illud quo cognoscit, et hoc est intellectus agens, et illud quod recipit, et hoc est intellectus possibilis; et per illuminationem agentis supra possibilem est cognitio completa.</p>
-              
-               
-               
-         
-               
 
-            
+            <head>Preambula, Problema 1, Quaestio 8</head>
+            <p>
+              Octauo queritur cuius uirtutis anime intellectiue sit hoc facere, scilicet se ipsam cognoscere, utrum possibilis aut agentis.
+             Et uidetur quod agentis, quia uirtus magis abstracta et minus intendens sensibilibus uirtutibus est magis sibi presens.
+             Hec autem est agens et talis maxime se cognoscit. Ergo uirtus anime se cognoscentis est intellectus agens et non possibilis.
+           </p>
+            <p>Ad oppositum, illius uirtutis est cognoscere se ipsam cognoscendo alia, cuius est alia cognoscere. Set hoc est intellectus possibilis, ergo uirtus possibilis est illa cui debetur cognoscere se ipsam.</p>
+            <p>
+              Solutio. Dicendum est quod uirtuti anime agenti intellectiue debetur hoc, scilicet cognoscere se ipsam.
+              Set dicendum est quod cognitio anime sui ipsius est duplex: una est anime per reflectionem supra se, et hec maxime appropriatur intellectui agenti,
+              cum sit lux ipsius anime et acies per quam nunquam deuiat a ueritate.
+              Alia est que est per reflectionem supra alia per quam ultimo se cognoscit;
+              et in ista sunt duo, scilicet illud quo cognoscit, et hoc est intellectus agens, et illud quod recipit, et hoc est intellectus possibilis;
+             et per illuminationem agentis supra possibilem est cognitio completa.
+          </p>
+
+
+
+
+
+
+
          </div>
       </body>
   </text>
-  
- 
+
+
 </TEI>

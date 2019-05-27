@@ -62,15 +62,18 @@
           <p xml:id="da-236-d1e717-d1e727">[lec2 q5.1] Circa quintam questionem queritur, et primo
             sic proceditur et queritur per quam uiam habeatur diffinitio, utrum, scilicet per
             diuisionem aut per compositionem, et ostenditur quod habeatur per diuisionem hac
-            rationem: diffinitio <pb ed="#K" n="64-v"/> <cb ed="#K" n="b"/> |
-             procedit descendendo a genere generalissimo differentias
+            rationem: diffinitio
+            <pb ed="#K" n="64-v"/>
+            <cb ed="#K" n="b"/>procedit descendendo a genere generalissimo differentias
             colligendo et eas coartando. Set omnis talis processus est processus diuisionis.
             Processus autem in ascendendo est procesus collectionis et compositionis, ergo si per
             primum processum habetur diffinitio, diffinitio habetur per uiam diuisionis et non per
-            uiam collectionis et compositionis. </p>
+            uiam collectionis et compositionis.
+           </p>
           <p xml:id="da-236-d1e717-d1e730">Ad oppositum est talis ratio: uia diffinitiua procedit ad
             constitutionem rei ex suis principiis. Constitutio autem rei ex suis principiis habetur
-            per compositionem, ergo diffinitio habetur per compositionem. </p>
+            per compositionem, ergo diffinitio habetur per compositionem.
+          </p>
         </div>
         <div>
           <head>2</head>
@@ -78,33 +81,41 @@
             uiam demonstrationis et utrum procedat uia demonstrationis, sicut procedit uia
             compositionis uel diuisionis, et ostenditur quod sic: diffinitio datur per causas et per
             uera rei principia, set talis processus est demonstratiuus, ergo diffinitio datur et
-            procedit uia demonstrationis, habetur ergo per demonstrationem. </p>
+            procedit uia demonstrationis, habetur ergo per demonstrationem.
+          </p>
           <p xml:id="da-236-d1e717-d1e742">Ad oppositum est talis ratio: omnis demonstratio competit
             accidenti prout subiecto inheret per causam in subiecto radicatam. Diffinitio autem
             datur per principia rei in suo genere, ergo cum iste uie sunt opposite diffinitio non
-            habetur per uiam demonstrationis. </p>
+            habetur per uiam demonstrationis.
+          </p>
           <p xml:id="da-236-d1e717-d1e745">Ad primam rationem dicendum est quod, sicut dicit
-            <name>Auerroys</name> circa hoc supra principium libri <title><hi>De anima</hi></title>, tres fuerunt positiones
-            philosophorum de diffinitione: una fuit quod demonstratio habetur per demonstrationem et
-            per causas et hanc positionem posuit <name>Ypocras</name>. Secunda fuit quod diffinitio habetur per
-            uiam diuisiuam et hec fuit positio Platonis. Tercia est quod diffinitio habetur per uiam
-            compositiuam per quam diffinitio ex suis principiis componitur et hec est positio
-            <name>Aristotelis</name> in secundo <title><hi>Posteriorum</hi></title>.</p>
+            <name>Auerroys</name> circa hoc supra principium libri <title>De anima</title>,
+            tres fuerunt positiones philosophorum de diffinitione: una fuit quod demonstratio
+            habetur per demonstrationem et per causas et hanc positionem posuit <name>Ypocras</name>.
+             Secunda fuit quod diffinitio habetur per uiam diuisiuam et hec fuit positio <name>Platonis</name>.
+            Tercia est quod diffinitio habetur per uiam compositiuam per quam diffinitio ex suis principiis componitur et hec est positio
+            <name>Aristotelis</name> in secundo <title>Posteriorum</title>.
+          </p>
           <p xml:id="da-236-d1e717-d1e754">Ad rationes uero in contrarium dicendum est quod duplex
             est uia in diffinitionem. Vna est remota, et hec est uia in uiam, et hec est uia
-            diuisiua <pb ed="#V" n="58-r"/> <cb ed="#K" n="a"/>| per quam extrahuntur partes a toto et postea componuntur et diffiniunt totum,
+            diuisiua
+            <pb ed="#V" n="58-r"/>
+            <cb ed="#K" n="a"/>per quam extrahuntur partes a toto et postea componuntur et diffiniunt totum,
             et sic uia diuisiua est uia in diffinitionem. Alia autem est uia proxima et hec est uia
             compositiua secundum quam partes constituentes in diffinitione ponuntur. Et cum uia
             diuisiua sit uia in hanc, propter hoc dicitur esse uia in uiam et non principalis uia
-            set remota. </p>
+            set remota.
+          </p>
           <p xml:id="da-236-d1e717-d1e758">Ad secundam questionem dicendum est quod demonstratio non
-            est proprie uia in diffinitionem.</p>
+            est proprie uia in diffinitionem.
+          </p>
           <p xml:id="da-236-d1e717-d1e761">Ad rationem in contrarium dicendum est quod cognitio per
             causas est duplex: una est que procedit secundum constitutionem rei ex suis principiis
             et hec est diffinitiua. Alia est que est et procedit ad cognitionem rei inherentis
             subiecto per causas sue inherentie que causant rem in subiecto propter quas causas res
             in subiecto inherent, et hec est cognitio demonstratiua et sic diffinitio non habetur
-            nec procedit uia demonstratiua. </p>
+            nec procedit uia demonstratiua.
+          </p>
         </div>
       </div>
     </body>

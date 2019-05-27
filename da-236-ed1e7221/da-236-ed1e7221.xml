@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -61,20 +61,25 @@
     ipsam moueat. Et ostenditur quod sic: omnis substantia que in receptione spirituali aliorum se
     ipsam dirigit <seg>ab</seg> illa prosequenda se ipsam mouet et se ipsa mouetur. Anima est
     huiusmodi, ergo anima se ipsam mouet in apprehensione rerum a quibus patitur et mouendo se
-    mouet corpus <seg>ab</seg> illa prosequenda. </p>
+    mouet corpus <seg>ab</seg> illa prosequenda.
+  </p>
         <p xml:id="da-236-ed1e7221-d1e7238">Ad oppositum: oportet motorem et mobile distare substantia, ergo si anima se ipsam mouet in
-    hac apprehensione rerum distat a se ipsa per essentiam et differt. Hoc autem est inconueniens. </p>
+    hac apprehensione rerum distat a se ipsa per essentiam et differt. Hoc autem est inconueniens.
+  </p>
         <p xml:id="da-236-ed1e7221-d1e7241">
           <seg>Solutio.</seg> Ad hoc dicendum est quod anima eo mdo quo species recipit et ab illis
     excitatur se ipsam mouet ad illas prosequendas per reflectionem sui supra se.</p>
         <p xml:id="da-236-ed1e7221-d1e7247">
-          <hi>|</hi> Ad rationem in contrarium dicendum est quod in rebus corporalibus oportet motorem
+          <pb ed="#K" n="99-r"/>
+          <cb ed="#K" n="a"/> Ad rationem in contrarium dicendum est quod in rebus corporalibus oportet motorem
     et mobile distare substantia in quibus est uerus motus et in quibus mobile est potentia solum
     existens. Motor autem est actu ens. In spiritualibus autem substantiis per reflectionem
     alicuius substantie spiritualis supra se ipsam unum et idem dirigit se ipsum et mouet per
     reflectionem sui supra se motu directionis, quia in illis solis est reflectio substantie supra
-    se et non in aliis. </p>
-        <p xml:id="da-236-ed1e7221-d1e7252">Explicit primus <hi>De anima</hi> magistri Petri Hyspani. </p>
+    se et non in aliis.
+  </p>
+        <p xml:id="da-236-ed1e7221-d1e7252">Explicit primus <title>De anima</title> magistri <name>Petri Hyspani</name>.
+      </p>
       </div>
     </body>
   </text>

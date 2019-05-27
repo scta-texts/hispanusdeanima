@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -68,7 +68,7 @@
       quam anima uegetabilis. </hi>
         </p>
         <p xml:id="da-236-ed1e21724-d1e21762">
-          <hi>Secunda ratio hec est: sicut uult <seg>Aristoteles,</seg> anima prior est corpore et
+          <hi>Secunda ratio hec est: sicut uult <name>Aristoteles,</name> anima prior est corpore et
       antiquior. Ergo anima que non habet conditiones corporis est prior illa que habet magis
       conditiones corporis. Set anima intellectiua magis remota est a conditionibus corporis quam
       anima uegetabilis et sensibilis. Ergo anima intellectiua est prior secundum naturam quam
@@ -99,7 +99,7 @@
           <hi>Ad primam rationem in contrarium dicendum quod substantia spiritualis est duplex: quedam
       que est dependens a materia, quedam independens. Et ideo talis non est prior illis, et ideo
       anima intellectiua non est simpliciter prior aliis que disponunt ad ipsam, set est posterior </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="132-r"/><cb ed="#K" n="a"/></hi>
           <hi> ceteris in uia generationis et <seg>incompletionis.</seg>
           </hi>
         </p>

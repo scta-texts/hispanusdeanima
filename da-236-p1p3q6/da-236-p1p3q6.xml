@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,162 +50,889 @@
         <body>
             <div>
                 <head>Preambula, Problema 3, Quaestio 6</head>
-                <p>Sexta questio est, ante quam aggrediamur disputare de anima secundum sui substantiam queruntur sex de sciencia de anima. </p>
-                <p>Primum est de nobilitate et utilitate sciencie de anima secundum quam superat alias sciencias. Secundum est de modo procedendi in illa et in aliis et de difficultate que incidit circa modum procedendi diffinitiue. Tercium est de questionibus incidentibus circa potencias anime. Quartum est de proprietatibus et passionibus quas considerat phisicus. Quintum est de diuersitate modi diffiniendi physici ad logicum et ad alios philosophos. Sextum est de diuisione negotiorum philosophie quam tangit Aristoteles in principio De anima dicens quod manifestum est de rebus<cb ed="#K" n="53rb"/> coniunctis motui et materie et cetera.</p>
-                <p><supplied>q6.1.1</supplied> Circa primum incidunt sex querenda, primum est de comparatione huius ad alias sciencias et maxime ad mathematicam et a parte excellentie sue nobilitatis. Secundum est de modo certitudinis eius. Tercium est de modis nobilitatis sciencie quos tangit <name>Aristoteles</name> quod unus est a parte demonstrationis, alius est a parte subiecti. Quartum est quomodo sciencia de anima affert iuuamentum ad omnem scienciam. Quintum est quo modo anima sit principium animalium sicut ponit <name>Aristoteles</name> in principio. Sextum est de bonitate et utilitate sciencie eius et honore et reuerentia.</p>
-                <p><supplied>q6.1.1.1</supplied> Circa primum sic proceditur et queritur de comparatione sciencie de anima ad metaphisicam que sit prior inter ipsas et nobilior. Et uidetur quod metaphisica sit prior et nobilior quia sciencia dicitur nobilior et prior propter nobilitatem et prioritatem subiecti. Set subiectum metaphisice est nobilius et prius quam subiectum sciencie de anima, ergo metaphisica est nobilior et prior quam sciencia de anima. Maior patet; minor patet sic: subiectum enim superius nobilius est et prius, set subiectum metaphisice est superius quam subiectum sciencie de anima, ergo est nobilius ipso et prius. Quod autem sit superius patet, quoniam subiectum metaphisice est ens in quantum ens. Ens autem superius est ad omnia, sicut dicitur in libro <title> De causis</title>, <quote>prima rerum creatarum est esse quia esse latius est et communius et extenditur ultra substantias corporeas et incorporeas et est supra illas</quote>. Et hoc confirmatur per <ref><name>Aristotelem</name> in libro <title>Perihermeneias</title></ref>, dicentem quod uniuersale est nobile et honorabile 
-                        <bibl>Aristoteles, Perihermenias</bibl>, ergo cum ens sit uniuersalius quam anima et honorabilius, et ita prius. </p>
-                <p>Secunda ratio hec est, subiectum metaphisice est triplex uel duplex secundum diuersos philosophos. Vno modo est subiectum metaphisice illud principium a quo fluunt omnia, et sic Deus est subiectum in metaphisica, quia ab ipso fluunt omnia de quibus est metaphisica. Secundum est illud in quo radicantur omnia in illa sciencia et sic substantia est subiectum subiecta est subiectum in metaphisica. Tercium est subiectum illud quo est comune anologum ad omnia in illa sciencia, et sic ens est subiectum in metaphisica, set primum subiectum est nobilius et prius quam anima et superius quam anima. Secundum autem subiectum et tercium similiter prius est et nobilius quam anima et superius, ergo quodlibet subiectum metaphisice est prius et nobilius quam anima. Sciencia ergo metaphisica prior est et nobilior quam sciencia de anima. </p>
-                <p>Tercia ratio hec est, sciencie distinguuntur secundum rerum distinctionem et habent nobilitatem et ordinem a parte rerum, set res superiores sunt nobiliores et priores quam res inferiores. Sciencia autem metaphisice considerat res superiores sicut substantias separatas. Hec autem scientia de anima cum sit naturalis considerat res naturales et coniunctas et ita inferiores, ergo sciencia metaphisice est de superioribus et nobilioribus quam sciencia de anima, ergo est nobilior et prior quam sciencia de anima. </p>
-                <p>Quarta ratio hec est, illa sciencia est nobilior que propter sui nobilitatem non est possibile ab homine attingi, set sciencia metaphisice est huiusmodi,sicut uult<name>Aristoteles</name>, cum natura humana sit maxime subdita seruituti. Dicit etiam ibi <name>Aristoteles</name> quod natura humana illa habere non potest, quia natura humana multipliciter est ancilla, et cum Deus sit liber so<cb ed="#K" n="53va"/>lus, Deus habet hoc senium, id est illam scienciam senem, sicut dicit <name>>Symonides</name>. Ergo a parte subiecti uidetur quod metaphisica sit nobilior et prior quam sciencia de anima.</p>
-              <p>Quod autem a parte demonstrationis et modi demonstrandi sit metaphisica nobilior et prior quam ista sciencia sic ostenditur: omnis sciencia que est regulans principia omnium aliarum et que per suam potenciam super omnes influit excellit omnes in modo procedendi et in nobilitate demonstrationis. Metaphisica est huiusmodi, sicut uult<name> Aristoteles</name>, ergo excellit scienciam de anima et omnes alias in nobilitate demonstrationis.</p>   
-                <p>Quinta ratio hec est, sicut habetur ab <name>Aristotele</name> in <title>Metaphisica</title>, illa sciencia est certior omni sciencia que procedit per causas maxime uniuersales et que considerat illa que maxime sunt remota a sensu et proxima intellectui et nature, et illa sunt uniuersalia: Metaphisica est huiusmodi, ergo excellit scienciam de anima et a parte nobilitatis et prioritatis subiecti et modi demonstrandi. </p>
-                <p>Ad oppositum sunt rationes, prima hec est, illa sciencia est nobilior et prior que est de principio materiali uel naturali et effectiuo cuiuslibet sciencie. Sciencia de anima est huiusmodi, ergo est prior et nobilior omni sciencia et quam metaphisica. Minor patet, quia sciencia de anima est de anima. Anima autem est materiale subiectum cuiuslibet sciencie, quia quelibet scientia est in anima et similiter effectiua, quia quelibet scientia est ab anima, quia ipsam efficit. </p>
-                <p>Secunda ratio hec est, sciencia metaphisica procedit secundum modum abstractionis et separationis et circa res abstractas et separatas. Omnis autem abstractio est ab anima et a potenciis eius, ergo non potest cognosci modus abstractionis nisi cognoscatur anima et eius differentie et potencie. Anima ergo prior est sciencia metaphisica, ergo sciencia de anima prior est illa et nobilior. </p>
-                <p>Tercia ratio hec est, cognitio omnium rerum est per cognitionem status humani et per cognitionem anime et corporis, quia anima est speculum in quo omnia relucent. Item corpus humanum est illud de cuius participatione sunt omnia corpora. Et ita anima secundum cognitionem participat omnia et corpus secundum substantiam participat omnia. Item homo omnia inuestigat per differentias anime. Set illa natura est que est omnia participans et que omnia requirit secundum participationem prior est. Hoc est homo, ergo homo est prius subiecto cuiuslibet sciencie, ergo de homine sciencia prior est qualibet sciencia. Set sciencia de anima est de homine et de eius anima, ergo sciencia de anima est prior omni sciencia et nobilior et ita prior metaphisica.</p>
-                <p>Quarta ratio hec est, omnis sciencia est ab anima et propter anima, quia omnis sciencia est ad hoc ut anima perficiatur, et maxime in cognoscendo se ipsam, quia ad hoc ordinantur omnes sciencie, ergo illa sciencia per quam maxime habetur cognitio anime sui ipsius est prior et nobilior inter omnes. Set sciencia de anima est huiusmodi, ergo sciencia de anima est nobilior et prior omni sciencia et maxime metaphisica. Et sic uidetur quod a parte subiecti sciencia de anima sit nobilior et prior.</p> 
-                <p>Quod autem a parte modi procedendi sit prior et nobilior hoc apparet similiter: omne enim principium certitudinis est a parte aspectus anime su<cb ed="#K" n="53vb"/>pra res secundum quod anima inuestigat. Set principium huiusmodi inuestigationis procedit per potencias anime, ergo a sciencia illa que determinat potencias anime debet accipi certitudo in quelibet sciencia. Set sciencia de anima est huiusmodi, ergo ab illa debet accipi quelibet certitudo in sciencia. Set illa sciencia a qua accipitur certitudo in aliis est nobilior et prior omnibus aliis quantum ad modum demonstrandi et maxime quam metaphisica. </p>
-                <p>Solutio. Dicendum quod quidam dicunt quod sciencia de anima nobilior est metaphisica, secundum utrumque modum coniunctim, scilicet quantum ad nobilitatem subiecti et certitudinem demonstrationis coniunctim. Set secundum alterum modum est metaphisica nobilior, scilicet quantum ad subiecti nobilitatem et non quantum ad certitudinem demonstrationis, quia sciencia de anima procedit per causas manifestiores. Sciencia autem metaphisice procedit per effectus cum procedit de substantiis separatis, que multum sunt occulte, et cause similiter. Et ideo sciencia de anima completur utroque modo, et propter hoc est nobilior metaphisica. </p>
-                <p>Alia est positio quam uidetur tangere <ref><name>commentator</name></ref>, scilicet quod metaphisica est nobilior simpliciter quam sciencia de anima, sicut ostendunt rationes: quod autem ponit <name>Aristoteles</name>, hanc scienciam esse nobiliorem et priorem, hoc non est per comparationem ad diuinam, que est metaphisica, set per comparationem ad naturales que sunt sui generis.</p> 
-                <p>Tercio uero modo dicendum quod in sciencia est nobilitas dupliciter: uno modo a parte subiecti, alio modo a parte modi demonstrandi. A parte autem subiecti sunt multe nobilitates: </p>
-                <p>Vna est ratione prioritatis et communitatis subiecti, et sic ens prius est et nobilius, quia extenditur supra omnia. 
-                    Secunda est, quia subiectum est principium omnium que in qualibet sciencia determinantur, et sic subiectum metaphisice quod est Deus prius et nobilius. 
-                    Tercia est a parte status et supereminentie subiecti secundum quod dicimus, quod substantie separate sunt nobiliores quam coniuncte. 
-                    Quarta est a parte principiorum radicatorum in subiecto sciencie per quod possunt omnes sciencie regulari et probari, et sic nobilius est subiectum metaphisice, quod est ens quod est substantia, quia in eo omnia principia radicantur omnium scienciarum, et hiis modis nobilitatis est prioritatis subiecti metaphisica nobilior est et prior a parte subiecti quam sciencia de anima. 
-                    Quinta autem nobilitas in sciencia a parte subiecti est quia subiectum in illa sciencia est sustinens omnem scienciam sine quo nulla sciencia potest esse, sicut anima est subiectum omni sciencie et sine qua nulla sciencia potest esse. 
-                    Sexta est quia subiectum illius sciencie est principium abstractionis cuiuslibet sciencie et cognitionis rerum, sicut anima est principium cuiuslibet abstractionis. Omnis autem sciencia habetur per abstractionem, et quantum ad hoc est anima principium cuiuslibet sciencie. Et hiis duobus modis hec sciencia de anima, et suum subiectum, precedit subiectum metaphisice, et nobilius est eo non in se, id est non a parte substantie subiecti metaphisice set a parte qua subiectum metaphisice scitum est et prout cadit in sciencia quia non habetur cognitio de ipso sine anima. 
-                    Septima nobilitas a parte subiecti est in sciencia alia, quia omnis sciencia alia ordinatur ad subiectum illius sciencie, et sic iterum sciencia de anima nobilior est, et sic est anima nobilissimum subiectum, quia propter animam est omnis sciencia et ad ipsam<cb ed="#K" n="54ra"/> ordinatur.
-                    Octaua nobilitas a parte subiecti in sciencia est quod suum subiectum est principium distinctiuum cuiuslibet sciencie secundum cuius partes et potencias omnes sciencie distinguuntur et cuius partes et potencie sunt uie in omnem scienciam. Et sic item sciencia de anima habet nobilius subiectum quam metaphisica. </p>
-                <p>Nobilitas autem a parte modi demonstrandi multiplex est: uno modo est sciencia una nobilior quam altera quantum ad modum demonstrandi, quia procedit per causas superiores et priores et notiores quoad naturam. 
-                    Secundo modo quia sciencia illa est regula omnium aliarum et dirigens omnes alias et influens super omnes. Et hiis duobus modis est metaphisica nobilior et prior quantum ad modum demonstrandi quam sciencia de anima. 
-                    Tercio modo est nobilitas in sciencia a parte modi demonstrandi, quia illa sciencia est procedens per ea que sunt priora quoad naturam et notiora nobis, et sic sciencia de anima nobilior est. Procedit enim per obiecta que priora sunt et certiora quoad naturam perfectionis et diffinitionis, quia hoc modo actus et obiecta precedunt potencias. Metaphisica autem quantum ad substantias separatas non procedit per causas set per effectus, quia cause ille non possunt capi ab intellectu humano, set ipsum excellunt. 
-                    Quarto modo est nobilitas in sciencia a parte modi demonstrandi, quia illa sciencia procedit de rebus que sunt inmediatiores anime cognoscenti et in qua sciencia idem est subiectum et illud quod debet cognoscere subiectum et passiones eius. Et sic sciencia de anima nobilior et certior et prior. 
-                    Quinta est quia illa sciencia est de illis que sunt principium cuiuslibet certitudinis et sine quibus non est processus in certitudine. Hec autem sunt differentie anime et obiecta, et propter hoc isto modo est hec sciencia nobilior a parte modi demonstrandi quam metaphisica. </p>
-                <p>In statu sciencie ergo sciencia metaphisice est nobilior et prior; in statu autem alio de quo dictum est, est sciencia de anima nobilior. </p>
-                <p>[q6.1.1.2] Secundo queritur circa hoc de comparatione huius sciencie ad mathematicas sciencias secundum nobilitatem, et uidetur quod mathematice sciencie sint nobiliores quam ista sciencia, quia tria sunt negotia. Unum est de separatis sicut metaphisica; alterum est de abstractis quodam modo et quodam modo coniunctis. Tercium est de omnino coniunctis. Mathematice sunt de abstractis quodam modo. Naturalis autem sciencia et sciencia de anima sunt de coniunctis, set quanto res sunt separabiliores a motu et a materia tanto sunt nobiliores in se et in statu sciencie. Set res de quibus sunt matematice sunt remotiores a materia quam res de quibus est ista sciencia, cum sit naturalis, ergo sunt nobiliores quam ea de quibus est ista sciencia. Ergo mathematice sunt nobiliores quam ista sciencia. </p>
-                <p>Secunda ratio est, dicit <name>Auicenna</name> quod quedam sunt forme quas cum intellectus apprehendit nec ante nec post eis appropriat materiam, ut forme mathematice sunt. Alie quas cum inuenit intellectus non appropriat eis statim materiam set secundum successionem et maximam diligentiam, ut sunt accidentia communia ut albedo. Alie forme quibus statim appropriat materiam ut forme naturales. Forme ergo mathematice sunt communiores et altiores secundum naturam et intellectum omnibus aliis formis, ergo et nobiliores. Ergo sunt nobiliores<cb ed="#K" n="54rb"/> quam forma uel anima  de qua determinatur in sciencia de anima. Sciencie ergo mathematice sunt nobiliores quam sciencia de anima. </p>
-                <p>Tercia ratio hec est, dicit <ref><name>Boetius</name> in prohemio <title>Arismetice</title></ref> quod sciencia est eorum que sunt suique impermutabilem sortiuntur substantiam comprehensio ueritatis, et iste sunt forme mathematice que de se incorruptibiles sunt. Cumtactu uero corporis sunt corrruptibiles, ille ergo forme sunt nobiliores quam forme naturales, que permutabiles sunt. Ergo mathematice, cum sint de illis, sunt nobiliores quam sciencia de anima. Item ostenditur quod a parte modi demonstrandi sunt mathematice nobiliores quam sciencia de anima, quia sciencie mathematice procedunt per causas intelligibiles. Hec autem sciencia procedit per obiecta et per operationes exteriores que fallibiles sunt et corruptibiles, ergo mathematice sciencie sunt nobiliores hac sciencia.</p>
-                <p>Ad oppositum, substantia nobilior est quolibet accidente, sicut uult <ref> <name>Auerroys</name> in principio <title>De anima</title></ref>. Set mathematice sunt de accidentibus. Sciencia autem de anima est de substantia, sicut de anima et corpore, ergo est nobilior siue de nobilioribus quam mathematice, ergo est nobilior illis. </p>
-                <p>Secunda ratio hec est, omnis sciencia cuius principium sciencia est et fundamentum omnium scienciarum per se et per suas differentias et a qua sumunt omnes sciencie certitudinem est nobilior aliis et quantum ad nobilitatem subiecti et quantum ad modum demonstrandi. Hec est talis, ergo est nobilior quam mathematice sciencie.</p>
-                <p>Solutio. <ref>Quidam</ref> ponunt quod sciencie mathematice sunt nobiliores ista sciencia de anima, et cum dicit <name>Aristoteles</name> quod sciencia de anima est nobilior, loquitur de ipsa per comparationem ad alias solum naturales. Dicendum autem est quod hec sciencia est nobilior quam mathematice sciencie. </p>
-                <p>Ad primam rationem in contrarium dicendum est quod duplex est in sciencia nobilitas: una est a parte subiecti, alia est a parte modi demonstrandi. Nobilitas autem a parte subiecti duplex est, quia una est a parte substantie eius et necessitatis et nature eius, alia est a parte modi abstractionis eius. Primo modo est ista sciencia nobilior a parte subiecti, quia hec sciencia est de substantia, ille autem de accidentibus. Alia causa est quia hec sciencia est de anima, que est principium abstractionis illius sciencie; tercia causa est quia hec sciencia est de anima, que est subiectum cuiuslibet sciencie. Quarta causa est quia est de anima que per suas differentias est principium inuestigationis cuiuslibet sciencie. </p>
-                <p>A parte autem alia mathematice sciencie sunt nobiliores, set hec non est nobilitas simpliciter. A parte autem modi demonstrandi est nobilitas in sciencia dupliciter. Vno modo quia illa sciencia procedit per causas magis abstractas a sensibilibus et proximiores intellectui, et sic mathematice sunt nobiliores a parte modi demonstrandi. Alio modo, quia illa sciencia procedit per uiam que nobis est proximior et nature. Et sic hec sciencia a parte modi demonstrandi est nobilior quam ille, quia obiecta et operationes anime que sunt proximiora nobis et in omni sciencia sunt uia demonstrandi, quia per obiecta deuenimus in scienciam et dirigimur, que determinantur in hac sciencia, et procedit hec per illa.</p>
-                <p><supplied>q6.1.1.3</supplied> Tercio queritur circa hoc de comparatione huius sciencie ad naturalem a parte nobilitatis ut ad scienciam libri physicorum. Et uidetur quod sciencia physicorum sit nobilior et prior sciencia de anima, <cb ed="#K" n="54va"/>quia sciencia est nobilior et prior que est de magis uniuersalibus et prioribus. Set sciencia physicorum est huiusmodi, ergo est prior quam sciencia de anima, sicut ergo metaphysica est prior omnibus scienciis que sunt de parte, quia est de omnibus. Ita sciencia physicorum prior est ista. Minor patet quia sciencia physicorum est de corpore non contracto, scilicet de corpore mobili simpliciter et communiter sumpto.</p> 
-                <p>Secunda ratio hec est, sicut dicit <name>Aristoteles</name> in <title>Metaphysica</title>, illa sciencia est prior que non se habet ex appositione. Set sciencia physicorum non se habet ex additione. Sciencia autem ista se habet ex additione ad illam, quia addit animatum supra corpus, ergo sciencia physicorum est prior ista sciencia. Quod autem a parte modi demonstrandi sit prior sic ostenditur, quia illa sciencia est prior et nobilior a parte demonstrationis cuius principia supponuntur in alia sciencia et influit supra eam. Set sciencia physicorum est huiusmodi respectu sciencie de anima, quia sciencia de anima supponit ab ea corpus et motum, ergo sciencia physicorum a parte demonstrationis est prior quam sciencia de anima.</p> 
-                <p>Ad oppositum est hoc quod dicit <ref><name>Aristoteles </name>in principio <title>De anima</title></ref>. </p>
-                <p>Secunda ratio hec est, illud subiectum sciencie est nobilius quod est completissimum in genere uniuersali, et propter hoc facta sunt ea que facta sunt in uniuerso. Set homo est huiusmodi et anima rationalis, ergo homo est nobilius subiectum cuiuslibet sciencie, ergo sciencia de homine uel de anima rationali est nobilior qualibet sciencia physicorum. Minor patet, quia, sicut dicit <ref>philosophus</ref>, elementa sunt propter mixtum, mixtum propter uegetabile, uegetabile propter sensibile, sensibile propter rationale, et in hoc est status. </p>
-                <p>Solutio. Ad hoc dicendum est quod nobilitas in sciencia est dupliciter, uno modo a parte subiecti, alio modo a parte demonstrationis, et prioritas similiter. Prima duplex est: quedam enim est prioritas et subiecti nobilitas in uia generationis et incomplectionis, et sic corpus simpliciter est ante corpus animatum. Est autem alia que est in uia perfectionis et completionis et nobilitatis. Et sic corpus animatum prius est et nobilius quam corpus simpliciter, quia ad ipsum ordinantur omnia corpora. Primo modo est a parte subiecti sciencia physicorum prior ista, secundo modo, scilicet, a parte completionis et perfectionis et cognitionis est ista sciencia prior a parte subiecti.</p>
-                <p>A parte autem modi demonstrandi dicendum quod hec est prior illa, quamuis enim hec supponat aliqua principia ab illa, tamen modus demonstrandi in ista est certior quam in illa. Et sic ista simpliciter precedit illam. Illa autem secundum quid est prior ista et nobilior et non simpliciter. </p>
-                <p><supplied>q6.1.1.4</supplied> Quarto queritur circa hoc de comparatione huius sciencie a parte nobilitatis ad scienciam celi et mundi. Et uidetur quod sciencia celi et mundi sit nobilior. Omnis sciencia de incorruptibili est nobilior illa que est de corruptibili. Sciencia celi et mundi est de incorruptibili, quia est de corpore celesti, quod est incorruptibile et ingenerabile. Sciencia autem de anima est de corpore animato, quod est generabile et corruptibile, ergo sciencia celi et mundi est nobilior ista.</p>
-                <p>Secunda ratio hec est, corpora superiora uiuunt nobiliori uita quam corpora inferiora, ergo sunt nobiliora quam inferiora corpora. Ergo sunt nobiliora quam corpus animatum de quo determinatur in sciencia de anima. In libro autem <title>De celo et mundo</title> de corporibus superioribus, ergo illa sciencia<cb ed="#K" n="54vb"/> est prior que est de celo et mundo quam sciencia de anima.</p>
-                <p>Tercia ratio hec est, dupliciter est mundus, scilicet mundus maior qui est uniuersitas corporum omnia comprehendens, et mundus minor qui est corpus animatum. Maior autem mundus nobilior est quam minor, set in sciencia celi et mundi determinatur de maiori mundo; in sciencia autem ista de minori, scilicet de corpore animato. Ergo sciencia celi et mundi est nobilior et prior quam sciencia de anima. </p>
-               <p> Quarta ratio hec est, ille sciencie sunt nobilissime que sunt de rebus in quibus consistit summa cognitio nature. Set summa cognitio nature consistit in corporibus et in passionibus eorum, et in eis que determinantur in sciencia celi et mundi, sicut testatur <ref><name>Aristoteles</name> in principio illius libri</ref>. Ergo sciencia celi et mundi nobilior est ista sciencia.</p> 
-                <p>Ad oppositum est illud quod testatur <ref><name>Aristoteles</name> in libro <title>De anima</title></ref>, scilicet quod hec sciencia nobilior est secundum utrumque modum omnibus aliis. </p>
-                <p>Secunda ratio hec est, sicut se habent subiecta ita se habent sciencie, set omnes res naturales corporales ordinantur ad corpus animatum, sicut uult <name>Auerroes</name>, ergo omnes sciencie sunt propter scienciam de corpore animato, ergo ad istam alie ordinantur. Omnis autem talis est nobilior, ergo ista sciencia est nobilior quam sciencia celi et mundi.</p>
-                <p>Solutio. Dicendum est quod hec sciencia est certior sciencia celi et mundi quantum ad modum demonstrandi, quia per certiorem modum procedit. A parte autem subiecti est nobilitas multiplex: uno modo quia subiectum illud est incorruptibilius, et sic subiectum sciencie celi et mundi nobilius est, quia est incorruptibilius, quia est de corpore celesti, quod est incorruptibile. Alio autem modo dicitur subiectum nobilius quia completius est finaliter et ad ipsum fit status in natura, et sic homo nobilius est subiectum, et sua sciencia est nobilior que est sciencia de anima. Tercio modo quia illud subiectum habet nobiliorem perfectionem, et sic corpus humanum uel animatum nobilius est quolibet corpore. Quarto modo quia ad finem nobiliorem ordinatur et secundum finem uicinius ordinatur ad primum, et sic corpus humanum et anima sua nobilius est. Primo ergo modo sciencia celi et mundi est nobilior ista a parte subiecti. Aliis autem tribus modis sciencia de anima est nobilior et prior illa a parte subiecti. </p>
-                <p><supplied>q6.1.1.5</supplied> Quinto queritur circa hoc, de comparatione huius sciencie ad scienciam moralem a parte nobilitatis. Et uidetur quod moralis sit nobilior: omnis sciencia que nobiliori unit nos nobilior est sciencia. Moralis est huiusmodi, quia unit nos creatori, quia docet nos qualiter habebimus uirtutes per quas unimus creatori, ergo sciencia moralis est nobilior quam sciencia de anima.</p>
-                <p>Secunda ratio hec est, habetur in <title>Physicis</title> quod dignum est unumquodque a fine denominari. Qui enim aufert finem aufert bonum, sicut dicit <name>Boetius</name>, ergo sciencia que nos ordinat ad finem nobiliorem nobilior est; sciencia autem moralis est huiusmodi, quia unit nos creatori et uite eterne, sicut dicit <name>Algazel</name>, ergo sciencia moralis est nobilior quam sciencia de anima.</p>
-                <p> Tercia ratio hec est, ordo attenditur in perfectionibus anime, et secundum perfectiones suas unitur creatori que sunt sciencie et uirtutes, set in anima sciencia precedit<cb ed="#K" n="55ra"/> et uirtus sequitur, et est ultimum complementum anime per quod unitur creatori, ergo, cum ultimum sit complementum nobilius, reliquus uirtus erit nobilius complementum ipsius anime et nobilius anima, quia ultimum complementum rei nobilius est quam res cuius est complementum, ergo sciencia de uirtute est nobilior quam sciencia de anima.</p> 
-                <p>Ad oppositum sic, substantia nobilior est operibus elicitis a substantia, set sciencia ista est de substantia anime. Sciencia autem moralis est de operibus anime, que ab anima egrediuntur ut de uirtutibus et operationibus nostris, ergo sciencia ista de anima nobilior est quam sciencia moralis. </p>
-                <p>Secunda ratio hec est, quedam res egrediuntur in esse preter opus nostrum et de talibus est sciencia speculatiua, sicut dicit<name>Auicenna</name>. Sunt autem res que exeunt in esse per opus nostrum, et de talibus sunt sciencie practice uel morales. Res autem que non sunt ab opere nostro sunt nobiliores et priores quam res que sunt ab opere nostro, ergo cum sciencia de anima sit de rebus que non sunt ab opere nostro, sciencia autem moralis sit de rebus que sunt ab opere nostro, uidetur quod sciencia de anima sit nobilior quam sciencia moralis. Quod autem res que sunt ab opere nostro sunt posteriores patet, quia nos sumus ultimum in natura.</p>
-                <p>Solutio. Dicendum est quod nobilitas in sciencia est dupliciter: uno modo a parte subiecti, alio modo a parte modi procedendi. A parte autem modi procedendi sciencia de anima est nobilior quam sciencia moralis, quia procedit uia necessaria et perfectissima. Moralis autem procedit typo et figuraliter, quia est de operationibus nostris. In subiecto autem dupliciter est nobilitas: uno modo quia prius est et plus participat naturam essendi et causalitatem, et sic subiectum sciencie de anima prius est quam uirtus, que est subiectum moralis, et nobilius, quia anima est causa uirtutum, et sic sciencia de anima est nobilior illa. Secundo modo dicitur subiectum nobilius, quia ordinatur ad meliorem finem, et sic uirtus nobilius est et sciencia de uirtute hoc modo nobilior est. Item notandum est quod duplex est comparatio, scilicet sciencie ad scienciam et subiecti ad subiectum in nobilitate. Sciencia autem est nobilior alia tripliciter, aut quia est de nobiliori aut quia nobiliori modo tradita aut quia ad meliorem finem ordinata. Primis duobus modis est sciencia de anima nobilior. Tercio autem modo est sciencia moralis nobilior. Comparando autem subiectum ad subictum sic sciencia de anima est nobilior, quia suum subiectum est nobilius, et sic simpliciter loquendo sciencia de anima nobilior est illa. </p>
-                <p>Ad obiectum in contrarium dicendum est quod ordo respectu melioris finis uel nobilioris tria conspicit, scilicet ordinans et quod ordinatur et medium siue dispositionem ordinandi. Ordinans ad meliorem finem est primum, quia est dans illum. Illud autem quod ordinatur est anima. Medium autem uel dispositio ordinandi est uirtus que dispositio non est nobilior subiecto nec agente, quia causatur ab illis ab uno, sicut excitante, scilicet a Deo ab alio sicut operante, scilicet ab anima. </p>
-                <p><supplied>q6.1.1.6</supplied> Sexto queritur circa hoc, que sciencia sic nobilior aut ista sciencia aut sermocinalis sciencia que est logica. Et uidetur quod logica, quia omnis sciencia cuius potencia et uirtus ad plura se extendit est nobilior. Set sciencia sermocinalis est huiusmodi, ergo est <cb ed="#K" n="55rb"/>nobilior ista sciencia. Minor patet quia sermocinalis sciencia dirigit omnes sciencias. </p>
-                <p>Secunda ratio hec est, illa sciencia est nobilior et prior que est de communioribus. Set logica est huiusmodi, ergo est nobilior ista. Minor patet quia logica est generis indeterminati et est de onmibus, sicut uult <name>Aristoteles</name>.</p>
-                <p>Tercia ratio hec est, omnes sciencie sunt ad hoc ut dirigant et perficiant intellectum, set sermocinales sciencie que sunt que dirigunt intellectum et perficiunt primo et inmediate et sine directione ipsarum non habentur alie sciencie, ergo erunt priores et ita nobiliores. Logica ergo est prior ista sciencia. </p>
-                <p>Ad oppositum sic, omnis sciencia de rebus nobilior est illa que est de signis, quia res nobilior est signo. Set sciencia de anima est de rebus; sciencie uero sermocinales, ut logica, sunt de signis, ergo sciencia de anima est nobilior quam logica. </p>
-                <p>Secunda ratio hec est, omnis sciencia propter quam est alia et cui alia famulatur est nobilior et alia uilior: hec sunt uerba <name>Aristotelis</name> in <title>Metaphysica</title>. Set sciencia de anima est huiusmodi respectu sciencie sermocinalis, quia sciencia sermocinalis est propter ipsam et propter naturales, quia sciencie sermocinales non sunt propter se, set propter alias, ergo sciencia de anima est nobilior quam sermocinalis uel logica. </p>
-                <p>Solutio. Dicendum est quod ista sciencia simpliciter est nobilior logica uel sermocinali. </p>
-                <p>Ad rationes autem in contrarium dicendum est quod sciencia dicitur esse nobilior alia multipliciter: Vno modo quia est de subiecto nobiliori et magis est perfectiua intellectus et magis est status ad ipsam, et hec est simpliciter nobilitas. Et hoc modo sciencia de anima est nobilior illis, scilicet sermocinalibus et aliis, ut uisum est. Secundo modo dicitur sciencia nobilior alia in uia dispositionis et inquisitionis sciencie, quia, scilicet disponit intellectum ad generationem sciencie et adquisitionem exhibendo ei modum cognoscendi et operandi circa substantiam. Et sic logica est nobilior sciencia uel sermocinalis. Set hec non est nobilitas simpliciter set diminuta respectu prime, et ideo sciencia de anima est simpliciter nobilior quam logica uel sermocinalis sciencia. Illa autem est nobilior secundum quid solum. </p>
-                <p><supplied>q6.1.2</supplied> Circa secundum principale quesitum sic proceditur et queritur de certitudine huius sciencie utrum, scilicet certissimo modo procedat. Et uidetur quod non, quia substantie spirituales non cadunt in sensum per se. Set anima est substantia spiritualis, ergo per se non cadit in sensum. Set omnis nostra cognitio incipit a sensu, ergo anima per se non cadit in scienciam nec in cognitionem nostram, nec est certa cognitio nostra de substantia spirituali. Ergo cum anima sit substantia spiritualis, nostra cognitio non est certa de anima. Sciencia ergo de anima non est certior aliis, nec modo certissimo procedit.</p> 
-                <p>Secunda ratio hec est, operationes anime sunt posteriores et applicatio potenciarum ad obiecta. Ergo cum hec sciencia de anima procedat per obiecta ad potencias et per hec ad anime substantiam que est prior, procedit per posteriora et non per causas. Nulla autem talis sciencia est certissima nec modo certissimo procedit, ergo sciencia de anima certissimo non procedit. </p>
-                <p>Ad oppositum, omnis inuestigatio sciencie est habens initium<cb ed="#K" n="55va"/> ab obiectis anime, sicut habetur in principio <title>Metaphysice</title>. Ibi enim dicitur quod inuestigatio sciencie procedit per operationes sensibiles. Illa ergo sciencia que procedit per obiecta anime maximam habet certitudinem. Set sciencia de anima est huiusmodi, ergo habet maximam certitudinem, modo ergo certissimo procedit. </p>
-                <p>Secunda ratio hec est, illa sciencia est certissima que procedit per illa que proximiora sunt uirtutibus anime, et item que secundum gradus procedit ab obiectis uirtutum inferiorum usque ad obiecta uirtutum superiorum. Talis enim sciencia procedit per ea que nota sunt quantum ad superiores uirtutes et inferiores. Talis autem est sciencia de anima, ergo sciencia de ipsa anima est certissima et modo certissimo procedit.</p>
-               <p> Tercia ratio hec est, illa sciencia est certissima in qua idem est subiectum de quo est sciencia et subiectum quod scienciam cognoscit et in qua sunt eadem ea que cognoscuntur in illa et illa per que fiunt cognitiones in illa. Sciencia de anima est huiusmodi, ergo est certissima. Minor patet. Subiectum enim est anima, cognoscens est anima, item operationes anime et potencie et obiecta sunt ea que cognoscuntur et per illa fit cognitio in hac sciencia et in qualibet, et sic se habent omnia in ista sciencia in proximitate. Omnis autem talis sciencia est certissima, ergo sciencia de anima est certissima inter omnes sciencias.</p>
-                <p>Solutio. Dicendum est quod sciencia ista certisssima uia procedit, quia procedit per obiecta preuia in qualibet sciencia que in uia sciencie adquisite sunt notiora. Secunda causa est quia est de anima et de uirtutibus eius que in qualibet sciencia est causa cuiuslibet certitudinis et principium. Tercia causa propter propinquitatem rerum que cognoscuntur ad animam cognoscentem. Omnia enim que determinantur in hac sciencia proximiora sunt anime cognoscenti quam in alia sciencia, et ideo certissima est.</p>
-                <p>Ad primam rationem in contrarium dicendum est quod substantie spirituales dupliciter considerantur, uel a parte substantie et sic non cadunt in cognitionem primo, et non est defectus a parte ipsarum rerum, set potius a parte nostra uel possunt considerari a parte operationum suarum, et sic cadunt in cognitionem et sic anima potest cadere in scienciam nostram.</p>
-                <p>Ad secundum dicendum est quod prius est dupliciter, scilicet prius tempore et prius natura. Prius autem natura dupliciter est: uno modo est prius natura in uia generationis et incompletionis; secundo modo est prius in uia diffinitionis et cognitionis et completionis. Primo modo prioritatis nature sunt potencie priores; secundo modo sunt obiecta priora et actus. Et sic ista sciencia procedit a prioribus secundum diffinitionem et completionem et cognitionem, et propter hoc est certissima. </p>
-                <p><supplied>q6.1.3.1</supplied> Circa tercium queritur de modis nobilitatis quos tangit <name>Aristoteles</name> in sciencia <title>De anima</title>: sicut enim est nobilitas a parte subiecti et a parte modi demonstrandi ita est nobilitas a parte finis. Hac enim nobilitate est moralis sciencia nobilior. Item sicut dicit<name> Boetius</name>, qui aufert finem aufert bonum, set omnis <cb ed="#K" n="55vb"/>nobilitas est a parte bonitatis, ergo nobilitas est a parte finis. Queritur ergo quare non tangit huius nobilitatem in littera. </p>
-               <p> Solutio. Dicendum est quod nobilitas finis non debet attendi in scienciis speculatiuis set in scienciis practicis et actiuis, et quia hec sciencia de anima est especulatiua, ideo non tangit in ipsa nobilitatem a parte finis.</p> 
-                <p><supplied>q6.1.3.2</supplied> Secundo queritur circa hoc, cum cause diuidantur et nobilitas sic et distinguatur a parte causarum cum tangat nobilitatem a parte cause materialis, scilicet subiecti nobilitatem, queritur propter quid non tangit nobilitatem a parte cause efficientis. </p>
-                <p>Solutio. Dicendum est quod causa efficiens duplex est, quedam interior et quedam exterior. Interior in sciencia est medium scienciam faciens, et a parte illius efficientis est nobilitas in sciencia, set illa nobilitas reducitur ad certitudinem modi demonstrationis, et ideo hanc non tangit. Causa autem efficiens extra est, sicut actor tradens scienciam, set hec causa est duplex, quia quedam operatur scienciam secundum exigentiam rerum, et si excedit exigentiam rerum, peccat, et talis non ponit nobilitatem in sciencia nisi phantasticam, ut dicatur hoc fecit <name>Aristoteles</name>. Est autem alia que secundum sui exigentiam operatur et influit bonitatem ut efficiens supra scienciam legis diuine, que denominatur nobilis ab illo, scilicet a Deo quia diuina appellatur. Efficiens autem huius sciencie non est tale, set efficiens est quod secundum exigentiam rerum tradidit scienciam. Et ideo in hac non est nobilitas a parte ipsius, et ideo non tangit nobilitatem a parte cause efficientis.</p>
-                <p><supplied>q6.1.3.3</supplied> Tercio queritur circa hoc, propter quid non ponit nobilitatem a parte passionis sicut a parte subiecti et medii uel modi demonstrationis. </p>
-                <p>Solutio. Dicendum est quod nobilitas passionis reducitur ad nobilitatem subiecti et cause, quia passio elicitur a principiis subiecti et causis, et ideo cum tangat nobilitatem subiecti non debet tangere illam.</p>
+                <p>
+                  Sexta questio est, ante quam aggrediamur disputare de anima secundum sui substantiam queruntur sex de scientia de anima.
+                </p>
+                <p>
+                  Primum est de nobilitate et utilitate scientie de anima secundum quam superat alias scientias.
+                   Secundum est de modo procedendi in illa et in aliis et de difficultate que incidit circa modum procedendi diffinitiue.
+                   Tercium est de questionibus incidentibus circa potencias anime.
+                   Quartum est de proprietatibus et passionibus quas considerat phisicus.
+                   Quintum est de diuersitate modi diffiniendi physici ad logicum et ad alios philosophos.
+                   Sextum est de diuisione negotiorum philosophie quam tangit <name>Aristoteles</name> in principio <title>De anima</title>
+                   dicens quod manifestum est de rebus
+                   <pb ed="#K" n="53-r"/>
+                   <pb ed="#K" n="b"/>coniunctis motui et materie et cetera.
+                 </p>
+                <p><supplied>q6.1.1</supplied> Circa primum incidunt sex querenda, primum est de comparatione huius ad alias scientias et maxime
+                 ad mathematicam et a parte excellentie sue nobilitatis.
+                Secundum est de modo certitudinis eius.
+                 Tercium est de modis nobilitatis scientie quos tangit <name>Aristoteles</name> quod unus est a parte demonstrationis, alius est a parte subiecti.
+                 Quartum est quomodo scientia de anima affert iuuamentum ad omnem scientiam.
+                 Quintum est quo modo anima sit principium animalium sicut ponit <name>Aristoteles</name> in principio.
+                 Sextum est de bonitate et utilitate scientie eius et honore et reuerentia.
+               </p>
+                <p><supplied>q6.1.1.1</supplied> Circa primum sic proceditur et queritur de comparatione scientie de anima ad metaphisicam que sit prior inter ipsas et nobilior.
+                Et uidetur quod metaphisica sit prior et nobilior quia scientia dicitur nobilior et prior propter nobilitatem et prioritatem subiecti.
+                Set subiectum metaphisice est nobilius et prius quam subiectum scientie de anima, ergo metaphisica est nobilior et prior quam scientia de anima.
+                Maior patet; minor patet sic: subiectum enim superius nobilius est et prius, set subiectum metaphisice est superius quam subiectum scientie de anima,
+                ergo est nobilius ipso et prius.
+                Quod autem sit superius patet, quoniam subiectum metaphisice est ens in quantum ens.
+                Ens autem superius est ad omnia, sicut dicitur in libro <title>De causis</title>, <quote>prima rerum creatarum est esse quia esse latius est et communius et extenditur
+                ultra substantias corporeas et incorporeas et est supra illas</quote>.
+                 Et hoc confirmatur per <ref><name>Aristotelem</name> in libro <title>Perihermeneias</title></ref>, dicentem quod uniuersale est nobile et honorabile
+                        <bibl>Aristoteles, Perihermenias</bibl>, ergo cum ens sit uniuersalius quam anima et honorabilius, et ita prius.
+                       </p>
+                <p>
+                  Secunda ratio hec est, subiectum metaphisice est triplex uel duplex secundum diuersos philosophos.
+                 Vno modo est subiectum metaphisice illud principium a quo fluunt omnia, et sic Deus est subiectum in metaphisica, quia ab ipso fluunt omnia de quibus est metaphisica.
+                 Secundum est illud in quo radicantur omnia in illa scientia et sic substantia est subiectum subiecta est subiectum in metaphisica.
+                 Tercium est subiectum illud quo est comune anologum ad omnia in illa scientia, et sic ens est subiectum in metaphisica, set primum subiectum est nobilius et prius quam anima et superius quam anima.
+                 Secundum autem subiectum et tercium similiter prius est et nobilius quam anima et superius, ergo quodlibet subiectum metaphisice est prius et nobilius quam anima.
+                Scientia ergo metaphisica prior est et nobilior quam scientia de anima.
+              </p>
+                <p>
+                  Tercia ratio hec est, scientie distinguuntur secundum rerum distinctionem et habent nobilitatem et ordinem a parte rerum,
+                  set res superiores sunt nobiliores et priores quam res inferiores.
+                  Scientia autem metaphisice considerat res superiores sicut substantias separatas.
+                  Hec autem scientia de anima cum sit naturalis considerat res naturales et coniunctas et ita inferiores, ergo scientia metaphisice est de superioribus et nobilioribus quam scientia de anima,
+                  ergo est nobilior et prior quam scientia de anima.
+                </p>
+                <p>
+                  Quarta ratio hec est, illa scientia est nobilior que propter sui nobilitatem non est possibile ab homine attingi,
+                  set scientia metaphisice est huiusmodi,sicut uult<name>Aristoteles</name>, cum natura humana sit maxime subdita seruituti.
+                  Dicit etiam ibi <name>Aristoteles</name> quod natura humana illa habere non potest, quia natura humana multipliciter est ancilla,
+                  et cum Deus sit liber so
+                  <pb ed="#K" n="53-v"/>
+                  <cb ed="#K" n="a"/>lus, Deus habet hoc senium, id est illam scientiam senem, sicut dicit <name>Symonides</name>.
+                  Ergo a parte subiecti uidetur quod metaphisica sit nobilior et prior quam scientia de anima.
+                </p>
+              <p>
+                Quod autem a parte demonstrationis et modi demonstrandi sit metaphisica nobilior et prior quam ista scientia sic ostenditur:
+                omnis scientia que est regulans principia omnium aliarum et que per suam potenciam super omnes influit excellit omnes in modo procedendi et in nobilitate demonstrationis.
+                Metaphisica est huiusmodi, sicut uult<name>Aristoteles</name>, ergo excellit scientiam de anima et omnes alias in nobilitate demonstrationis.
+              </p>
+                <p>
+                  Quinta ratio hec est, sicut habetur ab <name>Aristotele</name> in <title>Metaphisica</title>,
+                  illa scientia est certior omni scientia que procedit per causas maxime uniuersales et que considerat illa que maxime sunt remota a sensu et proxima intellectui et nature,
+                  et illa sunt uniuersalia. Metaphisica est huiusmodi, ergo excellit scientiam de anima et a parte nobilitatis et prioritatis subiecti et modi demonstrandi.
+                </p>
+                <p>
+                  Ad oppositum sunt rationes, prima hec est, illa scientia est nobilior et prior que est de principio materiali uel naturali et effectiuo cuiuslibet scientie.
+                  Scientia de anima est huiusmodi, ergo est prior et nobilior omni scientia et quam metaphisica.
+                  Minor patet, quia scientia de anima est de anima.
+                  Anima autem est materiale subiectum cuiuslibet scientie, quia quelibet scientia est in anima et similiter effectiua,
+                  quia quelibet scientia est ab anima, quia ipsam efficit.
+                </p>
+                <p>
+                  Secunda ratio hec est, scientia metaphisica procedit secundum modum abstractionis et separationis et circa res abstractas et separatas.
+                  Omnis autem abstractio est ab anima et a potenciis eius, ergo non potest cognosci modus abstractionis nisi cognoscatur anima et eius differentie et potencie.
+                  Anima ergo prior est scientia metaphisica, ergo scientia de anima prior est illa et nobilior.
+                </p>
+                <p>
+                  Tercia ratio hec est, cognitio omnium rerum est per cognitionem status humani et per cognitionem anime et corporis, quia anima est speculum in quo omnia relucent.
+                  Item corpus humanum est illud de cuius participatione sunt omnia corpora.
+                  Et ita anima secundum cognitionem participat omnia et corpus secundum substantiam participat omnia.
+                  Item homo omnia inuestigat per differentias anime.
+                  Set illa natura est que est omnia participans et que omnia requirit secundum participationem prior est.
+                  Hoc est homo, ergo homo est prius subiecto cuiuslibet scientie, ergo de homine scientia prior est qualibet scientia.
+                  Set scientia de anima est de homine et de eius anima, ergo scientia de anima est prior omni scientia et nobilior et ita prior metaphisica.
+                </p>
+                <p>
+                  Quarta ratio hec est, omnis scientia est ab anima et propter anima, quia omnis scientia est ad hoc ut anima perficiatur,
+                  et maxime in cognoscendo se ipsam, quia ad hoc ordinantur omnes scientie, ergo illa scientia per quam maxime habetur cognitio anime sui ipsius est prior et nobilior inter omnes.
+                  Set scientia de anima est huiusmodi, ergo scientia de anima est nobilior et prior omni scientia et maxime metaphisica.
+                  Et sic uidetur quod a parte subiecti scientia de anima sit nobilior et prior.
+                </p>
+                <p>
+                  Quod autem a parte modi procedendi sit prior et nobilior hoc apparet similiter: omne enim principium certitudinis est a parte aspectus anime su
+                  <pb ed="#K" n="53-v">
+                    <cb ed="#K" n="b"/>pra res secundum quod anima inuestigat.
+                  Set principium huiusmodi inuestigationis procedit per potencias anime, ergo a scientia illa que determinat potencias anime debet accipi certitudo in quelibet scientia.
+                  Set scientia de anima est huiusmodi, ergo ab illa debet accipi quelibet certitudo in scientia.
+                  Set illa scientia a qua accipitur certitudo in aliis est nobilior et prior omnibus aliis quantum ad modum demonstrandi et maxime quam metaphisica.
+                </p>
+                <p>
+                  Solutio. Dicendum quod quidam dicunt quod scientia de anima nobilior est metaphisica, secundum utrumque modum coniunctim,
+                  scilicet quantum ad nobilitatem subiecti et certitudinem demonstrationis coniunctim.
+                  Set secundum alterum modum est metaphisica nobilior, scilicet quantum ad subiecti nobilitatem et non quantum ad certitudinem demonstrationis,
+                  quia scientia de anima procedit per causas manifestiores.
+                Scientia autem metaphisice procedit per effectus cum procedit de substantiis separatis, que multum sunt occulte, et cause similiter.
+                Et ideo scientia de anima completur utroque modo, et propter hoc est nobilior metaphisica.
+              </p>
+                <p>
+                  Alia est positio quam uidetur tangere <ref><name>commentator</name></ref>, scilicet quod metaphisica est nobilior simpliciter quam scientia de anima, sicut ostendunt rationes:
+                  quod autem ponit <name>Aristoteles</name>, hanc scientiam esse nobiliorem et priorem, hoc non est per comparationem ad diuinam,
+                  que est metaphisica, set per comparationem ad naturales que sunt sui generis. Tercio uero modo dicendum quod in scientia est nobilitas dupliciter:
+                  uno modo a parte subiecti, alio modo a parte modi demonstrandi. A parte autem subiecti sunt multe nobilitates:
+                  Vna est ratione prioritatis et communitatis subiecti, et sic ens prius est et nobilius, quia extenditur supra omnia.
+                  Secunda est, quia subiectum est principium omnium que in qualibet scientia determinantur, et sic subiectum metaphisice quod est Deus prius et nobilius.
+                  Tercia est a parte status et supereminentie subiecti secundum quod dicimus, quod substantie separate sunt nobiliores quam coniuncte.
+                  Quarta est a parte principiorum radicatorum in subiecto scientie per quod possunt omnes scientie regulari et probari, et sic nobilius est subiectum metaphisice,
+                  quod est ens quod est substantia, quia in eo omnia principia radicantur omnium scientiarum, et hiis modis nobilitatis est prioritatis subiecti metaphisica nobilior est
+                  et prior a parte subiecti quam scientia de anima.
+                  Quinta autem nobilitas in scientia a parte subiecti est quia subiectum in illa scientia est sustinens omnem scientiam sine quo nulla scientia potest esse,
+                  sicut anima est subiectum omni scientie et sine qua nulla scientia potest esse.
+                  Sexta est quia subiectum illius scientie est principium abstractionis cuiuslibet scientie et cognitionis rerum, sicut anima est principium cuiuslibet abstractionis.
+                  Omnis autem scientia habetur per abstractionem, et quantum ad hoc est anima principium cuiuslibet scientie.
+                  Et hiis duobus modis hec scientia de anima, et suum subiectum, precedit subiectum metaphisice, et nobilius est eo non in se,
+                  id est non a parte substantie subiecti metaphisice set a parte qua subiectum metaphisice scitum est et prout cadit in scientia quia non habetur cognitio de ipso sine anima.
+                  Septima nobilitas a parte subiecti est in scientia alia, quia omnis scientia alia ordinatur ad subiectum illius scientie,
+                  et sic iterum scientia de anima nobilior est, et sic est anima nobilissimum subiectum, quia propter animam est omnis scientia et ad ipsam
+                  <pb ed="#K" n="54-r"/>
+                  <cb ed="#K" n="a"/>ordinatur.
+                  Octaua nobilitas a parte subiecti in scientia est quod suum subiectum est principium distinctiuum cuiuslibet scientie secundum cuius partes et potencias omnes scientie distinguuntur
+                  et cuius partes et potencie sunt uie in omnem scientiam.
+                  Et sic item scientia de anima habet nobilius subiectum quam metaphisica.
+                </p>
+                <p>
+                  Nobilitas autem a parte modi demonstrandi multiplex est: uno modo est scientia una nobilior quam altera quantum ad modum demonstrandi,
+                  quia procedit per causas superiores et priores et notiores quoad naturam.
+                  Secundo modo quia scientia illa est regula omnium aliarum et dirigens omnes alias et influens super omnes.
+                  Et hiis duobus modis est metaphisica nobilior et prior quantum ad modum demonstrandi quam scientia de anima.
+                  Tercio modo est nobilitas in scientia a parte modi demonstrandi, quia illa scientia est procedens per ea que sunt priora quoad naturam et notiora nobis, et sic scientia de anima nobilior est.
+                  Procedit enim per obiecta que priora sunt et certiora quoad naturam perfectionis et diffinitionis, quia hoc modo actus et obiecta precedunt potencias.
+                  Metaphisica autem quantum ad substantias separatas non procedit per causas set per effectus, quia cause ille non possunt capi ab intellectu humano, set ipsum excellunt.
+                  Quarto modo est nobilitas in scientia a parte modi demonstrandi, quia illa scientia procedit de rebus que sunt inmediatiores anime cognoscenti et in qua scientia idem est subiectum
+                  et illud quod debet cognoscere subiectum et passiones eius. Et sic scientia de anima nobilior et certior et prior.
+                  Quinta est quia illa scientia est de illis que sunt principium cuiuslibet certitudinis et sine quibus non est processus in certitudine.
+                  Hec autem sunt differentie anime et obiecta, et propter hoc isto modo est hec scientia nobilior a parte modi demonstrandi quam metaphisica.
+                 </p>
+                <p>In statu scientie ergo scientia metaphisice est nobilior et prior; in statu autem alio de quo dictum est, est scientia de anima nobilior.
+                </p>
+                <p>
+                  [q6.1.1.2] Secundo queritur circa hoc de comparatione huius scientie ad mathematicas scientias secundum nobilitatem,
+                   et uidetur quod mathematice scientie sint nobiliores quam ista scientia, quia tria sunt negotia.
+                  Unum est de separatis sicut metaphisica; alterum est de abstractis quodam modo et quodam modo coniunctis.
+                  Tercium est de omnino coniunctis. Mathematice sunt de abstractis quodam modo.
+                  Naturalis autem scientia et scientia de anima sunt de coniunctis. Set quanto res sunt separabiliores a motu et a
+                  materia tanto sunt nobiliores in se et in statu scientie.
+                 Set res de quibus sunt matematice sunt remotiores a materia quam res de quibus est ista scientia, cum sit naturalis,
+                ergo sunt nobiliores quam ea de quibus est ista scientia. Ergo mathematice sunt nobiliores quam ista scientia.
+               </p>
+                <p>
+                  Secunda ratio est, dicit <name>Auicenna</name> quod quedam sunt forme quas cum intellectus apprehendit nec ante nec post eis appropriat materiam, ut forme mathematice sunt.
+                  Alie quas cum inuenit intellectus non appropriat eis statim materiam set secundum successionem et maximam diligentiam, ut sunt accidentia communia ut albedo.
+                  Alie forme quibus statim appropriat materiam ut forme naturales.
+                  Forme ergo mathematice sunt communiores et altiores secundum naturam et intellectum omnibus aliis formis, ergo et nobiliores.
+                 Ergo sunt nobiliores
+                 <pb ed="#K" n="54-r"/>
+                 <cb ed="#K" n="b"/>quam forma uel anima  de qua determinatur in scientia de anima. Scientie ergo mathematice sunt nobiliores quam scientia de anima.
+                </p>
+                <p>
+                  Tercia ratio hec est, dicit <ref><name>Boetius</name> in prohemio <title>Arismetice</title></ref> quod scientia est eorum que sunt suique impermutabilem sortiuntur substantiam comprehensio ueritatis
+                  et iste sunt forme mathematice que de se incorruptibiles sunt.
+                 Cumtactu uero corporis sunt corrruptibiles, ille ergo forme sunt nobiliores quam forme naturales, que permutabiles sunt.
+                 Ergo mathematice, cum sint de illis, sunt nobiliores quam scientia de anima.
+                 Item ostenditur quod a parte modi demonstrandi sunt mathematice nobiliores quam scientia de anima, quia scientie mathematice procedunt per causas intelligibiles.
+                 Hec autem scientia procedit per obiecta et per operationes exteriores que fallibiles sunt et corruptibiles, ergo mathematice scientie sunt nobiliores hac scientia.
+               </p>
+                <p>
+                  Ad oppositum, substantia nobilior est quolibet accidente, sicut uult <ref> <name>Auerroys</name> in principio <title>De anima</title></ref>.
+                  Set mathematice sunt de accidentibus. Scientia autem de anima est de substantia, sicut de anima et corpore, ergo est nobilior siue de nobilioribus quam mathematice, ergo est nobilior illis.
+                </p>
+                <p>
+                  Secunda ratio hec est, omnis scientia cuius principium scientia est et fundamentum omnium scientiarum per se et per suas differentias et a qua sumunt omnes scientie
+                   certitudinem est nobilior aliis et quantum ad nobilitatem subiecti et quantum ad modum demonstrandi. Hec est talis, ergo est nobilior quam mathematice scientie.
+                 </p>
+                <p>
+                  Solutio. <ref>Quidam</ref> ponunt quod scientie mathematice sunt nobiliores ista scientia de anima, et cum dicit <name>Aristoteles</name> quod scientia de anima est nobilior,
+                  loquitur de ipsa per comparationem ad alias solum naturales.
+                  Dicendum autem est quod hec scientia est nobilior quam mathematice scientie.
+                 </p>
+                <p>
+                  Ad primam rationem in contrarium dicendum est quod duplex est in scientia nobilitas: una est a parte subiecti, alia est a parte modi demonstrandi.
+                  Nobilitas autem a parte subiecti duplex est, quia una est a parte substantie eius et necessitatis et nature eius, alia est a parte modi abstractionis eius.
+                  Primo modo est ista scientia nobilior a parte subiecti, quia hec scientia est de substantia, ille autem de accidentibus.
+                  Alia causa est quia hec scientia est de anima, que est principium abstractionis illius scientie;
+                  tercia causa est quia hec scientia est de anima, que est subiectum cuiuslibet scientie.
+                  Quarta causa est quia est de anima que per suas differentias est principium inuestigationis cuiuslibet scientie.
+                 </p>
+                <p>
+                  A parte autem alia mathematice scientie sunt nobiliores, set hec non est nobilitas simpliciter.
+                  A parte autem modi demonstrandi est nobilitas in scientia dupliciter.
+                  Vno modo quia illa scientia procedit per causas magis abstractas a sensibilibus et proximiores intellectui, et sic mathematice sunt nobiliores a parte modi demonstrandi.
+                  Alio modo, quia illa scientia procedit per uiam que nobis est proximior et nature.
+                  Et sic hec scientia a parte modi demonstrandi est nobilior quam ille, quia obiecta et operationes anime que sunt proximiora nobis et in omni scientia sunt uia demonstrandi,
+                  quia per obiecta deuenimus in scientiam et dirigimur, que determinantur in hac scientia, et procedit hec per illa.
+                </p>
+                <p><supplied>q6.1.1.3</supplied> Tercio queritur circa hoc de comparatione huius scientie ad naturalem a parte nobilitatis ut ad scientiam libri physicorum.
+                 Et uidetur quod scientia physicorum sit nobilior et prior scientia de anima,
+                 <pb ed="#K" n="54-v"/>
+                 <cb ed="#K" n="a"/>quia scientia est nobilior et prior que est de magis uniuersalibus et prioribus.
+                 Set scientia physicorum est huiusmodi, ergo est prior quam scientia de anima, sicut ergo metaphysica est prior omnibus scientiis que sunt de parte,
+                  quia est de omnibus.
+                 Ita scientia physicorum prior est ista.
+                 Minor patet quia scientia physicorum est de corpore non contracto, scilicet de corpore mobili simpliciter et communiter sumpto.
+               </p>
+                <p>
+                  Secunda ratio hec est, sicut dicit <name>Aristoteles</name> in <title>Metaphysica</title>, illa scientia est prior que non se habet ex appositione.
+                  Set scientia physicorum non se habet ex additione.
+                  Scientia autem ista se habet ex additione ad illam, quia addit animatum supra corpus, ergo scientia physicorum est prior ista scientia.
+                  Quod autem a parte modi demonstrandi sit prior sic ostenditur, quia illa scientia est prior et nobilior a parte demonstrationis cuius
+                   principia supponuntur in alia scientia et influit supra eam.
+                  Set scientia physicorum est huiusmodi respectu scientie de anima, quia scientia de anima supponit ab ea corpus et motum,
+                   ergo scientia physicorum a parte demonstrationis est prior quam scientia de anima.
+                </p>
+                <p>Ad oppositum est hoc quod dicit <ref><name>Aristoteles</name>in principio <title>De anima</title></ref>.
+              </p>
+                <p>
+                  Secunda ratio hec est, illud subiectum scientie est nobilius quod est completissimum in genere uniuersali,
+                  et propter hoc facta sunt ea que facta sunt in uniuerso.
+                  Set homo est huiusmodi et anima rationalis, ergo homo est nobilius subiectum cuiuslibet scientie, ergo scientia de homine uel de
+                   anima rationali est nobilior qualibet scientia physicorum.
+                  Minor patet, quia, sicut dicit <name>Philosophus</name>, elementa sunt propter mixtum, mixtum propter uegetabile, uegetabile propter
+                   sensibile, sensibile propter rationale, et in hoc est status.
+                 </p>
+                <p>
+                  Solutio. Ad hoc dicendum est quod nobilitas in scientia est dupliciter, uno modo a parte subiecti, alio modo a parte demonstrationis,
+                   et prioritas similiter.
+                  Prima duplex est: quedam enim est prioritas et subiecti nobilitas in uia generationis et incomplectionis, et sic corpus simpliciter
+                   est ante corpus animatum.
+                  Est autem alia que est in uia perfectionis et completionis et nobilitatis.
+                  Et sic corpus animatum prius est et nobilius quam corpus simpliciter, quia ad ipsum ordinantur omnia corpora.
+                  Primo modo est a parte subiecti scientia physicorum prior ista, secundo modo, scilicet, a parte completionis et perfectionis et
+                   cognitionis est ista scientia prior a parte subiecti.
+                </p>
+                <p>
+                  A parte autem modi demonstrandi dicendum quod hec est prior illa, quamuis enim hec supponat aliqua principia ab illa, tamen modus demonstrandi in ista est certior quam in illa.
+                  Et sic ista simpliciter precedit illam. Illa autem secundum quid est prior ista et nobilior et non simpliciter.
+                 </p>
+                <p><supplied>q6.1.1.4</supplied> Quarto queritur circa hoc de comparatione huius scientie a parte nobilitatis ad scientiam celi et mundi.
+                Et uidetur quod scientia celi et mundi sit nobilior.
+                Omnis scientia de incorruptibili est nobilior illa que est de corruptibili.
+                Scientia celi et mundi est de incorruptibili, quia est de corpore celesti, quod est incorruptibile et ingenerabile.
+                Scientia autem de anima est de corpore animato, quod est generabile et corruptibile, ergo scientia celi et mundi est nobilior ista.
+              </p>
+                <p>
+                  Secunda ratio hec est, corpora superiora uiuunt nobiliori uita quam corpora inferiora, ergo sunt nobiliora quam inferiora corpora.
+                  Ergo sunt nobiliora quam corpus animatum de quo determinatur in scientia de anima.
+                  In libro autem <title>De celo et mundo</title> de corporibus superioribus, ergo illa scientia
+                   <pb ed="#K" n="54-v"/>
+                   <cb ed="#K" n="b"/>est prior que est de celo et mundo quam scientia de anima.
+                </p>
+                <p>
+                  Tercia ratio hec est, dupliciter est mundus, scilicet mundus maior qui est uniuersitas corporum omnia comprehendens,
+                  et mundus minor qui est corpus animatum.
+                  Maior autem mundus nobilior est quam minor, set in scientia celi et mundi determinatur de maiori mundo;
+                  in scientia autem ista de minori, scilicet de corpore animato.
+                  Ergo scientia celi et mundi est nobilior et prior quam scientia de anima.
+                 </p>
+               <p>
+                  Quarta ratio hec est, ille scientie sunt nobilissime que sunt de rebus in quibus consistit summa cognitio nature.
+                  Set summa cognitio nature consistit in corporibus et in passionibus eorum, et in eis que determinantur in scientia celi et mundi,
+                   sicut testatur <ref><name>Aristoteles</name> in principio illius libri</ref>.
+                  Ergo scientia celi et mundi nobilior est ista scientia.
+                </p>
+                <p>
+                  Ad oppositum est illud quod testatur <ref><name>Aristoteles</name> in libro <title>De anima</title></ref>, scilicet quod hec scientia nobilior est secundum utrumque modum omnibus aliis.
+                 </p>
+                <p>
+                  Secunda ratio hec est, sicut se habent subiecta ita se habent scientie, set omnes res naturales corporales ordinantur ad corpus animatum, sicut uult <name>Auerroes</name>,
+                  ergo omnes scientie sunt propter scientiam de corpore animato, ergo ad istam alie ordinantur. Omnis autem talis est nobilior, ergo ista scientia est nobilior quam scientia celi et mundi.
+                </p>
+                <p>
+                  Solutio. Dicendum est quod hec scientia est certior scientia celi et mundi quantum ad modum demonstrandi, quia per certiorem modum procedit.
+                  A parte autem subiecti est nobilitas multiplex: uno modo quia subiectum illud est incorruptibilius, et sic subiectum scientie celi et mundi nobilius est,
+                  quia est incorruptibilius, quia est de corpore celesti, quod est incorruptibile.
+                  Alio autem modo dicitur subiectum nobilius quia completius est finaliter et ad ipsum fit status in natura, et sic homo nobilius est subiectum, et sua scientia est nobilior que est scientia de anima.
+                  Tercio modo quia illud subiectum habet nobiliorem perfectionem, et sic corpus humanum uel animatum nobilius est quolibet corpore.
+                  Quarto modo quia ad finem nobiliorem ordinatur et secundum finem uicinius ordinatur ad primum, et sic corpus humanum et anima sua nobilius est.
+                   Primo ergo modo scientia celi et mundi est nobilior ista a parte subiecti. Aliis autem tribus modis scientia de anima est nobilior et prior illa a parte subiecti.
+                  </p>
+                <p><supplied>q6.1.1.5</supplied> Quinto queritur circa hoc, de comparatione huius scientie ad scientiam moralem a parte nobilitatis.
+                Et uidetur quod moralis sit nobilior: omnis scientia que nobiliori unit nos nobilior est scientia.
+                Moralis est huiusmodi, quia unit nos creatori, quia docet nos qualiter habebimus uirtutes per quas unimus creatori, ergo scientia moralis est nobilior quam scientia de anima.
+              </p>
+                <p>
+                  Secunda ratio hec est, habetur in <title>Physicis</title> quod dignum est unumquodque a fine denominari.
+                  Qui enim aufert finem aufert bonum, sicut dicit <name>Boetius</name>, ergo scientia que nos ordinat ad finem nobiliorem nobilior est;
+                  scientia autem moralis est huiusmodi, quia unit nos creatori et uite eterne, sicut dicit <name>Algazel</name>, ergo scientia moralis est nobilior quam scientia de anima.
+                </p>
+                <p>
+                   Tercia ratio hec est, ordo attenditur in perfectionibus anime, et secundum perfectiones suas unitur creatori que sunt scientie et uirtutes,
+                   set in anima scientia precedit
+                   <pb ed="#K" n="55-r"/>
+                   <cb ed="#K" n="a"/>et uirtus sequitur, et est ultimum complementum anime per quod unitur creatori,
+                   ergo, cum ultimum sit complementum nobilius, reliquus uirtus erit nobilius complementum ipsius anime et nobilius anima,
+                   quia ultimum complementum rei nobilius est quam res cuius est complementum, ergo scientia de uirtute est nobilior quam scientia de anima.
+                 </p>
+                <p>
+                  Ad oppositum sic, substantia nobilior est operibus elicitis a substantia, set scientia ista est de substantia anime.
+                   Scientia autem moralis est de operibus anime, que ab anima egrediuntur ut de uirtutibus et operationibus nostris,
+                    ergo scientia ista de anima nobilior est quam scientia moralis.
+                 </p>
+                <p>
+                  Secunda ratio hec est, quedam res egrediuntur in esse preter opus nostrum et de talibus est scientia speculatiua, sicut dicit<name>Auicenna</name>.
+                  Sunt autem res que exeunt in esse per opus nostrum, et de talibus sunt scientie practice uel morales.
+                  Res autem que non sunt ab opere nostro sunt nobiliores et priores quam res que sunt ab opere nostro, ergo cum scientia de anima
+                   sit de rebus que non sunt ab opere nostro,
+                  scientia autem moralis sit de rebus que sunt ab opere nostro, uidetur quod scientia de anima sit nobilior quam scientia moralis.
+                  Quod autem res que sunt ab opere nostro sunt posteriores patet, quia nos sumus ultimum in natura.
+                </p>
+                <p>
+                  Solutio. Dicendum est quod nobilitas in scientia est dupliciter: uno modo a parte subiecti, alio modo a parte modi procedendi.
+                  A parte autem modi procedendi scientia de anima est nobilior quam scientia moralis, quia procedit uia necessaria et perfectissima.
+                  Moralis autem procedit typo et figuraliter, quia est de operationibus nostris.
+                  In subiecto autem dupliciter est nobilitas: uno modo quia prius est et plus participat naturam essendi et causalitatem, et sic subiectum scientie de anima prius est quam uirtus,
+                  que est subiectum moralis, et nobilius, quia anima est causa uirtutum, et sic scientia de anima est nobilior illa.
+                  Secundo modo dicitur subiectum nobilius, quia ordinatur ad meliorem finem, et sic uirtus nobilius est et scientia de uirtute hoc modo nobilior est.
+                  Item notandum est quod duplex est comparatio, scilicet scientie ad scientiam et subiecti ad subiectum in nobilitate.
+                  Scientia autem est nobilior alia tripliciter, aut quia est de nobiliori aut quia nobiliori modo tradita aut quia ad meliorem finem ordinata.
+                  Primis duobus modis est scientia de anima nobilior. Tercio autem modo est scientia moralis nobilior.
+                  Comparando autem subiectum ad subictum sic scientia de anima est nobilior, quia suum subiectum est nobilius, et sic simpliciter loquendo scientia de anima nobilior est illa.
+                </p>
+                <p>
+                  Ad obiectum in contrarium dicendum est quod ordo respectu melioris finis uel nobilioris tria conspicit, scilicet ordinans et quod ordinatur et medium siue dispositionem ordinandi.
+                  Ordinans ad meliorem finem est primum, quia est dans illum. Illud autem quod ordinatur est anima.
+                  Medium autem uel dispositio ordinandi est uirtus que dispositio non est nobilior subiecto nec agente, quia causatur ab illis ab uno, sicut excitante,
+                  scilicet a Deo ab alio sicut operante, scilicet ab anima.
+                </p>
+                <p><supplied>q6.1.1.6</supplied> Sexto queritur circa hoc, que scientia sic nobilior aut ista scientia aut sermocinalis scientia que est logica.
+                Et uidetur quod logica, quia omnis scientia cuius potencia et uirtus ad plura se extendit est nobilior.
+                Set scientia sermocinalis est huiusmodi, ergo est
+                <pb ed="#K" n="55-r"/>
+                <cb ed="#K" n="b"/>nobilior ista scientia. Minor patet quia sermocinalis scientia dirigit omnes scientias.
+              </p>
+                <p>
+                  Secunda ratio hec est, illa scientia est nobilior et prior que est de communioribus.
+                  Set logica est huiusmodi, ergo est nobilior ista. Minor patet quia logica est generis indeterminati et est de onmibus, sicut uult <name>Aristoteles</name>.
+                </p>
+                <p>
+                  Tercia ratio hec est, omnes scientie sunt ad hoc ut dirigant et perficiant intellectum,
+                  set sermocinales scientie que sunt que dirigunt intellectum et perficiunt primo et inmediate et sine directione ipsarum non habentur alie scientie,
+                   ergo erunt priores et ita nobiliores.
+                  Logica ergo est prior ista scientia.
+                 </p>
+                <p>
+                  Ad oppositum sic, omnis scientia de rebus nobilior est illa que est de signis, quia res nobilior est signo.
+                  Set scientia de anima est de rebus; scientie uero sermocinales, ut logica, sunt de signis, ergo scientia de anima est nobilior quam logica.
+                </p>
+                <p>
+                  Secunda ratio hec est, omnis scientia propter quam est alia et cui alia famulatur est nobilior et alia uilior: hec sunt uerba <name>Aristotelis</name>
+                  in <title>Metaphysica</title>.
+                  Set scientia de anima est huiusmodi respectu scientie sermocinalis, quia scientia sermocinalis est propter ipsam et propter naturales,
+                   quia scientie sermocinales non sunt propter se, set propter alias, ergo scientia de anima est nobilior quam sermocinalis uel logica.
+                </p>
+                <p>Solutio. Dicendum est quod ista scientia simpliciter est nobilior logica uel sermocinali.
+                </p>
+                <p>
+                  Ad rationes autem in contrarium dicendum est quod scientia dicitur esse nobilior alia multipliciter: Vno modo quia est de subiecto nobiliori et magis est perfectiua intellectus et magis est status ad ipsam,
+                   et hec est simpliciter nobilitas.
+                   Et hoc modo scientia de anima est nobilior illis, scilicet sermocinalibus et aliis, ut uisum est.
+                   Secundo modo dicitur scientia nobilior alia in uia dispositionis et inquisitionis scientie, quia, scilicet disponit
+                    intellectum ad generationem scientie et adquisitionem exhibendo ei modum cognoscendi
+                   et operandi circa substantiam.
+                   Et sic logica est nobilior scientia uel sermocinalis.
+                  Set hec non est nobilitas simpliciter set diminuta respectu prime, et ideo scientia de anima est simpliciter nobilior quam
+                   logica uel sermocinalis scientia.
+                  Illa autem est nobilior secundum quid solum.
+                  Scientia igitur de anima omnes rationales excellit scientias omnibus excellentie modis quamuis ab ipsis in manifestiori*
+                  doctrina sine qua nulla procedit ueritatum.
+                </p>
+                <p><supplied>q6.1.2</supplied> Circa secundum principale quesitum sic proceditur et queritur de certitudine huius scientie utrum,
+                 scilicet certissimo modo procedat.
+                Et uidetur quod non, quia substantie spirituales non cadunt in sensum per se.
+                Set anima est substantia spiritualis, ergo per se non cadit in sensum.
+                Set omnis nostra cognitio incipit a sensu, ergo anima per se non cadit in scientiam nec in cognitionem nostram,
+                nec est certa cognitio nostra de substantia spirituali.
+                Ergo cum anima sit substantia spiritualis, nostra cognitio non est certa de anima.
+                Scientia ergo de anima non est certior aliis, nec modo certissimo procedit.
+              </p>
+                <p>
+                  Secunda ratio hec est, operationes anime sunt posteriores et applicatio potenciarum ad obiecta.
+                  Ergo cum hec scientia de anima procedat per obiecta ad potencias et per hec ad anime substantiam que est prior, procedit per posteriora et non per causas.
+                  Nulla autem talis scientia est certissima nec modo certissimo procedit, ergo scientia de anima certissimo non procedit.
+                </p>
+                <p>
+                  Ad oppositum, omnis inuestigatio scientie est habens initium
+                  <pb ed="#K" n="55-v"/>
+                  <cb ed="#K" n="a"/>ab obiectis anime, sicut habetur in principio <title>Metaphysice</title>.
+                 Ibi enim dicitur quod inuestigatio scientie procedit per operationes sensibiles.
+                 Illa ergo scientia que procedit per obiecta anime maximam habet certitudinem.
+                 Set scientia de anima est huiusmodi, ergo habet maximam certitudinem, modo ergo certissimo procedit.
+                </p>
+                <p>
+                  Secunda ratio hec est, illa scientia est certissima que procedit per illa que proximiora sunt uirtutibus anime,
+                  et item que secundum gradus procedit ab obiectis uirtutum inferiorum usque ad obiecta uirtutum superiorum.
+                  Talis enim scientia procedit per ea que nota sunt quantum ad superiores uirtutes et inferiores.
+                  Talis autem est scientia de anima, ergo scientia de ipsa anima est certissima et modo certissimo procedit.
+                </p>
+               <p>
+                 Tercia ratio hec est, illa scientia est certissima in qua idem est subiectum de quo est scientia et subiectum quod scientiam cognoscit
+                 et in qua sunt eadem ea que cognoscuntur in illa et illa per que fiunt cognitiones in illa.
+                 Scientia de anima est huiusmodi, ergo est certissima. Minor patet.
+                 Subiectum enim est anima, cognoscens est anima, item operationes anime et potencie et obiecta sunt ea que cognoscuntur
+                  et per illa fit cognitio in hac scientia et in qualibet,
+                 et sic se habent omnia in ista scientia in proximitate.
+                 Omnis autem talis scientia est certissima, ergo scientia de anima est certissima inter omnes scientias.
+               </p>
+                <p>
+                  Solutio. Dicendum est quod scientia ista certisssima uia procedit, quia procedit per obiecta preuia in qualibet scientia que
+                   in uia scientie adquisite sunt notiora.
+                  Secunda causa est quia est de anima et de uirtutibus eius que in qualibet scientia est causa cuiuslibet certitudinis et principium.
+                  Tercia causa propter propinquitatem rerum que cognoscuntur ad animam cognoscentem.
+                  Omnia enim que determinantur in hac scientia proximiora sunt anime cognoscenti quam in alia scientia, et ideo certissima est.
+                </p>
+                <p>
+                  Ad primam rationem in contrarium dicendum est quod substantie spirituales dupliciter considerantur, uel a parte substantie et sic non
+                   cadunt in cognitionem primo,
+                   et non est defectus a parte ipsarum rerum, set potius a parte nostra uel possunt considerari a parte operationum suarum,
+                    et sic cadunt in cognitionem et sic anima potest cadere in scientiam nostram.
+                 </p>
+                <p>
+                  Ad secundum dicendum est quod prius est dupliciter, scilicet prius tempore et prius natura.
+                  Prius autem natura dupliciter est: uno modo est prius natura in uia generationis et incompletionis;
+                  secundo modo est prius in uia diffinitionis et cognitionis et completionis.
+                  Primo modo prioritatis nature sunt potencie priores; secundo modo sunt obiecta priora et actus.
+                  Et sic ista scientia procedit a prioribus secundum diffinitionem et completionem et cognitionem, et propter hoc est certissima.
+                </p>
+                <p><supplied>q6.1.3.1</supplied> Circa tercium queritur de modis nobilitatis quos tangit <name>Aristoteles</name> in scientia <title>De anima</title>:
+                sicut enim est nobilitas a parte subiecti et a parte modi demonstrandi ita est nobilitas a parte finis.
+                Hac enim nobilitate est moralis scientia nobilior.
+                Item sicut dicit <name>Boetius</name>, qui aufert finem aufert bonum, set omnis
+                <pb ed="#K" n="55-v"/>
+                <cb ed="#K" n="b"/>nobilitas est a parte bonitatis, ergo nobilitas est a parte finis.
+                Queritur ergo quare non tangit huius nobilitatem in littera.
+              </p>
+               <p>
+                  Solutio. Dicendum est quod nobilitas finis non debet attendi in scientiis speculatiuis set in scientiis practicis et actiuis,
+                   et quia hec scientia de anima est especulatiua,
+                  ideo non tangit in ipsa nobilitatem a parte finis.
+                </p>
+                <p><supplied>q6.1.3.2</supplied> Secundo queritur circa hoc, cum cause diuidantur et nobilitas sic et distinguatur a parte causarum
+                 cum tangat nobilitatem a parte cause materialis, scilicet subiecti nobilitatem, queritur propter quid non tangit nobilitatem a parte cause efficientis.
+              </p>
+                <p>
+                  Solutio. Dicendum est quod causa efficiens duplex est, quedam interior et quedam exterior.
+                Interior in scientia est medium scientiam faciens, et a parte illius efficientis est nobilitas in scientia,
+                 set illa nobilitas reducitur ad certitudinem modi demonstrationis, et ideo hanc non tangit.
+                Causa autem efficiens extra est, sicut actor tradens scientiam, set hec causa est duplex, quia quedam operatur scientiam secundum exigentiam rerum,
+                et si excedit exigentiam rerum, peccat, et talis non ponit nobilitatem in scientia nisi phantasticam, ut dicatur hoc fecit <name>Aristoteles</name>.
+                Est autem alia que secundum sui exigentiam operatur et influit bonitatem ut efficiens supra scientiam legis diuine, que denominatur nobilis ab illo, scilicet a Deo quia diuina appellatur.
+                Efficiens autem huius scientie non est tale, set efficiens est quod secundum exigentiam rerum tradidit scientiam.
+                Et ideo in hac non est nobilitas a parte ipsius, et ideo non tangit nobilitatem a parte cause efficientis.
+              </p>
+                <p><supplied>q6.1.3.3</supplied> Tercio queritur circa hoc, propter quid non ponit nobilitatem a parte passionis sicut a parte subiecti et medii uel modi demonstrationis.
+               </p>
+                <p>
+                  Solutio. Dicendum est quod nobilitas passionis reducitur ad nobilitatem subiecti et cause, quia passio elicitur a principiis subiecti et causis,
+                  et ideo cum tangat nobilitatem subiecti non debet tangere illam.
+                </p>
                 <p><supplied>q6.1.3.4</supplied> Quarto queritur circa hoc, propter quid non tangit nobilitatem a parte cause formalis. </p>
-                <p>Solutio. Dicendum est quod causa formalis in sciencia est modus demonstrandi et ideo hec nobilitas ad nobilitatem modi demonstrandi reducitur, et ideo cum tangat nobilitatem modi demonstrandi satis, per hoc tangit nobilitatem cause formalis.</p>
-                <p><supplied>q6.1.4</supplied> Circa quartum queritur utrum hec sciencia de anima influat iuuamentum et certitudinem supra alias sciencias. Et uidetur quod non, quia illa sciencia que est superior aliis et probat earum principia influit certitudinem super alias. Set talis est metaphyisica et non sciencia de anima, ergo sciencia de metaphysica influit certitudinem et non ista sciencia. </p>
-                <p>Secunda ratio hec est, ordo est in scienciis ita quod sciencia subalterna recipit influentiam ab illa que supra ipsam est. Set sciencia de anima subalterna est sciencie naturali superiori, sicut sciencie physicorum et metaphysice, ergo ab illis recipit influentiam et certitudinem et non dat certitudinem aliis.</p>
-                <p>Tercia ratio hec est, illa sciencia influit certitudinem super alias que omnes alias regulat et dirigit intellectum ad omnem uel omnium scienciarum apprehensionem. Set sciencia Posteriorum est huiusmodi et non ista, ergo sciencia Posteriorum <cb ed="#K" n="55ra"/>influit certitudinem super alias et super istam. </p>
-                <p>Ad oppositum est illud quod dicit <ref><name>Aristoteles</name> in littera in principio <title>De anima</title></ref>. </p>
-                <p>Secunda ratio hec est, sciencia metaphysica est de rebus separatis. Res autem separate non cognoscuntur nisi a solo intellectu, ergo necesse est quod sciencia de intellectu det influentiam et iuuamentum ad acceptionem sciencie metaphysice, et sic influit certitudinem super ipsam.</p>
-                <p>Tercia ratio hec est, anima est subiectum sciencie et ita est causa materialis sciencie. Item anima est causa efficiens sciencie et hoc non est inconueniens, quia licet causa materialis ex qua non concidat cum efficiente nec cum aliis, quia causa materialis ex qua est incompleta, causa tamen materialis in qua potest concidere cum aliis, quia completa est. Talis autem est anima respectu sciencie. Sciencia ergo de anima est de causa materiali et efficiente cuiuslibet sciencie. Influit ergo super omnes sciencias. </p>
-                <p>Quarta autem ratio hec est, in omni sciencia est abstractio. Abstractio autem fit per operationes anime. Item omnis inquisitio sciencie est per operationes anime. Sciencia ergo de anima determinat de eo quod ualet ad inquisitionem cuiuslibet sciencie. Omnis autem talis sciencia influit certitudinem super alias, ergo sciencia influit super alias. </p>
-                <p>Solutio. Dicendum est quod, sicut dicit <name>commentator</name>, sciencia de anima affert magnum iuuamentum ad omnes sciencias, et primo ad naturales. Est enim pars nobilissima sciencie naturalis. Nobilissima enim pars sciencie naturalis est de corporibus animatis, et propter hoc affert iuuamentum naturali. Secunda causa est quia anima est principium omnium rerum animatarum et secundum exigentiam anime sunt partes et principia in omnibus rebus animatis. Affert similiter uiuamentum morali, quia ei affert multa principia per que regulantur ciuitates et diuicie, quia affert ei cognitionem quamlibet tam sensitiuam quam intellectiuam. Item affert iuuamentum sciencie demonstratiue et metaphysice et mathematice, quia eis affert modum abstractionis et separationis, que ab anima est. Tercium iuuamentum commune quod affert est quia ista sciencia talis est quod per ipsam adquiritur cognitio priorum principiorum et cause cognitionis et firme certitudinis in omni sciencia, et propter hoc ista sciencia influit super omnes alias. </p>
-                <p>Ad rationes simul est respondendum quod sciencia influit supra scienciam quattuor modis: uno modo quia regulat ipsam et dirigit intellectum ad procedentum in omni sciencia, et sic sciencia demonstratiua influit super alias. Secundo modo influit sciencia supra scienciam quantum ad substantiam principiorum que considerat et que confirmat et quantum ad suum subiectum, cum subiectum suum sub se comprehendat subiecta omnium scienciarum, et hoc modo metaphisica influit super alias; suum enim subiectum est communissimum, scilicet ens. Tercio modo influit sciencia supra scienciam, quia sciencia sequens illam supponit aliquid ab ea, et sic sciencia physicorum influit supra scienciam de anima. Quarto modo influit supra aliam, quia per eam habetur principium abstractionis cuiuslibet sciencie et principium processus et certitudinis in qualibet sciencia, et hoc modo ista sciencia influit super omnes alias certitudinem.</p>
-                <p><supplied>q6.1.5.1</supplied> Circa quintum queritur utrum anima sit principium animalium. Et ostenditur quod non. Principium prece|dit naturaliter illud cuius est principium. Corpus autem precedit animam naturaliter, ergo anima non est principium corporum et ita nec animalium. </p>
-                <p>Ad oppositum est illud quod ponit <name>Aristoteles</name>, set non ponit quod sit principium compositi set corporis animalis.</p>
-                <p>Solutio. Dicendum est quod anima est principium corporis animati et hoc propter plures causas. Vna est quia complet corpus animatum. Secunda est quia continet ipsum et conseruat. Egrediente enim anima a corpore expirat corpus et marcescit, sicut habetur in fine primi <title>De anima</title>. Tercia causa est quia anima mouet ipsum corpus animatum. Quarta causa est quia ante actualem exitum anime in esse fit organizatio corporis secundum exigentiam anime. </p>
-                <p>Ad obiectum in contrarium dicendum est quod prius est dupliciter: uno modo in uia generationis et incompletionis, et sic corpus prius est quam anima. Alio modo est prius in uia completionis et perfectionis, et sic anima est prior corpore et sic in uia completionis potest esse principium eius.</p>
-                <p><supplied>q6.1.5.2</supplied>Secunda questio circa hoc est, quare dicit quod anima quodam modo est principium et non dicit quod anima sit simpliciter principium, quia uidetur quod anima simpliciter sit principium corporis, quia motor simpliciter est principium mobilis. Set anima est primo motor in corpore, ergo est simpliciter principium corporis animati uel animalis quod idem est.</p>
+                <p>
+                  Solutio. Dicendum est quod causa formalis in scientia est modus demonstrandi et ideo hec nobilitas ad nobilitatem modi demonstrandi reducitur,
+                  et ideo cum tangat nobilitatem modi demonstrandi satis, per hoc tangit nobilitatem cause formalis.
+                </p>
+                <p><supplied>q6.1.4</supplied> Circa quartum queritur utrum hec scientia de anima influat iuuamentum et certitudinem supra alias scientias.
+                Et uidetur quod non, quia illa scientia que est superior aliis et probat earum principia influit certitudinem super alias.
+                Set talis est metaphyisica et non scientia de anima, ergo scientia de metaphysica influit certitudinem et non ista scientia.
+              </p>
+                <p>
+                  Secunda ratio hec est, ordo est in scientiis ita quod scientia subalterna recipit influentiam ab illa que supra ipsam est.
+                  Set scientia de anima subalterna est scientie naturali superiori, sicut scientie physicorum et metaphysice, ergo ab illis
+                  recipit influentiam et certitudinem et non dat certitudinem aliis.
+                </p>
+                <p>
+                  Tercia ratio hec est, illa scientia influit certitudinem super alias que omnes alias regulat et dirigit intellectum ad omnem
+                   uel omnium scientiarum apprehensionem.
+                  Set scientia <title>Posteriorum</title> est huiusmodi et non ista, ergo scientia <title>Posteriorum</title>
+                  <pb ed="#K" n="56-r"/>
+                  <cb ed="#K" n="a"/>influit certitudinem super alias et super istam.
+                 </p>
+                <p>
+                  Ad oppositum est illud quod dicit <ref><name>Aristoteles</name> in littera in principio <title>De anima</title></ref>.
+                </p>
+                <p>
+                  Secunda ratio hec est, scientia metaphysica est de rebus separatis.
+                  Res autem separate non cognoscuntur nisi a solo intellectu, ergo necesse est quod scientia de intellectu det influentiam et
+                   iuuamentum ad acceptionem scientie metaphysice,
+                   et sic influit certitudinem super ipsam.
+                 </p>
+                <p>
+                  Tercia ratio hec est, anima est subiectum scientie et ita est causa materialis scientie.
+                  Item anima est causa efficiens scientie et hoc non est inconueniens, quia licet causa materialis ex qua non concidat cum efficiente nec cum aliis,
+                   quia causa materialis ex qua est incompleta, causa tamen materialis in qua potest concidere cum aliis, quia completa est.
+                  Talis autem est anima respectu scientie. Scientia ergo de anima est de causa materiali et efficiente cuiuslibet scientie.
+                  Influit ergo super omnes scientias.
+                </p>
+                <p>
+                  Quarta autem ratio hec est, in omni scientia est abstractio.
+                  Abstractio autem fit per operationes anime. Item omnis inquisitio scientie est per operationes anime.
+                  Scientia ergo de anima determinat de eo quod ualet ad inquisitionem cuiuslibet scientie.
+                  Omnis autem talis scientia influit certitudinem super alias, ergo scientia influit super alias.
+                </p>
+                <p>
+                  Solutio. Dicendum est quod, sicut dicit <name>Commentator</name>, scientia de anima affert magnum iuuamentum ad omnes scientias, et primo ad naturales.
+                  Est enim pars nobilissima scientie naturalis. Nobilissima enim pars scientie naturalis est de corporibus animatis, et propter hoc affert iuuamentum naturali.
+                  Secunda causa est quia anima est principium omnium rerum animatarum et secundum exigentiam anime sunt partes et principia in omnibus rebus animatis.
+                  Affert similiter uiuamentum morali, quia ei affert multa principia per que regulantur ciuitates et diuicie, quia affert ei cognitionem quamlibet tam
+                   sensitiuam quam intellectiuam.
+                  Item affert iuuamentum scientie demonstratiue et metaphysice et mathematice, quia eis affert modum abstractionis et separationis, que ab anima est.
+                  Tercium iuuamentum commune quod affert est quia ista scientia talis est quod per ipsam adquiritur cognitio priorum principiorum et cause cognitionis
+                   et firme certitudinis in omni scientia, et propter hoc ista scientia influit super omnes alias.
+                </p>
+                <p>
+                  Ad rationes simul est respondendum quod scientia influit supra scientiam quattuor modis: uno modo quia regulat ipsam et dirigit intellectum ad
+                  procedentum in omni scientia, et sic scientia demonstratiua influit super alias.
+                  Secundo modo influit scientia supra scientiam quantum ad substantiam principiorum que considerat et que confirmat et quantum ad suum subiectum,
+                  cum subiectum suum sub se comprehendat subiecta omnium scientiarum, et hoc modo metaphisica influit super alias; suum enim subiectum est communissimum, scilicet ens.
+                  Tercio modo influit scientia supra scientiam, quia scientia sequens illam supponit aliquid ab ea, et sic scientia physicorum influit supra scientiam de anima.
+                  Quarto modo influit supra aliam, quia per eam habetur principium abstractionis cuiuslibet scientie et principium processus et certitudinis in qualibet scientia,
+                  et hoc modo ista scientia influit super omnes alias certitudinem.
+                </p>
+                <p><supplied>q6.1.5.1</supplied> Circa quintum queritur utrum anima sit principium animalium. Et ostenditur quod non.
+                Principium prece
+                <pb ed="#K" n="56-r"/>
+                <cb ed="#K" n="b"/>dit naturaliter illud cuius est principium.
+                Corpus autem precedit animam naturaliter, ergo anima non est principium corporum et ita nec animalium.
+              </p>
+                <p>Ad oppositum est illud quod ponit <name>Aristoteles</name>, set non ponit quod sit principium compositi set corporis animalis.
+              </p>
+                <p>
+                  Solutio. Dicendum est quod anima est principium corporis animati et hoc propter plures causas.
+                  Vna est quia complet corpus animatum. Secunda est quia continet ipsum et conseruat.
+                  Egrediente enim anima a corpore expirat corpus et marcescit, sicut habetur in fine primi <title>De anima</title>.
+                  Tercia causa est quia anima mouet ipsum corpus animatum. Quarta causa est quia ante actualem exitum anime in esse fit organizatio corporis secundum exigentiam anime.
+                 </p>
+                <p>
+                  Ad obiectum in contrarium dicendum est quod prius est dupliciter: uno modo in uia generationis et incompletionis, et sic corpus prius est quam anima.
+                  Alio modo est prius in uia completionis et perfectionis, et sic anima est prior corpore et sic in uia completionis potest esse principium eius.
+                </p>
+                <p><supplied>q6.1.5.2</supplied>Secunda questio circa hoc est, quare dicit quod anima quodam modo est principium et non dicit quod anima sit simpliciter principium,
+                quia uidetur quod anima simpliciter sit principium corporis, quia motor simpliciter est principium mobilis.
+                Set anima est primo motor in corpore, ergo est simpliciter principium corporis animati uel animalis quod idem est.
+              </p>
                 <p>Secunda ratio hec est, forma simpliciter est principium compositi. Anima est forma corporis animati uel animalis, ergo est simpliciter eius principium. </p>
-               <p> Solutio. Dicendum est quod anima est principium corporis animati. Dicitur autem quodam modo esse principium propter duas causas. Vna causa est quia principium proprie est illud quod est efficiens. Anima autem non est efficiens corporis set motus eius et operationis, et propter hoc quodam modo est principium. Secunda causa est, quia principium proprie est extra, elementum autem intra. Causa uero commune est ad ista; anima uero est intra, et propter hoc dicit quod anima est quodam modo principium.</p> 
-                <p><supplied>q6.1.5.3</supplied> Tercia uero questio circa hoc est utrum anima sit principium cuiuslibet corporis ut ponatur anima forma in rebus naturalibus. Et uidetur quod sic. Omnes dispositiones naturales ordinantur ad ultimam formam ut ad finem et ad quod stant, et illud est forma respectu illarum. Set omnia corpora ordinantur ad animam et finaliter omnes dispositiones naturales, sicut dicit <name>Auensorel</name>, ergo anima est prima forma corporum. </p>
-                <p>Secunda ratio hec est, sicut habetur in secundo <title>De anima</title>, omnia corpora sunt instrumentum anime. Set anima est in corpore, quod est eius instrumentum, ergo anima est in omnibus corporibus. Set anima est in corpore tamquam forma in materia, ergo anima est forma omnium corporum prima.</p>
-                <p>Ad oppositum, si enim anima esset forma prima omnium corporum sic omnia corpora essent animata. Hoc autem falsum est, ergo anima non est prima forma omnium corporum.</p> 
-                <p>Secunda ratio, ea quorum anima est forma et principium se ipsis mouentur, quia habent intra se principium sufficiens sui motus, set multa sunt corpora que non mouentur se ipsis, ergo anima non est prima forma corpori omnium.</p>
-                <p>Tercia ratio hec est, anima non est forma nisi corporis habentis diuersas dispositiones in partibus et in toto. Tale autem est <cb ed="#K" n="56va"/>corpus organicum. Si ergo non omnia corpora talia sunt, uidetur quod anima non sit principium cuiuslibet corporis nec forma prima.</p>
-                <p>Solutio. Dicendum quod principium formale primum in aliquo genere est multipliciter: uno enim modo dicitur forma prima forma exemplaris omnium in qua omnia relucent tamquam in cognoscente et a qua egrediuntur tamquam ab efficiente, et sic primum est prima forma omnium. Alio modo dicitur prima forma, scilicet forma communis per predicationem, que non est aliqua natura fixa set est similitudo nature, et hoc modo posuit <name>Auicenna</name> et <ref> actor <title>Fontis uitae</title></ref> unam primam formam substantie que est substantia, que de omnibus substantiis predicatur. Tercio modo dicitur forma prima, scilicet forma illa que inter formas corporales nobilior est, et secundum cuius accessum et recessum corpora plus uel minus habent de forma, et sic lux est forma prima.
-                    <app><lem>Quarto modo dicitur forma prima</lem><rdg wit="#K" type="omission"/></app> que in genere nature est nobilissima et ad quam omnes alie ordinantur, et propter quam sunt. Et sic anima dicitur esse forma prima. Propter enim animam sunt omnes forme naturales. 
-                    Quinto modo dicitur forma prima, scilicet forma illa que per sui distensionem in materia omnem materiam perficit ita ut distendatur per materiam corporalem et illam per partes eius perficiat. Et hoc modo non est possibile unam primam esse in natura, et hoc modo anima non est prima forma omnium corporum set alio modo, et per hoc patet uerificatio rationum ad partem utramque.  </p>
-                <p>De sexto problemaute autem forte alibi dicetur. </p>
-                <p><supplied>q6.2</supplied> Postquam dictum est de nobilitate et utilitate huius sciencie querendum est de difficultate que incidit circa questionem quod quid est que communiter cadit in omnibus scienciis. Et hoc est ut cum eo quod principiter est propositum, quia hoc est nichil aliud querere de difficultate diffinitionis et diffinitionem incidentem, et circa hanc questionem queruntur decem:</p>
-                <p>Primum est utrum sit aliqua sciencia communis tradens diffinitiones omnium et modum dffiniendi communiter. Secunda est que sit illa sciencia que docet modum diffiniendi communiter. Tercia est de comparatione sciencie diffinitiue ad diuisiuam et collectiuam. Quarta est cui rei proprie competat diffinitio. Quinta est per quam uiam habeatur diffinitio et notitia diffinitionis. Sexta cum sit duplex cognitio, scilicet diffinitiua et demonstratiua cui competit demonstratio, scilicet substantie an accidenti. Septima est utrum anima habeat diffinitionem et quomodo cognitio diffinitiua ei competat. Octaua est quomodo in anima sit ratio substantie et ratio nature. Nona est de diuersitate passionum anime, quas considerat philosophus, quarum quedam sunt communes, quedam proprie. Decima et ultima est de modo cognoscendi animam in sciencia ista. Dicit enim philosophus quod prius inquiret scienciam anime et postea passiones; contrario tamen modo procedit. </p>
-                <p><supplied>q6.2.1</supplied> Circa primam sic proceditur et ostenditur quod sit una sciencia communis que determinet modum diffiniendi communiter in omni sciencia; sicut habetur ab <name>Aristotele</name> in <name>Metaphisica</name>, inconueniens est aliam uiam declarare aliam rem et querere modum secundum quem res illa decla<cb ed="#K" n="55vb"/>ratur, et dicit <name>commentator</name> quod hoc est simile illi qui docet uiam dum addiscit eam. Ergo, cum quelibet sciencia diffiniat, non docet quelibet sciencia modum diffiniendi, necesse est ergo ponere aliam scienciam communem que doceat modum diffiniendi in qualibet sciencia et a qua quelibet sciencia accipiat modum diffiniendi.</p>
-                <p>Secunda ratio hec est, in unoquoque genere est ponere statum et reductionem, ergo et in scienciis est ponere statum et reductionem. Ergo, cum sciencia diffiniendi sit sciencia, necesse est quod reducatur ad aliam que primo consideret modum diffiniendi. </p>
-                <p>Tercia ratio hec est, multiplex est cognitio, scilicet cognitio diffinitiua et cognitio demonstratiua. Diffinitio autem fit per principia rei. Demonstratio autem fit per causas rei. Set est alia communis demonstratiua que docet modum demonstrandi in qualibet sciencia et regulat omnes in modo demonstrandi, ergo debet esse aliqua communis sciencia que doceat et regulet omnes alias sciencias in modo diffiniendi. </p>
-                <p>Quarta ratio hec est, si enim non sit una communis sciencia que regulet omnes alias sciencias in modo diffiniendi, tunc quelibet sciencia habet proprium modum diffiniendi. Set tunc difficultas intellectui est ad cognoscendum quem modum diffiniendi habeat ista sciencia et illa, ergo si per scienciam non regulatur intellectus de hoc, indirecte circa modum diffiniendi procedit. Cum ergo sciencia sit per directionem intellectus, necesse est ponere aliquam scienciam que regulet intellectum communiter in modo diffiniendi in omnibus scienciis. </p>
-                <p>Ad oppositum, diffinitio datur per uera rei principia. Set uera rei principia sunt diuersa et non eiusdem nature, ergo et diffinitiones diuerse. Ergo cum diuerse sciencie sint de diuersis rebus que habent diuersa principia diuersimode diffinient et diuersas habebunt diffinitiones, sicut ergo uera rei principia non reducuntur ad unum ita nec sciencie quantum ad suas diffinitiones ad unam reducentur. Non est ergo alia communis sciencia a qua omnes sciencie accipiant modum diffiniendi. </p>
-                <p>Secunda ratio hec est, sicut dicit <name>Philosophus</name> in primo <title>De anima</title>, differenter diffinit logicus et physicus, quia logicus reddit speciem, physicus autem materiam. Item logicus diffinit per intensiones; phisicus autem multum per materiam. Metaphysicus autem et mathematicus diffiniunt per causas formales, moralis autem per causas finales. Quelibet ergo sciencia habet modum proprium diffiniendi et non communem. Non est ergo alia sciencia communis de modo diffiniendi in omnibus scienciis. </p>
-                <p>Tercia ratio hec est, sicut dicit <name>commentator</name> supra metaphysicam, ars logica non est uniuersalis omnibus scienciis. Set si esset aliqua sciencia que doceret modum diffiniendi in omnibus scienciis, hec esset quantum ad modum, cum ipsa logica doceat modum procedendi in aliis. Ergo, cum hoc sit falsum, quia non est uniuersalis, aliis uidetur quod non sit aliqua sciencia de modo diffiniendi in omnibus scienciis communiter.</p>
-                <p>Solutio. Dicendum est quod necesse est ponere unam scienciam communem que doceat modum diffiniendi in qualibet sciencia communem et a qua quelibet sciencia accipiat modum diffiniendi et que regulet communiter principia diffinitionis, et que sit illa sciencia. Iam patebit, et <cb ed="#K" n="57ra"/>concedo rationes ad hoc inductas.</p>
-                <p>Ad rationes in contrarium dicendum est, et primo ad primam, quod dupliciter considerantur res, uno modo prout sunt sub propriis suis principiis, alio modo prout sunt sub suis principiis communibus. Res autem prout consideratur sub suis principiis communibus eundem habent modum diffiniendi communem. Habent enim omnes res essentiam et principia essentie et ex illis sortiuntur diffinitionem, et sic a parte communium principiorum datur modus communis diffiniendi res in illa sciencia communi. Res autem considerate sub propriis principiis cadunt in diuersis scienciis quantum ad diffinitiones et diuersas habent diffinitiones, modus tamen diffiniendi uniuersalis est et communis et appropriatur eis. </p>
-                <p>Ad secundam dicendum est quod differenter diffiniunt artifices diuersi, tamen modus diffiniendi idem est proportionaliter, et proportionalis est in omnibus. Licet tamen principia rerum sint diuersa, tamen sunt eadem proportionaliter, quia sicut substantia habet sua principia per que diffinitur realia et accidentia, et sic modus diffiniendi habet idemptitatem proportionalem in diuersis scienciis. </p>
-                <p>Ad terciam rationem dicendum est quod sciencie considerantur duobus modis: uno modo a parte principiorum communium per que procedunt; alio modo a parte propriorum principiorum. A parte propriorum principiorum non est ars logica uniuersalis omnibus scienciis set a parte communium principiorum. </p>
-                <p><supplied>q6.2.2</supplied> Secunda questio est, supposito quod sit una sciencia communis de modo diffiniendi in omnibus scienciis, queritur que sit illa. Et uidetur quod illa sit metaphysica. Diffinitio enim sequitur uera principia rei, quia diffinitio est constitutio rei ex suis principiis, ergo illius sciencie est determinare et considerare diffinitiones omnium et modos diffiniendi cuius est determinare principia omnium. Hec autem est metaphysica, ergo metaphysica est determinare omnium diffinitiones. </p>
-                <p>Secunda ratio hec est, principia sciencie sunt subiectum et partes eius. Item diffinitiones in sciencia dantur pro partibus subiecti. Subiectum autem est communissimum ens tantum, et propter hoc ponitur esse principium omnium, sicut uult auctor De causis, prima rerum creatarum est esse, id est principium rerum creatarum est esse, quia et latius et communis. Ergo illa sciencia que considerat ens considerat principium omnium, ergo si res diffiniuntur per sui principium, illa sciencia que considerat ens considerat diffinitiones et modos diffiniendi. Hec autem est metaphysica, ergo metaphysica docet modum diffiniendi in omnibus scienciis. </p>
-                <p>Tercia ratio hec est, sicut dicit <name>Aristoteles</name>, demonstratio appropriatur accidentibus, diffinitio autem appropriatur substantiis, ergo illa sciencia que considerat substantiam in quantum substantia est et principia eius debet considerare et docere diffinitiones omnium. Hec autem est metaphysica, ergo metaphysica docet modum diffiniendi omnium. </p>
-                <p>Quarta ratio hec est, dicit <name>Aristoteles</name> in <title>Metaphisica</title> quod metaphysica est de omnibus, et logica, set differenter potestate et uoluntate, sicut dicit ista. Ponatur autem hac differentia quod metaphysica est de omnibus quantum ad sua uera principia. Logica autem quantum ad intensiones, et hoc est quod dicit <name>Auicenna</name> quod logica est de secundis intensionibus applicatis primis. Diffinitio autem sequitur uera rei | principia, ergo illa sciencia que de omnibus determinat secundum sua uera principia determinat diffinitiones omnium. Hec autem est metaphysica, ergo metaphysica docet diffinire in omnibus scienciis. </p>
-                <p>Ad oppositum, illius sciencie est determinare diffinitiones omnium cuius est regulare omnes sciencias in modo procedendi circa omnia, set talis est logica, ergo logice est diffinitiones omnium docere et modum diffiniendi. </p>
-                <p>Secunda ratio hec est, sicut dicit <name>Alpharabius</name>, tria sunt opera rationis, scilicet diuidere, diffinire, colligere uel ratiocinari, quod idem est. Diffinere ergo est opus rationis, ergo illius sciencie que est de operibus rationis et que regulat rationem in suis operibus est determinare uel docere modum diffiniendi omnia in omnibus scienciis.</p>
-               <p> Tercia ratio hec est, sciencia logice regulat rationem in sua opera. Ergo si est ars in logica que est communis ad omnem ordinationem predicamentalem, scilicet sciencia predicamentorum, et est ars in logica que est communis ad omne opus componendi, sicut sciencia de sillogismo, et est ars in logica que est communis ad omne opus demonstrandi, sicut ars posteriorum. Ergo, cum diffinire sit eodem modo opus rationis, debet esse aliqua ars communis in logica que doceat modum diffiniendi  communiter.</p> 
-                <p>Solutio. Dicendum est quod tradere et docere modum diffiniendi in omnibus scienciis pertinet ad metaphysicam, sicut ostendunt rationes. Ipsa enim considerat principia omnium et ideo considerat diffinitiones constitutas ex principiis omnium, et ideo in VIIo <title>Metaphysice</title> determinat <name>Aristoteles</name> genus omnium diffinitionum per sua principia, et docet modum diffiniendi communem ad omnem scienciam que communis est per proportionem.</p>
-                <p>Ad rationes in contrarium similiter dicendum est quod in diffinitionibus sunt duo, scilicet principia diffinitionis et modus diffiniendi. Principia autem diffinitionis sunt dupliciter, quedam enim intensiones communes et talia principia diffinitionis considerat <title>Topycus</title>. Alia sunt principia diffinitionis que sunt uera rei principia integrantia rei substantiam, et ita considerat metaphysicus. Et sic primo modo considerat <title>Topycus</title> in sexto diffinitiones. Secundo autem modo metaphysicus.</p> 
-                <p>Modus autem diffiniendi duo respicit, scilicet supra ordinationem intellectus et ordinationem et exigentiam rerum in quantum entes sunt. In quantum autem modus diffiniendi respicit ordinationem intellectus, et cadit aspectus rationis supra ipsum sic pertinet ad logicum. Secundo autem modo pertinet ad metaphysicum. Item modus diffinitionis cadens in aspectum rationis dupliciter considerantur: uno modo prout cadit supra intensiones communes que sunt genus et differentia, et sic consideratur a <title>Topyco</title>. Secundo modo prout cadit supra uera rei principia qua ordinantur ad demonstrationem in se recipiendo modum cause, et sic pertinet ad <title>Secundum posteriorum</title>. Vno autem modo pertinet ad librum <title>Posteriorum</title> et alter ad librum <title>Topicorum</title>, et alter ad <title>Metaphysicam</title>, et sic procedunt rationes ducte ad hoc.</p>
-                <p><supplied>q6.2.3</supplied> Tercia questio est de comparatione sciencia diffinitiua ad scienciam diuisiuam et collectiuam, et queritur, cum in sciencia logica determinetur de sciencia colligendi, propter quid non determinatur ab <name>Aristotele</name> de sciencia diuidendi et propter quid sciencia colligendi facit <cb ed="#K" n="57va"/>scienciam principalem separatam. Sciencia autem diuidendi facit scienciam annexam. Et obicitur sic: sicut enim dicit <name>Alpharabius</name> tria sunt opera rationis, scilicet diffinire, diuidere et colligere. Cum ergo logica sit de hiis tribus operationibus, sicut est principalis sciencia de hoc opere quod est colligere, similiter et de istis que sunt diuidere et diffiniere. Et cum hoc queritur, cum regulatio principiorum omnium scienciarum spectet ad metaphysicum et ad logicum, quomodo differenter.</p>
-                <p>Solutio. Dicendum est quod sicut est in natura ita est in scienciis. Dicit autem <name>Philosophus</name> in <title>Metaphysica</title> quod eorum que sunt quedam sunt entia et quedam sunt entium et ea que sunt entium multipliciter sunt, quia quedam sunt principia ut materia et forma, quedam autem sunt uie ut motus, quedam uero ut priuationes, quedam uero ut intensiones. Similiter in sciencia quedam sunt principalia, quedam autem non. Principale autem in logica est oratio uel collatio; diuisio autem non est principale set sicut uia in diffinitionem, sicut uult <name>Aristoteles</name>. Diffinitio autem non est principale, set est sicut terminus et sicut principium. Est autem sicut terminus in <title>Topycis</title>, et est sicut principium in <title>Posteriorum</title>, set illa que sunt sicut uia et terminus et principia non faciunt nisi scienciam annexam et non principalem, et ideo diffinitio et diuisio in logica non faciunt scienciam principalem set annexam per appellationem, quia non sunt principalia.</p>
-                <p>Ad secundam questionem dicendum est quod principia dupliciter considerantur: uno modo considerantur a parte sue substantie, et sic cadunt in <title>Metaphysica</title>. Alio modo considerantur a parte modi procedendi ex principiis et circa principia, et sic considerantur a logico. Iterum in principiis sunt multe cognitiones: prima est que est primus ortus principiorum in anima, et ista cognitio principiorum habetur per secundum <title>Posteriorum</title>; secunda est cognitio ipsorum per elementa ex quibus constant, et hec cognitio habetur per librum <title>Posteriorum</title>, ut dicit <name>Aristoteles</name>, quod principia cognoscimus in quantum terminos. Tercia est a parte uirtutis eorum per applicationem ad conclusionem, et hec similiter habetur per librum <title>Posteriorum</title>, cum modum docet demonstrandi. Quarta est per opiniones et per signa opinantia, et hec cognitio principiorum habetur per dyalecticam. Docet enim dyalectica modum cognoscendi ea secundum modum istum. Quinta cognitio principiorum est prout cognoscitur in altero bene uel male se habenti circa principalia, et sic cognoscitur per temptationem. </p>
-                <p><supplied>q6.2.4</supplied> Circa quartam questionem proceditur sic, et queritur cui proprie competat diffinitio utrum, scilicet substantie an accidenti aut utrique. Quod autem diffinitio soli substantie competat, sic ostenditur per auctoritatem, quia dicit <name>Aristoteles</name> in <title>Metaphysica</title> demonstratio est accidentium, diffinitio uero substantie. </p>
-                <p>Secunda ratio hec est, diffinitio datur per propria rei principia in eodem genere existentia. Sola uero substantia et illud quod habet modum substantie habet talia principia; non autem accidens in quantum accidens, cum eius principium sit subiectum, quod est in alio genere. Ergo soli substantie uel modum eius habenti proprie competit diffinitio. </p>
-                <p>Tercia ratio hec est, genera predicamentalia dupliciter considerantur: uno modo considerantur per comparationem ad ordinationem in eodem genere, et hoc modo <cb ed="#K" n="57vb"/>supra se recipiunt diffinitionem. Alio modo considerantur per operationem ad subiectum in quo radicantur, et hoc modo non recipiunt supra se diffinitionem set genera prout comparantur ad res sui generis sunt substantia uel modum habent substantie; substantia sunt habentia modum substantie et hoc modo proprie diffiniuntur. Ergo soli substantie uel habenti modum substantie proprie competit diffinitio. </p>
-                <p> Quarta ratio hec est, duplex est cognitio: per uera rei principia et hec, sicut dicit <name>Algazel</name>, est intellectiua, alia autem est per exteriora, et hec est cognitio sensitiua. Obiectum autem uirtutis intellectiue est quid, non autem est obiectum uirtutis sensitiue, et hoc uult <name>Aristoteles</name> in secundo <title>De anima</title>. Set accidentia cadunt in uirtute sensitiua sicut habetur ibi, substantia autem cadit in uirtute intellectiua, ergo cum quidditas non cadat in uirtute sensitiua set intellectiua, necesse est quod quidditas uel diffinitio, quod idem est, sit de obiectis uirtutis intellectiue et non uirtutis sensistiue. Set substantia est obiectum uirtutis intellectiue, accidens autem sensitiue, ergo solius substantie uel habentis modum substantie est diffinitio, et ita cum accidentia sint obiecta uirtutis sensitiue accidentium non erit diffinitio nisi modum substantie supra se recipiant.</p> 
-                <p>Ad oppositum, sicut dicit <name>Auicenna</name>, unumquodque habet essentiam qua est id quod est, set diffinitio competit essentie, ergo tam substantia quam accidens habent diffinitionem.</p>
-                <p>Secunda ratio hec est, omnia que habent ordinationem in genere per principia sui generis habent diffinitionem. Set accidentia habent ordinationem in genere sicut substantie, ergo possunt diffiniri sicut substantie.</p> 
-                <p>Solutio. Dicendum est quod, sicut testatur <name>Aristoteles</name> in <title>Metaphysica</title>, diffinitio soli substantie conuenit propterea quia habet principia proxima sui generis per que nata est diffiniri. Demonstratio autem est accidentium, quia demonstratio procedit per causas alterius generis subiecto insitas. Et quia accidens habet causam sue inherentie in subiecto, non autem principia proxima sui generis nisi in quantum modum substantie accipit, et propter hoc soli substantie competit diffinitio proprie uel accidenti habenti modum substantie. Si autem accidens in quantum accidens diffiniatur, hoc non est proprie nec per principia sui generis set alterius, scilicet subiecti, unde diffinitur sic per additamentum. </p>
-                <p>Ad rationes in contrarium dicendum est quod accidentia considerantur duobus modis: uno modo considerantur accidentia secundum dependentiam quam habent ad subiectum, et hoc modo habent proprie naturam accidentium, et sic non habent diffinitionem proprie set per additamentum. Alio modo considerantur prout comparantur ad res sui generis et habent ordinem in suo genere, et sic habent modum substantie et intensionem, et hoc modo intensionem diffinitionis supra se recipiunt. Vtrum autem accidentium sint propria principia per que diffiniantur determinatum est in aliis. </p>
-                <p><supplied>q6.2.5</supplied> Circa quintam questionem sic proceditur et queritur per quam uiam habeatur diffinitio et utrum, scilicet per diuisionem aut per compositionem. Et ostenditur quod habeatur per diuisionem. Diffinitio enim descendendo procedit a genere generalissimo differentias colligendo et eas coartando. Set omnis talis processus est processus diuisionis. Processus autem in ascendendo est processus  collectionis et compositionis, ergo si per primum processum habeatur diffinitio, diffinitio habetur per uiam distintionis et non per uiam compositionis uel collectionis.</p>
-                <p>Ad oppositum, uia diffinitiua procedit ad constitutione rei ex suis principiis. Constitutio autem rei ex suis principiis habetur per compositionem, ergo diffinitio habetur per compositionem. </p>
-                <p>Secunda ratio hec est, duplex est uia, scilicet uia resolutoria et uia compositiua. Via autem resolutoria incipit ab uno et resoluit in multa, uia autem compositiua incipit a multis et tendit ad unum. Set in diffinitione est inceptio a multis et processus ad unum, quia omne diffinitum aggregatum, ut testatur <name>Aristoteles</name> in libro <title>Metaphysice</title>. Item partes diffinitionis sunt in plus; totum autem est in eque. Hoc autem est per compositionem, ergo processus et uia in diffinitionem est per compositionem. </p>
-                <p>Postea queritur utrum diffinitio habeatur uia demonstrationis et utrum procedit uia demonstrationis, sicut procedit uia compositionis uel diuisionis. Et ostenditur quod sic: distinctio datur per causas et per uera principia rei, set talis processus est demonstratiuus, ergo diffinitio datur prout uia demonstrationis habetur ergo per demonstrationem. </p>
-                <p>Ad oppositum, omnis demonstratio competit accidenti prout subiecto inheret causam in subiecto radicatam. Distintio autem datur per principia rei in suo genere, ergo cum iste uie sint opposite diffinitio non habetur per uiam demonstrationis.</p> 
-                <p>Secunda ratio hec est, sicut testatur <name>philosophus</name>, diffinitio est principium demonstrationis, ut dicit in littera in principio <title>De anima</title>, quod cuiuslibet demonstrationis est principium quod quid est. Ergo diffinitio est uia in demonstrationem et non e contrario. Diffinitio ergo non habetur per uiam demonstrationis. </p>
-                <p>Tercia ratio hec est, diffinitio competit substantie et accidenti comparato ad res sui generis. Demonstratio autem competit accidenti prout ad subiectum comparatur et ad causam, set comparatio prima est simplicior et prior per intellectum omnium. Via uero per comparationem ad subiectum et causam subiecti est posterior et compositior, ergo uia demonstratiua posterior et compositior uia diffinitiua. Via ergo demonstratiua non est uia in diffinitionem. </p>
+               <p>
+                 Solutio. Dicendum est quod anima est principium corporis animati.
+                  Dicitur autem quodam modo esse principium propter duas causas. Vna causa est quia principium proprie est illud quod est efficiens.
+                  Anima autem non est efficiens corporis set motus eius et operationis, et propter hoc quodam modo est principium.
+                  Secunda causa est, quia principium proprie est extra, elementum autem intra. Causa uero commune est ad ista
+                   anima uero est intra, et propter hoc dicit quod anima est quodam modo principium.
+                 </p>
+                <p><supplied>q6.1.5.3</supplied> Tercia uero questio circa hoc est utrum anima sit principium cuiuslibet corporis ut ponatur anima forma in rebus naturalibus.
+                Et uidetur quod sic. Omnes dispositiones naturales ordinantur ad ultimam formam ut ad finem et ad quod stant, et illud est forma respectu illarum.
+                 Set omnia corpora ordinantur ad animam et finaliter omnes dispositiones naturales, sicut dicit <name>Auensorel</name>, ergo anima est prima forma corporum.
+                </p>
+                <p>
+                  Secunda ratio hec est, sicut habetur in secundo <title>De anima</title>, omnia corpora sunt instrumentum anime.
+                   Set anima est in corpore, quod est eius instrumentum, ergo anima est in omnibus corporibus.
+                   Set anima est in corpore tamquam forma in materia, ergo anima est forma omnium corporum prima.
+                 </p>
+                <p>
+                  Ad oppositum, si enim anima esset forma prima omnium corporum sic omnia corpora essent animata.
+                   Hoc autem falsum est, ergo anima non est prima forma omnium corporum.
+                 </p>
+                <p>
+                  Secunda ratio, ea quorum anima est forma et principium se ipsis mouentur, quia habent intra se principium sufficiens sui motus,
+                   set multa sunt corpora que non mouentur se ipsis, ergo anima non est prima forma corpori omnium.
+                 </p>
+                <p>
+                  Tercia ratio hec est, anima non est forma nisi corporis habentis diuersas dispositiones in partibus et in toto.
+                  Tale autem est
+                  <pb ed="#K" n="56-v"/>
+                  <cb ed="#K" n="a"/>corpus organicum.
+                  Si ergo non omnia corpora talia sunt, uidetur quod anima non sit principium cuiuslibet corporis nec forma prima.
+                </p>
+                <p>
+                  Solutio. Dicendum quod principium formale primum in aliquo genere est multipliciter: uno enim modo dicitur forma prima forma exemplaris
+                   omnium in qua omnia relucent tamquam in cognoscente et a qua egrediuntur tamquam ab efficiente, et sic primum est prima forma omnium.
+                  Alio modo dicitur prima forma, scilicet forma communis per predicationem, que non est aliqua natura fixa set est similitudo nature,
+                  et hoc modo posuit <name>Auicenna</name> et <ref> actor <title>Fontis uitae</title></ref> unam primam formam substantie que est substantia,
+                  que de omnibus substantiis predicatur. Tercio modo dicitur forma prima, scilicet forma illa que inter formas corporales nobilior est,
+                  et secundum cuius accessum et recessum corpora plus uel minus habent de forma, et sic lux est forma prima.
+                    <app><lem>Quarto modo dicitur forma prima</lem><rdg wit="#K" type="omission"/></app> que in genere nature est nobilissima et ad quam omnes alie ordinantur,
+                     et propter quam sunt.
+                    Et sic anima dicitur esse forma prima. Propter enim animam sunt omnes forme naturales.
+                    Quinto modo dicitur forma prima, scilicet forma illa que per sui distensionem in materia omnem materiam perficit ita ut distendatur per materiam
+                     corporalem et illam per partes eius perficiat.
+                    Et hoc modo non est possibile unam primam esse in natura, et hoc modo anima non est prima forma omnium corporum set alio modo,
+                     et per hoc patet uerificatio rationum ad partem utramque.
+                  </p>
+                <p>De sexto problemaute autem forte alibi dicetur.
+                </p>
+                <p><supplied>q6.2</supplied> Postquam dictum est de nobilitate et utilitate huius scientie querendum est de difficultate que incidit circa questionem
+                 quod quid est que communiter cadit in omnibus scientiis.
+                Et hoc est ut cum eo quod principiter est propositum, quia hoc est nichil aliud querere de difficultate diffinitionis et diffinitionem incidentem,
+                 et circa hanc questionem queruntur decem:
+              </p>
+                <p>
+                  Primum est utrum sit aliqua scientia communis tradens diffinitiones omnium et modum dffiniendi communiter.
+                  Secunda est que sit illa scientia que docet modum diffiniendi communiter.
+                  Tercia est de comparatione scientie diffinitiue ad diuisiuam et collectiuam.
+                  Quarta est cui rei proprie competat diffinitio.
+                  Quinta est per quam uiam habeatur diffinitio et notitia diffinitionis.
+                  Sexta cum sit duplex cognitio, scilicet diffinitiua et demonstratiua cui competit demonstratio, scilicet substantie an accidenti.
+                  Septima est utrum anima habeat diffinitionem et quomodo cognitio diffinitiua ei competat.
+                  Octaua est quomodo in anima sit ratio substantie et ratio nature.
+                  Nona est de diuersitate passionum anime, quas considerat <name>Philosophus</name>, quarum quedam sunt communes, quedam proprie.
+                  Decima et ultima est de modo cognoscendi animam in scientia ista. Dicit enim <name>Philosophus</name> quod prius inquiret scientiam anime et postea passiones; contrario tamen modo procedit.
+                 </p>
+                <p><supplied>q6.2.1</supplied> Circa primam sic proceditur et ostenditur quod sit una scientia communis que determinet modum diffiniendi communiter in omni scientia;
+                sicut habetur ab <name>Aristotele</name> in <name>Metaphisica</name>,
+                inconueniens est aliam uiam declarare aliam rem et querere modum secundum quem res illa decla
+                <pb ed="#K" n="55-v"/>
+                <cb ed="#K" n="b"/>ratur, et dicit <name>Commentator</name> quod hoc est simile illi qui docet uiam dum addiscit eam.
+                Ergo, cum quelibet scientia diffiniat, non docet quelibet scientia modum diffiniendi, necesse est ergo ponere aliam scientiam
+                 communem que doceat modum diffiniendi in qualibet scientia et a qua quelibet scientia accipiat modum diffiniendi.
+              </p>
+                <p>
+                  Secunda ratio hec est, in unoquoque genere est ponere statum et reductionem, ergo et in scientiis est ponere statum et reductionem.
+                  Ergo, cum scientia diffiniendi sit scientia, necesse est quod reducatur ad aliam que primo consideret modum diffiniendi.
+                 </p>
+                <p>
+                  Tercia ratio hec est, multiplex est cognitio, scilicet cognitio diffinitiua et cognitio demonstratiua.
+                   Diffinitio autem fit per principia rei. Demonstratio autem fit per causas rei.
+                   Set est alia communis demonstratiua que docet modum demonstrandi in qualibet scientia et regulat omnes in modo demonstrandi,
+                    ergo debet esse aliqua communis scientia que doceat et regulet omnes alias scientias in modo diffiniendi.
+                  </p>
+                <p>
+                  Quarta ratio hec est, si enim non sit una communis scientia que regulet omnes alias scientias in modo diffiniendi, tunc quelibet scientia habet proprium modum diffiniendi.
+                  Set tunc difficultas intellectui est ad cognoscendum quem modum diffiniendi habeat ista scientia et illa,
+                  ergo si per scientiam non regulatur intellectus de hoc, indirecte circa modum diffiniendi procedit.
+                  Cum ergo scientia sit per directionem intellectus, necesse est ponere aliquam scientiam que regulet intellectum communiter in modo diffiniendi in omnibus scientiis.
+                </p>
+                <p>
+                  Ad oppositum, diffinitio datur per uera rei principia. Set uera rei principia sunt diuersa et non eiusdem nature, ergo et diffinitiones diuerse.
+                  Ergo cum diuerse scientie sint de diuersis rebus que habent diuersa principia diuersimode diffinient et diuersas habebunt diffinitiones,
+                  sicut ergo uera rei principia non reducuntur ad unum ita nec scientie quantum ad suas diffinitiones ad unam reducentur.
+                  Non est ergo alia communis scientia a qua omnes scientie accipiant modum diffiniendi.
+                </p>
+                <p>
+                  Secunda ratio hec est, sicut dicit <name>Philosophus</name> in primo <title>De anima</title>, differenter diffinit logicus et physicus,
+                   quia logicus reddit speciem, physicus autem materiam.
+                  Item logicus diffinit per intensiones; phisycus autem multum per materiam. Metaphysicus autem et mathematicus diffiniunt per causas formales,
+                  moralis autem per causas finales.
+                  Quelibet ergo scientia habet modum proprium diffiniendi et non communem. Non est ergo alia scientia communis de modo diffiniendi in omnibus scientiis.
+                 </p>
+                <p>
+                  Tercia ratio hec est, sicut dicit <name>commentator</name> supra <title>Metaphysicam</title>, ars logica non est uniuersalis omnibus scientiis.
+                  Set si esset aliqua scientia que doceret modum diffiniendi in omnibus scientiis, hec esset quantum ad modum, cum ipsa logica doceat modum procedendi in aliis.
+                  Ergo, cum hoc sit falsum, quia non est uniuersalis, aliis uidetur quod non sit aliqua scientia de modo diffiniendi in omnibus scientiis communiter.
+                </p>
+                <p>
+                  Solutio. Dicendum est quod necesse est ponere unam scientiam communem que doceat modum diffiniendi in qualibet scientia communem et a qua quelibet scientia
+                 accipiat modum diffiniendi et que regulet communiter principia diffinitionis, et que sit illa scientia.
+                  Iam patebit, et
+                  <pb ed="#K" n="57-r"/>
+                  <cb ed="#K" n="a"/>concedo rationes ad hoc inductas.
+                </p>
+                <p>
+                  Ad rationes in contrarium dicendum est, et primo ad primam, quod dupliciter considerantur res, uno modo prout sunt sub propriis suis principiis, alio modo prout sunt sub suis principiis communibus.
+                  Res autem prout consideratur sub suis principiis communibus eundem habent modum diffiniendi communem.
+                  Habent enim omnes res essentiam et principia essentie et ex illis sortiuntur diffinitionem, et sic a parte communium principiorum datur modus communis diffiniendi res in illa scientia communi.
+                  Res autem considerate sub propriis principiis cadunt in diuersis scientiis quantum ad diffinitiones et diuersas habent diffinitiones,
+                  modus tamen diffiniendi uniuersalis est et communis et appropriatur eis.
+                 </p>
+                <p>
+                  Ad secundam dicendum est quod differenter diffiniunt artifices diuersi, tamen modus diffiniendi idem est proportionaliter, et proportionalis est in omnibus.
+                  Licet tamen principia rerum sint diuersa, tamen sunt eadem proportionaliter, quia sicut substantia habet sua principia per que diffinitur realia et accidentia,
+                  et sic modus diffiniendi habet idemptitatem proportionalem in diuersis scientiis
+                 </p>
+                <p>
+                  Ad terciam rationem dicendum est quod scientie considerantur duobus modis: uno modo a parte principiorum communium per que procedunt;
+                   alio modo a parte propriorum principiorum. A parte propriorum principiorum non est ars logica uniuersalis omnibus scientiis set a parte communium principiorum.
+                  </p>
+                <p><supplied>q6.2.2</supplied> Secunda questio est, supposito quod sit una scientia communis de modo diffiniendi in omnibus scientiis,
+                 queritur que sit illa. Et uidetur quod illa sit metaphysica.
+                Diffinitio enim sequitur uera principia rei, quia diffinitio est constitutio rei ex suis principiis, ergo illius scientie est determinare et considerare diffinitiones
+                omnium et modos diffiniendi cuius est determinare principia omnium.
+               Hec autem est metaphysica, ergo metaphysica est determinare omnium diffinitiones.
+              </p>
+                <p>
+                  Secunda ratio hec est, principia scientie sunt subiectum et partes eius.
+                 Item diffinitiones in scientia dantur pro partibus subiecti. Subiectum autem est communissimum ens tantum,
+                 et propter hoc ponitur esse principium omnium, sicut uult auctor <title>De causis<title>, prima rerum creatarum est esse,
+               id est principium rerum creatarum est esse, quia et latius et communis. Ergo illa scientia que considerat ens considerat principium omnium,
+                ergo si res diffiniuntur per sui principium, illa scientia que considerat ens considerat diffinitiones et modos diffiniendi.
+               Hec autem est metaphysica, ergo metaphysica docet modum diffiniendi in omnibus scientiis.
+             </p>
+                <p>
+                  Tercia ratio hec est, sicut dicit <name>Aristoteles</name>, demonstratio appropriatur accidentibus,
+                diffinitio autem appropriatur substantiis, ergo illa scientia que considerat substantiam in quantum substantia est et principia eius
+                debet considerare et docere diffinitiones omnium. Hec autem est metaphysica, ergo metaphysica docet modum diffiniendi omnium.
+               </p>
+                <p>
+                  Quarta ratio hec est, dicit <name>Aristoteles</name> in <title>metaphisica</title> quod metaphysica est de omnibus, et logica,
+               set differenter potestate et uoluntate, sicut dicit ista.
+               Ponatur autem hac differentia quod metaphysica est de omnibus quantum ad sua uera principia.
+               Logica autem quantum ad intensiones, et hoc est quod dicit <name>Auicenna</name> quod logica est de secundis intensionibus applicatis primis.
+               Diffinitio autem sequitur uera rei
+               <pb ed="#K" n="57-r"/>
+               <cb ed="#K" n="b"/>principia, ergo illa scientia que de omnibus determinat secundum sua uera principia determinat diffinitiones omnium.
+               Hec autem est metaphysica, ergo metaphysica docet diffinire in omnibus scientiis.
+         </p>
+                <p>
+                  Ad oppositum, illius scientie est determinare diffinitiones omnium cuius est regulare omnes scientias in modo procedendi circa omnia,
+                   set talis est logica, ergo logice est diffinitiones omnium docere et modum diffiniendi.
+                  </p>
+                <p>
+                  Secunda ratio hec est, sicut dicit <name>Alpharabius</name>, tria sunt opera rationis, scilicet diuidere, diffinire,
+                 colligere uel ratiocinari, quod idem est. Diffinere ergo est opus rationis, ergo illius scientie que est de operibus rationis et que
+                  regulat rationem in suis operibus est determinare uel docere modum diffiniendi omnia in omnibus scientiis.
+                </p>
+               <p>
+                 Tercia ratio hec est, scientia logice regulat rationem in sua opera.
+                  Ergo si est ars in logica que est communis ad omnem ordinationem predicamentalem, scilicet scientia predicamentorum, et est ars in logica que est communis ad omne opus componendi,
+                  sicut scientia <title>Periarmeneias</title>, et est ars in logica que est communis ad omne opus conferendi sicut scientia de sillogismo,
+                  et est ars in logica que est communis ad omne opus demonstrandi, sicur ars <name>Posteriorum</name>.
+                  Ergo, cum diffinire sit eodem modo opus rationis, debet esse aliqua ars communis in logica que doceat modum diffiniendi communiter.
+                </p>
+                <p>
+                  Solutio. Dicendum est quod tradere et docere modum diffiniendi in omnibus scientiis pertinet ad metaphysicam, sicut ostendunt rationes.
+                 Ipsa enim considerat principia omnium et ideo considerat diffinitiones constitutas ex principiis omnium, et ideo in VII <title>Metaphysice</title>
+               determinat <name>Aristoteles</name> genus omnium diffinitionum per sua principia, et docet modum diffiniendi communem ad omnem scientiam que
+                communis est per proportionem.
+              </p>
+                <p>
+                  Ad rationes in contrarium similiter dicendum est quod in diffinitionibus sunt duo, scilicet principia diffinitionis et modus diffiniendi.
+                 Principia autem diffinitionis sunt dupliciter, quedam enim intensiones communes et talia principia diffinitionis considerat <title>Topycus</title>.
+                 Alia sunt principia diffinitionis que sunt uera rei principia integrantia rei substantiam, et ita considerat metaphysicus.
+               Et sic primo modo considerat <title>Topycus</title> in sexto diffinitiones. Secundo autem modo metaphysicus.
+             </p>
+                <p>
+                  Modus autem diffiniendi duo respicit, scilicet supra ordinationem intellectus et ordinationem et exigentiam rerum in quantum entes sunt.
+                 In quantum autem modus diffiniendi respicit ordinationem intellectus, et cadit aspectus rationis supra ipsum sic pertinet ad logicum.
+               Secundo autem modo pertinet ad metaphysicum. Item modus diffinitionis cadens in aspectum rationis dupliciter considerantur:
+                uno modo prout cadit supra intensiones communes que sunt genus et differentia, et sic consideratur a <title>Topyco</title>.
+                Secundo modo prout cadit supra uera rei principia qua ordinantur ad demonstrationem in se recipiendo modum cause,
+               et sic pertinet ad <title>Secundum posteriorum</title>. Vno autem modo pertinet ad librum <title>Posteriorum</title>
+             et alter ad librum <title>Topicorum</title>, et alter ad <title>Metaphysicam</title>, et sic procedunt rationes ducte ad hoc.
+           </p>
+                <p><supplied>q6.2.3</supplied> Tercia questio est de comparatione scientia diffinitiua ad scientiam diuisiuam et collectiuam,
+               et queritur, cum in scientia logica determinetur de scientia colligendi, propter quid non determinatur
+             ab <name>Aristotele</name> de scientia diuidendi et propter quid scientia colligendi facit
+             <pb ed="#K" n="57-v"/>
+             <cb ed="#K" n="a"/>scientiam principalem separatam.
+           Scientia autem diuidendi facit scientiam annexam. Et obicitur sic: sicut enim dicit <name>Alpharabius</name> tria sunt opera rationis, scilicet diffinire,
+            diuidere et colligere.
+        Cum ergo logica sit de hiis tribus operationibus, sicut est principalis scientia de hoc opere quod est colligere, similiter et de istis que
+        sunt diuidere et diffiniere.
+        Et cum hoc queritur, cum regulatio principiorum omnium scientiarum spectet ad metaphysicum et ad logicum, quomodo differenter.
+      </p>
+                <p>Solutio. Dicendum est quod sicut est in natura ita est in scientiis. Dicit autem <name>Philosophus</name> in <title>Metaphysica</title> quod eorum que sunt quedam
+              sunt entia et quedam sunt entium et ea que sunt entium multipliciter sunt, quia quedam sunt principia ut materia et forma, quedam autem sunt uie ut motus,
+             quedam uero ut priuationes, quedam uero ut intensiones.
+             Similiter in scientia quedam sunt principalia, quedam autem non.
+             Principale autem in logica est oratio uel collatio; diuisio autem non est principale set sicut uia in diffinitionem, sicut uult <name>Aristoteles</name>.
+             Diffinitio autem non est principale, set est sicut terminus et sicut principium.
+             Est autem sicut terminus in <title>Topycis</title>, et est sicut principium in <title>Posteriorum</title>,
+            set illa que sunt sicut uia et terminus et principia non faciunt nisi scientiam annexam et non principalem,
+             et ideo diffinitio et diuisio in logica non faciunt scientiam principalem set annexam per appellationem, quia non sunt principalia.
+           </p>
+                <p>
+                  Ad secundam questionem dicendum est quod principia dupliciter considerantur: uno modo considerantur a parte sue substantie,
+                  et sic cadunt in <title>Metaphysica</title>.
+               Alio modo considerantur a parte modi procedendi ex principiis et circa principia, et sic considerantur a logico.
+             Iterum in principiis sunt multe cognitiones: prima est que est primus ortus principiorum in anima,
+           et ista cognitio principiorum habetur per secundum <title>Posteriorum</title>;
+         secunda est cognitio ipsorum per elementa ex quibus constant, et hec cognitio habetur per librum <title>Posteriorum</title>,
+         ut dicit <name>Aristoteles</name>, quod principia cognoscimus in quantum terminos.
+          Tercia est a parte uirtutis eorum per applicationem ad conclusionem, et hec similiter habetur per librum <title>Posteriorum</title>,
+          cum modum docet demonstrandi.
+           Quarta est per opiniones et per signa opinantia, et hec cognitio principiorum habetur per dyalecticam.
+            Docet enim dyalectica modum cognoscendi ea secundum modum istum. Quinta cognitio principiorum est prout cognoscitur in altero bene uel male se
+             habenti circa principalia, et sic cognoscitur per temptatiuam.
+            </p>
+                <p><supplied>q6.2.4</supplied> Circa quartam questionem proceditur sic, et queritur cui proprie competat diffinitio utrum,
+               scilicet substantie an accidenti aut utrique. Quod autem diffinitio soli substantie competat, sic ostenditur per auctoritatem,
+             quia dicit <name>Aristoteles</name> in <title>Metaphysica</title> demonstratio est accidentium, diffinitio uero substantie.
+            </p>
+                <p>
+                Secunda ratio hec est, diffinitio datur per propria rei principia in eodem genere existentia.
+                Sola uero substantia et illud quod habet modum substantie habet talia principia; non autem accidens in quantum accidens,
+               cum eius principium sit subiectum, quod est in alio genere. Ergo soli substantie uel modum eius habenti proprie competit diffinitio.
+             </p>
+                <p>
+                Tercia ratio hec est, genera predicamentalia dupliciter considerantur: uno modo considerantur per comparationem
+                ad ordinationem in eodem genere, et hoc modo
+                <pb ed="#K" n="57-v"/>
+                <cb ed="#K" n="b"/>supra se recipiunt diffinitionem.
+               Alio modo considerantur per operationem ad subiectum in quo radicantur, et hoc modo non recipiunt supra se diffinitionem set genera
+              prout comparantur ad res sui generis sunt substantia uel modum habent substantie;
+              substantia sunt habentia modum substantie et hoc modo proprie diffiniuntur.
+              Ergo soli substantie uel habenti modum substantie proprie competit diffinitio.
+             </p>
+                <p>
+              Quarta ratio hec est, duplex est cognitio: per uera rei principia et hec, sicut dicit <name>Algazel</name>
+              est intellectiua, alia autem est per exteriora, et hec est cognitio sensitiua.
+             Obiectum autem uirtutis intellectiue est quid, non autem est obiectum uirtutis sensitiue,
+           et hoc uult <name>Aristoteles</name> in secundo <title>De anima</title>.
+           Set accidentia cadunt in uirtute sensitiua sicut habetur ibi, substantia autem cadit in uirtute intellectiua,
+            ergo cum quidditas non cadat in uirtute sensitiua set intellectiua, necesse est quod quidditas uel diffinitio,
+           quod idem est, sit de obiectis uirtutis intellectiue et non uirtutis sensitiue.
+            Set substantia est obiectum uirtutis intellectiue, accidens autem sensitiue,
+             ergo solius substantie uel habentis modum substantie est diffinitio,
+              et ita cum accidentia sint obiecta uirtutis sensitiue accidentium non erit diffinitio nisi modum substantie supra se recipiant.
+            </p>
+                <p>
+                  Ad oppositum, sicut dicit <name>Auicenna</name>, unumquodque habet essentiam qua est id quod est, set diffinitio competit essentie,
+                ergo tam substantia quam accidens habent diffinitionem.
+              </p>
+                <p>
+                  Secunda ratio hec est, omnia que habent ordinationem in genere per principia sui generis habent diffinitionem.
+                   Set accidentia habent ordinationem in genere sicut substantie, ergo possunt diffiniri sicut substantie.
+                 </p>
+                <p>
+                  Solutio. Dicendum est quod, sicut testatur <name>Aristoteles</name> in <title>Metaphysica</title>, diffinitio soli substantie
+                 conuenit propterea quia habet principia proxima sui generis per que nata est diffiniri.
+                  Demonstratio autem est accidentium, quia demonstratio procedit per causas alterius generis subiecto insitas.
+                   Et quia accidens habet causam sue inherentie in subiecto, non autem principia proxima sui generis nisi in quantum modum
+                  substantie accipit, et propter hoc soli substantie competit diffinitio proprie uel accidenti habenti modum substantie.
+                  Si autem accidens in quantum accidens diffiniatur, hoc non est proprie nec per principia sui generis set alterius,
+                  scilicet subiecti, unde diffinitur sic per additamentum.
+                    </p>
+                <p>
+                  Ad rationes in contrarium dicendum est quod accidentia considerantur duobus modis:
+                  uno modo considerantur accidentia secundum dependentiam quam habent ad subiectum, et hoc modo habent proprie naturam accidentium,
+                  et sic non habent diffinitionem proprie set per additamentum.
+                  Alio modo considerantur prout comparantur ad res sui generis et habent ordinem in suo genere, et sic habent modum substantie et intensionem,
+                  et hoc modo intensionem diffinitionis supra se recipiunt.
+                  Vtrum autem accidentium sint propria principia per que diffiniantur determinatum est in aliis.
+                </p>
+                <p><supplied>q6.2.5</supplied> Circa quintam questionem sic proceditur et queritur per quam uiam habeatur diffinitio et utrum,
+                 scilicet per diuisionem aut per compositionem. Et ostenditur quod habeatur per diuisionem.
+                  Diffinitio enim descendendo procedit a genere generalissimo differentias colligendo et eas coartando.
+                   Set omnis talis processus est processus diuisionis. Processus autem in ascendendo est processus
+                   <pb ed="#K" n="58-r"/>
+                   <cb ed="#K" n="a"/>collectionis et compositionis, ergo si per primum processum habeatur diffinitio,
+                    diffinitio habetur per uiam distintionis et non per uiam compositionis uel collectionis.
+                 </p>
+                <p>
+                  Ad oppositum, uia diffinitiua procedit ad constitutione rei ex suis principiis.
+                   Constitutio autem rei ex suis principiis habetur per compositionem, ergo diffinitio habetur per compositionem.
+                 </p>
+                <p>
+                  Secunda ratio hec est, duplex est uia, scilicet uia resolutoria et uia compositiua.
+                 Via autem resolutoria incipit ab uno et resoluit in multa, uia autem compositiua incipit a multis et tendit ad unum.
+               Set in diffinitione est inceptio a multis et processus ad unum, quia omne diffinitum aggregatum, ut testatur
+                <name>Aristoteles</name> in libro <title>Metaphysice</title>.
+               Item partes diffinitionis sunt in plus; totum autem est in eque. Hoc autem est per compositionem,
+               ergo processus et uia in diffinitionem est per compositionem.
+             </p>
+                <p>
+                  Postea queritur utrum diffinitio habeatur uia demonstrationis et utrum procedit uia demonstrationis, sicut procedit uia compositionis uel diuisionis.
+                 Et ostenditur quod sic: distinctio datur per causas et per uera principia rei, set talis processus est demonstratiuus,
+                  ergo diffinitio datur prout uia demonstrationis habetur ergo per demonstrationem.
+                </p>
+                <p>
+                  Ad oppositum, omnis demonstratio competit accidenti prout subiecto inheret causam in subiecto radicatam.
+                  Distintio autem datur per principia rei in suo genere, ergo cum iste uie sint opposite diffinitio non habetur per uiam demonstrationis.
+                </p>
+                <p>
+                  Secunda ratio hec est, sicut testatur <name>Philosophus</name>, diffinitio est principium demonstrationis, ut dicit in littera in principio <title>De anima</title>,
+                  quod cuiuslibet demonstrationis est principium quod quid est.
+                  Ergo diffinitio est uia in demonstrationem et non e contrario. Diffinitio ergo non habetur per uiam demonstrationis.
+                </p>
+                <p>
+                  Tercia ratio hec est, diffinitio competit substantie et accidenti comparato ad res sui generis.
+                  Demonstratio autem competit accidenti prout ad subiectum comparatur et ad causam, set comparatio prima est simplicior et prior per intellectum omnium.
+                  Via uero per comparationem ad subiectum et causam subiecti est posterior et compositior, ergo uia demonstratiua posterior et compositior uia diffinitiua.
+                  Via ergo demonstratiua non est uia in diffinitionem.
+                 </p>
                 <p>Solutio ad primum et cetera.</p>
             </div>
         </body>
     </text>
 </TEI>
-
-                
-                
-                
-                

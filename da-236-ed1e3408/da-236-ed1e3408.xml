@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -56,31 +56,30 @@
     <body>
       <div xml:id="da-236-ed1e3408" >
         <head>Quaestio 2</head>
-        <head type="question-title">Utrum hec
-    conformitas quam habet anima cum rebus sit per similitudines rerum uel per participationem
+        <head type="question-title">Utrum hec conformitas quam habet anima cum rebus sit per similitudines rerum uel per participationem
     nature et esse rerum ita quod anima sit conformis rebus, quia in ipsa sint secundum
-    ueritatem uel quia in ipsa sint
-    per similitudinem</head>
-        <p xml:id="da-236-ed1e3408-d1e3416">[lec 11 q2] Circa secundam <seg>questionem</seg> sic proceditur et queritur utrum hec
-    conformitas | quam habet anima cum rebus sit per similitudines rerum uel per participationem
+    ueritatem uel quia in ipsa sint per similitudinem</head>
+        <p xml:id="da-236-ed1e3408-d1e3416">[lec 11 q2] Circa secundam <seg>questionem</seg>
+        sic proceditur et queritur utrum hec conformitas
+        <pb ed="#K" n="86-v"/>
+        <cb ed="#K" n="a"/>quam habet anima cum rebus sit per similitudines rerum uel per participationem
     nature et esse rerum ita quod anima sit conformis rebus, quia in ipsa <seg>sint</seg> secundum
       <seg>ueritatem</seg> uel quia in ipsa <seg>sint</seg>
           <seg>per</seg> similitudinem, et ostenditur quod hec conformitas solum sit secundum
       <seg>similitudines</seg> et quod res solum <seg>sint</seg> in anima per suas similitudines
-    et non secundum ueritatem, quia, sicut <seg>Algazel</seg> ad hoc ut fiat cognitio, tria
+    et non secundum ueritatem, quia, sicut <name>Algazel</name> ad hoc ut fiat cognitio, tria
     requiruntur: primum est ut substantia cognoscens sit inmunis a materia. Secundum est
-      <seg>ut</seg>
-          <seg>res</seg> que cognoscitur sit denudata a materia. Tercium est ut sit unio istorum ad
+      <seg>ut</seg> <seg>res</seg> que cognoscitur sit denudata a materia. Tercium est ut sit unio istorum ad
     inuicem, set anima est inmunis a materia, et ideo cognoscit. Ergo res que est in ea per
     cognitionem et denudata a materia, ergo in anima est illud de re quod denudatum <seg>est</seg>
     a materia. Hoc autem est solum species uel similitudo rei, <seg>ergo</seg> species
       <seg>uel</seg> similitudo rei est in anima et non res secundum ueritatem. Ergo anima habet
     conformitatem cum rebus <seg>secundum</seg> similitudinem solum et non per ipsas res nec per
-    participationem nature et esse earum.</p>
-        <p xml:id="da-236-ed1e3408-d1e3463">Secunda ratio hec est: sicut dicit Boethius in libro <hi>De conslatione
-       <seg>philosophie</seg>
-          </hi>, omne quod est in aliquo est secundum possibilitatem eius in
-    quo est. Set res sunt in anima, ergo sunt in <seg>anima</seg> secundum
+    participationem nature et esse earum.
+  </p>
+        <p xml:id="da-236-ed1e3408-d1e3463">Secunda ratio hec est: sicut dicit <name>Boethius</name>
+    in libro <title>De consolatione philosophie</title>, omne quod est in aliquo est secundum
+    possibilitatem eius in quo est. Set res sunt in anima, ergo sunt in <seg>anima</seg> secundum
       <seg>possibilitatem</seg> anime. Set anima est spiritualis, ergo sunt in <seg>ea</seg> modo
     spirituali. Illud autem quod est spirituale in <seg>re</seg> est sola species uel similitudo,
     ergo res sunt in anima per solam speciem <seg>uel</seg> similitudinem, et hoc
@@ -90,14 +89,14 @@
     luce in quibus apparent ydola rerum, ergo multo magis in anima, cum sit substantia
     spiritualis, sunt res secundum suas similitudines et non secundum suas substantias. Ergo habet
     anima conformitatem cum rebus per similituindes rerum et non per participationem essentie
-    rerum. </p>
-        <p xml:id="da-236-ed1e3408-d1e3493">Ad oppositum: omne illud quod operatur secundum proportionem et exigentiam elementorum habet
-    naturam elementorum participatione. Set anima est huiusmodi, ergo habet naturam elementorum
+    rerum.
+  </p>
+        <p xml:id="da-236-ed1e3408-d1e3493">Ad oppositum: omne illud quod operatur secundum proportionem
+          et exigentiam elementorum habet naturam elementorum participatione. Set anima est huiusmodi, ergo habet naturam elementorum
     participatione, ergo habet conformitatem cum rebus secundum essentiam et participationem
     essentie et non secundum similitudinem solum. Maior patet <seg>quia</seg> uidemus corpora
-    moueri secundum exigentiam elementorum que participant elementa. Minor patet ab Augustino in
-    libro <hi>De <seg>anima</seg>
-          </hi>, ubi dicit quod appropriantur elementa uirtutibus anime in
+    moueri secundum exigentiam elementorum que participant elementa. Minor patet ab <name>Augustino</name> in
+    libro <title>De anima</title>, ubi dicit quod appropriantur elementa uirtutibus anime in
     suis <seg>operationibus.</seg>
         </p>
         <p xml:id="da-236-ed1e3408-d1e3508">Secunda ratio hec est: omne illud quod est forma et completio corporis compositi ex elementis
@@ -108,22 +107,25 @@
       <seg>Minor</seg> patet, quia elementa sunt <seg>cause</seg> eorum que sunt ex elementis et
     eorum que in ipsis sunt, sicut completiones et forme. Ergo cum anima sit completio et forma
     que est in composito, anima resultabit ex formis elementorum secundum ueritatem, ergo habet
-    naturas rerum in se secundum ueritatem et non secundum similitudines solum. </p>
+    naturas rerum in se secundum ueritatem et non secundum similitudines solum.
+   </p>
         <p xml:id="da-236-ed1e3408-d1e3530">
-          <hi>|</hi>
-          <seg>Solutio.</seg> Dicendum est quod anima habet conformitatem cum <seg>omnibus</seg> rebus.
-    Hec autem conformitas est duplex: una enim est in cognoscendo secundum quam species omni|um in
-    ipsa representantur. Alia est in participando communiter <seg>omnis</seg> res. Participat enim
-    esse cum entibus et uitam cum uiuentibus et <seg>intellectum</seg> cum intelligentibus. Prima
+          <pb ed="#V" n="71-v"/>
+          <cb ed="#V" n="a">Solutio. Dicendum est quod anima habet conformitatem cum <seg>omnibus</seg> rebus.
+    Hec autem conformitas est duplex: una enim est in cognoscendo secundum quam species omni
+    <pb ed="#K" n="86-v"/>
+    <cb ed="#K" n="a"/>um in ipsa representantur. Alia est in participando communiter <seg>omnis</seg> res.
+    Participat enim esse cum entibus et uitam cum uiuentibus et <seg>intellectum</seg> cum intelligentibus. Prima
     autem conformitas est per similitudines et <seg>per</seg> species rerum per quas cognoscit
     res. Per similitudines enim rerum cognoscit res et non per earum <seg>ueritatem.</seg> Secunda
     autem conformitas est secundum ueritatem, set hec est secundum proportionem. Ad primam
     rationem in contrarium dicendum <seg>est</seg> quod anima operatur secundum exigentiam
     elementorum non quia ex eis componatur, set propter proportionem organorum quibus anima
-    operatur que sunt ex elementis que organa sequitur anima in operando et per que operatur. </p>
+    operatur que sunt ex elementis que organa sequitur anima in operando et per que operatur.
+   </p>
         <p xml:id="da-236-ed1e3408-d1e3557">Ad secundam rationem dicendum est quod in <seg>composito</seg>
           <seg>ex</seg> elementis est duplex forma: una est forma mixtionis, alia est forma addita
-    mixitioni sicut anima, <seg>alia</seg> enim non est forma mixtionis <seg>set</seg> addita
+    mixtioni sicut anima, <seg>alia</seg> enim non est forma mixtionis <seg>set</seg> addita
     mixtioni. Prima autem forma que est forma mixtionis resultat ex elementis. Secunda autem que
     est anima non nisi <seg>sicut</seg> ex preparantibus et disponentibus, set hec est duplex,
     quia quedam habet radicem in materia <seg>et</seg> quedam non. Illa que non habet radicem in
@@ -131,7 +133,8 @@
     preparantibus ad sui existentiam in corpore. Illa autem que habet radicem in materia est per
     uirtutem nature ex elementis, non quia elementa sint partes eius, set quia potentia
       <seg>est</seg> in elementis ut per operationem nature ex ipsa materia <seg>elementari</seg>
-    educantur ad actum. </p>
+    educantur ad actum.
+   </p>
         <p xml:id="da-236-ed1e3408-d1e3585">Rationes autem alie due sunt concedente in uia illa qua procedit, quia ostendunt quod anima
     habet conformitatem cum rebus in materia communi non fixa, non determinata, non
       <seg>detractata</seg> et hoc est uerum. Set non ostendunt quod secundum ueritatem

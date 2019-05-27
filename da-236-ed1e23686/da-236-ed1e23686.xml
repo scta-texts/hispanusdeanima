@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -98,7 +98,7 @@
       animatorum naturalium non est ab anima set ab alio principio. </hi>
         </p>
         <p xml:id="da-236-ed1e23686-d1e23784">
-          <hi>|</hi>
+          <hi><pb ed="#K" n="136-r"/><cb ed="#K" n="a"/></hi>
           <hi> Secunda ratio hec est: omnis operatio corporalis est a principio corporali inmediate. Set
       generatio est operatio corporalis, ergo generatio <seg>est</seg>
             <seg>corporalis</seg> in rebus animatis est a principio corporali. Set anima non est
@@ -126,7 +126,7 @@
           <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod duplex est generatio in
       rebus naturalibus. Quedam enim est per <seg>conuersionem</seg> mutuam unius in alterum,
       sicut generatio elementorum, et hec generatio est per naturam contrarietatis et de hac etiam
-      dicit Aristoteles quod generatio unius est corruptio alterius et hec etiam generatio quantum
+      dicit <name>Aristoteles</name> quod generatio unius est corruptio alterius et hec etiam generatio quantum
       ad transmutationem et mutuam conuersionem fit per naturam contrarietatis; quantum uero ad
       impressionem fit per naturam similis. Est enim <seg>alia</seg> generatio que fit per
       propagationem et emissionem seminis et hec est generatio animatorum et de hac non est uerum
@@ -145,7 +145,7 @@
         <p xml:id="da-236-ed1e23686-d1e23869">
           <hi>Ad terciam dicedum quod principium duplex est: quoddam quod <seg>primo</seg> mouet et
       regulat totam operationem et hoc </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="97-v"/><cb ed="#V" n="a"/></hi>
           <hi> modo anima est principium generationis et conuersionis seminis et distinctionis eius per
        <seg>substantiales</seg> partes lineares sicut regulans et primo <seg>uiuens.</seg> Ad hoc
        <seg>est</seg> principium alicuius quod inmediate mouet sicut instrumentum regulatum a

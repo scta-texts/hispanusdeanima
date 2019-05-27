@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -64,17 +64,17 @@
           <hi>[lec11 q4] Circa quartam questionem sic proceditur et queritur utrum substantia anime que
       est futura perfectio fetus sit in <seg>semine</seg> deciso a patre. Et secundum quem modum
       est in ipso. Ostenditur autem quod sit in ipso: sicut habetur in septimo </hi>
-          <hi>Methaphisice</hi>
+          <title>Methaphisice</title>
           <hi>, semen facit sicut illa que fiunt ex artificio, quia in eo est forma in potencia et illud
       ex quo est semen conueniens est in semine <seg>quoquo</seg> modo et intendit dicere quod
       anima que est forma seminum est in <seg>ipsis</seg>
-            <seg>sicut</seg> artis et principium est in artifice, ergo secundum Aristotelem, anima
+            <seg>sicut</seg> artis et principium est in artifice, ergo secundum <name>Aristotelem</name>, anima
        <seg>secundum</seg> suam substantiam que est futura perfectio et forma seminis est aliquo
       modo in semine. </hi>
         </p>
         <p xml:id="da-236-ed1e25080-d1e25115">
           <hi>Secunda ratio hec est: sicut habetur in septimo </hi>
-          <hi>Methaphisice</hi>
+          <title>Methaphisice</title>
           <hi>, omne quod fit quoquo modo fit a <seg>conuenienti</seg> nomine et <seg>specie</seg>
             <seg>et</seg> intendit quod generans et generatum sint similia nomine et <seg>specie.</seg>
       Ergo in eo quod generans est principium speciei per quod assimulatur generanti, ergo cum
@@ -88,24 +88,24 @@
           <hi>Ad oppositum: sunt duo in anima, scilicet substantia anime et potencia eius. A parte
       substantie dat anima esse; a parte potencie dat anima operationem. Si igitur substantia
       anime est perfectio in semine, ergo semen habet </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="99-r"/><cb ed="#V" n="a"/></hi>
           <hi> esse et uitam rei anime. Set omne tale est perfectum ab anima de sui natura, ergo semen
       esset perfectum ab anima de sui natura. Hoc autem est falsum, ergo in semine non est aliquo
       modo substantia anime. </hi>
         </p>
         <p xml:id="da-236-ed1e25080-d1e25162">
           <hi>Secunda ratio hec est: sicut habetur in secundo </hi>
-          <hi>De anima</hi>
-          <hi>, anima est perfectio corporis organici potencia uitam habentis, et dicit Aristoteles quod
+          <title>De anima</title>
+          <hi>, anima est perfectio corporis organici potencia uitam habentis, et dicit <name>Aristoteles</name> quod
       corpus <seg>quod</seg> est potencia ad uitam est corpus sicut perfectum et non sicut semen
-      uel fructus, ergo cum semen secundum Aristotelem non habet potenciam ad <seg>uitam</seg>
-      &lt;que potencia datur ab unione substantie anime, patet quod anima secundum sui substantiam
+      uel fructus, ergo cum semen secundum <name>Aristotelem</name> non habet potenciam ad <seg>uitam</seg>
+      que potencia datur ab unione substantie anime, patet quod anima secundum sui substantiam
       non est aliquo modo in semine cuius est futura perfectio.</hi>
         </p>
         <p xml:id="da-236-ed1e25080-d1e25180">
           <hi>Ad hoc dicimus quod anima secundum substantiam aliquo modo est in semine <seg>sicut</seg>
-      testatur Aristoteles in libro </hi>
-          <hi>De animalibus</hi>
+      testatur <name>Aristoteles</name> in libro </hi>
+          <title>De animalibus</title>
           <hi>. Est enim in semine secundum potenciam et per operationem uirtutum et naturalis
       organizatio, ergo corpus perfecte et tunc anima que est ibi potencia perfectio fit
       actu.</hi>
@@ -121,7 +121,7 @@
         </p>
         <p xml:id="da-236-ed1e25080-d1e25201">
           <hi>Ad secunda rationem dicendum quod aliter loquitur de anima in secundo </hi>
-          <hi>De anima</hi>
+          <title>De anima</title>
           <hi>, secundum quod est perfectio corporis organici uitam que est completam habentis et
       loquitur de potencia ipsius prout est ad uitam complete participatam et ideo excludit semen,
       nichilominus tamen sequitur quod anima sit in semine secundum potenciam.</hi>

@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -64,7 +64,7 @@
             <hi>Si</hi>
           </seg>
           <hi> autem aliquod commune in <seg>omni</seg> anima oportet dicere</hi>
-    et cetera. In parte determintata constituit philosophus anime diffinitionem. In hac autem
+    et cetera. In parte determintata constituit Philosophus anime diffinitionem. In hac autem
     parte ad <seg>explanationem</seg> diffinitionis habendam determinat comparationem anime ad
     corpus cuius est perfectio et per quod diffinitur et ostendit omnimodam unionem anime esse cum
     corpore, sicut est forme <seg>perficientis</seg> rem cum re perfectibili.</p>
@@ -76,7 +76,7 @@
     secundum quod est eius perfectio secundum quam corpus potentia non separatur ab anima potentia
     et corpus actu non separatur ab anima actu. Ordo autem per se euidens <seg>est,</seg> eo quod
     secunda pars oritur ex prima. Pars autem prima spectat ad presentem speculationem. Intendit
-    igitur philosophus in hac parte ad euidentiam maiorem <hi>|</hi> predicte diffinitionis
+    igitur Philosophus in hac parte ad euidentiam maiorem <hi><pb ed="#K" n="106-v"/><cb ed="#K" n="a"/></hi> predicte diffinitionis
     ostendere comparationem anime ad corpus, sicut perfectionis ad perfectibile. Recipit autem hec
       <seg>pars</seg> diuisionem in duas partes, in quarum prima ostendit predictam comparationem
     que <seg>est</seg> secundum omnimodam unionem. In secunda, scilicet in hac, <hi>uniuersaliter
@@ -91,14 +91,14 @@
     perfectionis specifice anima comparatur ad corpus diuiditur in duas partes, in quarum prima
     proponit hoc; <seg>in</seg> secunda probat illud que sic incipit:<hi> sicut si aliquod
       </hi>
-          <hi>|</hi>
+          <hi><pb ed="V" n="80-v"/><cb ed="#V" n="b"/></hi>
           <hi> organorum phisicum esset corpus</hi> et cetera. Prima pars indiuisa
     manet, set secunda diuiditur in duas, in quarum prima declarat intensionem <seg>suam</seg> per
     simile <seg>instrumentis</seg> artificialibus. In secunda, scilicet in hac, <hi>considerare
       autem et in partibus oportet quod dictum est</hi> et cetera, manifestat intensionem suam per
     comparationem totius anime ad totum corpus et partium eius ad partes corporis. </p>
         <p xml:id="da-236-ed1e10074-d1e10179">Diuisionis recollectio. Sunt igitur in presenti lectione partes quinque, in quarum prima
-    ostendit philosophus quod predicta diffinitio est maxime communis et conueniens anime. In
+    ostendit Philosophus quod predicta diffinitio est maxime communis et conueniens anime. In
     secunda tangit comparationem anime ad corpus secundum ueram unionem. In tercia ostendit
     comparationem anime ad corpus que est sicut <seg>comparatio</seg>
           <seg>comparationis</seg> per speciem ad proprium perfectibile. In quarta manifestat hanc
@@ -106,9 +106,9 @@
     comparationem totius anime ad totum corpus et partium eius ad partes corporis. <seg>Hec</seg>
     est diuisio huius partis. </p>
         <p xml:id="da-236-ed1e10074-d1e10191">Sententia prime partis <seg>est</seg> in qua ostenditur recta assignatio predicte
-      <seg>diuisionis.</seg> Circa autem <seg>primam</seg> partem procedit philosophus hoc modo
+      <seg>diuisionis.</seg> Circa autem <seg>primam</seg> partem procedit Philosophus hoc modo
     dicens quod si aliqua diffinitio communis assignetur de anima hec est: anima est prima
-      <seg>perfectio</seg> corporis phisici <seg>organizati</seg> potentia uitam habentis. </p>
+      <seg>perfectio</seg> corporis phisici <seg>organici</seg> potentia uitam habentis. </p>
         <p xml:id="da-236-ed1e10074-d1e10209">Sententia secunde partis <seg>est</seg> in <seg>qua</seg> tangitur <seg>spiritualis</seg>
     unio anime cum corpore ta<hi>n</hi>quam perfectionis <seg>cum</seg> perfectibili. consequenter
     agreditur secundam partem <seg>principalem</seg> in <seg>quam</seg> tangit comparationem
@@ -116,12 +116,13 @@
     ad ceram et uniuersaliter perfectio propria ad suum perfectibile, similiter se habet anima ad
     corpus. Set sic se habet figura cere ad ceram <seg>et</seg>
           <seg>uniuersaliter</seg> forma uel perfectio propria ad suum perfectibile quod ipsa uniuntur
-    unione sine distinctione et ex <hi>|</hi> ipsis fit unum <seg>in</seg> actu sicut ex
+    unione sine distinctione et ex <hi><cb ed="#K" n="106-v"/><cb ed="#K" n="b"/></hi> ipsis fit unum <seg>in</seg> actu sicut ex
       <seg>actu</seg> et materia que a suo actu habet unitatem non <seg>contingit</seg> querere
     utrum ex illis fiat unum nec est distinctio inter ipsa, ergo sic comparatur anima ad corpus ut
     uniatur cum ipso unione sine distinctione ut ex illis secundum actum indistinguibiliter unum
     fiat ut non sit querendum utrum ex illis fiat unum neque utrum sit distinctio inter ipsa. Ex
-    hiis autem habetur manifestatio <seg>prime</seg> partis diffinitionis anime, que est quod
+    hiis autem habetur
+     manifestatio <seg>prime</seg> partis diffinitionis anime, que est quod
     anima est perfectio corporis organici et cetera. </p>
         <p xml:id="da-236-ed1e10074-d1e10259">Sententia tercia partis est <seg>in</seg> qua <seg>ostenditur</seg> quod anima est perfectio
     corporis substantialis dans ei esse secundum speciem. Consequenter agreditur partem illam in
@@ -151,9 +152,9 @@
     forma secundum rationem ipsius, set est perfectio corporis naturalis in quo est principium
     motus et status, unde innuuit hanc rationem: anima est principium motus et status, unde innuit
     hanc rationem: anima <seg>est</seg> perfectio corporis in quo est principium motus et status.
-    Set corpus artificiale, sicut habetur in secundo <hi>Phisici</hi> negotii non habet intra se
+    Set corpus artificiale, sicut habetur in secundo <title>Phisici</title> negotii non habet intra se
     principium motus et status in quantum est artificiale, set solum naturale est huiusmodi habens
-    principium, ergo anima est perfectio <hi>|</hi> corporis naturalis et non artificialis. </p>
+    principium, ergo anima est perfectio <hi><pb ed="#K" n="107-r"/><cb ed="#K" n="a"/></hi> corporis naturalis et non artificialis. </p>
         <p xml:id="da-236-ed1e10074-d1e10330">Sententia quinte partis est de predictorum manifestatione per comparationem partium anime ad
     partes corporis et totius anime ad totum corpus. Consequenter manifestat suam
       <seg>intensionem</seg> per comparationem totius anime ad totum corpus et partium ad partes.
@@ -164,7 +165,7 @@
     haberet esse secundum speciem et ueritatem, set <seg>esset</seg> oculos equiuoce, sicut
     lapideus <seg>aut</seg>
           <seg>pictus.</seg>
-          <hi>|</hi> Deinde dicit quod similis est comparatio partis anime ad partem corporis et totius
+          <hi><pb ed="#V" n="81-r"/><cb ed="#V" n="a"/></hi> Deinde dicit quod similis est comparatio partis anime ad partem corporis et totius
     anime ad totum corpus, sicut uisus qui est potentialis pars anime sensibilis est perfectio
     oculi qui est pars totius animalis. Similiter tota anima sensibilis est perfectio totius
       <seg>animalis</seg> secundum quod est animal. Innuit <seg>igitur</seg> talem rationem: sicut

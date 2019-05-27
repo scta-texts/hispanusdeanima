@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -62,7 +62,7 @@
           <hi>[lec6 q4] Circa quartum sic proceditur et queritur utrum anima intellectiua sit
       separabilis a corpore. Et ostenditur quod sic: omnis substantia que nullius partis corporis
       est actus est <seg>separabilis</seg> a corpore, quia est independens ab eo et non coartata.
-      Set anima intellectiua est huiusmodi secundum <seg>Aristoteles,</seg> ergo est separabilis a
+      Set anima intellectiua est huiusmodi secundum <name>Aristoteles</name>, ergo est separabilis a
       corpore. </hi>
         </p>
         <p xml:id="da-236-ed1e17993-d1e18013">
@@ -70,7 +70,7 @@
       dependentem ab alio est separabilis, quia operatio sequitur substantiam cuius est. Ergo si
       separatio est independens et separabilis, et substantia cuius est operatio, erit independens
       et separabilis. Set anima intellectiua est huiusmodi respectu corporis, ergo anima
-      intellectiua a corpore est separabilis. Minor patet per Aristotelem in <seg>primo.</seg>
+      intellectiua a corpore est separabilis. Minor patet per <name>Aristotelem</name> in <seg>primo.</seg>
           </hi>
         </p>
         <p xml:id="da-236-ed1e17993-d1e18025">
@@ -87,7 +87,7 @@
         <p xml:id="da-236-ed1e17993-d1e18047">
           <hi>Secunda ratio hec est: anima intellectiua habet ortum in corpore et appetitum existentie
       in corpore et operatur et recipit </hi>
-          <hi>|</hi>
+          <hi><pd ed="#K" n="124-r"/><cb ed="#K" n="a"/></hi>
           <hi> a uirtutibus corporalibus quia creatur in corpore. Set nulla talis forma est separabilis,
       quia est dependens, ergo anima intellectiua non est separabilis a corpore. </hi>
         </p>

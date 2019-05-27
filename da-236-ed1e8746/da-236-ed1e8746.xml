@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -72,51 +72,50 @@
         </p>
         <p xml:id="da-236-ed1e8746-d1e8794">Secunda ratio hec est: omne illud quod sic comparatur ad illud in quo est <seg>sicut</seg>
     figura cere ad ceram, est forma. Anima est huiusmodi, ergo anima est forma. Maior patet per
-    se. Minor patet per <seg>textum</seg> secundi libri <hi>De <seg>anima</seg>
+    se. Minor patet per <seg>textum</seg> secundi libri <title>De anima</title>
           </hi>, ubi dicit
-      <seg>Aristoteles</seg> quod sicut non est querere utrum figura cere <seg>sint</seg> unum,
+      <name>Aristoteles</name> quod sicut non est querere utrum figura cere <seg>sint</seg> unum,
     similiter non est querere utrum anima et corpus sint unum. </p>
         <p xml:id="da-236-ed1e8746-d1e8814">Tercia ratio hec est: omne dans alicui esse in esse specifico per sui presentiam et per sui
     absentiam remouens est forma. Anima est huiusmodi, ergo anima est forma. Maior et minor patent
-    per ea que dicta sunt ab Aristotele in primo <hi>De <seg>anima</seg>
-          </hi> et in principio
-      <seg>secundi.</seg>
+    per ea que dicta sunt ab <name>Aristotele</name> in primo <title>De anima</title>
+      et in principio <seg>secundi.</seg>
         </p>
         <p xml:id="da-236-ed1e8746-d1e8825">Ad oppositum: <seg>situm</seg> nichil quod comparatur ad illud in quo est sicut motor ad
     mobile non est forma. Anima est huiusmodi, ergo anima non est forma. Maior patet per
-    Aristotelem <seg>dicendum</seg> im primo <hi>De <seg>anima</seg>
+    <name>Aristotelem</name> <seg>dicendum</seg> im primo <title>De anima</title>
           </hi> quod oportet motorem et
     mobile differe substantia. Anima autem non distat substantia ab eo cuius est forma. Minor
     patet per diffinitionem anime: anima est perfectio corporis organici et cetera. </p>
         <p xml:id="da-236-ed1e8746-d1e8839">Secunda ratio hec est: omne mobile motu locali est actu completum. Corpus animatum ante
     aduentum anime est mobile, ergo ante aduentum anime est actu completum. Maior patet per
-    Aristotelem in <seg>
-            <hi>Phisicis</hi>
+    <name>Aristotelem</name> in <seg>
+            <title>Phisicis</title>
           </seg>
           <hi/> dicentem motum localem non esse nisi
       <seg>completi.</seg>
-          <hi>|</hi> Minor patet sensui, set non est completio nisi a forma substantiali, ergo ante
+          <hi><pb ed="#V" n="79-r"/><cb ed="#V" n="a"/></hi> Minor patet sensui, set non est completio nisi a forma substantiali, ergo ante
     aduentum anime corpus non habet formam substantialem, set impossibile est aliquid habere duas
     formas <seg>substantiales,</seg> ergo uel anima non erit substantia set accidens uel non
       <seg>unitur</seg> corpori uel non erit forma corporis. </p>
         <p xml:id="da-236-ed1e8746-d1e8859">Tercia ratio hec est: nulla forma <seg>est</seg> separabilis <seg>ab</seg> eo cuius est forma
     nec e conuerso. Set anima secundum aliquam sui <seg>differentiam</seg> est separabilis a
-    corpore, ergo anima non est forma. Maior patet per Aristotelem dicentem in libro <hi>De
-       <seg>generatione</seg>
+    corpore, ergo anima non est forma. Maior patet per <name>Aristotelem</name> dicentem in libro <title>De
+       generatione</title>
           </hi> quod non est ponere materiam sine forma nec e
-      <seg>contrario.</seg> Minor patet in secundo <hi>De <seg>anima</seg>
-          </hi> in quo dicit
-    Aristoteles quod anima rationalis separabilis est a corpore. </p>
+      <seg>contrario.</seg> Minor patet in secundo <title>De anima</title>
+          in quo dicit
+    <name>Aristoteles</name> quod anima rationalis separabilis est a corpore. </p>
         <p xml:id="da-236-ed1e8746-d1e8885">
           <seg>Solutio.</seg> Ad hoc dicendum <seg>est</seg> quod anima est forma. Cuiusmodi autem
     forma sit postea dicetur.</p>
         <p xml:id="da-236-ed1e8746-d1e8894">Ad primum obiectum dicendum quod <seg>sunt</seg> quedam in quibus est alia comparatio forme
-    ad materiam et motoris ad mobile. Sunt autem <hi>|</hi>
+    ad materiam et motoris ad mobile. Sunt autem <hi><pb ed="#K" n="103-v"/><cb ed="#K" n="b"/></hi>
           <seg>alia</seg> in quibus licet differant ratione forma et motor, tamen idem est in substantia
     et hoc est in animatis in quibus illud quod est forma est substantia et in quibus mobile
     completum est in genere mobilium et in quibus motor et mobile differunt substantia. Et hoc
       <seg>habetur</seg> in <seg>
-            <hi>Phisicis</hi>
+            <title>Phisicis</title>
           </seg>
           <hi/> quod omne quod mouetur a se
       <seg>ipso</seg> diuisibile est in differentia secundum essentiam et ideo animata a se ipsis
@@ -134,8 +133,8 @@
     quod sic hac ratione: omne mouens quod est principium motus completi est actu completum. Anima
     est huiusmodi, ergo anima est actu completum. Maior patet cum incompletum non sit causa
     completi. Minor patet quia anima est principium motus localis, qui est motus completi secundum
-    Aristotelem in <seg>
-            <hi>Phisicis</hi>.</seg> Set nichil est completum in natura nisi
+    <name>Aristotelem</name> in <seg>
+            <title>Phisicis</title>.</seg> Set nichil est completum in natura nisi
     substantia que est <seg>hoc</seg> aliquid, ergo anima est substantia que est hoc aliquid. </p>
         <p xml:id="da-236-ed1e8746-d1e8947">Secunda ratio hec est: omne agens in natura completum in genere <seg>sui</seg> cuius actio
     non est substantia habet aliquid in se quo <seg>agit</seg> et aliquid quo non <seg>agit.</seg>
@@ -144,9 +143,12 @@
     illud quo agit est forma uel quo est illud quo non agit est forma uel quo est illud quo non
     agit <seg>est</seg> quod est, ergo in anima est quo est et quod est et ita substantia est que
     est hoc aliquid. </p>
-        <p xml:id="da-236-ed1e8746-d1e8969">Ad <seg>oppositum:</seg> omne habens principia sufficientia ad esse sui in genere
+        <p xml:id="da-236-ed1e8746-d1e8969">Ad <seg>oppositum:</seg> omne habens principia sufficientia
+         ad esse sui in genere
     substantiarum spiritualium est separabile ab eo in quo est per naturam <seg>ut</seg> per se
-      <seg>subsistat.</seg> Maior patet per se, quia si tale est a nullo dependet uel in quo sit
+      <seg>subsistat.</seg> Set omne quod est hoc aliquid in genere incorporeum est huiusmodi,
+       ergo omne tale est separabile ab eo in quo est per naturam ut per se subsistat. Maior patet
+    per se, quia si tale est a nullo dependet uel in quo sit
     uel de quo sit. Minor patet quia substantia que est hoc aliquid habet quod est et quo est, que
     sunt principia sufficientia ad esse. Cum ergo, sicut ponitur, anima uegetabilis et sensibilis
       <seg>habet</seg> hoc aliquid et ita habentia principia sufficientia ad esse erunt
@@ -158,7 +160,7 @@
     falsum <seg>est,</seg> et tamen <seg>secundum</seg> quod anima non est composita ex uera
     materia et <seg>forma</seg> secundum quod uera materia appellatur materia corporalis, set est
     composita ex quo est et quod est sicut quelibet <seg>substantialis</seg> uel ex materia et
-    forma <seg>spiritu<hi>|</hi>ali.</seg>
+    forma <seg>spiritu<hi><pb ed="#K" n="104-r"/><cb ed="#K" n="a"/></hi>ali.</seg>
         </p>
         <p xml:id="da-236-ed1e8746-d1e9018">Ad primam rationem in contrarium dicendum <seg>est</seg> quod habere <seg>principia</seg>
     sufficientia ad sui esse est duobus modis: uno modo erradicata sunt in materia in qua est
@@ -168,7 +170,7 @@
     principiis corporis et dependeant ab ipso <seg>secundum</seg> esse et
       <seg>contractionem.</seg> Et hoc modo non est ponere quod habeant principia sufficientia sui
     esse. Non tamen erradicata in alio et tale separabile est sicut est anima rationalis, que
-    nullius <seg>est</seg> partis <seg>corporis</seg> actus secundum Aristotelem et que non
+    nullius <seg>est</seg> partis <seg>corporis</seg> actus secundum <name>Aristotelem</name> et que non
     dependet a corpore <seg>nisi</seg> secundum exitum in esse et non secundum continuationem, et
     hec solutio magis <seg>patet</seg> per diuisionem rerum a parte sui exitus que multotiens
       <seg>dicta</seg> est in primo libro et alicubi postea dicetur de loco competenti, et per hoc

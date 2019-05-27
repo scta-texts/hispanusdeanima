@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,8 +50,21 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 4</head>
-               <p>Quarta questio est de separatione huius sciencie a sciencia paruorum librorum. Et uidetur quod sint eadem, nam eiusdem sciencie sunt operationes anime et ipsa anima. Cum igitur in illis libris <cb ed="#K" n="49va"/> determinetur de operationibus anime, in hac autem sciencia de ipsa anima et ita uidetur quod ista sciencia sit eadem cum illis et non separabilis ab illis.</p>
-<p>Solutio. Dicendum est quod duplex est subiectum in sciencia, unum quod non addit principium alterius nature supra subiectum commune et principale in illa tota sciencia, sicut linea curua et recta sint eiusdem sciencie cum linea simpliciter. Aliud est quod addit aliud principalium supra illud subiectum commune, sicut linea uisualis addit aliud principium supra lineam simpliciter. Et tale facit scienciam separatam ab illo communi, et ideo in alia cadit sciencia linea uisualis et linea simpliciter. Similiter dico quod operationes anime que determinantur in <title>Minoribus libris</title> addunt principium alterius nature supra illas que determinantur in hac sciencia, quia in hac sciencia determinatur de anime operationibus que egrediuntur ab anima. In illis autem de operationibus anime que tantum egrediuntur a corpore, et ita sunt ab alio principio ille et iste et propter hoc hec sciencia separatur a sciencia minorum librorum.
+               <p>
+                 Quarta questio est de separatione huius sciencie a scientia <title>Paruorum librorum</title>.
+                 Et uidetur quod sint eadem, nam eiusdem sciencie sunt operationes anime et ipsa anima. Cum igitur in illis libris
+                 <pb ed="#K" n="49-v"/>
+                 <cb ed="#K" n="a"/>determinetur de operationibus anime,
+                 in hac autem scientia de ipsa anima et ita uidetur quod ista scientia sit eadem cum illis et non separabilis ab illis.
+               </p>
+<p>
+  Solutio. Dicendum est quod duplex est subiectum in scientia, unum quod non addit principium alterius nature supra subiectum commune et principale in illa tota scientia,
+   sicut linea curua et recta sint eiusdem scientie cum linea simpliciter.
+  Aliud est quod addit aliud principalium supra illud subiectum commune, sicut linea uisualis addit aliud principium supra lineam simpliciter.
+  Et tale facit scientiam separatam ab illo communi, et ideo in alia cadit scientia linea uisualis et linea simpliciter.
+  Similiter dico quod operationes anime que determinantur in <title>Minoribus libris</title> addunt principium alterius nature supra illas que determinantur in hac scientia,
+  quia in hac scientia determinatur de anime operationibus que egrediuntur ab anima; in illis autem de operationibus anime que tantum egrediuntur a corpore,
+   et ita sunt ab alio principio ille et iste et propter hoc hec scientia separatur a scientia <title>Minorum librorum</title>.
 </p>
             </div>
         </body>

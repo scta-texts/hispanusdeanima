@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -73,20 +73,20 @@
       corporis, ergo anima comparatur ad corpus in ratione cause efficientis. Quod autem anima
       comparetur ad <seg>corpus</seg> sicut causa finalis, sic ostenditur: omnia instrumenta sunt
       propter finem, quia finis eis imponit necessitatem et omnibus que sunt ad finem, set partes </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="127-r"/><cb ed="#K" n="b"/></hi>
           <hi> corporis sunt instrumenta anime et totum corpus est sicut instrumentum anime, quia, sicut
-      habetur ab <seg>Aristotele,</seg> anima operatur per corpus et per partes eius tanquam per
+      habetur ab <name>Aristotele,</name> anima operatur per corpus et per partes eius tanquam per
       instrumenta, ergo anima est causa finalis ipsius corporis. </hi>
         </p>
         <p xml:id="da-236-ed1e19643-d1e19694">
-          <hi>Quod autem anima sit causa formalis corporis sic ostenditur: dicit enim Aristoteles in
+          <hi>Quod autem anima sit causa formalis corporis sic ostenditur: dicit enim <name>Aristoteles</name> in
       capitulo ‘de <seg>uegetabili’</seg> quod anima est causa formalis corporis quia dat ei esse,
       scilicet uiuere. Item est <seg>causa</seg> efficiens quia est principium, unde motus, in
       corpore. Item est causa finalis ipsius quia omnia corpora et partes eorum sunt instrumenta
       anime et fiunt propter ipsam. </hi>
         </p>
         <p xml:id="da-236-ed1e19643-d1e19707">
-          <hi>Ad oppositum: dicit Aristoteles in loco illo in quo determinat in quo genere cause anima
+          <hi>Ad oppositum: dicit <name>Aristoteles</name> in loco illo in quo determinat in quo genere cause anima
       comparetur ad corpus quod anima comparatur ad corpus sicut causa formalis ipsius corporis et
       non dicit quod comparetur ad ipsum in alio genere cause. </hi>
         </p>
@@ -102,7 +102,7 @@
        <seg>ipsi</seg> corpori. </hi>
         </p>
         <p xml:id="da-236-ed1e19643-d1e19734">
-          <hi>Ad rationem in contrarium dicendum <seg>est</seg> quod <seg>Aristoteles</seg> in illo loco
+          <hi>Ad rationem in contrarium dicendum <seg>est</seg> quod <name>Aristoteles</name> in illo loco
       determinat unam solam comparationem anime ad corpus in capitulo, <seg>scilicet</seg> ‘de
       uegetabili’ ubi docet quod anima in triplici genere comparatur ad corpus. </hi>
         </p>

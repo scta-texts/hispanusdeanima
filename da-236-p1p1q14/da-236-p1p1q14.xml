@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -49,19 +49,54 @@
   <text>
       <body>
          <div>
-            
+
             <head>Preambula, Problema 1, Quaestio 14</head>
-            <p>Quartadecima questio est utrum de anima secundum omnem sui differentiam determinatur in hac sciencia. Et uidetur quod sic, quia omnis sciencia que considerat operationes et obiecta cuiuslibet differentie anime determinat de omni differentia anime. Set hec sciencia de anima est huiusmodi, ergo in hac sciencia determinatur de anima secundum omnem sui differentiam. Maior per se patet, minor patet quia in secundo <title>De anim</title> a determinatur de operationibus, obiectis et uirtutibus anime uegetabilis et sensibilis. In tercio autem determinatur de operationibus obiectis et uirtutibus anime> intellectiue.</p>
-            <p>Ad oppositum est hec ratio, primo omnis forma que est alicuius partis corporis actus in eadem sciencia cum corpore debet determinari. Set alie differentie anime ab intellectiua sunt huiusmodi, ergo debent in alia sciencia determinari cum corpore et non in eadem sciencia cum intellectiua, cum per oppositum se habeant, quia intellectiua nullius partis corporis est actus, ergo in hac sciencia non determinatur simul de omni differentia anime.</p>
-                  <p>Secunda ratio hec est, sciencie de rebus animatis habent pro subiecto corpus animatum. Set in libro <title>De uegetalibus</title>  determinatur de corpore animato perfecto anima uegetabili. In libro autem <title>Animalium</title>  determinatur de corpore animato perfecto anima sensibili. Ergo necesse est ponere aliam scienciam ab illis in qua determinatur de corpore animato perfecto anima intellectiua. |Hec autem est ista sciencia de anima, ergo in sciencia de anima non determinatur de anima secundum omnem sui differentiam set solum de intellectiua.</p>
-            <p>Solutio. Dicendum est quod quidam posuerunt quod subiectum in hac sciencia non nisi corpus animatum anima intellectiua, et posuerunt quod in libro <title>De uegetabilibus</title>  determinatur de corpore animato anima uegetabili; in libro autem <title>De animalibus</title> de corpore animato anima sensibili; in hac autem sciencia de corpore animato anima intellectiua. Et si in hac sciencia determinetur de aliis differentiis anime, hoc est per accidens et prout sunt dispositiones ad intellectiuam, unde non principaliter determinatur hic de aliis set in aliis libris qui dicti sunt. Hic autem de intellectiua principaliter. Dicendum est autem quod hic determinatur de anima secundum omnem sui differentiam.</p>
-            <p>Ad primam autem rationem in contrarium dicendum est quod duplex est forma, quedam est que est forma tantum, quedam que est forma et substantia. Prima forma non habet operationes alias nisi quas habet in materia. Forma autem que est substantia habet alias operationes preter illas quas habet siue contrahit a materia, tamen illas in materia exercet et egrediuntur ab illa preter materiam. Forma uero prima nullam habet sine materia, unde habet illas et a materia et in materia. Forma autem illa que habet operationes omnes preter materiam ita quod non est a materia potest cadere in alia sciencia <cb ed="#K" n="48vb"/> quam materia. Talis autem forma est anima uegetabilis et sensibilis, cum sint forme substantie et propter hoc in alia sciencia> possunt cadere quam corpora quorum sunt.</p> 
-            <p>Ad secundam rationem dicendum est quod in corpore animato sunt tria, scilicet complexio corporis, et dispositio partium eius, et ortus et ordinatio  illarum, et sic determinatur de corpore animato in libro <title>Animalium</title> et <title>Vegetabilium</title>. Set in libro <title>Animalium</title> determinatur hoc modo de omni corpore sensibili tam bruti quam hominis. In libro autem <title>Vegetabilium</title> determinatur hoc modo de corpore uegetabili secundum quod est in corpore animato. Et operationes anime que egrediuntur ab anima et terminantur ad corpus, et sic determinatur in libro <title>De anima</title> de quolibet corpore animato, et ideo intitulatur ab anima, quia de ipso determinatur ratione anime et operationum eius. Tercium est operationes que proueniunt corpori animato a parte corporis et habent ortum a corpore, et sic determinatur de corpore animato in minoribus libris ut in libro <title>De sompno et uigilia</title> , <title>De morte et uita</title>, <title>De inspiratione et respiratione</title>, quia sompnus, uigilia, mors, uita, inspiratio, respiratio incipiunt a corpore. Y sic patet quod non est alia sciencia in qua determinetur de anima uegetabili cum corpore cuius est, set in hac sciencia determinatur de anima secundum omnem sui differentiam.</p> 
-                  
-            
+            <p>
+              Quartadecima questio est utrum de anima secundum omnem sui differentiam determinatur in hac scientia.
+               Et uidetur quod sic, quia omnis scientia que considerat operationes et obiecta cuiuslibet differentie anime determinat de omni differentia anime.
+               Set hec scientia de anima est huiusmodi, ergo in hac scientia determinatur de anima secundum omnem sui differentiam. Maior per se patet, minor patet quia in secundo <title>De anima</title>
+              a determinatur de operationibus, obiectis et uirtutibus anime uegetabilis et sensibilis. In tercio autem determinatur de operationibus obiectis et uirtutibus anime intellectiue.
+            </p>
+            <p>
+              Ad oppositum est hec ratio, primo omnis forma que est alicuius partis corporis actus in eadem scientia cum corpore debet determinari. Set alie differentie anime ab intellectiua sunt huiusmodi,
+              ergo debent in alia scientia determinari cum corpore et non in eadem scientia cum intellectiua, cum per oppositum se habeant, quia intellectiua nullius partis corporis est actus,
+              ergo in hac scientia non determinatur simul de omni differentia anime.
+            </p>
+                  <p>Secunda ratio hec est, scientie de rebus animatis habent pro subiecto corpus animatum. Set in libro <title>De uegetalibus</title> determinatur de corpore animato perfecto anima uegetabili.
+              In libro autem <title>Animalium</title> determinatur de corpore animato perfecto anima sensibili. Ergo necesse est ponere aliam scientiam ab illis in qua determinatur de corpore animato
+              perfecto anima intellectiua.
+              <pb ed="#V" n="55-r"/>
+              <cb ed="#V" n="a"/>Hec autem est ista scientia de anima, ergo in scientia de anima non determinatur de anima secundum omnem sui differentiam
+              set solum de intellectiua.
+            </p>
+            <p>
+              Solutio. Dicendum est quod quidam posuerunt quod subiectum in hac scientia non nisi corpus animatum anima intellectiua, et posuerunt quod in libro <title>De uegetabilibus</title>
+            determinatur de corpore animato anima uegetabili; in libro autem <title>De animalibus</title> de corpore animato anima sensibili; in hac autem scientia de corpore animato anima intellectiua.
+            Et si in hac scientia determinetur de aliis differentiis anime, hoc est per accidens et prout sunt dispositiones ad intellectiuam, unde non principaliter determinatur hic de aliis set in aliis libris
+            qui dicti sunt. Hic autem de intellectiua principaliter. Dicendum est autem quod hic determinatur de anima secundum omnem sui differentiam.
+          </p>
+            <p>
+            Ad primam autem rationem in contrarium dicendum est quod duplex est forma, quedam est que est forma tantum, quedam que est forma et substantia. Prima forma non habet operationes alias nisi quas habet
+             in materia. Forma autem que est substantia habet alias operationes preter illas quas habet siue contrahit a materia, tamen illas in materia exercet et egrediuntur ab illa preter materiam.
+             Forma uero prima nullam habet sine materia, unde habet illas et a materia et in materia. Forma autem illa que habet operationes omnes preter materiam ita quod non est a materia potest cadere in
+             alia scientia  quam materia. Talis autem forma est anima uegetabilis et sensibilis, cum sint forme substantie et propter hoc in alia scientia
+             <pb ed="#K" n="48-v"/>
+             <cb ed="#K" n="b"/>possunt cadere quam corpora quorum sunt.
+            </p>
+            <p>
+              Ad secundam rationem dicendum est quod in corpore animato sunt tria, scilicet complexio corporis, et dispositio partium eius, et ortus et ordinatio illarum,
+             et sic determinatur de corpore animato in libro <title>Animalium</title> et <title>Vegetabilium</title>.
+            Set in libro <title>Animalium</title> determinatur hoc modo de omni corpore sensibili tam bruti quam hominis.
+            In libro autem <title>Vegetabilium</title> determinatur hoc modo de corpore uegetabili secundum quod est in corpore animato.
+             Et operationes anime que egrediuntur ab anima et terminantur ad corpus, et sic determinatur in libro <title>De anima</title> de quolibet corpore animato, et ideo intitulatur ab anima,
+             quia de ipso determinatur ratione anime et operationum eius. Tercium est operationes que proueniunt corpori animato a parte corporis et habent ortum a corpore, et sic determinatur de corpore
+             animato in minoribus libris ut in libro <title>De sompno et uigilia</title>, <title>De morte et uita</title>, <title>De inspiratione et respiratione</title>, quia sompnus,
+             uigilia, mors, uita, inspiratio, respiratio incipiunt a corpore. Et sic patet quod non est alia scientia in qua determinetur de anima uegetabili cum corpore cuius est,
+            set in hac scientia determinatur de anima secundum omnem sui differentiam.
+          </p>
          </div>
       </body>
   </text>
-  
- 
+
+
 </TEI>

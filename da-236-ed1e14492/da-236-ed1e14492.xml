@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -62,7 +62,7 @@
           <seg>questionem</seg> sic proceditur et queritur que sit illa diffinitio materialis que
     demonstratur. Et ostenditur quod sola illa diffinitio materialis que demonstratur est
     diffinitio passionis inherentis subiecto, sicut habetur in <seg>
-            <hi>Methaphisica</hi>,</seg>
+            <title>Methaphisica</title>,</seg>
     diffinitio conuenit substantie, demonstratio <seg>conuenit</seg> proprie
       <seg>accidentibus,</seg> ergo illud quod demonstratur proprie habetur naturam accidentis,
     ergo si aliqua diffinitio demonstratur illa diffinitio erit accidentis prout est accidens.
@@ -81,16 +81,16 @@
     demonstrari habet rationem accidentis in quantum accidens. Hoc autem est diffinitio passionis
     prout ad <seg>subiectum</seg> applicatur, ergo illa sola materialis est que <seg>est</seg>
           <seg>talis</seg> diffinitio materialis demonstratur. </p>
-        <p xml:id="da-236-ed1e14492-d1e14567">&lt;Quarta ratio hec est: illa sola diffinitio demonstratur que habet aliam causam. Set causa
+        <p xml:id="da-236-ed1e14492-d1e14567">Quarta ratio hec est: illa sola diffinitio demonstratur que habet aliam causam. Set causa
     est duplex: una in essendo, alia in habendo alicui extraneo, a quo differt per essentiam. Illa
     autem diffinitio que demonstratur habet causam inherendi*, quia omne quod demonstratur est
     inherens habens causam mediam inter se et illud cui inheret. Hoc autem sola diffinitio
     materialis, que est accidentis inherentis subiecto. Ergo illa diffinitio materialis que
-    demonstratur est diffinitio accidentis inherentis <hi>|</hi>
-          <seg>subiecto.&gt;</seg>
+    demonstratur est diffinitio accidentis inherentis <hi><pb ed="#V" n="86-v"><cb ed="#V" n="b"></></hi>
+          <seg>subiecto.</seg>
         </p>
-        <p xml:id="da-236-ed1e14492-d1e14575">Ad oppositum: sicut dicit Aristoteles in libro <seg>
-            <hi>Posteriorum</hi>,</seg> quedam sunt
+        <p xml:id="da-236-ed1e14492-d1e14575">Ad oppositum: sicut dicit <name>Aristoteles</name> in libro <seg>
+            <title>Posteriorum</title>,</seg> quedam sunt
     diffinitiones formales, quedam <seg>uero</seg> materiales, et dicit quod omnes materialis
     habent alteram causam. Omnes igitur materiales sunt demonstrabiles, quia omne habens causam
       <seg>alteram</seg> est demonstrabile. </p>
@@ -110,8 +110,9 @@
     Item sole diffinitiones materiales consequentes propria accidentia prout inherent subiectis
     per causas <seg>proprias</seg> demonstrantur, sicut enim accidentia habent proprias causas in
     subiecto per quas <seg>demonstrantur</seg> de ipso. Talis autem est ista diffinitio,
-      <seg>tonitruum</seg> est continuus sonus in nubibus. Hec <seg>enim</seg> datur <hi>|</hi>
-    per inherentiam passionis in subiecto et propter hoc dicit Aristoteles quod nichil differt
+      <seg>tonitruum</seg> est continuus sonus in nubibus. Hec <seg>enim</seg> datur <hi>
+    <pb ed="#K" n="116-r"/><cb ed="#K" n="b"/></hi>
+    per inherentiam passionis in subiecto et propter hoc dicit <name>Aristoteles</name> quod nichil differt
     dicere sonum <seg>continuum</seg> in nubibus et tonitruum. </p>
         <p xml:id="da-236-ed1e14492-d1e14638">Ad primam rationem que ostendit quod omnis diffinitio materialis demonstratur et non
     demonstrat, patet solutio per predicta. Hec enim materialis que dicta <seg>est</seg> ita

@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -72,8 +72,8 @@
         <p xml:id="da-236-ed1e7740-d1e7767">Secunda ratio est: <seg>ista</seg> corpora mixta componuntur ex contrariis, et ideo nata sunt
     dissolui propter repugnantiam contrariorum. Quodlibet enim contrarium nititur unice
       <seg>re</seg> supra <seg>relicuum-</seg> Set corporum quedam forti coagulatione compacta
-    sunt, sicut uult <seg>Auicenna,</seg> et huiusmodi sunt lapides et huiusmodi indissolubiliter
-    constant. Alia autem debili <hi>|</hi> coagulatione compacta sunt, sicut homines et bruta et
+    sunt, sicut uult <name>Auicenna,</name> et huiusmodi sunt lapides et huiusmodi indissolubiliter
+    constant. Alia autem debili <hi><pb ed="#K" n="101-v"/><cb ed ="#K" n="a"/></hi> coagulatione compacta sunt, sicut homines et bruta et
     plante, et breuiter sicut sunt corpora animata et talia <seg>uelociter,</seg> nata sunt
     dissolui <seg>uelociter.</seg> Ergo si conseruentur, necesse est quod habeant aliquod regens
     et dirigens ipsa et tenens elementa ne repugnantia eorum corrumpat illa corpora. Si autem non
@@ -81,7 +81,7 @@
     patet de glacie, non enim glacies conseruatur longo tempore, quia non <seg>habet</seg> aliud
     conseruans nisi naturam, ergo <seg>aliqua</seg> uirtus alicuius substantie in corporibus
     animatis est super naturam. Hec autem non est substantia corporalis, quia talis non potest
-    supra naturam immo est spiritualis quam <hi>|</hi> uocamus animam. Ergo anima habet esse in
+    supra naturam immo est spiritualis quam <hi><pb ed="#V" n="77-v"/><cb ed="#V" n="b"/></hi> uocamus animam. Ergo anima habet esse in
     rerum natura. Et <seg>hoc</seg> declaratur in hunc modum, quia corpora que uocamus animata dum
     habent proprias operationes et uitam conseruantur, cum <seg>ante</seg> ipsa <seg>sunt</seg>
           <seg>mortua</seg> uidemus ea dissolui et quanto nobilius <seg>est</seg> tanto citius
@@ -89,10 +89,10 @@
     elementis habuit, ergo preter uirtutem naturalem <seg>et</seg> ponere substantiam que per sui
     presentiam corpus in suo <seg>decoret,</seg> conseruet et per cuius absentiam corpus ad
     dissolutionem <seg>tendit.</seg> Hoc autem est anima de <seg>qua</seg> dicitur in fine primi
-      <hi>De <seg>anima</seg>
-          </hi>, <seg>quod</seg> recedente anima a corpore expirat corpus et
+      <title>De anima</title>
+          , <seg>quod</seg> recedente anima a corpore expirat corpus et
     marcessit. Ergo in rerum natura necesse est ponere substantiam que est anima. </p>
-        <p xml:id="da-236-ed1e7740-d1e7844">Tercia ratio hec est: sicut dicit <seg>Auicenna,</seg> omnis <seg>motor</seg> qui est ad
+        <p xml:id="da-236-ed1e7740-d1e7844">Tercia ratio hec est: sicut dicit <name>Auicenna,</name> omnis <seg>motor</seg> qui est ad
     oppositos situs est a motore qui cum mouet ad unum habet ymaginationem alterius. Set corpora
     quedam mouentur ad oppositos <seg>situs,</seg> sicut animalia, ergo motus animalium est a
     motore predicto. Set motor predictus est motor uoluntarius et qui cognoscit contraria, quia
@@ -110,7 +110,7 @@
     illis substantiis no debetur cognitio. Spiritualibus autem substantiis debetur cognitio. In
     ipsis enim consistit representatio rerum secundum species earum et intensiones abstractas,
     quod enim recipitur in alio, recipitur per modum recipientis et non recepti, et ideo in
-    substantiis corporalibus recipiuntur corporaliter et non spiritualiter, <hi>|</hi> et in
+    substantiis corporalibus recipiuntur corporaliter et non spiritualiter, <hi><pb ed="#K" n="101-v"/><cb ed="#K" n="b"/></hi> et in
     spiritualibus spiritualiter, et ita multo magis substantie spirituales recipiunt res
     spiritualiter et ideo cognoscunt res. Set in quibusdam rebus uidemus cognitionem, ergo non
     habent eam a formis corporalibus, ergo habent eam a substantiis spiritualibus eis coniunctis,
@@ -147,15 +147,16 @@
     duobus, quia mobile quod est graue uel leue quod mouetur a forma corporali mouetur
     insufficienter et a principio extrinseco. Item mouetur ad differentiam positionis
       <seg>determinatam.</seg> Set corpus animatum mouetur sufficienter et a principio sufficienti
-    intrinseco et ad diuersas positionis <hi>|</hi>
+    intrinseco et ad diuersas positionis <hi><pb ed="#K" n="102-r"/><cb ed="#K" n="a"/></hi>
           <seg>differentias.</seg> Et ita necesse fuit in ipso ponere alium motorem quam naturam, qui
     motor est perfectissimus inter alios motores et cui corpus perfectissimum attribuitur a
-    creatore qui per<hi>|</hi>fecte et ordinate omnia <seg>produxit,</seg> et ita necesse fuit
+    creatore qui per<hi><pb ed="#V" n="78-r"/><cb ed="#V" n="a"/></hi>fecte et ordinate omnia
+     <seg>produxit,</seg> et ita necesse fuit
     animam ese in rerum natura propter motum sufficientem quem uidemus in aliquibus corporibus qui
     est ab anima. </p>
         <p xml:id="da-236-ed1e7740-d1e7979">Ad secundam rationem dicendum est quod quedam corpora sunt forti coagulatione coagulata et
     hec sunt metalla et lapides et pura mixta, et hec per nexum elementorum conseruantur solum,
-    sicut dicit <seg>Auicenna.</seg> Alia <seg>autem</seg> sunt debili coagulatione coagulata,
+    sicut dicit <name>Auicenna.</name> Alia <seg>autem</seg> sunt debili coagulatione coagulata,
     sicut uiuentia, et ideo sunt <seg>debilia</seg> et ideo per nexum elementorum non
     conseruantur, set per aliud principium. Hoc autem est animam que per sui presentiam ipsa
     conseruat, et ita necesse est anima esse in natura sine qua aliqua corpora non conseruarentur.

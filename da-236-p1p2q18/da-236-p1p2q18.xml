@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,10 +50,22 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 18</head>
-                <p>Octauadecima questio est, cum in libro <title>De anima</title> determinetur, de uirtutibus sensibilibus et in libro <title>De sensu et sensato</title> et in <title>Medicina</title> et in libro <title>Animalium</title> queritur quomodo differenter</p>
-                <p>Solutio. Dicendum est quod uirtutes sensibiles multipliciter considerantur. Vno modo a parte suarum operationum et prout ad animam referuntur, et sic determinatur de illis in libro <title>De anima</title>. Secundo modo per comparationem ad organa et obiecta et ad eorum naturam secundum quod in quolibet organo est dominium alicuius qualitatis elementaris uel dispositionis elementaris secundum cuius exigentiam et proportionem medii et obiecti operatur uirtus in organo existens, et sic determinatur de illis in libro <title>De sensu et sensato</title>. Terci<cb ed="#K" n="51rb"/>o modo considerantur a parte ortus quem habent ab organis et a parte formationis organorum et situs eorum, prout sunt partes animalium, et sic determinatur de illis in libro de naturis animalium. Quarto modo considerantur per comparationem ad partes corporis et dispositiones earum secundum quod per dispositiones organorum recipiunt dispositiones saluas uel lesas, ut in saluis possint conseruari et a lesis remoueri per anthidota exhibita exterius, et sic determinatur de illis in <title>Medicina</title>.</p>
+                <p>
+                Octauadecima questio est, cum in libro <title>De anima</title> determinetur, de uirtutibus sensibilibus et in libro <title>De sensu et sensato</title> et in Medicina
+                 et in libro <title>Animalium</title> queritur quomodo differenter.
+               </p>
+                <p>
+                  Solutio. Dicendum est quod uirtutes sensibiles multipliciter considerantur. Vno modo a parte suarum operationum et prout ad animam referuntur, et sic determinatur de illis
+                 in libro <title>De anima</title>. Secundo modo per comparationem ad organa et obiecta et ad eorum naturam secundum quod in quolibet organo est dominium alicuius qualitatis elementaris
+                 uel dispositionis elementaris secundum cuius exigentiam et proportionem medii et obiecti operatur uirtus in organo existens, et sic determinatur de illis
+                 in libro <title>De sensu et sensato</title>. Terci
+                 <pb ed="#K" n="51-r"/>
+                 <cb ed="K" n="b"/>o modo considerantur a parte ortus quem habent ab organis et a parte formationis organorum et situs eorum,
+               prout sunt partes animalium, et sic determinatur de illis in libro de naturis animalium.
+                Quarto modo considerantur per comparationem ad partes corporis et dispositiones earum secundum quod per dispositiones organorum recipiunt dispositiones saluas uel lesas,
+                 ut in saluis possint conseruari et a lesis remoueri per anthidota exhibita exterius, et sic determinatur de illis in Medicina.
+               </p>
             </div>
         </body>
     </text>
 </TEI>
-

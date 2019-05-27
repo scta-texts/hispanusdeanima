@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,8 +50,18 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 9</head>
-                <p>Nona questio est cum de sapore et odore determinetur in libro <title>De Sensu et sensato</title> et in libro <title>De anima</title> et in <title>Medicina</title> et in libro <title>Vegetabilium</title> queritur quomodo differenter.</p>
-                <p> Solutio. Dicendum est quod sapor consideratur multipliciter: uno modo quantum ad primam sui generationem quam habet ex quattuor qualitatibus, et sic in libro <title>De sensu et sensato</title> determinatur de sapore. Secundo modo consideratur prout est obiectum gustus, et odor prout est obiectum olfatus, et sic determinatur de sapore in libro <title>De anima</title>. Tercio modo consideratur prout est medium deueniendi in cognitionem complexionis ciborum et medicinarum per quod medium immutatur complexio humana a complexione cibi et medicine, ut iste sapor est acetosus. Sic ergo frigide complexionis determinatur ergo calide, et sic de eo determinatur in <title>Medicina</title>. Quarto <cb ed="#K" n="50ra"/>modo consideratur secundum quod est dispositio fructuum plantarum acquisita in illis per primam naturam fructuum et plantarum, et sic de eo determinatur in libro <title>Vegetabilium</title>, et similiter dicendum est de odore.
+                <p>Nona questio est cum de sapore et odore determinetur in libro <title>De sensu et sensato</title> et in libro <title>De anima</title> et in Medicina
+               et in libro <title>Vegetabilium</title> queritur quomodo differenter.
+             </p>
+                <p>
+                   Solutio. Dicendum est quod sapor consideratur multipliciter: uno modo quantum ad primam sui generationem quam habet ex quattuor qualitatibus, et sic in libro
+                  <title>De sensu et sensato</title> determinatur de sapore. Secundo modo consideratur prout est obiectum gustus, et odor prout est obiectum olfatus, et sic determinatur de sapore in
+                 libro <title>De anima</title>. Tercio modo consideratur prout est medium deueniendi in cognitionem complexionis ciborum et medicinarum per quod medium immutatur complexio humana a
+                 complexione cibi et medicine, ut iste sapor est acetosus. Sic ergo frigide complexionis determinatur ergo calide, et sic de eo determinatur in Medicina.
+                 Quarto
+                 <pb ed="#K" n="50-r"/>
+                 <cb ed="#K" n="a"/>modo consideratur secundum quod est dispositio fructuum plantarum acquisita in illis per primam naturam fructuum et plantarum,
+                  et sic de eo determinatur in libro <title>Vegetabilium</title>; et similiter dicendum est de odore.
  </p>
             </div>
         </body>

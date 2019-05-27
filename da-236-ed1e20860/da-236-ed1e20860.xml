@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -94,12 +94,12 @@
         </p>
         <p xml:id="da-236-ed1e20860-d1e20924">
           <hi>Secunda ratio hec est: si uirtutes anime ad unam </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="130-r"/><cb ed="#K" n="a"/></hi>
           <hi> primam uirtutem regulantem ipsas reducerentur, ergo illa uirtus ab anima egrederetur
       inmediate et sic esset aliqua uirtus inmediate fluens ab anima per <seg>quam</seg>
           </hi>
           <hi> </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="93-r"/><cb ed="#V" n="b"/></hi>
           <hi> uirtutem alie ab anima fluerent et egrederentur. Hoc autem est falsum et improbatum
        <seg>superius,</seg> quia omnes uirtutes anime inmediate egrediuntur ab anima. Ergo non
       est ponere aliquam uirtutem primam ad quam reducantur uirtutes anime. </hi>

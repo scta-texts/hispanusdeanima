@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -63,20 +63,22 @@
     partes <seg>organicas.</seg> Maior patet per diffinitionem corporis organici que est corpus
     organicum est quod <seg>secundum</seg> diuersas partes <seg>sui</seg> diuersa ratione
       <seg>componientium</seg> compositas diuersas secundum speciem exercet operationes. Minor
-    patet per commentatorem dicentem, super ultimum capitulum primi libri <hi>De
-      <seg>anima</seg>
-          </hi>, partes plante esse eiusdem nature cum planta et etiam partes
+    patet per commentatorem dicentem, super ultimum capitulum primi libri <title>De
+      anima</title>, partes plante esse eiusdem nature cum planta et etiam partes
     animalium <seg>annulosorum.</seg>
         </p>
-        <p xml:id="da-236-ed1e9477-d1e9515">Secunda ratio hec est: nulla forma que mouet sicut natura est forma corporis organici &lt;Set
-    anima plante est huiusmodi, ergo anima <hi>|</hi> non est perfectio corporis
-      <seg>organici&gt;.</seg> Maior patet quia natura mouet uniformiter in partibus et in toto.
+        <p xml:id="da-236-ed1e9477-d1e9515">Secunda ratio hec est: nulla forma que mouet sicut natura
+          est forma corporis organici. Set
+    anima plante est huiusmodi, ergo anima <hi><pb ed="#V" n="79-v"/><cb ed="#V" n="b"/></hi>
+    non est perfectio corporis
+      <seg>organici.</seg> Maior patet quia natura mouet uniformiter in partibus et in toto.
     Minor patet quia anima <seg>plante</seg> in motu augmenti mouet sursum et deorsum secundum
-    Aristotelem. Et ita mouet eodem motu nature et non <seg>a</seg> contrario motu nature. Ratione
+    <name>Aristotelem</name>. Et ita mouet eodem motu nature et non <seg>a</seg> contrario motu nature.
+     Ratione
     huius queritur propter quid plante plures partes organicas habent quam <seg>animalia</seg> et
     ad plures est potentia plante quam animalis, et uidetur quod potius sit <seg>compositum,</seg>
     quia <seg>quantum</seg> aliquod corpus plurium operationum differentium est principium et
-    pluribus motibus mouetur tanto plus potens est <hi>|</hi> habere plures partes differentes
+    pluribus motibus mouetur tanto plus potens est <hi><pb ed="#K" n="105-r"/><cb ed="#K" n="a"/></hi> habere plures partes differentes
     secundum speciem. Maior patet cum diuersitas et multitudo <seg>sint</seg> propter diuersitatem
     et multitudinem operationum. Minor patet quia planta solum mouetur motibus anime uegetabilis.
     Animal autem mouetur motibus uegetabilis <seg>et</seg> sensibilis, ergo eius motus et
@@ -84,8 +86,7 @@
         </p>
         <p xml:id="da-236-ed1e9477-d1e9552">[lec1 q7.2] Item queritur circa hoc propter quid plante non habent organa procedendi sicut
     quedam animalium. Alie questiones de plantis habent locum supra capitulum ultimum primi libri
-      <hi>De <seg>anima</seg>
-          </hi>. </p>
+      <title>De anima</title>. </p>
         <p xml:id="da-236-ed1e9477-d1e9561">Queritur de hoc quod dicit in principio secundi partes plante esse simplices. Videtur enim
     hoc esse falsum cum sint mixte et habentes formam mixtionis et formam additam mixtioni que est
     anima. </p>
@@ -98,20 +99,20 @@
     totius denominationem, non enim quelibet pars plante est planta. Et iterum dicendum
       <seg>est</seg> quod planta habet uirtutem augmentandi et nutriendi et generandi et quelibet
     eius pars. Et quantum ad hoc intellexit <seg>commentator</seg> quare plante decise
-      <seg>uiuunt.</seg>
-          <seg>Sunt</seg> alie operationes speciales partium ad conseruationem totius et per has
+      <seg>uiuunt.</seg> <seg>Sunt</seg> alie operationes speciales partium ad conseruationem totius.
+       et per has
     distinguntur partes ad inuicem. Radix enim per se attrahit instrumentum et cortex defendit
     truncum et fructus et <seg>etiam</seg> folia, et ita posuit plures partes adaptari in planta. </p>
         <p xml:id="da-236-ed1e9477-d1e9594">Ad <seg>secundam</seg> dicendum <seg>est</seg> quod planta in augmento mouet sursum et
-    deorsum sicut natura tamen differenter, sicut patebit postea in aliis operibus dfferunt
+    deorsum sicut natura tamen differenter, sicut patebit postea in aliis operibus differunt
     omnino. </p>
         <p xml:id="da-236-ed1e9477-d1e9603">Ad primam questionem incidentem dicendum <seg>est</seg> quod planta habet plures partes quam
     animal, et hec est causa, quia materia plante indeterminata est et confusa et sic de se ad
     multarum partium formas <seg>fluit</seg> et sic causa est ex parte <seg>materie</seg> que
     erradicata est in materia. In animali uero est <seg>subtiliata</seg> materia et terminata,
     quod patet in omnibus partibus <seg>animalis.</seg> Et hec <seg>solutio</seg> confirmatur per
-    Aristotelem inquerentem in libro <hi>De celo et <seg>mundo</seg>
-          </hi> propter quid non sunt
+    <name>Aristotelem</name> inquerentem in libro <title>De celo et mundo</title>
+        propter quid non sunt
     plures soles et soueltem per defectum materie que est est sub tota forma et terminata est et
     non potest ulterius extendi. Quidam autem ponunt aliam causam, quia arbor pluribus indiget
     operationibus ad sui conseruatinem quam animal unumquodque, set hoc nichil est. </p>
@@ -121,7 +122,7 @@
     hoc soluitur, et etiam <seg>quare</seg> partes plante similes <seg>sunt</seg> in specie cum
     actu totius. </p>
         <p xml:id="da-236-ed1e9477-d1e9653">Ad obiectum patet solutio hoc modo: esse potens ad producendum partes plures, hoc est,
-    dupliciter aut <hi>|</hi> diuersarum specierum aut eiusdem. Primo modo <seg>animal</seg>
+    dupliciter aut <hi><pb ed="#K" n="105-r"/><cb ed="#K" n="b"/></hi> diuersarum specierum aut eiusdem. Primo modo <seg>animal</seg>
     plures partes <seg>producit.</seg> Secundo modo planta quia infinita folia producit que sunt
     eiudem speciei. Animal autem unum organum unius speciei uel duo eiusdem speciei. </p>
         <p xml:id="da-236-ed1e9477-d1e9665">Ad aliud dicendum <seg>est</seg> quod plante non habent organa <seg>procedendi</seg> neque
@@ -140,7 +141,7 @@
     transmutationum, est tamen simplex respectu mixti, et hoc modo elementum est simplex. Alio
     modo dicitur simplex mixtum respectu animati, et <seg>quia</seg> uniforme in suis partibus,
     alio modo dicitur pars plante simplex esse non quia non sit mixta set quia habet eandem
-    rationem cum actu totius et tota et partes ad easdem <hi>|</hi>operationes communes
+    rationem cum actu totius et tota et partes ad easdem <hi><pb ed="#V" n="80-r"/><cb ed="#V" n="a"/></hi>operationes communes
     ordinantur, sicut uisum est, quod non faciunt partes animalis, unde ibi <seg>accipitur</seg>
     simplex contra difforme. </p>
       </div>

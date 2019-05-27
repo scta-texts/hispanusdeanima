@@ -55,9 +55,11 @@
          <div>
             <head>Preambula, Problema 1, Quaestio 1</head>
             <p>
-              Prima autem questio est utrum sit sciencia de anima et que est necessitas sciencie de anima. Et uidetur quod sciencia de anima sit necessaria sic:
+              Prima autem questio est utrum sit scientia de anima et que est necessitas scientie de anima. Et uidetur quod scientia de anima sit necessaria sic:
                <app>
-                  <lem>omnis substantia spiritualis cuius obiecta, operationes et uirtutes maxime offeruntur cogitationem maxime cadit in scienciam. Set anima est huiusmodi, ergo anima maxime cadit in scienciam, necesse est ergo haberi scienciam de anima. Maior patet quia substantie spirituales manifestantur per suas operationes. Minor patet quia, sicut uult
+                  <lem>omnis substantia spiritualis cuius obiecta, operationes et uirtutes maxime offeruntur cogitationem maxime cadit in scientiam.
+                    Set anima est huiusmodi, ergo anima maxime cadit in scientiam, necesse est ergo haberi scientiam de anima.
+                    Maior patet quia substantie spirituales manifestantur per suas operationes. Minor patet quia, sicut uult
                      <ref>
                         <name>Aristoteles</name>
                         in libro
@@ -77,24 +79,29 @@
                   <rdg wit="#V" type="omission"/>
               </app>
             </p>
-            <p>Secunda ratio hec est, omnis substantia cuius notitia excellit alias quantum ad nobilitatem subiecti et certitudinem cognitionis maxime cadit in scienciam, et maxime est necessaria et digna ad hoc ut de ipsa habeatur sciencia. Anima est huiusmodi, ergo necessarium est
+            <p>Secunda ratio hec est, omnis substantia cuius notitia excellit alias quantum ad nobilitatem subiecti et certitudinem cognitionis maxime cadit in scientiam,
+               et maxime est necessaria et digna ad hoc ut de ipsa habeatur scientia. Anima est huiusmodi, ergo necessarium est
                <app>
                   <lem>de anima</lem>
                      <rdg wit="#V #Kbis" type="omission"/>
 
                </app>
-               habere scienciam. Maior per se patet, minor similiter patet ab <name>Aristotele</name> hoc probante et dicente in principio libri <title>De anima</title>.</p>
+               habere scientiam. Maior per se patet, minor similiter patet ab <name>Aristotele</name> hoc probante et dicente in principio libri <title>De anima</title>.</p>
             <p>
                <app>
                   <lem>
-                     Tercia ratio hec est, omnis substantia cuius cognitio affert maxime iuuamentum ad omnem philosophiam naturalem maxime cadit in scienciam. Set anima est huiusmodi, ergo de anima maxime decet esse sciencia. Maior patet de se, minor patet ab <name>Aristotele</name>  in principio <title>De anima</title>.
+                     Tercia ratio hec est, omnis substantia cuius cognitio affert maxime iuuamentum ad omnem philosophiam naturalem maxime cadit in scientiam. Set anima est huiusmodi,
+                      ergo de anima maxime decet esse scientia. Maior patet de se, minor patet ab <name>Aristotele</name> in principio <title>De anima</title>.
                   </lem>
                      <rdg wit="#V" type="omission"/>
 
                </app>
             </p><p>
                <app>
-                  <lem>Quarta ratio hec est, in anima sunt duo, scilicet, substantia eius et operationes, set operationes eius maxime manifeste sunt sensui, ergo anima maxime cadit in sensu quantum ad suas operationes. Set sciencia oritur a sensu, ergo de ipsa maxime debet esse sciencia a parte suarum operationum. Item sua substantia est maxime similis anime cognoscenti, quia est sibi similis, et ex similibus resultat cognitio, cum enim in anima maxime represententur similitudines rerum, et propter hoc ipsa cognoscit res; cum ipsa maxime sibi representetur, maxime cadit in cognitione. Omne autem tale cadit in scienciam maxime.</lem>
+                  <lem>Quarta ratio hec est, in anima sunt duo, scilicet, substantia eius et operationes. Set operationes eius maxime manifeste sunt sensui, ergo anima maxime cadit in sensu quantum ad suas operationes.
+                   Set scientia oritur a sensu, ergo de ipsa maxime debet esse scientia a parte suarum operationum. Item sua substantia est maxime similis anime cognoscenti,
+                 quia est sibi similis, et ex similibus resultat cognitio, cum enim in anima maxime represententur similitudines rerum, et propter hoc ipsa cognoscit res;
+               cum ipsa maxime sibi representetur, maxime cadit in cognitione. Omne autem tale cadit in scientiam maxime.</lem>
                    <rdg wit="#V" type="omission"/>
 
                </app>
@@ -123,29 +130,49 @@
              </cit>.
              Causa autem per quam cognoscimus est anima,
              ergo necesse est animam per hoc se ipsam cognoscere.
-             Ergo ipsa cadit in cognitionem et ita in scienciam,
-             et ita de anima necesse est habere scienciam.
+             Ergo ipsa cadit in cognitionem et ita in scientiam,
+             et ita de anima necesse est habere scientiam.
             </p>
             <p>
-              Ad oppositum sunt rationes: prima talis est, sicut habetur in tercio <title>De anima</title>, nichil quod non prius fuerit in sensu cadit in intellectu. Set anima non cadit in sensu, cum sit substantia spiritualis, ergo nullo modo cadit in intellectu. Omne autem illud de quo est sciencia cadit in intellectu et offert se cognitioni intelligentie, ergo de anima non potest esse sciencia.
+              Ad oppositum sunt rationes: prima talis est, sicut habetur in tercio <title>De anima</title>, nichil quod non prius fuerit in sensu cadit in intellectu.
+              Set anima non cadit in sensu, cum sit substantia spiritualis, ergo nullo modo cadit in intellectu.
+              Omne autem illud de quo est scientia cadit in intellectu et offert se cognitioni intelligentie, ergo de anima non potest esse scientia.
             </p>
             <p>
-              Secunda ratio hec est, uirtus anime nostre dependet a materia corporali, intellectus enim dependet a sensu et sensus ab organis; set omnis uirtus dependens a materia corporali solum cognoscit res corporales, quia talis uirtus coartatur a materia et non extenditur ultra illam. Set anima non est res corporalis set spiritualis, ergo intellectus non potest cognoscere animam. De nullo autem tali est sciencia, ergo de anima non est sciencia.
+            Secunda ratio hec est, uirtus anime nostre dependet a materia corporali, intellectus enim dependet a sensu et sensus ab organis.
+            Set omnis uirtus dependens a materia corporali solum cognoscit res corporales, quia talis uirtus coartatur a materia et non extenditur ultra illam.
+            Set anima non est res corporalis set spiritualis, ergo intellectus non potest cognoscere animam. De nullo autem tali est scientia, ergo de anima non est scientia.
           </p>
           <p>
-            Solutio. Dicendum est quod sciencia de anima est necessaria, et hoc propter multas causas. Vna causa est propter subiecti nobilitatem et certitudinem cognitionis. Secunda causa est propter iuuamentum quod affert omni sciencie et maxime
-            <cb ed="#K" n="b"/> <!-- column break 45rb -->
-            naturali sciencie, quia anima est principium omnium animalium, et propter hoc necesse est ad cognitionem animalium habere cognitionem uirtutum et operationum ipsius anime, quia ignorato principio, necesse est ignorare et ea quorum est principium. Tercia causa est propter utilitatem quam affert aliis scienciis. Affert enim utilitatem morali et illi sciencie que est de regimine ciuitatum, quia tota sciencia moralis est de uirtutibus anime. Affert etiam utilitatem theologie, sicut uult commentator, quia per scienciam de anima cognoscuntur uirtutes anime que sunt necessarie ad cognoscendum habitus theologos. Quarta causa est manifestatio operationum anime, quia licet substantia eius sit occulta, tamen operationes eius sunt manifeste in animalibus, sicut uult Aristoteles.
-            Concedimus autem rationes que probant scienciam de anima esse necessariam.
+            Solutio. Dicendum est quod scientia de anima est necessaria, et hoc propter multas causas. Vna causa est propter subiecti nobilitatem et certitudinem cognitionis.
+            Secunda causa est propter iuuamentum quod affert omni scientie et maxime
+            <pb ed="#K" n="46-r"/>
+            <cb ed="#K" n="b"/>naturali scientie, quia anima est principium omnium animalium.
+            Et propter hoc necesse est ad cognitionem animalium habere cognitionem uirtutum et operationum ipsius anime, quia ignorato principio, necesse est ignorare et ea quorum est principium.
+            Tercia causa est propter utilitatem quam affert aliis scientiis. Affert enim utilitatem morali et illi scientie que est de regimine ciuitatum, quia tota scientia moralis est de uirtutibus anime.
+            Affert etiam utilitatem theologie, sicut uult <name>Commentator</name>, quia per scientiam de anima cognoscuntur uirtutes anime que sunt necessarie ad cognoscendum habitus theologos.
+            Quarta causa est manifestatio operationum anime, quia licet substantia eius sit occulta, tamen operationes eius sunt manifeste in animalibus, sicut uult <name>Aristoteles</name>.
           </p>
           <p>
-             Ad primam rationem in contrarium dicendum est quod aliquid cognoscitur ab intellectu VII modis: uno modo per speciem quam habet prius in sensu, et sic res corporalis cognoscitur ab intellectu et de hac bene obicit. Secundo modo cognoscitur aliquid ab intellectu non per speciem, set quia est species alterius, et sic species que sunt in anima cognoscuntur se ipsis, unde sunt illud quo cognoscuntur. Tercio modo per effectus sensibiles, et sic substantie separate et prima causa cognoscuntur ab intellectu. Quarto modo per sui presentiam et sic anima  illuminata non obumbrata mole carnis se per se cognoscit, quia apparet sibi nuda et presens. Deus enim se ipsum cognoscit, quia est sibi presens, quia inter ipsum et ipsum non cadit medium, sicut uult <name>Algazel</name>, et similiter est de anima. Quinto enim modo per priuationem aliorum, et sic dicit <name>Dyonisus</name> in <title>Ierarchia</title>  quod Deus cognoscitur per priuationem causarum et omnium rerum, quia non est hec res nec illa. Sexto modo per proportionem, et sic materia scibilis est secundum analogiam, ut sicut ex ligno fit scamnum, sic ex primordiali materia fiunt omnia elementa. Septimo modo per similitudinem alterius, et sic uniuersale cognoscitur per similitudinem et ydolum singulorum; et sic anima cognoscitur per essentiam ab intellectu nec cadit quantum ad hoc in sensu, set solum quantum ad operationes cadit in sensu.</p>
-            <p>Ad secundam rationem dicendum est quod operationes anime et substantie cadunt in sciencia. Tamen operationes prius cadunt in sensu et informant ipsum et post informant intellectum, et intellectus informatus cognoscit principium a quo fluunt ille operationes. Hoc autem est anima per sui substantiam. Et propter hoc intellectus cognoscit animam et suas operationes, et sic de ipsa est sciencia. In primo autem e conuerso est: primum enim primo cognoscit se ipsum et cognoscit se esse causam, et propter hoc in ipso relucent omnia tamquam in causa, et sic per se omnia cognoscit.</p>
-
-
+            Concedimus autem rationes que probant scientiam de anima esse necessariam.
+          </p>
+          <p>
+            Ad primam rationem in contrarium dicendum est quod aliquid cognoscitur ab intellectu VII modis:
+            uno modo per speciem quam habet prius in sensu, et sic res corporalis cognoscitur ab intellectu; et de hac bene obicit.
+            Secundo modo cognoscitur aliquid ab intellectu non per speciem, set quia est species alterius, et sic species que sunt in anima cognoscuntur se ipsis, unde sunt illud quo cognoscuntur.
+            Tercio modo per effectus sensibiles, et sic substantie separate et prima causa cognoscuntur ab intellectu.
+            Quarto modo per sui presentiam et sic anima illuminata non obumbrata mole carnis se per se cognoscit, quia apparet sibi nuda et presens.
+            Deus enim se ipsum cognoscit, quia est sibi presens, quia inter ipsum et ipsum non cadit medium, sicut uult <name>Algazel</name>, et similiter est de anima.
+            Quinto enim modo per priuationem aliorum, et sic dicit <name>Dyonisus</name> in <title>Ierarchia</title> quod Deus cognoscitur per priuationem causarum et omnium rerum, quia non est hec res nec illa.
+            Sexto modo per proportionem, et sic materia scibilis est secundum analogiam, ut sicut ex ligno fit scamnum, sic ex primordiali materia fiunt omnia elementa. Septimo modo per similitudinem alterius,
+            et sic uniuersale cognoscitur per similitudinem et ydolum singulorum. Et sic anima cognoscitur per essentiam ab intellectu, nec cadit quantum ad hoc in sensu, set solum quantum ad operationes cadit in sensu.
+          </p>
+            <p>Ad secundam rationem dicendum est quod operationes anime et substantie cadunt in scientia. Tamen operationes prius cadunt in sensu et informant ipsum et post informant intellectum,
+            et intellectus informatus cognoscit principium a quo fluunt ille operationes.
+            Hoc autem est anima per sui substantiam. Et propter hoc intellectus cognoscit animam et suas operationes, et sic de ipsa est scientia. In primo autem e conuerso est:
+            primum enim primo cognoscit se ipsum et cognoscit se esse causam, et propter hoc in ipso relucent omnia tamquam in causa, et sic per se omnia cognoscit.
+          </p>
          </div>
       </body>
   </text>
-
-
 </TEI>

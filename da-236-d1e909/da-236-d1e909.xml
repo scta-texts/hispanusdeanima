@@ -59,34 +59,40 @@
         <head>Quaestio 9</head>
         <head type="question-title">Utrum anima habeat aliqua propria accidentia et passiones
           proprias</head>
-        <p xml:id="da-236-d1e909-d1e914">[lec2 q9] | <pb ed="#K" n="66-r"/> <cb ed="#K" n="a"/>
-        Circa nonam questionem sic proceditur, et
-          queritur utrum anima habeat aliqua propria accidentia et passiones proprias, et ostenditur
-          quod non per duas rationes, quarum prima talis est: illud enim quod maxime est abstractum
+        <p xml:id="da-236-d1e909-d1e914">[lec2 q9]
+          <pb ed="#K" n="66-r"/>
+          <cb ed="#K" n="a"/>Circa nonam questionem sic proceditur, et queritur utrum anima habeat aliqua propria accidentia et passiones proprias,
+           et ostenditur quod non per duas rationes, quarum prima talis est: illud enim quod maxime est abstractum
           in ipsa anima est intellectus agens et potentia et operatio eius, set intellectus agens
           operatur simul cum possibili. Operatio autem intellectus possibilis est communis, ergo et
-          operatio intellectus agentis est communis, ergo omnia accidentia anime sunt communia. </p>
-        <p xml:id="da-236-d1e909-d1e917">Secunda ratio hec est: sicut testatur <name>Aristoteles </name> non est
-          intelligere sine phantasmate, set omnis intellectus qui est a phantamate habet operationes
+          operatio intellectus agentis est communis, ergo omnia accidentia anime sunt communia.
+        </p>
+        <p xml:id="da-236-d1e909-d1e917">Secunda ratio hec est: sicut testatur <name>Aristoteles</name> non est
+          intelligere sine phantasmate, set omnis intellectus qui est a phantasmate habet operationes
           communes et non proprias, quia omnis habet cum corpore, ergo omnis operatio anime
-          intellectiue est communis et nulla propria.</p>
-        <p xml:id="da-236-d1e909-d1e920">&lt;Tercia ratio hec est: omne quod est intellectu prius
+          intellectiue est communis et nulla propria.
+        </p>
+        <p xml:id="da-236-d1e909-d1e920">Tercia ratio hec est: omne quod est intellectu prius
           fuit in sensu, unde intellectus recipit a sensu. Set operatio sensitiua est communis, ergo
           operatio intellectiua erit cum generaretur a sensu et ita anime intellectiue est omnis
-          operatio communis.&gt;</p>
+          operatio communis.
+        </p>
         <p xml:id="da-236-d1e909-d1e923">Ad oppostium sunt due rationes: prima ratio talis est:
-          sicut testatur <name>Aristoteles</name> in principio <title><hi>De anima</hi></title>,
+          sicut testatur <name>Aristoteles</name> in principio <title>De anima</title>,
           omnis substantia que habet aliquam propriam operationem et potentiam est separabilis et e conuerso. Set anima
-          intellectiua est separabilis, ergo habet aliquam propriam operationem. </p>
-        <p xml:id="da-236-d1e909-d1e930">Secunda ratio hec est: sicut dicit commentator, communes
+          intellectiua est separabilis, ergo habet aliquam propriam operationem.
+         </p>
+        <p xml:id="da-236-d1e909-d1e930">Secunda ratio hec est: sicut dicit Commentator, communes
           operationes anime sunt in quibus operatur anima mediante corpore uel partibus eius, set
           omnes operationes anime intellectiue sunt ille in quibus operatur anima in corpore et sine
           partibus corporis, ergo cum tales sint proprie omnes operationes anime intellectiue erunt
-          proprie.</p>
-        <p xml:id="da-236-d1e909-d1e933">&lt;Tercia ratio talis est: nulla potentia que nullius
+          proprie.
+        </p>
+        <p xml:id="da-236-d1e909-d1e933">Tercia ratio talis est: nulla potentia que nullius
           partis corporis est actus habet communes operationes set proprias. Set anima intellectiua
           est huiusmodi, ergo anima intelleciua nullas habet operationes communes set omnes
-          proprias.&gt;</p>
+          proprias.
+        </p>
         <p xml:id="da-236-d1e909-d1e936">Solutio. Ad hoc dicendum est quod quedam sunt operationes
           anime communes, quedam uero proprie. Proprie autem sunt dupliciter: quedam enim est
           propria operatio anime intellectiue que ita conuenit anime quod non corpori et que
@@ -95,17 +101,20 @@
           exercet, et hec est operatio intellectus possibilis. Tamen anima non eget corpore nec
           partibus eius ad illam complendam et talis est, sicut ymaginatio intellectiua que licet
           quantum ad receptionem habeat ortum a corpore, tamen quantum ad collectionem et
-          conuersionem supra res receptas et operationes non eget corpore nec corporis partibus.</p>
+          conuersionem supra res receptas et operationes non eget corpore nec corporis partibus.
+        </p>
         <p xml:id="da-236-d1e909-d1e939">Communis autem operatio anime intellectiue est illa que
           perficitur per corpus uel per partes corporis et hec est duplex, quia quedam habet ortum
-          ab anima et inest corpori per animam, ut operationes sensitiue <pb ed="#V" n="58-v"/> <cb ed="#V" n="b"/>|
-           et motus anime supra
-          corpus. </p>
+          ab anima et inest corpori per animam, ut operationes sensitiue
+          <pb ed="#V" n="58-v"/>
+          <cb ed="#V" n="b"/>et motus anime supra corpus.
+        </p>
         <p xml:id="da-236-d1e909-d1e942">Alie autem sunt communes que habent ortum a corpore et per
           corpus insunt anime et iste sunt sopnus et uigilis et consimiles. Et sic anime
           intellectiue competit habere operationes communes et proprias. Sensitiue uero et
           uegetabili non, set omnes habent communes, et hoc est quia sunt actus alicuius partis
-          corporis. </p>
+          corporis.
+        </p>
       </div>
     </body>
   </text>

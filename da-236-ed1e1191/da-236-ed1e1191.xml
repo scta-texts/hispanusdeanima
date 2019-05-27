@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -56,52 +56,64 @@
     <body>
       <div xml:id="da-236-ed1e1191" >
         <head>Praeambulum</head>
-        <p xml:id="da-236-ed1e1191-d1e1196">Paragraphus tercius de opinione Anaxagore. Continuatio intensionis. <hi>Similiter autem et
-      Anaxagoras animam <seg>dicit</seg> mouentem</hi> et cetera, facta narratione circa predictas
-    opiniones diffinientium animam per motum que sunt edite a Democrito, Leucipo et a
-      <seg>Pitagoricis.</seg> In hac parte recitat philosophus opinionem Anaxagore diffinientis
-    eodem modo animam per motum. </p>
-        <p xml:id="da-236-ed1e1191-d1e1208">Diuisio. Recipit autem pars <seg>ista</seg> diuisionem in partes <seg>duas,</seg> in quarum
-    prima recitat opinionem Anaxagore et comparat eam ad opinionem Democriti. In secunda, scilicet
-    in hac, <hi>quicumque igitur considerant in id quod mouetur anima</hi> et cetera, concludit
+        <p xml:id="da-236-ed1e1191-d1e1196">Paragraphus tercius de opinione <name>Anaxagore</name>.
+         Continuatio intensionis. <hi>Similiter autem et <name>Anaxagoras</name> animam
+        <seg>dicit</seg> mouentem</hi> et cetera, facta narratione circa predictas opiniones diffinientium animam per motum
+       que sunt edite a <name>Democrito</name>,<name>Leucipo</name> et a <name>Pitagoricis</name>.
+        In hac parte recitat Philosophus opinionem <name>Anaxagore</name> diffinientis eodem modo animam per motum.
+      </p>
+        <p xml:id="da-236-ed1e1191-d1e1208">Diuisio. Recipit autem pars <seg>ista</seg> diuisionem
+    in partes <seg>duas,</seg> in quarum prima recitat opinionem <name>Anaxagore</name> et comparat
+    eam ad opinionem <name>Democriti</name>.
+     In secunda, scilicet in hac, <hi>quicumque igitur considerant in id quod mouetur anima</hi> et cetera, concludit
     sub <seg>secundo</seg> quodam epylogo intensionem diffinientium animam per motum. Prima autem
-    pars recipit diuisionem in duas partes, in quarum prima tangit opinionem Anaxagore
-    uniuersaliter. In secunda, scilicet in hac, <hi>non tamem penitus sicut Demoscritus</hi> et
-    cetera, comparat eius opinionem ad opinionem Democriti ostendens ipsorum differentiam ad
-    inuicem. Prima autem pars <seg>remanet</seg> indiuisa. Secunda <seg>pars</seg> recipit
-    diuisionem in duas <seg>partes,</seg> in quarum prima assignans <seg>opinionem</seg> Democriti
-    ad opinionem Anaxagore tangit intensionem <seg>opinionis</seg> Democriti. In secunda, scilicet
-    in <seg>hac,</seg>
-          <hi>Anaxagoras autem minus certificat de ipsa</hi> et cetera, | tangit intentionem opinionis
-    Anaxagore per quam differenter posuit. </p>
-        <p xml:id="da-236-ed1e1191-d1e1249">Diuisionis recollectio. Sunt igitur in presenti <seg>lectione</seg> partes quatuor, in quarum
-    prima tangit opinionem Anaxagore. In segunda assignans differentiam opinionis Democriti ad
-    opinionem Anaxagore tangit intentionem Democriti. In tercia tangit intentionem opinionis
-    Anaxagore. In quarta sub quodam epylogo concludit intentionem omnium communiter diffinientium
-    animam per motum.</p>
+    pars recipit diuisionem in duas partes, in quarum prima tangit opinionem <name>Anaxagore</name>
+    uniuersaliter. In secunda, scilicet in hac, <hi>non tamem penitus sicut <name>Democritus</name>
+   </hi> et cetera, comparat eius opinionem ad opinionem <name>Democriti</name> ostendens ipsorum
+    differentiam ad inuicem. Prima autem pars <seg>remanet</seg> indiuisa.
+    Secunda <seg>pars</seg> recipit diuisionem in duas <seg>partes,
+    </seg> in quarum prima assignans <seg>opinionem</seg> <name>Democriti</name>
+    ad opinionem <name>Anaxagore</name> tangit intensionem <seg>opinionis</seg><name>Democriti</name>.
+    In secunda, scilicet in <seg>hac,</seg><name><hi>Anaxagoras</hi></name>
+    <hi> autem minus certificat de ipsa</hi> et cetera,
+    <pb ed="#K" n="82-v"/>
+    <cb ed="#K" n="b"/>tangit intentionem opinionis <name>Anaxagore </name> per quam differenter posuit.
+   </p>
+        <p xml:id="da-236-ed1e1191-d1e1249">Diuisionis recollectio. Sunt igitur in presenti
+   <seg>lectione</seg> partes quatuor, in quarum prima tangit opinionem <name>Anaxagore</name>.
+     In segunda assignans differentiam opinionis <name>Democriti</name> ad opinionem
+   <name>Anaxagore</name> tangit intentionem <name>Democriti</name>.
+    In tercia tangit intentionem opinionis <name>Anaxagore</name>.
+    In quarta sub quodam epylogo concludit intentionem omnium communiter diffinientium animam per motum.
+  </p>
         <p xml:id="da-236-ed1e1191-d1e1255">Hec est diuisio huius partis. </p>
-        <p xml:id="da-236-ed1e1191-d1e1259">Sententia prime partis de opinione Anaxagore. <seg>Circa</seg> primam partem uero
-      <seg>sic</seg> procedit hoc modo: inquit philosophus Anaxagoras dicit sicut omnes
-      <seg>alii</seg> dicunt quod anima est res se ipsam mouens. </p>
-        <p xml:id="da-236-ed1e1191-d1e1271">Sententia secunde partis de intensione Democriti. Consequenter tangit differentiam
-    intensionis Democriti ad intensionem Anaxagore dicens quod quamuis Anaxagoras quoad aliquid
-    posuit sicut <seg>et</seg> Democritus tamen Democritus aliter <seg>intellexit.</seg> Posuit
+        <p xml:id="da-236-ed1e1191-d1e1259">Sententia prime partis de opinione <name>Anaxagore</name>.
+        <seg>Circa</seg> primam partem uero<seg>sic</seg> procedit hoc modo: inquit Philosophus
+        <name>Anaxagoras</name> dicit sicut omnes <seg>alii</seg> dicunt quod anima est res se ipsam mouens.
+       </p>
+        <p xml:id="da-236-ed1e1191-d1e1271">Sententia secunde partis de intensione <name>Democriti</name>.
+        Consequenter tangit differentiam intensionis<name>Democriti</name>
+    ad intensionem <name>Anaxagore</name> dicens quod quamuis <name>Anaxagoras</name> quoad aliquid posuit sicut <seg>et</seg>
+    <name>Democritus</name> tamen <name>Democritus</name> aliter <seg>intellexit.</seg> Posuit
     enim animam et intellectum esse idem, et ratio sua fuit hec: ueritatem enim in aliquo non
-      <seg>credidit</seg> esse nisi in eo quod sensui est manifestum, set non uidit sensibiliter
-      <seg>manifestam</seg> ueritatem circa diuersitatem intellectus et sensus, et ideo posuit
+    <seg>credidit</seg> esse nisi in eo quod sensui est manifestum, set non uidit sensibiliter
+    <seg>manifestam</seg> ueritatem circa diuersitatem intellectus et sensus, et ideo posuit
     intellectum et sensum idem esse et uniuersaliter omnem <seg>differentiam</seg> anime ad
-    intellectum <seg>reduci.</seg> Confirmauit autem Democritus intensionem suam per sermonem
-    Homori uersificatoris, qui accepit intellectum pro anima, cum dixit quod Hector cum in bello
-    troiano patiebatur apoplexia, <seg>hec</seg> priuationem sensus et motus <seg>propter</seg>
-    cerebri passionem habet sapientiam quasi <seg>sopitam</seg> et non <seg>intellectam</seg>
+    intellectum <seg>reduci. Confirmauit autem <name>Democritus</name> intensionem
+    suam per sermonem <name>Homori</name> uersificatoris, qui accepit intellectum pro anima,
+     cum dixit quod <name>Hector</name> cum in bello troiano patiebatur apoplexia,
+      <seg>hec</seg> priuationem sensus et motus <seg>propter</seg> cerebri passionem habet
+       sapientiam quasi <seg>sopitam</seg> et non <seg>intellectam</seg>
     circa discretionem ueri <seg>uel</seg> falsi <seg>et</seg> boni et mali, sicut homo
-      <seg>inanimatus.</seg> In hoc enim sermone accepit Homerus intellectum pro anima. Hector
-    enim non solum deficiebat in intellectu, set in sensu | et motu et intellectu et uulgariter
-    accipitur sensus pro intellectu et e conuerso, et priuatio sensus pro priuatione intellectus
-    et e conuerso. </p>
+      <seg>inanimatus.</seg> In hoc enim sermone accepit <name>Homerus</name> intellectum pro anima. <name>Hector</name>
+    enim non solum deficiebat in intellectu, set in sensu
+    <pb ed="#V" n="68-v"/>
+    <cb ed="#K" n="a"/>et motu et intellectu et uulgariter accipitur sensus pro intellectu et e conuerso,
+     et priuatio sensus pro priuatione intellectus et e conuerso.
+    </p>
         <p xml:id="da-236-ed1e1191-d1e1315">
-          <seg>Sententia</seg> partis tercie de intensione Anaxagore, deinde tangit
-      <seg>intensionem</seg> Anaxagore et primo tangit ipsius opinione que <seg>diuersa</seg> est.
+          <seg>Sententia</seg> partis tercie de intensione <name>Anaxagore</name>, deinde tangit
+      <seg>intensionem</seg> <name>Anaxagore</name> et primo tangit ipsius opinione que <seg>diuersa</seg> est.
     Quandoque enim posuit intellectum non esse animam set <seg>dicit</seg> ipsum esse causam omnis
     bonitatis et rectitudinis et cuiuslibet ueritatis. Posuit enim intellectum esse causam omnium
     et mouentem omnia nulli permixtum nulli dependens, omnia conseruans, ordinans et
@@ -113,25 +125,30 @@
     anima et in hoc <seg>intellectu</seg> accepit intellectum communiter pro <seg>qualibet</seg>
     cognoscitiua. Et sic in hoc <seg>certitudinem</seg>
           <seg>credidit</seg> opinionem suam ponens <seg>quandoque</seg> intellectum esse diuersum ab
-    anima et quandoque e<hi>un</hi>dem. | Consequenter cum dicit, <hi>non uidetur autem secundum
+    anima et quandoque e<hi>un</hi>dem.
+    <pb ed="#K" n="83-r"/>
+    <cb ed="#K" n="a"/>Consequenter cum dicit, <hi>non uidetur autem secundum
       prudentiam dictus intellectus</hi> et cetera, ducit <seg>positione</seg> ultimam ad
     inconueniens et est sua ratio talis: inconueniens est et contra rationem et prudentiam
     intellectum inesse similiter omnibus animalibus nobilibus et uilibus, scilicet
-      <seg>rationabilibus</seg> et <seg>irrationabilibus,</seg> set <seg>neque</seg> etiam omnibus
+    <seg>rationabilibus</seg> et <seg>irrationabilibus,</seg> set <seg>neque</seg> etiam omnibus
     hominibus cum homines habeant diuersos intellectus secundum naturam et substantiam et
-      <seg>bonitatem</seg> maiorem et minorem. Set hoc <seg>ponit</seg> opinio Anaxagore, ergo
-    inconueniens est opinio Anaxagore et contra rationem et prudentiam. </p>
-        <p xml:id="da-236-ed1e1191-d1e1377">Sententia quarte partis de epylogo. Consequenter <seg>ante*</seg> ultimum concludit
+    <seg>bonitatem</seg> maiorem et minorem. Set hoc <seg>ponit</seg>
+    opinio <name>Anaxagore</name>, ergo inconueniens est opinio <name>Anaxagore</name> et contra rationem et prudentiam.
+   </p>
+        <p xml:id="da-236-ed1e1191-d1e1377">Sententia quarte partis de epylogo.
+    Consequenter <seg>ad</seg> ultimum concludit
       <seg>sub</seg> epylogo intentionem ponentium uniuersaliter animam per motum diffiniri dicens
     quod omnes illi qui opinati sunt animam per motum diffiniri, maxime opinati sunt animam
     participare motum in mouendo alia et se ipsam, et sic exponitur intensio philosophi, et sic
-    terminatur ista pars que est de opinionibus philosophorum diffinientium animam per motum. </p>
+    terminatur ista pars que est de opinionibus philosophorum diffinientium animam per motum.
+  </p>
         <p xml:id="da-236-ed1e1191-d1e1386">
           <seg>Questiones.</seg>
         </p>
-        <p xml:id="da-236-ed1e1191-d1e1392">Post predictas opiniones sequitur <seg>inquirere</seg> de opinione <seg>Anaxagoris,</seg> qui
-    ponebat <seg>intellectum</seg> omnia mouere circa quam <seg>opinionem</seg> sex incidunt
-    questiones. Prima [lec 10 q1] <seg>est</seg> utrum intellectus moueat omnia [lec 10
+        <p xml:id="da-236-ed1e1191-d1e1392">Post predictas opiniones sequitur <seg>inquirere</seg>
+    de opinione <name>Anaxagoris</name>, qui ponebat <seg>intellectum</seg> omnia mouere circa quam
+     <seg>opinionem</seg> sex incidunt questiones. Prima [lec 10 q1] <seg>est</seg> utrum intellectus moueat omnia [lec 10
       <seg>q1].</seg> Secunda <seg>questio</seg> [lec 10 q2] <seg>est</seg> supposito quod sic,
     utrum ille intellectus sit creatus <seg>aut</seg> increatus. Tercia questio [lec 10 q3]
       <seg>est</seg> utrum ille intellectus sit permixtus an impermixtus. Quarta questio [lec 10
@@ -139,8 +156,7 @@
     solum ut dicatur quod moueat per suam presentiam uel per suam uirtutem solum. Quinta questio
     [lec 10 q5] <seg>est</seg> utrum ille intellectus sit omnia in omnibus ut apelletur in
     inanimatis forma cuiuslibet eorum, inanimatis autem anima. Sexta questio [lec 10 q6]
-      <seg>est</seg>
-          <seg>utrum</seg> intellectus sit substantia anime et idem quod <seg>anima.</seg>
+      <seg>est</seg> <seg>utrum</seg> intellectus sit substantia anime et idem quod <seg>anima.</seg>
         </p>
       </div>
     </body>

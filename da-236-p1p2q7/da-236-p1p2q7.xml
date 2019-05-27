@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,8 +50,20 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 7</head>
-               <p> Septima questio est quomodo differenter determinatur de uoce in libro De anima et in libro <title>De sensu et sensato</title> et in <title>Gramatica</title> et in libro <title>De animalibus</title> et in <title>Musica</title>.</p> 
-                <p>Solutio. Dicendum quod multiplex est loqui de uoce: uno modo a parte illa qua formatur naturalibus instrumentis et suis principis, quae in quibusdam animalibus sunt et in quibusdam non sunt. Et sic in libro <title> De animalibus</title> determinatur de uoce, in quo determinatur de naturis animalium. Secundo modo consideratur uox secundum quod mouet auditum et est obiectum eius, et sic determinatur de uoce in libro <title>De anima</title>. Tercio modo consideratur uox a parte proportionis <cb ed="#K" n="49vb"/> sue, et sic determinatur de ipsa in <title>Musica</title>. Quarto modo consideratur uox secundum quod instituitur ad significandum et secundum suas differentias, et sic determinatur de uoce in <title>Gramatica</title>. Quinto modo consideratur uox secundum quod est signum attestans complexioni humane bene uel male se habenti, et sic determinatur de uoce in <title>Medicina</title>. In libro autem <title>De sensu et sensato </title>determinatur de illa in quodam transcursu secundum quod a parte prime sue generationis consideratur.</p>
+               <p>
+                 Septima questio est quomodo differenter determinatur de uoce in libro <name>De anima</title> et in libro <title>De sensu et sensato</title> et in Gramatica et in libro <title>De animalibus</title>
+                  et in Musica.</p>
+                <p>
+                  Solutio. Dicendum quod multiplex est loqui de uoce: uno modo a parte illa qua formatur naturalibus instrumentis et suis principis, quae in quibusdam animalibus sunt et in quibusdam non sunt.
+                  Et sic in libro <title>De animalibus</title> determinatur de uoce, in quo determinatur de naturis animalium.
+                  Secundo modo consideratur uox secundum quod mouet auditum et est obiectum eius, et sic determinatur de uoce in libro <title>De anima</title>.
+                 Tercio modo consideratur uox a parte proportionis
+                 <pb ed="#K" n="49-v"/>
+                 <cb ed="#K" n="b"/>sue, et sic determinatur de ipsa in Musica.
+                 Quarto modo consideratur uox secundum quod instituitur ad significandum et secundum suas differentias, et sic determinatur de uoce in Gramatica.
+               Quinto modo consideratur uox secundum quod est signum attestans complexioni humane bene uel male se habenti, et sic determinatur de uoce in Medicina.
+               In libro autem <title>De sensu et sensato</title> determinatur de illa in quodam transcursu secundum quod a parte prime sue generationis consideratur.
+             </p>
             </div>
         </body>
     </text>

@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,10 +50,17 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 5</head>
-                <p>Quinta questio est, cum in libro <title>De anima</title> determinetur de augmento et in libro <title> De generatione</title>, queritur quomodo differenter. Si enim aliquid determinetur in diuersis scienciis necesse est quod diuersimode consideretur in illis. </p>
-                    <p>Solutio. Dicendum est quod augmentum dupliciter consideratur, uno modo secundum quod est effectus elementorum secundum quod nutrimentum ex elementis resultat et augmentum ex nutrimento, et sic determinatur de augmento in libro De generatione. Alio modo consideratur augmentum secundum quod inest corporibus animatis a parte anime, secundum quod anima operatur mediantibus qualitatibus ita quod anima est principium et calor uel caliditas instrumentum; et sic determinatur de augmento in sciencia ista de anima.</p>
+                <p>
+                  Quinta questio est, cum in libro <title>De anima</title> determinetur de augmento et in libro <title>De generatione</title>, queritur quomodo differenter.
+                 Si enim aliquid determinetur in diuersis scientiis necesse est quod diuersimode consideretur in illis.
+                </p>
+                    <p>
+                      Solutio. Dicendum est quod augmentum dupliciter consideratur, uno modo secundum quod est effectus elementorum secundum quod nutrimentum ex elementis
+                     resultat et augmentum ex nutrimento, et sic determinatur de augmento in libro <title>De generatione</title>.
+                     Alio modo consideratur augmentum secundum quod inest corporibus animatis a parte anime, secundum quod anima operatur mediantibus qualitatibus ita quod anima est principium
+                     et calor uel caliditas instrumentum; et sic determinatur de augmento in scientia ista de anima.
+                   </p>
             </div>
         </body>
     </text>
 </TEI>
-            

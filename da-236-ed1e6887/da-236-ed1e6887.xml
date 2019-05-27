@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -63,23 +63,27 @@
       <seg>communicat</seg> moueri ad motum mobilis et quibus non, et que est causa huiusmodi
     motus, utrum, scilicet motoribus unitis mobili per essentiam conueniat hoc. Et ostenditur quod
     sic: omne quod unitur mobili per essentiam mouetur ad motum mobilis quia mouentibus nobis
-    mouentur ea que in nobis sunt, sicut uult Aristoteles. Set motor unitus mobili per essentiam
-    est in mobili, ergo mouetur ad motum mobilis. </p>
+    mouentur ea que in nobis sunt, sicut uult <name>Aristoteles</name>. Set motor unitus mobili per essentiam
+    est in mobili, ergo mouetur ad motum mobilis.
+  </p>
         <p xml:id="da-236-ed1e6887-d1e6904">Ad oppositum: si omne mouens unitum mobili per essentiam, mouetur ad motum mobilis, et si
     illa unio est causa quare motor mouetur ad motum mobilis, ergo cum intellectus primus qui est
     motor uniuersalis omnium sit existens in omnibus per essentiam, sicut ostendum est, ergo
       <seg>mouentur</seg> ad motum omnium. Hoc autem falsum est et incoueniens. Ergo causa quare
-    motor mouetur ad motum mobilis non est quia uniatur mobili per essentiam. </p>
+    motor mouetur ad motum mobilis non est quia uniatur mobili per essentiam.
+  </p>
         <p xml:id="da-236-ed1e6887-d1e6910">Secunda ratio hec est: radius mouens aquas calefaciendo ipsas unitur aquis per essentiam et
     tamen non mouetur per motum aquarum, ergo motor unitus mobili per essentiam non mouetur ad
     motum mobilis. Ergo causa quare motor mouetur ad motum mobilis non est unio eius secundum
     substantiam cum mobili. Ergo debet poni alia causa huius motus. Hec autem non est nisi
-    dependentia motoris ad mobile. </p>
+    dependentia motoris ad mobile.
+  </p>
         <p xml:id="da-236-ed1e6887-d1e6914">Solutio. Ad hoc dicendum est quod motoribus unitis mobilibus per essentiam cum dependentia ab
     ipsis conuenit solum ad eorum motum ipsa moueri. Et per hoc patet solutio ad rationes. Causa
     igitur propter quam motor mouetur ad motum mobilis est dependentia a mobili. Causa autem
     propter quam motor mouetur mouendo est quadruplex et non est necesse quod moueatur semper motu
-    mobilis semper mouendo mobile.</p>
+    mobilis semper mouendo mobile.
+  </p>
       </div>
     </body>
   </text>

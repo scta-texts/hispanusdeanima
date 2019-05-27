@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,12 +50,28 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 2</head>
-                <p>Secunda questio est propter quid in eadem sciencia determinatur de omni differentia anime. In eadem autem sciencia non determinatur de omni differentia corporis animati. Immo in libro <title>Vegetabilium</title> de corpore uegetabili. In libro autem <title> Animalium </title>de corpore sensibili. Et obicitur sic: sicut se habet forma ad formam ita se habet materia ad materiam <cb ed="#K" n="49rb"/>. Set omnes forme corporum animatorum determinantur in eadem sciencia, scilicet in ista. Ergo in eadem sciencia determinari debent omnia corpora animata. 
-                    Solutio. Dicendum est quod differenter operantur ad inuicem differentie anime et differentie corporis animati propter duas causas, prima causa est quia easdem operationes et communes exercent omnes differentie anime in diuersis corporibus. Vegetalis enim anima easdem operationes exercet in omnibus corporibus in quibus est, scilicet nutrire et cetera; et sensibilis similiter, et rationalis similiter. Habent ergo in hoc communicantiam omnes differentie anime, et quia communicantia in subiecto facit unitatem in sciencia, et propter hoc est eadem sciencia de omnibus differentiis anime. 
-                    Secunda causa est quia in differentiis anime ita est quod una ad alteram ordinatur, nec est una sine altera, sicut dicit 
-                    <ref>Philosopus in secundo huius, scilicet De anima</ref>
+                <p>
+                  Secunda questio est propter quid in eadem scientia determinatur de omni differentia anime. In eadem autem scientia non determinatur de omni differentia corporis animati.
+                  Immo in libro <title>Vegetabilium</title> de corpore uegetabili. In libro autem <title>Animalium</title>de corpore sensibili.
+                  Et obicitur sic: sicut se habet forma ad formam ita se habet materia ad materiam.
+                  <pb ed="#K" n="49-r"/>
+                  <cb ed="#K" n="b"/>Set omnes forme corporum animatorum determinantur in eadem scientia, scilicet in ista. Ergo in eadem scientia determinari debent omnia corpora animata.
+                  Solutio. Dicendum est quod differenter operantur ad inuicem differentie anime et differentie corporis animati propter duas causas, prima causa est quia easdem
+                  operationes et communes exercent omnes differentie anime in diuersis corporibus.
+                  Vegetalis enim anima easdem operationes exercet in omnibus corporibus in quibus est, scilicet nutrire et cetera; et sensibilis similiter, et rationalis similiter.
+                  Habent ergo in hoc communicantiam omnes differentie anime, et quia communicantia in subiecto facit unitatem in scientia, et propter hoc est eadem scientia de omnibus differentiis anime.
+                </p>
+
+                <p>
+                  Secunda causa est quia in differentiis anime ita est quod una ad alteram ordinatur, nec est una sine altera, sicut dicit
+                    <ref>Philosophus in secundo huius, scilicet De anima</ref>
                         <bibl>Aristoteles, De anima II</bibl>
-                    , et propter hoc cadunt in eadem sciencia. A parte autem animatorum corporum non est sic, quia dispositiones corporum uegetabilium non communicant cum dispositionibus corporum sensibilium uel animalium, nec complexiones eorum qui comunicant nec nature, sicut enim uult <name> Aristoteles</name>, impossibile est comparare partes sensibilium animalium ad partes plantarum. Iterum una complexio non ordinatur ad aliam nec partes ad partem, et ideo sic non est ex parte corporum inuicem, sicut ex parte animarum. Et ideo licet sit una sciencia de animalibus non tamen una de corporibus, et soluendum est ad rationem per interemptionem, quia, sicut uisum est, non sic se habet corpus ad corpus sicut anima ad animam.
+                    , et propter hoc cadunt in eadem scientia. A parte autem animatorum corporum non est sic, quia dispositiones corporum uegetabilium non communicant cum dispositionibus corporum sensibilium uel
+                    animalium, nec complexiones eorum qui comunicant nec nature, sicut enim uult <name>Aristoteles</name>,
+                    impossibile est comparare partes sensibilium animalium ad partes plantarum.
+                    Iterum una complexio non ordinatur ad aliam nec partes ad partem, et ideo sic non est ex parte corporum inuicem, sicut ex parte animarum.
+                    Et ideo licet sit una scientia de animalibus non tamen una de corporibus, et soluendum est ad rationem per interemptionem, quia, sicut uisum est,
+                    non sic se habet corpus ad corpus sicut anima ad animam.
                 </p>
             </div>
         </body>

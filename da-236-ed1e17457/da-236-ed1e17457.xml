@@ -24,7 +24,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -95,14 +95,13 @@
         <p xml:id="da-236-ed1e17457-d1e17524">
           <hi>Ad hoc idem inducuntur rationes predicte que probant qud anima intellectiua differt
       secundum substantiam ab anima uegetabili et sensibili et hoc <seg>patet</seg> per
-      auctoritatem Aristotelis in libro </hi>
-          <hi>De <seg>animalibus</seg>
-          </hi>
+      auctoritatem <name>Aristotelis</name> in libro </hi>
+          <title>De animalibus</title>
           <hi> dicentis quod anima uegetabilis precedit sensitiuam tempore et natura. </hi>
         </p>
         <p xml:id="da-236-ed1e17457-d1e17541">
           <hi>Ad oppositum: causa propter quam </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="123-r"/><cb ed="#K" n="a"/></hi>
           <hi> ponimus animam intellectiuam differe ab aliis secundum substantiam est quia intellectiua
       nullius partis corporis est actus et quia est separabilis. Alie autem sunt actus partium
       corporis et <seg>sunt</seg>
@@ -111,16 +110,15 @@
       ergo non facit eas differe per essentiam, set solum per potentias. </hi>
         </p>
         <p xml:id="da-236-ed1e17457-d1e17559">
-          <hi>Secunda ratio hec est: sicut uult Aristoteles in libro </hi>
-          <hi>De <seg>anima</seg>
-          </hi>
+          <hi>Secunda ratio hec est: sicut uult <name>Aristoteles</name> in libro </hi>
+          <title>De anima0</title>
           <hi>, potencia intellectiua est alterum <seg>genus</seg> ab anima uegetabili et sensibili et
        <seg>separetur</seg> ab illis, sicut perpetuum a <seg>corruptibili.</seg> Set alie non
-      sunt separabiles ad inuicem secundum <seg>Aristotelem</seg> et loquitur de separatione
+      sunt separabiles ad inuicem secundum <name>Aristotelem</name> et loquitur de separatione
       substantie et de distionctione ad inuicem, <seg>et</seg> dicit quod solum differunt ratione
       et <seg>quod</seg> non differunt anima uegetabilis et sensibilis nisi per obiecta sicut
       differt uirtus sensitiua ab opinatiua <seg>per</seg> diuersitatem obiectorum. Ergo per
-      auctoritatem Aristotelis anima uegetabilis et sensibilis non differunt in eodem secundum
+      auctoritatem <name>Aristotelis</name> anima uegetabilis et sensibilis non differunt in eodem secundum
       substantiam set solum secundum potencias et rationem. </hi>
         </p>
         <p xml:id="da-236-ed1e17457-d1e17595">
@@ -153,9 +151,9 @@
         </p>
         <p xml:id="da-236-ed1e17457-d1e17659">
           <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod predicte conditiones </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="123-r"/><cb ed="#K" n="b"/></hi>
           <hi> non faciunt differe animam intellectiuam ab anima </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="290-v"/><cb ed="#V" n="b"/></hi>
           <hi> sensibili et <seg>uegetabili,</seg> set <seg>sequuntur</seg> ad differentias ipsius ad
       illas. Differentia autem ipsarum prouenit a parte ordinis nature ordinantis res et
        <seg>distinguentis</seg> essentias et potencias et operationes earum. </hi>
@@ -163,7 +161,7 @@
         <p xml:id="da-236-ed1e17457-d1e17690">
           <hi>Ad secundam <seg>rationem</seg> dicendum <seg>est</seg> quod separatio est duplex,
        <seg>quedam</seg> que est anime a corpore, et <seg>secundum</seg> istam anima intellectiua
-      dicitur separabilis. Alie dicuntur inseparabiles et de hac non loquitur Aristoteles. Alia
+      dicitur separabilis. Alie dicuntur inseparabiles et de hac non loquitur <name>Aristoteles</name. Alia
       est separabilitas substantie secundum diuersitatem essentie et hec est duplex, quedam que
       attenditur in naturalibus dispositionibus eiusdem differentie et talis separatio facit
       separationem <seg>solum</seg> in potenciis et obiectis <seg>et</seg> operationibus et non in
@@ -175,7 +173,7 @@
        <seg>est</seg> quod ille due <seg>differentie</seg> anime habent duplicem rationem, unam
       per quam perficiunt corpus et sic reducuntur ad unitatem subiecti, aliam habent rationem que
       est secundum intensionem essentie sue et sic non reduncuntur ad unitatem substantie.
-      Aristoteles enim exemplificat in potenciis eiusdem differentie sicut in opinatiua et
+      <name>Aristoteles</name> enim exemplificat in potenciis eiusdem differentie sicut in opinatiua et
       sensitiua. </hi>
         </p>
         <p xml:id="da-236-ed1e17457-d1e17737">

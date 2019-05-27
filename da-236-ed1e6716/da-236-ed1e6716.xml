@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -64,55 +64,65 @@
     potentia respectu formarum substantialium et nate sunt duci ad actum. Hec autem ductio ad
     actum est per proprias operationes nature. Operatio autem <seg>propria</seg> nature est motus,
     sicut habetur in secundo<hi>
-            <seg>Phisicorum</seg>
+            <title>Phisicorum</title>
           </hi>, ergo res naturales ducuntur ad actum formarum substantialium ad
     hoc ut illas actu habeant per motum, set ad formas substantiales actu ducuntur per
     generationem et corruptionem, quia per corruptionem abicitur forma contraria et per
-    generationem introducitur noua, ergo generatio et corruptio sunt species motus. </p>
+    generationem introducitur noua, ergo generatio et corruptio sunt species motus.
+  </p>
         <p xml:id="da-236-ed1e6716-d1e6738">Secunda ratio hec est: omnis operatio nature que fit cum abiectione contrarii et
     introductione est motus, quia est cum priori et posteriori et hec etiam est ratio motus. Set
-    generatio et corruptio sunt huiusmodi, ergo generatio et corruptio sunt motus. </p>
+    generatio et corruptio sunt huiusmodi, ergo generatio et corruptio sunt motus.
+   </p>
         <p xml:id="da-236-ed1e6716-d1e6741">Ad oppositum: omnis motus est a subiecto in subiectum. Set generatio et corruptio sunt a non
-    subiecto in subiectum et e contrario, sicut uult Aristoteles in <seg>quinto,</seg> et appellat
+    subiecto in subiectum et e contrario, sicut uult <name>Aristoteles</name> in <seg>quinto,</seg> et appellat
     subiectum affirmatione manifestum, non subiectum autem appellat negatione manifestum, ergo
-    generatio et corruptio non sunt motus. </p>
+    generatio et corruptio non sunt motus.
+  </p>
         <p xml:id="da-236-ed1e6716-d1e6748">Solutio. Ad hoc dicendum est quod natura habet duplicem comparatinem in generatione: una que
     est uia et aliam que est terminus. Illa que est uia est alteratio formarum in generatione et
     hec est motus. Set hec non est proprie generatio. Illa autem que est terminus est introductio
     forme in materia in summo disposita et hec est uere generatio et hec fit in tempere insensibli
-    et hec est mutatio et non motus. </p>
+    et hec est mutatio et non motus.
+  </p>
         <p xml:id="da-236-ed1e6716-d1e6751">Circa secundam questionem sic proceditur et queritur utrum omnis motus fundetur in motu
-    locali. Et circa hoc queruntur plures questiones. </p>
+    locali. Et circa hoc queruntur plures questiones.
+  </p>
         <p xml:id="da-236-ed1e6716-d1e6754">Prima est utrum motus localis sit prior aliis motibus, et ostenditur quod non: sicut habent
     termini motus ita se habent motus. Set forma substantialis est terminus generationis. Locus
     autem est terminus motus localis, set substantia prior est quam locus, ergo motus ad
     substantiam qui est generatio et corruptio prior est quam motus ad locum. <seg>Iterum</seg>
-    alteratio precedit generationem, sicut habetur in libro <hi>De <seg>generatione</seg>
-          </hi>,
+    alteratio precedit generationem, sicut habetur in libro <title>De generatione</title>,
     ergo si generatio est prior quam motus localis patet quod alteratio est prior quam motus
-    localis. Motus ergo localis non est prior omnibus aliis motibus. </p>
+    localis. Motus ergo localis non est prior omnibus aliis motibus.
+   </p>
         <p xml:id="da-236-ed1e6716-d1e6765">Secunda ratio est ista: unumquodque prius mouetur ad esse quam ad <seg>conseruationem,</seg>
     set alii motus ordinant mobilia ad esse, unde sunt uia in esse. Motus autem localis ordinat ad
       <seg>conseruationem,</seg> unde mouetur res localiter, ut conseruetur in loco, ergo priores
-    sunt alii motus quam motus localis.</p>
+    sunt alii motus quam motus localis.
+  </p>
         <p xml:id="da-236-ed1e6716-d1e6774">Ad oppositum: in quolibet genere completum precedit incompletum. Set omnes aliis motus sunt
     rei incomplete. Solus autem motus localis est rei complete, ergo motus localis est prior aliis
-    motibus. </p>
+    motibus.
+  </p>
         <p xml:id="da-236-ed1e6716-d1e6777">
           <seg>Solutio.</seg> Ad hoc dicendum est quod motus localis duobus modis consideratur: uno
     modo prout est in eodem cum aliis motibus. Alio modo prout sunt in diuersis loquendo, ergo in
     diuersis motus generationis et alterationis precedit omnes alios motus. Motus enim localis
-    superioris corporis precedit omnes alios <seg>motus</seg> et <hi>|</hi> est regula omnium
-    aliorum motuum. Secundum autem quod motus localis est in eodem cum aliis motibus distinguendum
+    superioris corporis precedit omnes alios <seg>motus</seg>
+     et
+     <pb ed="#K" n="96-v"/>
+     <cb ed="#K" n="b"/>est regula omnium aliorum motuum. Secundum autem quod motus localis est in eodem cum aliis motibus distinguendum
     est prius natura duobus modis, quia est prius in uia generationis et incompletionis, et hoc
     modo motus localis non est prior quam motus alii, quia prius mouetur res ad completionem quam
     ipsa completa moueatur. Est item prius in uia completionis et perfectionis et hoc modo localis
     motus in eodem prior est aliis motibus, quia perfectior est et completior aliis motibus.
     Iterum in eodem est motus localis prior aliis in uia communitatis, quia omnia alia
-      <seg>communicatur*</seg> et communius est omnibus. Ergo prior omnibus motibus in diuersis.
+      <seg>comcomitatur</seg> et communius est omnibus. Ergo prior omnibus motibus in diuersis.
     In eodem autem secundum uiam incompletionis posterior est aliis. Secundum autem uiam
-    comletionis et communitatis in eodem est prior aliis. <seg>Iterum</seg> motus localis prior
-    est in generante aliis motibus, quia quando generat mouetur localiter. </p>
+    completionis et communitatis in eodem est prior aliis. <seg>Iterum</seg> motus localis prior
+    est in generante aliis motibus, quia quando generat mouetur localiter.
+  </p>
       </div>
     </body>
   </text>

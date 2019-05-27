@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -76,15 +76,15 @@
       receptum in corpore cuilibet membro exhibetur secundum electionem quam exigit natura
       cuiuslibet membri. Item sursum et deorsum in rebus sunt opposita, sursum et deorsum in mundo
       quia radix in planta est sursum, sicut uult </hi>
-          <hi>|</hi>
-          <hi> Aristoteles, rami <seg>uero</seg> deorsum. In mundo autem e contrario sunt, ergo planta
+          <hi><pb ed="#K" n="134-v"/><cb ed="#K" n="a"/></hi>
+          <hi> <name>Aristoteles</name>, rami <seg>uero</seg> deorsum. In mundo autem e contrario sunt, ergo planta
       uel uiuens quodlibet habet uirtutem consueruantem elementa contraria <seg>ut</seg>
             <seg>quod</seg>
             <seg>eleuatur</seg> a composito et tendat <seg>ad</seg> locum suum et que nutrimentum ad
       singula membra mandet secundum omnem partem et que hoc faciat cum el</hi>
           <hi>eccio</hi>
           <hi>ne exhibens cuilibet membro quod sibi proprium est </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="96-v"/><cb ed="#V" n="b"/></hi>
           <hi> et que <seg>faciunt</seg> nutrimentum sursum moueri et deorsum in uiuente. Hec autem non
       est uirtus corporalis, quia non conseruat nec continet elementa <seg>ullo</seg> modo et
       signum huius est <seg>quod</seg> recedente illo principio quod facit istas operationes
@@ -94,7 +94,7 @@
         </p>
         <p xml:id="da-236-ed1e23081-d1e23172">
           <hi>Ad oppositum: sicut uolunt multi, plante uiuunt per <seg>uiriditatem,</seg> uirtutem, unde
-      uult Aristoteles quod uiriditas est uis <seg>communissima</seg> in plantis. Set uiriditas
+      uult <name>Aristoteles</name> quod uiriditas est uis <seg>communissima</seg> in plantis. Set uiriditas
       non est differentia anime nec uis anime, ergo ad uitam plante non requiritur differentia
       anime hoc <seg>operante,</seg> ergo ad uitam corporum uiuentium non est necesse ipsam
       uegetabilem esse. </hi>
@@ -108,7 +108,7 @@
             <seg>que</seg> ut ipsum conseruet in se et in suo simili in <seg>se</seg> conseruet corpus
       per nutrimentum ipsum consueruando, restaurando, dissolutum. Et etiam per augmentum ad
       perfectam quantitatem reducendo. in suo autem <seg>consimili</seg> conseruat ipsum per
-      generationem. Quid autem sit anima uegetabilis patet per diffinitionem Auicenne, anima
+      generationem. Quid autem sit anima uegetabilis patet per diffinitionem <name>Auicenne</name>, anima
       uegetabilis est que est prima corporis <seg>perfectio</seg> naturalis
        <seg>instrumentalis</seg> quod generatur et augmentatur et nutritur. Nutrimentum autem est
       corpus quod solet assimulari nature corporis cuius dicitur esse nutrimentum et restaurat ei

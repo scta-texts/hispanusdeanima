@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,8 +50,19 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 12</head>
-                <p>Duodecima questio est cum de animalibus determinetur in libro <title>De animalibus</title> et in medicina queritur quomodo differenter. Item cum de plantis determinetur in libro <title>Vege<cb ed="#K" n="50rb"/>tabilium</title> et in <title>Medicina</title> in dietis queritur questio differenter.</p> 
-                <p>Solutio. Dicendum est quod dupliciter est loqui de natura animalium et plantarum: uno modo a parte sui et a parte suorum principiorum, et sic de illis determinatur in sciencia naturali, ut de animalibus in libro <title>Animalium</title> et de plantis in libro <title>Plantarum</title> uel <title>Vegetabilium</title>, quod idem est. Secundo modo est loqui de ipsis a parte illa qua referuntur ad corpus humanum inferendo ei principia dispositionis sanitatis uel egritudinis, et sic determinatur de illis in <title>Medicina</title>, unde omnia corpora animalium et plantarum determinantur in medicina prout referuntur ad corpus humanum in uia sanitatis uel egritudinis. </p>
+                <p>
+                Duodecima questio est cum de animalibus determinetur in libro <title>De animalibus</title> et in Medicina queritur quomodo differenter.
+                Item cum de plantis determinetur in libro <title>Vege
+                <pb ed="#K" n="50-r"/>
+                <cb ed="#K" n="b"/>tabilium</title> et in Medicina in <title>Dietis</title> queritur questio differenter.
+              </p>
+                <p>
+                 Solutio. Dicendum est quod dupliciter est loqui de natura animalium et plantarum: uno modo a parte sui et a parte suorum principiorum, et sic de illis determinatur in scientia naturali,
+                 ut de animalibus in libro <title>Animalium</title> et de plantis in libro <title>Plantarum</title> uel <title>Vegetabilium</title>, quod idem est.
+                 Secundo modo est loqui de ipsis a parte illa qua referuntur ad corpus humanum inferendo ei principia dispositionis sanitatis uel egritudinis, et sic determinatur de illis in Medicina,
+                 unde omnia corpora animalium et plantarum determinantur in Medicina prout referuntur ad corpus humanum in uia sanitatis uel egritudinis.
+               </p>
             </div>
-        </body></text>
+        </body>
+      </text>
 </TEI>

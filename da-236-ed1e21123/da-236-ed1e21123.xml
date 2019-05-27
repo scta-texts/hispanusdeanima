@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -60,23 +60,22 @@
     eadem cum suis potenciis</head>
         <p xml:id="da-236-ed1e21123-d1e21131">
           <hi>[lec8 q4] Circa quartam questionem sic proceditur et queritur utrum substantia anime sit
-      eadem cum suis potenciis. Et ostenditur quod sic: quia sicut dicit Augustinus anima humana
+      eadem cum suis potenciis. Et ostenditur quod sic: quia sicut dicit <name>Augustinus</name> anima humana
       in hoc est similima creatori et trinitati, quia sicut quelibet trium personarum est
       substantia diuina sic quelibet potencia anime est substantia <seg>anime,</seg> et similiter
       est de aliis intelligendum, cum simplices sint et sic anima eadem <seg>est</seg> cum suis
       potenciis. </hi>
         </p>
         <p xml:id="da-236-ed1e21123-d1e21143">
-          <hi>Secunda ratio hec est: sicut dicit Aristoteles in secundo </hi>
-          <hi>De <seg>anima</seg>
-          </hi>
+          <hi>Secunda ratio hec est: sicut dicit <name>Aristoteles</name> in secundo </hi>
+          <title>De anima</title>
           <hi>, sicut se habet tota anima ad totum corpus ita partes anime ad partes corporis, quia
       partes anime sunt perfectio cuiuslibet partis corporis. Set partes anime sunt potencie
       anime, quia alias <seg>partes</seg> non habet <seg>anima,</seg> ergo necesse est quod
       quelibet potencia anime perficiat partes corporis. Set nichil </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="130-v"/><cb ed="#K" n="a"/></hi>
           <hi> perficit nisi forma, ergo quelibet potencia </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="93-v"/><cb ed="#V" n="a"/></hi>
           <hi> anime est forma partis corporis. <seg>Set</seg> et non est quelibet <seg>forma,</seg> set
       forma subtantialis. Forma uero substantialis corporis animati est anima, ergo quelibet pars
       anime est anima, <seg>tamen</seg> quelibet pars uel potencia anime sit forma substantialis
@@ -133,7 +132,7 @@
           </hi>
         </p>
         <p xml:id="da-236-ed1e21123-d1e21291">
-          <hi>|</hi>
+          <hi><pb ed="#K" n="130-v"/><cb ed="#K" n="b"/></hi>
           <hi> Ad secundam rationem dicendum <seg>est</seg> quod anima comparatur ad corpus uel secundum
       quod est dans esse et sic perficit per suam subtantiam corpus et partes corporis
        <seg>uel</seg> secundum quod dat operationem et sic perficit partes corporis per suas

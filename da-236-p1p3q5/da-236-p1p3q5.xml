@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,16 +50,51 @@
         <body>
             <div>
                 <head>Preambula, Problema 3, Quaestio 5</head>
-                <p>Quinta questio est principium abstractionis in rebus naturalibus. Et ostenditur quod necesse est quod non habeant speciale principium abstractionis: quelibet sciencia habet modum abstrahendi, set modus uniuersalis est ille qui est uniuersalis a particulari, ergo supra modum illum addit sciencia naturalis alium modum specialiter et non appropriat illum sibi, ergo habet alium modum, set non est alius modus abstractionis nisi ille qui est forme a materia secundum quem mathematice sciencie procedunt et modus separationis secundum quem procedit sciencia mechanica. Nullum autem talium modorum habet sciencia naturalis, ergo uidetur quod nullo modo abstrahat, ergo non habet principium abstractionis. </p>
-                <p>Alia autem ratio talis est sciencia<cb ed="#K" n="53ra"/> naturalis est de corporibus mundi. Corpora mundi sunt ista sola particularia que sunt partes uniuersi, unde non est aliud celum nisi hoc celum, non est alius ignis nisi hic ignis et sic de aliis corporibus elementatis que sunt fixa unum solum indiuiduum habentia. Ergo cum sit de talibus non est de uniuersalibus, ergo non abstrahit abstractione que est uniuersalis a particulari nec alia abstractione, ut uisum est. </p>
-                <p>Tercia ratio hec est, sciencia naturalis est de rebus mobilibus in quantum mobilia sunt et generabilibus et corruptibilibus, set talia non sunt uniuersalia set singularia, quia iste operationes circa singularia sunt, ergo sciencia naturalis non habet modum abstractionis. </p>
-                <p>Ad oppositum, omnis sciencia est de rebus prout cadunt in cognitionem anime secundum modum necessitatis et fixionis earum et certitudinis. Si ergo res naturales cadunt in scienciam necesse est quod habeant huiusmodi statum set illum non habent nisi secundum modum abstractionis, ergo habent modum abstractionis.</p>
-                <p>Solutio. Dicendum est quod sciencia naturalis habet modum abstractionis et principium illius est uniuersale. Non enim abstrahit abstractione forme a materia nec separatione set sola illa que est uniuersalis a particulari.</p>
-                <p>Ad primam rationem in contrarium dicendum est quod sciencia naturalis non habet alium modum abstractionis nisi illum qui est uniuersalis a particulari, set illum sibi appropriat per exigentiam rerum quas considerat, et hec abstractio est contractio materialis et non addit alium modum supra illum modum set illum considerat et contrahit.</p>
-                <p>Ad secundam rationem dicendum est quod, sicut dicit <name>Aristoteles</name> in <title>Posterioribus</title>, non fit demonstratio de hoc sole uel de hac luna in quantum hic sol uel hec luna set in quantum luna simpliciter uel sol simpliciter, et hoc est in quantum habet naturam uniuersalis. Eodem autem modo sciencia naturalis considerat hec corpora sub ratione uniuersalis sui et ideo hec abstrahit considerando rationem uniuersalis et causarum uniuersalium. </p>
-                <p>Ad terciam rationem dicendum est quod dupliciter est loqui de corporibus. Vno modo a parte nature singularis ipsorum, et hoc modo non cadunt in sciencia per se set per accidens. Eodem modo nec operationes nec generationes ipsorum cadunt in scienciam alio modo considerantur a parte sui uniuersalis per quod cognoscuntur et per quod cadunt in certitudinem et scienciam et hoc modo cadunt in scienciam, sicut enim hoc modo abstrahuntur similiter et ipsorum generationes et operationes et motus. </p>
+                <p>
+                  Quinta questio est principium abstractionis in rebus naturalibus. Et ostenditur quod necesse est quod non habeant speciale principium abstractionis:
+                  quelibet scientia habet modum abstrahendi, set modus uniuersalis est ille qui est uniuersalis a particulari,
+                  ergo supra modum illum addit scientia naturalis alium modum specialiter et non appropriat illum sibi,
+                  ergo habet alium modum, set non est alius modus abstractionis nisi ille qui est forme a materia secundum quem mathematice scientie procedunt
+                  et modus separationis secundum quem procedit scientia metaphisica.
+                  Nullum autem talium modorum habet scientia naturalis, ergo uidetur quod nullo modo abstrahat, ergo non habet principium abstractionis.
+                </p>
+                <p>
+                  Alia autem ratio talis est scientia
+                  <pb ed="#K" n="53-r"/>
+                  <cb ed="#K" n="a"/>naturalis est de corporibus mundi.
+                  Corpora mundi sunt ista sola particularia que sunt partes uniuersi, unde non est aliud celum nisi hoc celum,
+                  non est alius ignis nisi hic ignis et sic de aliis corporibus elementatis que sunt fixa unum solum indiuiduum habentia.
+                  Ergo cum sit de talibus non est de uniuersalibus, ergo non abstrahit abstractione que est uniuersalis a particulari nec alia abstractione, ut uisum est.
+                </p>
+                <p>
+                  Tercia ratio hec est, scientia naturalis est de rebus mobilibus in quantum mobilia sunt et generabilibus et corruptibilibus,
+                 set talia non sunt uniuersalia set singularia, quia iste operationes circa singularia sunt, ergo scientia naturalis non habet modum abstractionis.
+               </p>
+                <p>
+                  Ad oppositum, omnis scientia est de rebus prout cadunt in cognitionem anime secundum modum necessitatis et fixionis earum et certitudinis.
+                  Si ergo res naturales cadunt in scientiam necesse est quod habeant huiusmodi statum set illum non habent nisi secundum modum abstractionis, ergo habent modum abstractionis.
+                </p>
+                <p>
+                  Solutio. Dicendum est quod scientia naturalis habet modum abstractionis et principium illius est uniuersale.
+                  Non enim abstrahit abstractione forme a materia nec separatione set sola illa que est uniuersalis a particulari.
+                </p>
+                <p>
+                  Ad primam rationem in contrarium dicendum est quod scientia naturalis non habet alium modum abstractionis nisi illum qui est uniuersalis a particulari,
+                  set illum sibi appropriat per exigentiam rerum quas considerat, et hec abstractio est contractio materialis et non addit alium modum supra illum modum set illum considerat et contrahit.
+                </p>
+                <p>
+                  Ad secundam rationem dicendum est quod, sicut dicit <name>Aristoteles</name> in <title>Posterioribus</title>,
+                  non fit demonstratio de hoc sole uel de hac luna in quantum hic sol uel hec luna set in quantum luna simpliciter uel sol simpliciter,
+                  et hoc est in quantum habet naturam uniuersalis.
+                  Eodem autem modo scientia naturalis considerat hec corpora sub ratione uniuersalis sui et ideo hec abstrahit considerando rationem uniuersalis et causarum uniuersalium.
+                </p>
+                <p>
+                  Ad terciam rationem dicendum est quod dupliciter est loqui de corporibus.
+                  Vno modo a parte nature singularis ipsorum, et hoc modo non cadunt in scientia per se set per accidens.
+                  Eodem modo nec operationes nec generationes ipsorum cadunt in scientiam alio modo considerantur a parte sui uniuersalis per quod cognoscuntur et per quod
+                  cadunt in certitudinem et scientiam et hoc modo cadunt in scientiam, sicut enim hoc modo abstrahuntur similiter et ipsorum generationes et operationes et motus.
+                </p>
             </div>
         </body>
     </text>
 </TEI>
-

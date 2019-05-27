@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -49,20 +49,33 @@
   <text>
       <body>
          <div>
-            
+
             <head>Preambula, Problema 1, Quaestio 4</head>
-            <p>Quarto queritur utrum hec cognitio sit inna<cb ed="#K" n="47ra"/>ta anime aut acquisita. Et uidetur quod sit innata, quia in anima cognitio precedit amorem, set amor anime sui ipsius innatus est ei, ergo et cognitio sui ipsius innata est ei. Amor patet, quia sicut uult <name>Boetius</name> anima maxime optat bonum sui ipsius.</p> 
-            <p>Secunda ratio hec est, sicut dicit <name>Boetius</name>, <quote>anima se ipsam ignorare non potest, quia semper est sibi presens</quote>. Ergo cum sit sibi presens semper et in principio et in fine se semper cognoscit, ergo sua cognitio est ignata et non acquisita.</p>
-            <p>Ad oppositum, sicut habetur in tercio <title>De anima</title>, anima cognoscit se alia cognoscendo, quia inuenit se informatam aliis. Set cognitio aliorum est acquisita ipsi anime, ergo cognitio sui ipsius est acquisita ipsi anime et non innata.</p> 
-            <p>Solutio. Dicendum est quod cognitio anime quam habet sui ipsius est innata ei, et hanc habet per sui presentiam.</p> 
+            <p>
+              Quarto queritur utrum hec cognitio sit inna
+              <pb ed="#K" n="47-r"/>
+              <cb ed="#K" n="a"/>ta anime aut acquisita.
+            Et uidetur quod sit innata, quia in anima cognitio precedit amorem, set amor anime sui ipsius innatus est ei, ergo et cognitio sui ipsius innata est ei.
+            Amor patet, quia sicut uult <name>Boetius</name> anima maxime optat bonum sui ipsius.
+          </p>
+            <p>
+              Secunda ratio hec est, sicut dicit <name>Boetius</name>, <quote>anima se ipsam ignorare non potest, quia semper est sibi presens</quote>.
+            Ergo cum sit sibi presens semper et in principio et in fine se semper cognoscit, ergo sua cognitio est ignata et non acquisita.
+          </p>
+            <p>
+              Ad oppositum, sicut habetur in tercio <title>De anima</title>, anima cognoscit se alia cognoscendo, quia inuenit se informatam aliis.
+            Set cognitio aliorum est acquisita ipsi anime, ergo cognitio sui ipsius est acquisita ipsi anime et non innata.
+          </p>
+            <p>Solutio. Dicendum est quod cognitio anime quam habet sui ipsius est innata ei, et hanc habet per sui presentiam.
+            </p>
             <p>Ad rationem in contrarium dicendum est siue iam patebit solutio.
          </p>
-               
 
-            
+
+
          </div>
       </body>
   </text>
-  
- 
+
+
 </TEI>

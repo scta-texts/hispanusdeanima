@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -61,7 +61,7 @@
    </head>
         <p xml:id="da-236-ed1e24555-d1e24563">
           <hi>[lec11 q1] Circa <seg>primam</seg> questionem sic proceditur et queritur utrum in se</hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="137-v"/><cb ed="#K" n="b"/></hi>
           <hi>mine deciso a patre sit aliqua natura anime. Et ostenditur quod sic: in rebus que
       producuntur per decisionem seminis <seg>simili</seg> producit simile et hoc fit per
       decisionem seminis a generante qui ex illo generat simile. Ergo necesse est ut in semine sit
@@ -72,7 +72,7 @@
         </p>
         <p xml:id="da-236-ed1e24555-d1e24584">
           <hi>Secunda ratio hec est: sicut habetur in libro </hi>
-          <hi>De animalibus</hi>
+          <title>De animalibus</title>
           <hi>, sperma uiri comparatur ad semen mulieris, sicut artifex <seg>et</seg> causa efficiens,
       ergo in semine uiri est <seg>aliquid</seg> per quod agit et mouet, set sperma non mouet per
       se ipsum, unde sperma omnino mortificatum non moueret, ergo necesse est aliquam
@@ -81,7 +81,7 @@
       anime, ergo necesse est in spermate deciso a generante esse naturam anime. </hi>
         </p>
         <p xml:id="da-236-ed1e24555-d1e24615">
-          <hi>Tercia ratio hec est: sperma secundum Aristotelem nutritur, unde dicit Aristoteles quod
+          <hi>Tercia ratio hec est: sperma secundum <name>Aristotelem</name> nutritur, unde dicit <name>Aristoteles</name> quod
        <seg>embrio</seg> nutritur et <seg>communicat</seg> nutrimentum in sui naturam. Item
       distendit membra et distinguit et reddit ea habilia ad operationes anime, ergo <seg>in</seg>
       ipso est aliquid quod est principium nutrimenti et augmenti et distensionis membrorum et
@@ -90,7 +90,7 @@
         </p>
         <p xml:id="da-236-ed1e24555-d1e24631">
           <hi>Ad oppositum: sicut habetur in libro </hi>
-          <hi>De animalibus</hi>
+          <title>De animalibus</title>
           <hi>, semen est superfluitas nutrimenti quo non indigemus. Nutrimentum <seg>uero</seg> non
       habet animam in se <seg>nisi</seg> postquam unitur membris et efficitur pars substantie
       membrorum. Set semen, cum sit superfluitas que relinquitur a nutrimento <seg>nec</seg> est
@@ -107,7 +107,7 @@
             <seg>propter</seg> coniunctionem nutrimenti, set proper hoc quod superfluitas que est
       materia ex qua generantur <seg>augmentatur,</seg> ergo multo fortius cum semen sit
       superfluitas existens extra corpus semen non habet regimen ab </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="138-r"/><cb ed="#K" n="a"/></hi>
           <hi> anima nec a natura anime, ergo in semine deciso a generante non est aliqua natura anime.
     </hi>
         </p>
@@ -135,7 +135,7 @@
       remanent in corpore sunt ad decorationem partium corporis et defensionem, et ideo cum nulla
       superfluitate alia fluit natura anime nisi cum sola illa ex qua fit sperma. Vnde si etiam
       emittatur sanguis </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="98-v"/><cb ed="#V" n="a"/></hi>
           <hi> a corpore superfluus non tamen cum eo fluit natura anime, licet cum eo fluat spiritus et
       calor. Set cum spermate fluunt spiritus, <seg>spiritus</seg> et calor et anima uel uirtus
       anime. </hi>

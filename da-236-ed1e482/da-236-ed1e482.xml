@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -59,24 +59,30 @@
         <head type="question-title">De opinione philosophorum ponentium
     athomos esse naturam rerum et animam ex illis constitui</head>
         <p xml:id="da-236-ed1e482-d1e490">[lec9 q2] Circa secundum sic proceditur, et queritur de opinione philosophorum ponentium
-    athomos esse <seg>naturam</seg> rerum | et animam ex illis constitui. Et circa hoc queruntur
-    questiones <seg>quatuor:</seg> prima est utrum athomi sint principia rerum. Secunda est utrum
+    athomos esse <seg>naturam</seg> rerum
+    <pb ed="#V" n="67-v"/>
+    <cb ed="#K" n="a"/>et animam ex illis constitui. Et circa hoc queruntur questiones <seg>quatuor:</seg> prima est
+    utrum athomi sint principia rerum. Secunda est utrum
     ex ipsis anima <seg>componatur.</seg> Tercia est propter quid <seg>dixerunt</seg> philosophi
       <seg>ipsam</seg> ex athomis maxime <seg>et</seg> rotunde figure <seg>componi.</seg> Quarta
-    est utrum operentur ad <seg>respirationem.</seg> &lt;Quinta est de opinione Pitagore. Sextum
-    et ultimum de opinione Platonicorum et qui ponebant anima se ipsa <seg>mouere.&gt;</seg>
+    est utrum operentur ad <seg>respirationem.</seg> Quinta est de opinione <name>Pitagore</name>. Sextum
+    et ultimum de opinione Platonicorum et qui ponebant anima se ipsa <seg>mouere.</seg>
         </p>
         <div xml:id="da-236-ed1e520">
           <head>Q. 1</head>
-          <p xml:id="da-236-ed1e520-d1e525">[lec9 q2.1] <seg>Circa</seg> primam <seg>questionem</seg> sic proceditur. Ostenditur autem
-      quod athomi sint principia corporum uel rerum, &lt;duarum rationibus, quarum prima
-       <seg>talis:&gt;</seg> quia ex illis que sunt potentia in aliquo genere fiunt ea que sunt
-      in <seg>actu</seg> in genere illo. Set indiuisibilia potentia sunt in | genere corporum,
-      ergo ex indiuidibilibus fiunt corpora secundum actum. Huiusmodi autem indiuisibilia in
-      genere corporum sunt athomi, ergo athomi sunt principia corporum.</p>
-          <p xml:id="da-236-ed1e520-d1e540">Secunda ratio hec est: ex eis est res composita ad que stat sua <seg>resolutio.</seg> Set
+          <p xml:id="da-236-ed1e520-d1e525">[lec9 q2.1] <seg>Circa</seg> primam <seg>questionem</seg>
+          sic proceditur. Ostenditur autem quod athomi sint principia corporum uel rerum, duarum rationibus, quarum prima
+       <seg>talis:</seg> quia ex illis que sunt potentia in aliquo genere fiunt ea que sunt in <seg>actu</seg> in genere illo.
+        Set indiuisibilia potentia sunt in
+        <pb ed="#K" n="81-r"/>
+        <cb ed="#K" n="a"/>genere corporum, ergo ex indiuidibilibus fiunt corpora secundum actum.
+         Huiusmodi autem indiuisibilia in genere corporum sunt athomi, ergo athomi sunt principia corporum.
+       </p>
+          <p xml:id="da-236-ed1e520-d1e540">Secunda ratio hec est: ex eis est res composita ad que stat
+             sua <seg>resolutio.</seg> Set
       ad indiuisibilia stat resolutio corporum, ergo ex indiuisibilibus in genere corporum fiunt
-      corpora. Hec autem sunt atomi, ergo athomi sunt principia corporum. </p>
+      corpora. Hec autem sunt atomi, ergo athomi sunt principia corporum.
+    </p>
           <p xml:id="da-236-ed1e520-d1e546">Tercia ratio hec est: ex illis que sunt indiuisibilia ad que est status et que per totum
       diffunduntur et que in se habent conditiones ad hoc ut ex eis fiant omnia in genere aliquo
       fiunt omnia in genere illo. Set athomi sunt huiusmodi respectu corporum. Diffunduntur enim
@@ -85,42 +91,49 @@
       corpora fiunt ex eisdem principiis aliter ordinatis, scilicet ex athomis. Sunt ergo athomi
       principia <seg>corporum.</seg>
           </p>
-          <p xml:id="da-236-ed1e520-d1e552">Ad oppositum: ex illis que non possunt coniungi et si coniungantur non efficiunt maius non
+          <p xml:id="da-236-ed1e520-d1e552">Ad oppositum: ex illis que non possunt coniungi et si
+            coniungantur non efficiunt maius non
       potest fieri aliquod magnum. Set athomi sunt huiusmodi, cum sint quasi puncta et puntus
       puncto additus non efficit maius. Ergo ex athomis non potest fieri aliquod magnum. Huiusmodi
       est corpus, ergo ex athomis <seg>non</seg> possunt fieri corpora. </p>
-          <p xml:id="da-236-ed1e520-d1e559">Secunda ratio hec est: si ex athomis fiant corpora, necesse est illa coniungi ad
-       <seg>inuicem.</seg> Coniungantur ergo tres <seg>athomi</seg> aut ergo coniunguntur se
-       <seg>totis</seg> aut per aliquid sui si se totis. Set talia non faciunt maius, ergo athomi
-      non faciunt maius, ergo ex illis non potest fieri corpus aliquod cum omne corpus magnum
-       <seg>sit.</seg>
+          <p xml:id="da-236-ed1e520-d1e559">Secunda ratio hec est: si ex athomis fiant corpora,
+        necesse est illa coniungi ad <seg>inuicem.</seg> Coniungantur ergo tres <seg>athomi</seg> aut
+         ergo coniunguntur se <seg>totis</seg> aut per aliquid sui si se totis.
+      Set talia non faciunt maius, ergo athomi non faciunt maius, ergo ex illis non potest fieri corpus
+      aliquod cum omne corpus magnum <seg>sit.</seg>
             <seg>Si</seg> per aliquid sui, hoc est per extrema sua, ergo unum habet unum extremum
       secundum quod coniungitur cum uno et aliud secundum quod coniungitur cum alio et similiter
       de aliis, set nullum tali indiuisibile, ergo athomi non sunt indiuisibiles set
        <seg>diuisibiles,</seg> ergo sunt ex <seg>illis</seg> et non alia ex ipsis. Non sunt ergo
-      principia corporum. </p>
+      principia corporum.
+    </p>
           <p xml:id="da-236-ed1e520-d1e584">
             <seg>Solutio.</seg> Dicendum <seg>est</seg> quod philosophi posuerunt athomos esse
       principia corporum. Posuerunt enim indiuisibilia principia ad que stat resolutio corporum et
       illa posuerunt esse principia corporum. Huiusmodi autem sunt athomi, sicut ipsi dicunt
-      &lt;et posuerunt in athomis duo, scilicet substantias athomorum mediantibus quibus
-      constituuntur corpora <seg>et&gt;.</seg>
+      et posuerunt in athomis duo, scilicet substantias athomorum mediantibus quibus
+      constituuntur corpora <seg>et.</seg>
             <seg>Iterum</seg> posuerunt in eis dispositiones mediantibus quibus fiunt corpora ex ipsis,
       unde posuerunt quedam athoma esse calida, quedam frigida, quedam sursum et quedam deorsum.
       Hee enim sunt dispositiones ad hoc ut <seg>ex</seg> ipsis constituerentur corpora et
       posuerunt athomos ubique, quedam sursum et <seg>quedam</seg> deorsum, ut ex <seg>ipsi</seg>
-      ubique corpora constituerentur. </p>
-          <p xml:id="da-236-ed1e520-d1e608">Dicendum est tamen quod non recte posuerunt philosophi quod corpus secundum quod habet
+      ubique corpora constituerentur.
+    </p>
+          <p xml:id="da-236-ed1e520-d1e608">Dicendum est tamen quod non recte posuerunt philosophi
+             quod corpus secundum quod habet
       naturam quantitatis <seg>constat</seg> ex partibus quantitatis continuis. Huiusmodi autem
       partes non sunt athomi cum sint diuisibiles et athomi indiuisibiles, sicut ponunt.
        <seg>Iterum</seg> corpus secundum quod habet naturam substantie constat ex principiis
       substantie que sunt materia et forma. Huiusmodi autem principia non sunt athomi, ergo patet
       ex hiis quod athomi nullo modo sunt principia corporum et concedende sunt rationes ad hoc
-      inducte. </p>
-          <p xml:id="da-236-ed1e520-d1e617">Ad <seg>primam</seg> rationem in contrarium dicendum est et ad secundam quod indiuisibilia
-      in genere sunt <seg>multiplex,</seg> quia quedam sunt indiuibilia in genere substantie,
-      quedam <seg>autem</seg> in genere accidentium. In genere autem substantie sunt |
-      indiuisibilia dupliciter, quia quedam sunt indiuisibilia in genere substantie quantum ad
+      inducte.
+    </p>
+          <p xml:id="da-236-ed1e520-d1e617">Ad <seg>primam</seg> rationem in contrarium dicendum
+          est et ad secundam quod indiuisibilia in genere sunt <seg>multiplex,
+        </seg> quia quedam sunt indiuibilia in genere substantie, quedam <seg>autem</seg> in genere accidentium.
+         In genere autem substantie sunt
+         <pb ed="#K" n="81-r"/>
+         <cb ed="#K" n="b"/>indiuisibilia dupliciter, quia quedam sunt indiuisibilia in genere substantie quantum ad
       esse nature, quedam autem quantum ad esse ordinabile in genere. Quantum ad esse ordinabile
       in genere sunt sicut genus et differentia; quantum ad esse nature sunt indiuisibilia in
       genere <seg>substantie</seg> materia et forma et maxime. Set triplex est materia, scilicet
@@ -144,21 +157,23 @@
       ea que non possunt continuari. Set in totis per aggregationem potest aliquid fieri per
       talia, <seg>et</seg> quia <seg>totum</seg> continuum est totum per continuationem, ideo non
       potest fieri ex indiuisibilibus que sunt puncta, quia autem discretum uel
-       <seg>materialis*</seg> est totum per aggregationem, ideo potest fieri quod indiuisibilibus
+       <seg>numerus</seg> est totum per aggregationem, ideo potest fieri quod indiuisibilibus
       que <seg>sunt</seg> unitates, continuum autem non, cum indiuisibilia non habeant
       continuationem, et <seg>ideo</seg> nec <seg>est</seg> similiter secundum positionem
       philosophorum, <seg>sicut</seg> corpus quantitas ex athomis, cum sint indiuisibiles non
       possibiles continuari. Corpus autem quantitas est continuum, et ita patet quod athomi non
       sunt principia corporum, nec sunt indiuisibilia corporum ad que stat resolutio corporum per
-      que debeat | corpus constitui et fieri. Sic ergo patet que indiuisibilia sunt
-       <seg>potentia</seg> et ad que <seg>fiant</seg> resolutiones corporum. </p>
+      que debeat
+      <pb ed="#V" n="67-v"/>
+      <cb ed="#V" n="b"/>corpus constitui et fieri.
+      Sic ergo patet que indiuisibilia sunt <seg>potentia</seg> et ad que <seg>fiant</seg> resolutiones corporum.
+      </p>
         </div>
         <div xml:id="da-236-ed1e700">
           <head>2</head>
-          <p xml:id="da-236-ed1e700-d1e705">[lec 9 q2.2] <seg>Circa</seg>
-            <seg>secundam</seg>
-            <seg>questionem</seg> sic proceditur, et queritur utrum ex athomis sit <seg>anima</seg> et
-      propter quam causam hoc posuerunt philosophi, et ostenditur quod sic: omnis substantia
+          <p xml:id="da-236-ed1e700-d1e705">[lec 9 q2.2] <seg>Circa</seg> <seg>secundam</seg><seg>questionem</seg> sic proceditur,
+      et queritur utrum ex athomis sit <seg>anima</seg> et propter quam causam hoc posuerunt philosophi,
+      et ostenditur quod sic: omnis substantia
       existens in materia corporali que maxime <seg>est</seg> principium motus et subtilitatis et
        <seg>penetrabilitatis</seg> est ex illis principiis que maxime sunt in motu et maxime
       continue. Set anima est huiusmodi, ergo <seg>anima</seg> est ex talibus principiis.
@@ -167,21 +182,25 @@
           <p xml:id="da-236-ed1e700-d1e733">Ad oppositum: athomi sunt substantie corporales et sensibiles, set nulla substantia
       corporalis habet cognitionem. <seg>Iterum</seg> nulla substantia corporalis mouet
       sufficienter, ergo si anima esset ex athomis non haberet cognitionem, nec sufficienter
-      moueret. Hoc autem falsum est, ergo anima non est ex athomis. </p>
-          <p xml:id="da-236-ed1e700-d1e739">Secunda ratio | hec est: si anima esset ex athomis, moueretur secundum motum athomorum, set
+      moueret. Hoc autem falsum est, ergo anima non est ex athomis.
+    </p>
+          <p xml:id="da-236-ed1e700-d1e739">Secunda ratio
+            <pb ed="#K" n="81-v"/>
+            <cb ed="#K" n="a"/>hec est: si anima esset ex athomis, moueretur secundum motum athomorum, set
       quidam athomi ingrediuntur corpus, quidam eggrediuntur cum aere inspirato et respirato, ergo
       similiter anima ingrederetur et eggrederetur, ergo a uita ueniremus in mortem et a morte in
       uitam. Hoc autem est inconueniens, ergo anima non est ex <seg>athomis.</seg>
           </p>
-          <p xml:id="da-236-ed1e700-d1e745">Solutio. Dicendum est quod philosophi posuerunt animam esse ex athomis, quia possuerunt eam
-      esse ex corporalibus constitutam et continue moueri et mouere corpus, et quia athomi sunt in
-      motu continuo et similiter corpora animata, ideo posuerunt anima que mouet ea esse ex
-      athomis. Unde sicut uidemus quod si fundatur argentum unum* in aliqua rem continue mouebit
+          <p xml:id="da-236-ed1e700-d1e745">Solutio. Dicendum est quod philosophi posuerunt
+      animam esse ex athomis, quia possuerunt eam esse ex corporalibus constitutam et continue moueri et mouere corpus,
+       et quia athomi sunt in motu continuo et similiter corpora animata, ideo posuerunt anima que mouet ea esse ex
+      athomis. Unde sicut uidemus quod si fundatur argentum uiuum in aliqua rem continue mouebit
       ipsam rem similiter cum corpora animata continue moueantur <seg>crediderunt</seg> philosophi
       ipsa esse plena athomis que continue mouent et mouentur, et hoc dixerunt esse animam quod
       mouet corpora et ideo posuerunt animam esse ex athomis. Hoc tamen non est uerum, quia anima
       substantia spiritualis est que mouet corpora, et ideo non est composita ex corporibus, et
-      ideo ex athomis non componitur anima. </p>
+      ideo ex athomis non componitur anima.
+    </p>
           <p xml:id="da-236-ed1e700-d1e752">
             <seg>Ad</seg> rationem in contrarium dicendum <seg>est</seg> quod aliqua substantia
       principium motus est duobus modis: uno modo per naturam subtilitatis corporalis, et sic
@@ -193,22 +212,24 @@
         </div>
         <div xml:id="da-236-ed1e771">
           <head>3</head>
-          <p xml:id="da-236-ed1e771-d1e776">[lec 9 q2.3] <seg>&lt;Contra</seg> tercium sic proceditur et queritur propter quam causam
-      posuerunt philosophi animam esse ex athomis rotunde figure, et ostenditur quod debet esse ex
-      talibus: omnis substantia que est continue mouens in* continuo motu et operatione. Set anima
+          <p xml:id="da-236-ed1e771-d1e776">[lec 9 q2.3] <seg>Contra</seg> tercium sic proceditur
+          et queritur propter quam causam posuerunt philosophi animam esse ex athomis rotunde figure,
+           et ostenditur quod debet esse ex talibus: omnis substantia que est continue mouens et in continuo motu et operatione
+       existens est habens naturam rerum que maxime sunt in motu et operatione. Set anima
       est huiusmodi, ergo maxime habet naturam illorum que maxime sunt in motu continuo et
       operatione, set materia rotunda. Maxime sunt habilia ad motum. Calida autem maxime sunt
-      habilia ad operationem, unde calidum est cum facultate mobile, frigidum uero difficile*.
-      Ergo anima si sit ex aliquibus athomis rotunde figure et calidis si sit ex
-       <seg>aliquibus.&gt;</seg>
+      habilia ad operationem, unde calidum est cum facilitate mobile, frigidum uero difficile.
+      Ergo anima si sit ex aliquibus athomis rotunde figure et calidis si sit ex <seg>aliquibus.</seg>
           </p>
           <p xml:id="da-236-ed1e771-d1e784">Ad oppositum: omnis motor sufficiens cum mouet manet inmobile et quanto sufficientius mouet
       tanto inmobilius perseuerat. Anima autem est huiusmodi, ergo si constituatur ex corporibus
       maxime debet esse ex illis que maxime inmobilia sunt. Hec autem sunt athoma frigida,
-       <seg>calida</seg> et quadrata, ergo anima debet esse ex illis et non ex aliis. </p>
-          <p xml:id="da-236-ed1e771-d1e790">Solutio. Dicendum <seg>est</seg> quod secundum intentionem philosophorum positio fuit quod
-      anima <seg>esset</seg> ex athomis <seg>calidis</seg>
-            <seg>et</seg> rotunda figura maxime est habilis ad mouendum, et illa qualitas que est
+       <seg>calida</seg> et quadrata, ergo anima debet esse ex illis et non ex aliis.
+      </p>
+          <p xml:id="da-236-ed1e771-d1e790">Solutio. Dicendum <seg>est</seg> quod secundum
+           intentionem philosophorum positio fuit quod anima <seg>esset</seg> ex athomis
+        <seg>calidis</seg><seg>et</seg> rotunda figura maxime est habilis ad mouendum,
+         et illa qualitas que est
       caliditas maxime est principium motus et <seg>operationem,</seg> et quia sicut ipsi ponebant
       anima est ex athomis, debet esse ex illis <seg>qui</seg> maxime sunt principia motus et
       operationis cum ipsamet sit <seg>principium</seg> motus et operationis. <seg>Huiusmodi</seg>
@@ -216,15 +237,18 @@
       propter illos erat anima motor sufficiens. Dicendum autem est quod anima propter illos non
       est motor sufficiens nec ex illis componitur secundum ueritatem, set supponendo positionem
        <seg>eorum,</seg> scilicet quod anima sit ex athomis ipsi bene ponunt, scilicet facta illa
-      suppositione. </p>
+      suppositione.
+    </p>
           <p xml:id="da-236-ed1e771-d1e827">Et propter hoc propter philosophos dicendum est ad rationem in contrarium quod ipsa non
       procedit secundum positionem eorum, quia philosophi ponebant quod omne quod mouet mouetur,
       et <seg>ideo</seg> posuerunt animam moueri et mouere continue, <seg>et</seg> esse ex illis
       que continue mouent et mouentur. Hec autem sunt athomi calidi et rotundi, et ideo posuerunt
-      | animam esse ex illis. Ratio autem procedit secundum quod anima mouet et non mouetur, quod
+      <pb ed="#K" n="81-v"/>
+      <cb ed="#K" n="b"/>animam esse ex illis. Ratio autem procedit secundum quod anima mouet et non mouetur, quod
       est <seg>contra</seg> positionem eorum, et ideo non bene procedit contra eos suppositio
       secundum ipsos quod anima sit ex athomis et quod mouendo corpus <seg>moueatur</seg> ipsa
-      anima. </p>
+      anima.
+    </p>
         </div>
         <div xml:id="da-236-ed1e843">
           <head>4</head>
@@ -235,11 +259,13 @@
       simile, et quia aer est corpus simile spiritui, propter hoc per aerem maxime recreatur
       spiritus, et quia omne simile <seg>maxime</seg> confortat suum simile, propter hoc recreatur
       spiritus a suo simili. Set huiusmodi athomi sunt resolutiones maxime subtiles et sunt
-      corpora subtilia, ergo similia spiritui, ergo possibile est quod spiritum conseruent | et
-      recreent. Set omne tale confert ad inspirationem et consueruatione <seg>uite,</seg> ergo
-      athomi conferunt ad inspirationem et uite conseruationem. </p>
-          <p xml:id="da-236-ed1e843-d1e866">Secunda ratio hec est: sicut habetur in libro <hi>De sompno et <seg>uigilia</seg>
-            </hi>,
+      corpora subtilia, ergo similia spiritui, ergo possibile est quod spiritum conseruent
+      <pb ed="#V" n="68-r"/>
+      <cb ed="#V" n="a"/>et recreent.
+       Set omne tale confert ad inspirationem et consueruatione <seg>uite,</seg> ergo
+      athomi conferunt ad inspirationem et uite conseruationem.
+     </p>
+          <p xml:id="da-236-ed1e843-d1e866">Secunda ratio hec est: sicut habetur in libro <title>De sompno et uigilia</title>,
        <seg>natura</seg> fit in animali sine robore et <seg>uigore.</seg>
             <seg>Robur</seg> autem et <seg>uigorem</seg> facit perseruerantia spiritus, ergo illud quod
       facit ad <seg>preseuerantia</seg> spiritus facit ad roborationem et uitam et motum in
@@ -247,11 +273,13 @@
       Athomi autem sunt similes <seg>spiritui,</seg> ergo faciunt ad inspirationem et
       conseruationem <seg>uite</seg> et <seg>motum.</seg>
           </p>
-          <p xml:id="da-236-ed1e843-d1e902">Ad <seg>oppositum:</seg> illud facit ad inspirationem et <seg>respirationem</seg>
+          <p xml:id="da-236-ed1e843-d1e902">Ad <seg>oppositum:</seg> illud facit ad
+           inspirationem et <seg>respirationem</seg>
             <seg>et</seg> uite conseruationem quod facit ad <seg>inuestigationem</seg> caloris.
       Huiusmodi autem est aer, <seg>qui</seg> est frigidus respectu corporis nostri, ergo athomi
       ad hoc non conferunt set aer, quia athomi calidi sunt et non hoc modo frigidi respectu
-      corporis nostri, sicut aer. </p>
+      corporis nostri, sicut aer.
+    </p>
           <p xml:id="da-236-ed1e843-d1e920">
             <seg>Solutio.</seg> Dicendum <seg>est</seg> quod philosophi posuerunt inspirationem et
       respirationem fieri in animalibus per motum athomorum et per ingressum et egressum eorum in
@@ -261,74 +289,87 @@
        <seg>fecerent</seg> ad durationem et conseruationem uite propter inspirationem et
       respirationem. Set hec positio <seg>fuit</seg> erronea, quia secundum hoc accideret quod
       animalia que non inspirant nec respirant non haberent conseruationem uite. Hoc autem falsum
-      est et inconueniens. Et propter hoc concedo <seg>rationes</seg> quod non conferant ad hoc. </p>
-          <p xml:id="da-236-ed1e843-d1e948">Ad primam rationem in contrarium dicendum <seg>est</seg> quod inspiratio et respiratio fit
-      propter duo, sicut dictum est, scilicet propter caloris mitigationem et spiritus
+      est et inconueniens. Et propter hoc concedo <seg>rationes</seg> quod non conferant ad hoc.
+     </p>
+          <p xml:id="da-236-ed1e843-d1e948">Ad primam rationem in contrarium dicendum
+        <seg>est</seg> quod inspiratio et respiratio fit propter duo, sicut dictum est,
+         scilicet propter caloris mitigationem et spiritus
       recreationem, set ab eodem est illa mitigatio <seg>caloris</seg> et spiritus recreatio. Hec
       autem est per aeris receptionem et non per athomorum <seg>receptionem</seg> nec per
        <seg>accidens,</seg> et ideo illud quod per se facit ad <seg>inspirationem</seg>
-            <seg>animalium</seg> et uite conseruationem est aer similis spiritualibus recreans illos et
-      calorem mitigans. </p>
-          <p xml:id="da-236-ed1e843-d1e970">&lt;Ad secundam rationem dicendum per hoc idem, quia aeris contractio* per se facit*
-      perseruerantiam spiritum et non constractio <seg>athomorum.&gt;</seg>
+            <seg>animalium</seg> et uite conseruationem est aer similis spiritualibus recreans illos et calorem mitigans.
+     </p>
+          <p xml:id="da-236-ed1e843-d1e970">Ad secundam rationem dicendum per hoc idem,
+             quia aeris contractio per se facit perseruerantiam spiritum et non contractio <seg>athomorum.</seg>
           </p>
         </div>
         <div xml:id="da-236-ed1e976">
           <head>5</head>
-          <p xml:id="da-236-ed1e976-d1e981">[lec 9 q2.5] | Circa <seg>quinctum</seg> sic proceditur, et queritur utrum anima sit mouens
+          <p xml:id="da-236-ed1e976-d1e981">[lec 9 q2.5]
+            <pb ed="#K" n="82-r"/>
+            <cb ed="#K" n="a"/>Circa <seg>quinctum</seg> sic proceditur, et queritur utrum anima sit mouens
       illos athomos, et ostenditur quod sic: omnia corpora que se ipsis mouentur omnibus aliis
       cessantibus et in quiete continuo existentibus mouetur a principio se ipso mouente, set
       athomi sunt huiusmodi, ergo mouentur a principio se ipso et sufficienter aliis cessantibus
       mouente. Motor autem talis in inferioribus non est nisi anima, sicut dicitur in octauo, ergo
       si huiusmodi athomi sunt corpora inferiora que per se et sufficienter mouentur constat quod
-      mouentur ab anima. </p>
+      mouentur ab anima.
+     </p>
           <p xml:id="da-236-ed1e976-d1e987">Ad oppositum: omne corpus cuius motor est anima et perfectio est habens diuersas rationes
       in partibus et in toto, quia est corpus organicum, set athomi non sunt huiusmodi, ergo
-      athomi non mouentur ab anima. </p>
+      athomi non mouentur ab anima.
+     </p>
           <p xml:id="da-236-ed1e976-d1e990">Secunda ratio hec est: omne corpus quod mouetur ab anima nutritur et augmentatur et uiuit.
       Set athomi non sunt huiusmodi, quia sempre uidemus eos in eadem quantitate in qua
-      resoluuntur ab aqua et terra, ergo huiusmodi athomi non mouentur ab anima. </p>
+      resoluuntur ab aqua et terra, ergo huiusmodi athomi non mouentur ab anima.
+     </p>
           <p xml:id="da-236-ed1e976-d1e993">
-            <seg>Solutio.</seg> Dicendum est quod Pitagoras posuit athomos moueri ab anima uel ipsam
+            <seg>Solutio.</seg> Dicendum est quod <name>Pitagoras</name> posuit athomos moueri ab anima uel ipsam
       constitui ex athomis secundum autem quam uiam anima non sit ex athomis dictum est. Quantum
       autem ad <seg>hanc</seg> partem <seg>posuerunt</seg> animam esse motricem <seg>eorum</seg>
       propter continuum motum, quia credebat quod aliud non <seg>potest</seg> continue mouere
        <seg>propter</seg> quam anima. Dicendum est tamen quod non mouentur ab anima set ab aere
       continente <seg>ipsa</seg> secundum fluxibilitatem ipsius aeris et loci, et propter eorum
        <seg>instabilitatem</seg> et uirtutem debilem, sicut uisum est. Et concedende sunt
-      rationes ad hoc posite. </p>
+      rationes ad hoc posite.
+    </p>
           <p xml:id="da-236-ed1e976-d1e1021">Ad primam rationem in contrarium dicendum <seg>est</seg> quod aliquid mouetur continue
       aliis cessantibus duobus modis: uno modo quia mouetur a motore intrinseco sufficienter
-       <seg>mouente</seg> in natura inferiori, qui motor est anima. Et sic motus continuus solum
-      debetur corporibus animatis. </p>
-          <p xml:id="da-236-ed1e976-d1e1030">Alio modo dicitur aliquid moueri continue &lt;propter sui leuitatem et instabilitatem
-      secundum quam non potest petere nec exigere locum detractum* set
-       <seg>influit&gt;</seg>
-            <hi> </hi>in motu suo secundum <seg>fluxibilitatem</seg> continentis
+       <seg>mouente</seg> in natura inferiori, qui motor est anima. Et sic motus continuus solum debetur corporibus animatis.
+      </p>
+          <p xml:id="da-236-ed1e976-d1e1030"><!-- Jeff this belongs to the paragraph <p xml:id="da 236-ed1e976-d1e1021"
+            So you can erase this id. I didn't do it because I don't know if I'll cause you/us problems. Thank you-->
+            Alio modo dicitur aliquid moueri continue propter sui leuitatem et instabilitatem secundum quam non potest
+             petere nec exigere locum detractum set <seg>influit</seg>in motu suo secundum <seg>fluxibilitatem</seg> continentis
       ipsum sicut patet de penna que est in aere que ad nullam partem <seg>determinate</seg>
       mouetur, set ad omnem per naturam continentis ipsam pellentis ubique propter leuitatem et
       instabilitatem <seg>ipsius</seg> et hoc modo mouentur athomi continue et ad omne partem et
-      quod sic <seg>mouetur</seg> continue <seg>et</seg> ad omnem partem non mouetur ab anima. </p>
-          <p xml:id="da-236-ed1e976-d1e1054">Ad secundam rationem dicendum est quod mobile mouetur ad diuersas differentias positionis
+      quod sic <seg>mouetur</seg> continue <seg>et</seg> ad omnem partem non mouetur ab anima.
+    </p>
+          <p xml:id="da-236-ed1e976-d1e1054">Ad secundam rationem dicendum est quod mobile mouetur
+             ad diuersas differentias positionis
       duobus modis: uno modo propter principium mouens ipsum quod habet ymaginationem diuersarum
       differentiarum positionis et intentionem earum, et talis motor est anima et que sit mouentur
       ad diuersas differentias positionis mouentur ab anima. Alio modo mouetur aliquid ad diuersas
       differentias positionis propter instabilitatem et debilitatem sue uirtutis secundum quam
       trahitur secundum fluxibilitatem continentis, et quod sic mouetur ad omnes differentias
-      positionis non mouetur | ab anima. Hoc autem modo mouentur athomi ad omnes differentias
-      positionis. <seg>Iterum</seg> etiam secundum positionem Pitagore uidetur quod anima non
-      possit sufficienter mouere athomos, quia Pitagoras ponit animam esse ex athomis. Set si
+      positionis non mouetur
+      <pb ed="#K" n="82-r"/>
+      <cb ed="#K" n="b"/>ab anima.
+      Hoc autem modo mouentur athomi ad omnes differentias positionis.
+       <seg>Iterum</seg> etiam secundum positionem <name>Pitagore</name>
+      uidetur quod anima non possit sufficienter mouere athomos, quia <name>Pitagoras</name>
+       ponit animam esse ex athomis. Set si
       anima est ex athomis anima est forma corporalis cum athomi corpora sint. Ego est distensa
-      per materiam. Set nulla talis mouet sufficienter, ergo secundum positionem Pitagore anima
+      per materiam. Set nulla talis mouet sufficienter, ergo secundum positionem <name>Pitagore</name> anima
       non potest athomos mouere <seg>sufficienter.</seg>
           </p>
         </div>
         <div xml:id="da-236-ed1e1063">
           <head>6</head>
-          <p xml:id="da-236-ed1e1063-d1e1068">[lec 9, q2.6] <seg>Circa</seg>
-            <seg>sextum</seg>
-            <seg>sic</seg> proceditur, et queritur utrum anima <seg>moueat,</seg> et ostenditur quod
-      sic: omnis substantia creata per suam operationem et dirigens <seg>eandem</seg> se et alia
+          <p xml:id="da-236-ed1e1063-d1e1068">[lec 9, q2.6] <seg>Circa</seg> <seg>sextum</seg>
+            <seg>sic</seg> proceditur, et queritur utrum anima <seg>moueat,</seg> se ipsam,
+      et ostenditur quod sic: omnis substantia creata per suam operationem et dirigens <seg>eandem</seg> se et alia
       simul uel secundum prius et posterius natura et <seg>tempore</seg> in illa
        <seg>dispositione</seg> disponit se et alia. Set anima dirigendo se dirigit corpus in
       operatione sua, ergo disponit se et corpus in illa operatione. Hec autem dispositio est
@@ -340,27 +381,36 @@
        <seg>etiam</seg> sufficiens. Set omnis substantia que excitatur ad operationem in qua
       primo non fuit mouetur et alteratur <seg>proprie.</seg> Anima est huiusmodi, <seg>que</seg>
       excitatur se ipsa ad operationem in qua prius non fuit mouendo corpus, ergo mouet se
-      ipsam.</p>
-          <p xml:id="da-236-ed1e1063-d1e1118">Ad oppositum: omne mobile est partibile. Motus enim est operatio respiciens partibilitatem
-      partium, set anima non est partibilis, ergo non est mobilis, ergo non mouet se. </p>
-          <p xml:id="da-236-ed1e1063-d1e1121">Secunda ratio hec est: sicut habetur in octauo <hi>Physicorum</hi>, in quolibet genere
-      mouentium est status ad illud quod <seg>mouet</seg> et non mouetur. Ultimus autem motor est
-      illud quod mouet et non mouetur et ad ipsum est status. Set ad animam est status in corpore,
-      ergo anima mouet ita quod non mouetur, et hoc patet per exemplum. | Mouetur enim manus fixo
-      cubito et mouetur cubitus fixo musculo et mouetur musculus fixo humero. Et sic de aliis
+      ipsam.
+    </p>
+          <p xml:id="da-236-ed1e1063-d1e1118">Ad oppositum: omne mobile est partibile.
+    Motus enim est operatio respiciens partibilitatem partium, set anima non est partibilis,
+  ergo non est mobilis, ergo non mouet se.
+</p>
+          <p xml:id="da-236-ed1e1063-d1e1121">Secunda ratio hec est: sicut habetur in octauo
+       <title>Physicorum</title>, in quolibet genere mouentium est status ad illud quod <seg>mouet</seg> et non mouetur.
+        Ultimus autem motor est illud quod mouet et non mouetur et ad ipsum est status.
+         Set ad animam est status in corpore, ergo anima mouet ita quod non mouetur, et hoc patet per exemplum.
+         <pb ed="#V" n="68-r"/>
+         <cb ed="#V" n="b"/>Mouetur enim manus fixo cubito et mouetur cubitus fixo musculo et mouetur musculus fixo humero.
+      Et sic de aliis
       usque ad animam que est motus uel <seg>mouens</seg> ad <seg>quem</seg> est status mouentium
-      in corpore, ergo anima ita mouet quod non mouetur, ergo anima non mouet se ipsam. </p>
-          <p xml:id="da-236-ed1e1063-d1e1137">Solutio. Dicendum quod <seg>opinio</seg> philosophorum fuit animam se ipsa moueri, et
-      mouendo se ipsam mouere <seg>simul</seg> corpus, unde posuerunt quod cum anima mouet corpus,
-      mouet se ipsam et simul, cum hoc mouet corpus. Posuerunt enim quod omne quod mouet necesse
+      in corpore, ergo anima ita mouet quod non mouetur, ergo anima non mouet se ipsam.
+    </p>
+          <p xml:id="da-236-ed1e1063-d1e1137">Solutio. Dicendum quod <seg>opinio</seg>
+       philosophorum fuit animam se ipsa moueri, et mouendo se ipsam mouere <seg>simul</seg> corpus,
+        unde posuerunt quod cum anima mouet corpus, mouet se ipsam et simul, cum hoc mouet corpus.
+       Posuerunt enim quod omne quod mouet necesse
       est moueri et quod maxime est principium motus in aliquo genere maxime participat motum, et
       quia anima est principium sufficientis motus in animatis, ideo maxime participat motum et
       mouetur se ipsa. Dicendum autem est quod hec positio non est uera. Anima enim mouet existens
       inmobilis per se et non mouetur motu proprio corporis per se. Set sicut nauta mouet nauem et
       mouendo ipsam et dirigendo <seg>nisi</seg> mouetur motu nauis nisi per accidens, similiter
-      autem est de anima quod dirigendo | et <seg>mouendo</seg> corpus non mouetur motu proprio
-      corporis per se, <seg>set</seg> per accidens. Et concedende sunt rationes que
-       <seg>inducuntur</seg> ad hoc quod anima se ipsa non mouetur et quod non mouet se ipsam. </p>
+      autem est de anima quod dirigendo
+      <pb ed="#K" n="82-v"/>
+      <cb ed="#K" n="a"/>et <seg>mouendo</seg> corpus non mouetur motu proprio corporis per se, <seg>set</seg> per accidens.
+       Et concedende sunt rationes que <seg>inducuntur</seg> ad hoc quod anima se ipsa non mouetur et quod non mouet se ipsam.
+     </p>
           <p xml:id="da-236-ed1e1063-d1e1159">Ad primam rationem in contrarium dicendum <seg>est</seg> quod anima dirigit se in sua
        <seg>operatione.</seg> Huiusmodi autem operatio in qua dirigit se respicit duo: respicit
       enim subiectum quod mouetur et supra quod anima operatur et hoc est corpus, et illud mouetur
@@ -370,13 +420,16 @@
        <seg>Iterum</seg> licet illa operatio sit motus non tamen illa directio est motus, set
       solum ordinatio cause ad effectum sicut anime ad motum, et ideo non est motus et ideo quia
       motus non denominat causam tanquam subiectum non mouetur anima dirigendo se in illo nec
-      etiam illa directio motus est. </p>
-          <p xml:id="da-236-ed1e1063-d1e1174">Ad secundam rationem dicendum <seg>est:</seg> quando non est in actu operationis excitatur
+      etiam illa directio motus est.
+     </p>
+          <p xml:id="da-236-ed1e1063-d1e1174">Ad secundam rationem dicendum <seg>est quod anima</seg>
+      quando non est in actu operationis excitatur
       se ipsa ad operationem, set in illa operatione sunt duo, scilicet operatio et
        <seg>excitatio,</seg> et illa operatio respicit corpus et non animam nisi sicut causam
       solum. Illa autem excitatio est sola ordinatio potentie ad actum que non <seg>debet</seg>
       appellari motus, set solum exitus ab <seg>occio</seg> in actum. Et ideo anima non mouetur se
-      ipsa, licet se ipsa excitetur ad operationem.</p>
+      ipsa, licet se ipsa excitetur ad operationem.
+    </p>
         </div>
       </div>
     </body>

@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -62,9 +62,11 @@
     moueatur uiolentia, cum moueatur natura tanquam a principio intrinseco. Et ostenditur quod
     non: omnis motus secundum uiolentiam et naturam requirit duos terminos oppositos ad quorum
     unum naturaliter sit motus et ad aliud uiolenter. Set huiusmodi termini oppositi solum sunt in
-    motu recto, qui est ab uno in aliud et non sunt in <hi>|</hi> motu circulari, cum sint ab
-    eodem in idem. Ergo in motu circulari non est uiolentia set solum naturalis motus, ergo cum
-    corpus superius moueatur naturaliter motu circulari, patet quod non mouetur per uiolentiam. </p>
+    motu recto, qui est ab uno in aliud et non sunt in
+    <pb ed="#K" n="97-r"/>
+    <cb ed="#K" n="a"/>motu circulari, cum sint ab eodem in idem. Ergo in motu circulari non est uiolentia set solum naturalis motus, ergo cum
+    corpus superius moueatur naturaliter motu circulari, patet quod non mouetur per uiolentiam.
+   </p>
         <p xml:id="da-236-ed1e6831-d1e6845">Secunda ratio est ista: motus <seg>uiolentus</seg> est fortior in principio et debilior in
     fine, et hoc propter distantiam a principio uiolento. Motus autem naturalis fortior est in
     fine et debilior in principio, et hoc proter distantiam eius a principio uiolento et ad
@@ -74,37 +76,42 @@
     superioribus, quia motus superiorum corporum est continuus et uniformis non habens intensionem
     et remissionem, ergo habet approximationem ad principium naturale quod mouet continue et
     uniformiter et non ad principium uiolentium. Ergo in motu corporum superiorum est natura
-    mouens et non uiolentia. Non mouentur ergo corpora superiora uiolenter. </p>
-        <p xml:id="da-236-ed1e6831-d1e6851">Ad oppositum: omnis motus qui est cum resistentia mobilis ad motorem est cum uiolentia. Set
-    motus primus circularis huiusmodi est, sicut dicit commentator in quarto
+    mouens et non uiolentia. Non mouentur ergo corpora superiora uiolenter.
+  </p>
+        <p xml:id="da-236-ed1e6831-d1e6851">Ad oppositum: omnis motus qui est cum
+           resistentia mobilis ad motorem est cum uiolentia. Set
+    motus primus circularis huiusmodi est, sicut dicit Commentator in quarto
        <seg>
-            <hi>Phisicorum</hi>.</seg> Dicit enim quod motus celi resistit motori et uirtuti eius
+            <title>Phisicorum</title>.</seg> Dicit enim quod motus celi resistit motori et uirtuti eius
     et propter illam resistentiam fit successio in illo. Ergo motus circularis primus qui est
-    motus corporum superiorum est uiolentus.</p>
+    motus corporum superiorum est uiolentus.
+  </p>
         <p xml:id="da-236-ed1e6831-d1e6860">
-          <hi>VOY</hi>
           <seg>Solutio.</seg> Ad hoc dicendum est quod motus corporis celestis non est cum uiolentia,
     unde corpora superiora non mouentur uiolentia. Set sola corpora inferiora que habent oppositos
     situs et terminabilia sunt ad quietem mouentur natura et uiolentia, unde quando mouentur ad
-    situm compatientem*, tunc mouentur natura. Quando autem mouentur ad situm contrarium tun
+    situm compatientem, tunc mouentur natura. Quando autem mouentur ad situm contrarium tun
     mouentur uiolentia. In corpore autem celesti non est reperire istos situs oppositos et ideo in
     corpore celeste non est uiolentia in mouendo. Mouetur enim ab eodem in idem et non a termino
-    opposito ad terminum oppositum. Aristoteles autem cum dixit quod omne quod mouetur natura
+    opposito ad terminum oppositum. <name>Aristoteles</name> autem cum dixit quod omne quod mouetur natura
     mouetur uiolentia intellexit de corporibus inferioribus. Corpus etiam celeste non est corpus
     quod moueatur tanquam a principio sufficiente mouente, set ab intellectu mouetur tanquam a
     principio sufficiente <seg>mouenter,</seg> natura uero est mouens ipsum, sicut principium
     inclinans ad motum. <seg>Intellectus</seg> uero sicut principium complens motum. Concedente
-    ergo sunt rationes que ostendunt quod corpus celeste non possit moueri uiolentia. </p>
+    ergo sunt rationes que ostendunt quod corpus celeste non possit moueri uiolentia.
+  </p>
         <p xml:id="da-236-ed1e6831-d1e6874">Ad rationem in contrarium dicendum est quod resistencia mobilis ad motorem est duobus modis:
     uno modo quia quedam est <seg>resistencia</seg> que prouenit a contrariis inclinationibus ad
     diuersos situs secundum quos mobile natum est ad unum situm dirigi et motor mouet ipsum ad
     oppositum situm et ideo resistit mobile motori et hec resistencia facit motum uiolentum. Alias
-    est resistentia mobilis ad motorem que est a natura corporalitatis <hi>|</hi> et
-    partibilitatis proueniens que facit successionem in motu et non efficit motum
+    est resistentia mobilis ad motorem que est a natura corporalitatis
+    <pb ed="#K" n="97-r"/>
+    <cb ed="#K" n="b"/>et partibilitatis proueniens que facit successionem in motu et non efficit motum
       <seg>subiectum,</seg> est tamen mobile cum obedientia substantie motoris de natura sua et
     inclinationis mobilis ad motorem, quia ducit ipsum motor ubi uult, et talis resistencia non
     facit uiolentiam in motu et talis est in corpore celesti, et ideo corpus celeste cum uiolentia
-    non mouetur.</p>
+    non mouetur.
+  </p>
       </div>
     </body>
   </text>

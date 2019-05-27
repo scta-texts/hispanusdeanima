@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -49,13 +49,16 @@
   <text>
       <body>
          <div>
-            
+
             <head>Preambula, Problema 1, Quaestio 6</head>
-            <p>Sexto queritur propter quid hoc est in intelligentia, scilicet quod cognoscit se ipsam, et non in sensibili, quia uidetur quod sensibilis cognoscere possit se ipsam. Nam sicut se habet anima intellectiua ad suum actum sic et sensitiua, ergo sicut intellectiua se et suum actum apprehendit ita et sensitiua.</p>
+            <p>
+              Sexto queritur propter quid hoc est in intelligentia, scilicet quod cognoscit se ipsam, et non in sensibili, quia uidetur quod sensibilis cognoscere possit se ipsam.
+            Nam sicut se habet anima intellectiua ad suum actum sic et sensitiua, ergo sicut intellectiua se et suum actum apprehendit ita et sensitiua.
+          </p>
 
          </div>
       </body>
   </text>
-  
- 
+
+
 </TEI>

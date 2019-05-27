@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -60,16 +60,20 @@
     adamas attrahit ferrum, utrum illa sit uirtus alicuius quatuor qualitatum</head>
         <p xml:id="da-236-ed1e5983-d1e5991">[lec 13 q4] Circa quartam questionem sic proceditur et queritur que sit illa uirtus per quam
     adamas attrahit ferrum, utrum illa sit uirtus alicuius quatuor qualitatum, et ostenditur quod
-    sic: sicut habetur in libro <hi>De generatione</hi>, actio et passio debentur
+    sic: sicut habetur in libro <title>De generatione</title>, actio et passio debentur
       <seg>elementatis</seg> per naturam elementorum. Set metalla mixta sunt elementata uel
     elementa et habent naturam elementorum. Ergo eis debetur actio et passio per naturam
-    elementorum, set adamas est mixtum, ergo uirtus <hi>|</hi> illa per quam adamas agit in ferrum
-    attrahendo ipsum est uirtus elementorum, ergo cum elementa comparentur ad suas quantitates et
-    per illam uirtutem fiat operatio, necesse est ut illa uirtus sit alicuius quatuor qualitatum. </p>
-        <p xml:id="da-236-ed1e5983-d1e6003">Ad oppositum: sicut dicit <seg>Auicenna,</seg> adamas attrahit ferrum a tota specie. Illa
+    elementorum, set adamas est mixtum, ergo uirtus
+    <pb ed="#K" n="93-r"/>
+    <cb ed="#K" n="b"/>illa per quam adamas agit in ferrum attrahendo ipsum est uirtus elementorum,
+     ergo cum elementa comparentur ad suas quantitates et
+    per illam uirtutem fiat operatio, necesse est ut illa uirtus sit alicuius quatuor qualitatum.
+  </p>
+        <p xml:id="da-236-ed1e5983-d1e6003">Ad oppositum: sicut dicit <name>Auicenna</name>, adamas attrahit ferrum a tota specie. Illa
     autem species non est aliqua quatuor qualitatum, set illam adquisiuit materia per mixtionem
     quatuor qualitatum et per uirtutem consequentem illam formam attrahit ferrum. Ergo illa uirtus
-    per quam adamas attrahit ferrum non est uirtus alicuius qualitatum. </p>
+    per quam adamas attrahit ferrum non est uirtus alicuius qualitatum.
+  </p>
         <p xml:id="da-236-ed1e5983-d1e6009">Ad rationem in contrarium dicendum est quod actio debetur alicui duobus modis: uno modo
     tanquam primo principio a quo principaliter exit actio ymaginationis rei, et hoc modo debetur
     actio forme complete. Alio modo debetur actio alicui tanquam <seg>instrumenti</seg> in uia
@@ -81,7 +85,8 @@
     competit ei <seg>genera</seg> sue forme completiue et uirtutis illius forme per quam differt
     adamas ab <seg>illis</seg> corporibus. Hec autem actio non est actio in uia generationis
     corporum et <seg>contrarietas,</seg> set est ei appropriata per propriam naturam et formam
-    suam specificam, que est propria. </p>
+    suam specificam, que est propria.
+   </p>
       </div>
     </body>
   </text>

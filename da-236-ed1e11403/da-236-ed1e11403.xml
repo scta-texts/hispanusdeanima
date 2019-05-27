@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -57,9 +57,9 @@
       <div xml:id="da-236-ed1e11403" >
         <head>Quaestio 2</head>
         <head type="question-title">
-    Utrum anima sit substantia corporea 
-    uel spiritualis ut dicatur quod sit 
-    forma corporalis 
+    Utrum anima sit substantia corporea
+    uel spiritualis ut dicatur quod sit
+    forma corporalis
     manens naturalis aut forma spiritualis
    </head>
         <p xml:id="da-236-ed1e11403-d1e11411">[lec2 q2] Circa secundam questionem sic proceditur et queritur utrum anima sit substantia
@@ -82,7 +82,7 @@
       <seg>materia</seg>
           <seg>applicata</seg> diuersa ratione <seg>componentium</seg> compositas forma illa diuersas
     exercet operationes, et hoc patet quia forma corporalis <seg>naturalis</seg> est forma tantum
-    et non substantia et ita non habet diuersitat<hi>|</hi>tes potentiarum nec predictarum
+    et non substantia et ita non habet diuersitat<hi><pb ed="#K" n="109-v"/><cb ed="#K" n="a"/></hi>tes potentiarum nec predictarum
     conditionum. Set anima habet predictas conditiones, ergo anima non est forma naturalis
       <seg>corporalis</seg> set forma spiritualis. </p>
         <p xml:id="da-236-ed1e11403-d1e11483">Ad oppositum: in eodem genere sunt principia <seg>compositi</seg> et forma compositi

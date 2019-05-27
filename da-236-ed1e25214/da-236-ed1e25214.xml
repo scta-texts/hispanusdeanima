@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -62,9 +62,9 @@
           <hi>[lec11 q5] Circa quintam questionem sic proceditur et queritur utrum anima sit in semine
       actu uel potencia. Et ostenditur quod sit potencia existens in semine per talem rationem,
       sicut habetur in libro </hi>
-          <hi>De animalibus</hi>
+          <title>De animalibus</title>
           <hi>, anima est in spermate potencia et in <seg>quolibet</seg> membro potencia. Set in quodam
-      proprinquor et in quodam remotior et in multis locis dicit Aristoteles quod anima est in
+      proprinquor et in quodam remotior et in multis locis dicit <name>Aristoteles</name> quod anima est in
       embrione non actu set potencia. Ergo anima est in semine potencia et non actu. </hi>
         </p>
         <p xml:id="da-236-ed1e25214-d1e25237">
@@ -91,7 +91,7 @@
       sicut anima est potencia. Operationes uero uite similiter sunt in ipso semine a substantia
       anime potencialiter et non actualiter. Sunt autem in ipso uita et predicte operationes
       actualiter a uirtutibus fluentibus cum semine ad productionem fetus operationibus et non ab
-      ipsa anima set potentialiter sunt ab <seg>illa.&gt;</seg>
+      ipsa anima set potentialiter sunt ab <seg>illa.</seg>
           </hi>
         </p>
       </div>

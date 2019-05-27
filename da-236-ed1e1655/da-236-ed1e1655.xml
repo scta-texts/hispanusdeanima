@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -57,7 +57,8 @@
       <div xml:id="da-236-ed1e1655" >
         <head>Quaestio 2</head>
         <head type="question-title">Utrum ille intellectus sit creatus an increatus</head>
-        <p xml:id="da-236-ed1e1655-d1e1663">[lec 10 q2] Circa secundam <seg>questionem</seg> sic proceditur: supposito quod intellectus
+        <p xml:id="da-236-ed1e1655-d1e1663">[lec 10 q2] Circa secundam <seg>questionem</seg>
+         sic proceditur: supposito quod intellectus
     fit motor omnium, tunc queritur utrum ille intellectus sit creatus an increatus, et ostenditur
     quod increatus sit ille intellectus qui est motor <seg>omnium,</seg> duplex est mouens,
     quoddam est mouens quod est natura, quoddam autem est <seg>mouens</seg> quod est
@@ -69,33 +70,40 @@
     materia secundum essentiam, set tantum secundum operationem ab ipsa <seg>dependet,</seg> nam
     ex materia et in materia res producit. Set omne dependens a materia siue secundum substantiam
     siue secundum operationem est <seg>mouens</seg> insufficiens. Hec igitur tria mouentia sunt
-    insufficientia, scilicet <seg>naturata*</seg> et cetera. Secundum tamen magis et minus,
-    propter maiorem et minorem dependentiam ita quod intelligentia minus <seg>fit</seg> incompleta
+    insufficientia, scilicet <seg>naturata</seg> et cetera, secundum tamen magis et minus
+    propter maiorem et minorem dependentiam, ita quod intelligentia minus <seg>fit</seg> incompleta
     et anima magis et natura maxime. Set in quolibet genere completum <seg>precedit</seg>
-    incompletum. Ergo supra predicta mouentia est ponere aliam substantiam que <seg>neque</seg>
+    incompletum, ergo supra predicta mouentia est ponere aliam substantiam que <seg>neque</seg>
     quantum ad esse <seg>neque</seg> quantum ad <seg>operationem</seg> dependeat a materia, que
     substantia moueat et ad quam alia reducantur. Hec autem est substantia prima, ergo necesse est
     ponere substantiam primam mouentem omnia. Hec autem est substantia increata et que est
     cognoscens et intelligens et operans per intellectum, ergo intellectus <seg>eius</seg> est
     increatus et per ista <seg>illud</seg> mouet omnia. Ergo ille intellectus qui mouet omnia est
-    increatus. </p>
-        <p xml:id="da-236-ed1e1655-d1e1732">Secunda ratio hec est: in omni genere <seg>nichil</seg> quod coartatum est secundum uirtutem
-    ad aliquid est <seg>infinite.</seg> Set <seg>potentia</seg>
+    increatus.
+  </p>
+        <p xml:id="da-236-ed1e1655-d1e1732">Secunda ratio hec est: in omni genere <seg>nichil</seg>
+         quod coartatum est secundum uirtutem ad aliquid est <seg>infinite.</seg> Set <seg>potentia</seg>
           <seg>intelligere</seg> et nature coartate sunt ad aliquid operandum, quia secundum exigentiam
       <seg>materia</seg> producunt uel operantur, ergo eorum potentia non est infinita set finita,
     set omnem uirtutem finitam precedit uirtutem <seg>infinitam,</seg> quia uirtus infinita est
     magis completa. Ergo oportet ponere aliquid quod sit infinite potentie. Hec autem est
     substantia <seg>prima</seg> increata, et talis est motor uniuersalis omnium. Ergo substantia
     increata est motor uniuersalis omnium, set talis operatur per intellectum increatum, ergo
-    intellectus increatus est ille qui mouet omnia. </p>
-        <p xml:id="da-236-ed1e1655-d1e1757">Ad oppositum nobilissime substantie et simplicissime debetur nobilissima operatio et
-      <seg>simplicissisima.</seg> Hec autem est intelligere et non <seg>mouere.</seg> Set
+    intellectus increatus est ille qui mouet omnia.
+   </p>
+        <p xml:id="da-236-ed1e1655-d1e1757">Ad oppositum nobilissime substantie et simplicissime.
+    debetur nobilissima operatio et<seg>simplicissisima.
+  </seg> Hec autem est intelligere et non <seg>mouere.</seg> Set
     substantia prima increata intelligens per intellectum increatum est nobilissima et
-      <seg>simplicissima.</seg> Ergo ei debetur intelligere | et non mouere, ergo intellectus
-      <seg>increans</seg> intelligit et non est motor uniuersalis omnium.</p>
-        <p xml:id="da-236-ed1e1655-d1e1773"> | Secunda ratio <seg>talis</seg> est: sicut habetur in undecimo
+  <seg>simplicissima.</seg> Ergo ei debetur intelligere
+  <pb ed="#K" n="82-v"/>
+  <cb ed="#K" n="b"/>et non mouere, ergo intellectus<seg>increans</seg> intelligit et non est motor uniuersalis omnium.
+</p>
+        <p xml:id="da-236-ed1e1655-d1e1773">
+          <pb ed="#V" n="69-r"/>
+          <cb ed="V" n="a"/>Secunda ratio <seg>talis</seg> est: sicut habetur in undecimo
       <seg>
-            <hi>Metaphysice</hi>,</seg> quedam melius est non uidere quam uidere, et quedam melius
+            <title>Metaphysice</title>,</seg> quedam melius est non uidere quam uidere, et quedam melius
     est non intelligere quam intelligere. Ergo cum magis afficiatur uel inficiatur substantia
     quantum ad operationem quam quantum ad cognitionem, si uile est ei quedam intelligere multo
     fortius uile <seg>est</seg> ei quedam mouere. Ergo substantie prime que operatur per
@@ -104,20 +112,24 @@
         <p xml:id="da-236-ed1e1655-d1e1787">
           <seg>Solutio.</seg> Dicendum <seg>est</seg> quod intellectus qui est motor uniuersalis omnium
     est intellectus increatus. Ille enim est <seg>mouens</seg> et disponens <seg>omnia</seg> et
-    ordinans et de hoc loquitur Anaxagoras, cum dicit quod intellectus <seg>uniuersaliter</seg>
-    mouet omnia.</p>
-        <p xml:id="da-236-ed1e1655-d1e1804">Ad primam rationem in contrarium dicendum <seg>est</seg> quod duplex est operatio creatoris,
-    quedam est operatio creatoris que est ipsius in se, &lt;et hec est intelligere et est alia que
-    non est ipsius in <seg>se&gt;,</seg> set significat et predicat effectum in creaturis, et hee
+    ordinans et de hoc loquitur <name>Anaxagoras</name>, cum dicit quod intellectus <seg>uniuersaliter</seg>
+    mouet omnia.
+  </p>
+        <p xml:id="da-236-ed1e1655-d1e1804">Ad primam rationem in contrarium dicendum
+    <seg>est</seg> quod duplex est operatio creatoris,
+    quedam est operatio creatoris que est ipsius in se, et hec est intelligere et est alia que
+    non est ipsius in <seg>se,</seg> set significat et predicat effectum in creaturis, et hee
     sunt multe, sicut creare, mouere et ordinare et disponere, et hee operationes que dicunt
     effectum in creaturis insunt <seg>ei</seg> propter hoc quod proprium est substantiarum
     perfectarum quod, quanto perfectiores sunt et bone, tanto magis influentes sunt super alias,
-    sicut enim dicit <seg>Dyonisius</seg> quod bonum est diffusiuum et multiplicatiuum sui ipsius,
+    sicut enim dicit <name>Dyonisius</name> quod bonum est diffusiuum et multiplicatiuum sui ipsius,
     et ideo cum creator sit optimus de bonitate <seg>ipsius</seg> ut influat supra creaturas ipsas
     mouendo et dirigendo et ordinando, et <seg>ideo</seg> intellectus increatus omnia mouet, unde
     intelligere est nobilis operatio in <seg>ipso</seg> et similiter dico quod mouere et ordinare
-    creaturas hoc est <seg>mobile</seg> in ipso. </p>
-        <p xml:id="da-236-ed1e1655-d1e1832">Ad secundam rationem dicendum <seg>est</seg> quod duplex est substantia, quedam est
+    creaturas hoc est <seg>mobile</seg> in ipso.
+   </p>
+        <p xml:id="da-236-ed1e1655-d1e1832">Ad secundam rationem dicendum <seg>est</seg>
+      quod duplex est substantia, quedam est
       <seg>substantia</seg> que nata est contrahi per dispositiones eius ad <seg>que</seg>
     applicatur et talis dependet a materia et talis contrahit uilitatem et <seg>labem</seg> ab ea
     ad quam applicatur, unde una substantia corporalis contrahit labem et uilitatem ab alia. Est
@@ -125,15 +137,16 @@
     radiis solaris non contrahit labem uel <seg>sordem</seg> a corporibus inferioribus, quia est
     spiritualis non dependens ab ipsis nec communicat <seg>in</seg> materia <seg>cum</seg> ipsis,
     et ideo non est uile, nec contrahit uilitatem ab ipsis, set summa nobilitas in ipso est ut
-    supra res uiles et nobiles et <seg>innobiles</seg> influat. Res autem omnes in quantum entes
-    sunt a creatore processerunt* nobiles sunt omnes. Quod autem <seg>sunt</seg> innobiles hoc
+    supra res uiles et nobiles et <seg>innobiles</seg> influat. Res autem omnes, in quantum entes
+    sunt a creatore processerunt nobiles sunt omnes. Quod autem <seg>sint</seg> innobiles hoc
     habent per sui defectum et non per influentiam quam sortiuntur a creatore, immo quantum ad
     influentiam quam <seg>suscipiunt</seg> a creatore bonitatem <seg>sortiuntur.</seg> Malitiam
       <seg>autem</seg> de influentia eius, <seg>iterum</seg>
           <seg>in</seg> influentia primi supra res est et secundum ordinem, et <seg>ideo</seg> secundum
     maiorem participationem et minorem. Et quia quedam creature secundum ordinem magis accedunt ad
-    ipsum, ideo quedam sunt magis nobiles quedam minus, et ideo primum | supra res
-      <seg>omnes</seg> influit non tamen uilescit, quod autem dicit Aristoteles quod
+    ipsum, ideo quedam sunt magis nobiles quedam minus, et ideo primum
+    <pb ed="#K" n="84-r"/>
+    <cb ed="#K" n="a"/>supra res <seg>omnes</seg> influit non tamen uilescit, quod autem dicit <name>Aristoteles</name> quod
       <seg>uiuere</seg> est aliquid <seg>ei</seg> intelligere, scilicet aliud a se intelligit quod
     primum non intelligit aliud a se ipso, tanquam quod sit perfectio sui <seg>intellectus,</seg>
     set intelligendo <seg>se</seg> intelligit alia. Ponit enim quod nichil est perfectio sui

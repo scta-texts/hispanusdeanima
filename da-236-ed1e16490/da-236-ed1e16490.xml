@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -58,12 +58,12 @@
         <head>Quaestio 5</head>
         <head type="question-title">Utrum nutrire et augere sunt differentie uite</head>
         <p xml:id="da-236-ed1e16490-d1e16498">[lec5 q5] Circa quintam questionem sic proceditur et queritur utrum nutrire et augere sunt
-    differentie uite. Et ostenditur quod sic: sicut uult Aristoteles augere et nutrire sunt
-    differentie uite computans eas inter alias differentias uite. Ergo patet per Aristoteles quod
+    differentie uite. Et ostenditur quod sic: sicut uult <name>Aristoteles</name> augere et nutrire sunt
+    differentie uite computans eas inter alias differentias uite. Ergo patet per <name>Aristoteles</name> quod
     sunt differentie uite. </p>
         <p xml:id="da-236-ed1e16490-d1e16501">Secunda ratio hec est: illud per quod differt animatum ab innanimato in rebus animatis est
     uita, quia per uitam differt animatum ab inanimato. Set per motum augmenti et nutrimenti, qui
-    motus est ab anima et non a formis naturalibus, sicut uult Aristoteles, differt animatum ab
+    motus est ab anima et non a formis naturalibus, sicut uult <name>Aristoteles</name>, differt animatum ab
     inanimato. Ergo nutrire et augere sunt differentie uite. </p>
         <p xml:id="da-236-ed1e16490-d1e16504">Tercia ratio hec est: per illud per quod est res conseruatur in esse, unde idem est causa
     uite et conseruationis uite. Set animalia per animam et per actus eius conseruantur. Ergo
@@ -72,7 +72,7 @@
     nutrimentum sunt actus anime per quos conseruantur uiuentia. Ergo augere et nutrire sunt actus
     uiuendi, ergo sunt differentie uite. </p>
         <p xml:id="da-236-ed1e16490-d1e16511">Quarta ratio hec est: uiuere est perfici ab actu anime. Set actus anime sunt
-    mul<hi>|</hi>tiplices, inter quos comnumerantur augere et nutrire, ergo corpora actus istos
+    mul<hi><pb ed="#K" n="120-v"/><cb ed="#K" n="a"/></hi>tiplices, inter quos comnumerantur augere et nutrire, ergo corpora actus istos
     participantia per actus illos in genere illo uiuunt. Ergo augere et nutrire sunt differentie
     uite. </p>
         <p xml:id="da-236-ed1e16490-d1e16517">Ad oppositum: nutrire et augere sunt motus et operationes et sic sunt actus secundi. Vita

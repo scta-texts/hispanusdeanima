@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -58,30 +58,34 @@
         <head>Praeambulum</head>
         <p xml:id="da-236-ed1e6035-d1e6040">
           <hi>Diffiniunt autem omnes tribus ut est dicere motu, sensu et incorporeo</hi> et cetera.
-    Postquam compleuit philosophus suam narrationem circa opiniones philosophorum diuersimode
+    Postquam compleuit Philosophus suam narrationem circa opiniones philosophorum diuersimode
     opinantium de anima, quia omnes ipsorum opiniones in quibus diffiniebant animam per motum et
     sensum et per utrumque asserebant animam ex rerum principiis <seg>constituti</seg> et secundum
     principiorum exigentiam ipsam ponebant mouere et sentire, sicut patet in omnibus opinionibus
     supradictis. Ideo in hac parte reducit omnes opiniones ipsorum ad naturam principiorum ex
-    quibus animam constitui asserebant. Et hec pars spectat ad presentem lectionem. </p>
+    quibus animam constitui asserebant. Et hec pars spectat ad presentem lectionem.
+  </p>
         <p xml:id="da-236-ed1e6035-d1e6048">Diuisio. Recipit autem hec pars diuisionem in partes quatuor, in quarum prima reducit
     intensionem omnium philosophorum ad principia rerum ex quibus animam constitui ponebant. In
-    secunda, scilicet in hac, <hi>Anaxagoras autem solum impassibilem dicit intellectum</hi> et
-    cetera, tangit diuersitatem opinionis Anaxagore ad opiniones aliorum. Ipsum enim primo ab
+    secunda, scilicet in hac, <hi><name>Anaxagoras</name> autem solum impassibilem dicit intellectum</hi> et
+    cetera, tangit diuersitatem opinionis <name>Anaxagore</name> ad opiniones aliorum. Ipsum enim primo ab
     opinionibus ipsorum excluserat. In tercia, scilicet in hac, <hi>quicumque autem contrarietatem
       faciunt</hi> et cetera, tangit <seg>ponere</seg> consequentem ad positiones ponentium animam
-    esse ex rerum principiis que asserit animam constitui <hi>|</hi> ex contrariis principiis, cum
-    principia sint contraria. In quarta, scilicet in hac,<hi> hec quidem igitur tradita de anima
-      dicta sunt</hi> et cetera, ponit uniuersalem epylogum predictorum. </p>
-        <p xml:id="da-236-ed1e6035-d1e6066">Hec est diuisio huius partis. </p>
-        <p xml:id="da-236-ed1e6035-d1e6069">Circa primam partem procedit philosophus hoc modo: in illa <seg>particularia</seg> quatuor
+    esse ex rerum principiis que asserit animam constitui
+    <pb ed="#K" n="93-v"/>
+    <cb ed="#K" n="a"/>ex contrariis principiis, cum principia sint contraria.
+     In quarta, scilicet in hac,<hi> hec quidem igitur tradita de anima dicta sunt</hi> et cetera, ponit uniuersalem epylogum predictorum.
+    </p>
+        <p xml:id="da-236-ed1e6035-d1e6066">Hec est diuisio huius partis.
+        </p>
+        <p xml:id="da-236-ed1e6035-d1e6069">Circa primam partem procedit Philosophus hoc modo: in illa <seg>particularia</seg> quatuor
     proponit: primum est reductio intensionum philosophorum ad principia ex quibus animam
     constitui dicebant. Dicit igitur quod omnes diffiniunt animam per tria, scilicet per motum et
     sensum et incorporeitatem, quia ponunt ipsam simplicem et incorpoream et omnes reducunt
     intensiones suas ad principia. Secundum autem quod ponit est modus secundum quem reducitur
     eorum intensio ad principia. Dicit igitur quod propter diffinientes animam in cognoscendo
     ponunt ipsam esse ex principiis aut esse ipsa principia unum ponentes aut multa uel cum multis
-    aut ipsorum unus concluditur, scilicet Anaxagoras, sicut postea patebit. Et hoc tangitur cum
+    aut ipsorum unus concluditur, scilicet <name>Anaxagoras</name>, sicut postea patebit. Et hoc tangitur cum
     dicit, <hi>unde et in cognoscendo diffinientes ipsam</hi> et cetera. Tercium autem est ratio
     opinionis ipsorum et est talis: omnis substantia cognoscitiua habet naturam et
       <seg>similitudines</seg> cognitorum. Set anima est huiusmodi, ergo anima habet naturam et
@@ -95,16 +99,19 @@
     habere naturam, sicut qui ponunt ignem aut aerem esse principium ponunt animam esse ignem aut
     aquam et idem est de aliis principiis. Qui autem ponunt plura principia ponunt eam esse plura,
     et hoc tangitur cum dicit, <hi>quicumque quidem igitur unam dicunt eam et elementum unum</hi>
-    et cetera. </p>
-        <p xml:id="da-236-ed1e6035-d1e6098">Consequenter accedit ad secundam partem in qua tangit opinionem Anaxagore quem primo
-    exceperat et primo tangit ipsius opinionem sine intensionem dicens quod Anaxagoras dixit solus
+    et cetera.
+  </p>
+        <p xml:id="da-236-ed1e6035-d1e6098">Consequenter accedit ad secundam partem in qua tangit
+    opinionem <name>Anaxagore</name> quem primo
+    exceperat et primo tangit ipsius opinionem sine intensionem dicens quod <name>Anaxagoras</name> dixit solus
       <seg>sol</seg> intellectum esse impassibilem et cum nullo habet contrarietatem et a nullo
     habere dependentiam et cum nullo habere commixtionem. Secundo, cum dicit, <hi>huiusmodi autem
       quo modo cognoscit neque ipse dixit</hi> et cetera, reprehendit ipsum ex insufficientia
-    dicens quod non habemus determinatum ab Anaxagora secundum quem modum intellectus intelligit
+    dicens quod non habemus determinatum ab <name>Anaxagora</name> secundum quem modum intellectus intelligit
     nec hoc manifestum est ex eis que ab ipso sunt dicta. Hiis autem habitis accedit auctor ad
-    terciam partem in qua tangit <seg>ponere</seg> consequentem ad po<hi>|</hi>sitiones ponentium
-    animam esse ex rerum principiis que ponit animam esse ex contrariis eo quod principia sunt
+    terciam partem in qua tangit <seg>ponere</seg> consequentem ad po
+    <pb ed="#K" n="93-v"/>
+    <cb ed="#K" n="b"/>sitiones ponentium animam esse ex rerum principiis que ponit animam esse ex contrariis eo quod principia sunt
     contraria et in illa parte duo proponit: primum est quod philosophi qui ponebant principia
     rerum esse contraria posuerunt animam esse ex contrariis cum sit ex principiis
       <seg>rerum</seg> et diuersitati sunt. Qui posuerunt multa principia contraria posuerunt
@@ -120,21 +127,25 @@
     temperamentum caloris naturalis per que conseruatur et consistit uita. Set anima est
     huiusmodi, et frigiditas est qualitas que est causa predictarum operationum. Ergo anima habet
     naturam frigiditatis. Vnde aput grecos infrigidatio que prouenit ex hanelitu, dicitur
-      <seg>ysargi*:</seg> hoc est hanelitus, et ab hoc denominabant animam frigiditatis naturam
+      <seg><name>Ysargi</name>:</seg> hoc est hanelitus, et ab hoc denominabant animam frigiditatis naturam
     habentem, cum sit principium inspirationis et respirationis frigiditas in quibus uita
-    consistit cuius anima est causa. </p>
+    consistit cuius anima est causa.
+   </p>
         <p xml:id="da-236-ed1e6035-d1e6120">Vltimo autem ponit uniuersalem epylogum omnium predictorum dicens quod ea que dicta sunt
     determinata sunt circa opiniones philosophorum et tacte sunt cause propter quas predictas
     opiniones crediderunt. Et sic declaratur intensio huius partis, et terminatum est hoc
-    capitulum in quo philosophorum opiniones recitantur. </p>
-        <p xml:id="da-236-ed1e6035-d1e6123">Laudetur autem Deus cuius nomen est gloriosum et sublime.</p>
+    capitulum in quo philosophorum opiniones recitantur.
+  </p>
+        <p xml:id="da-236-ed1e6035-d1e6123">Laudetur autem Deus cuius nomen est gloriosum et sublime.
+        </p>
         <p xml:id="da-236-ed1e6035-d1e6126">
           <seg>Questiones.</seg> Circa partem istam quinque incidunt questiones: prima [lec 14 q1]
       <seg>est</seg> utrum anima habeat conformitatem cum omnibus rebus an cum corporalibus solum.
     Secunda [lec 14 q2] est utrum habeat conformitatem cum omnibus elementis. Tercia est utrum
-    elementa sint omnium corporum principia, sicut dixit Empedocles. Quarta [lec 14 q4] est utrum
+    elementa sint omnium corporum principia, sicut dixit <name>Empedocles</name>. Quarta [lec 14 q4] est utrum
     concordia et discordia sint principia rerum. Quinta [lec 13 q5] est utrum amor sit principium
-    ipsarum rerum.</p>
+    ipsarum rerum.
+  </p>
       </div>
     </body>
   </text>

@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -57,28 +57,33 @@
       <div xml:id="da-236-ed1e4957" >
         <head>Quaestio 6</head>
         <head type="question-title">Utrum anima sit numerus</head>
-        <p xml:id="da-236-ed1e4957-d1e4965">[lec 12 q6] Circa sextam <seg>questionem</seg> sic proceditur et queritur utrum anima sit
+        <p xml:id="da-236-ed1e4957-d1e4965">[lec 12 q6] Circa sextam <seg>questionem</seg>
+    sic proceditur et queritur utrum anima sit
     numerus, et ostenditur quod sic: omnis substantia operans secundum <seg>ordinationem</seg> et
-      <seg>ductionem*</seg> operatur per illud quod est ratio discretionis et <seg>ordinis.</seg>
+      <seg>ductionem</seg> operatur per illud quod est ratio discretionis et <seg>ordinis.</seg>
     Hoc autem est numerus, ergo operatur per numerum. <seg>Illud</seg> ergo quod est principium
     regulationis operationis in homine est numerus uel habens naturam <seg>numeri</seg> in se. Hoc
-    autem est anima, ergo anima uel est numerus uel habet naturam numeri in se. </p>
+    autem est anima, ergo anima uel est numerus uel habet naturam numeri in se.
+   </p>
         <p xml:id="da-236-ed1e4957-d1e4987">Secunda ratio hec est: anima habet conformitatem cum omnibus principiis, quia omnes res
     cognoscit ex principiis. <seg>Iterum</seg> principia omnium habent naturam principiorum et
     exemplarium, et in quantum sunt exemplaria habet anima conformitatem cum illis principiis et
     sunt in anima. Set principia exemplaria <seg>uel</seg> numeri, ergo anima est numerus per
-      <seg>illa</seg> uel in se <seg>habet</seg> naturam numeri. </p>
+      <seg>illa</seg> uel in se <seg>habet</seg> naturam numeri.
+    </p>
         <p xml:id="da-236-ed1e4957-d1e5002">Ad <seg>oppositum:</seg> omnis numerus uel <seg>omne</seg> habens naturam uel intensionem
     numeri habet partibilitatem. Set anima est simplex et indiuisibilis et
       <seg>impartibilis,</seg> cum sit substantia spiritualis, ergo anima nec est numerus nec
-    habet intensionem numeri. </p>
+    habet intensionem numeri.
+  </p>
         <p xml:id="da-236-ed1e4957-d1e5015">
-          <seg>Solutio.</seg> Ad hoc dicendum est quod Plato posuit animam esse numerum, quia posuit
+          <seg>Solutio.</seg> Ad hoc dicendum est quod <name>Plato</name> posuit animam esse numerum, quia posuit
     similitudines rerum esse in anima et posuit animam <seg>habere</seg> similitudines et
     exemplaria rerum per cognitionem, et quia substantia habens <seg>exemplaria</seg> habet illa
-    sub ratione numeri ut per illa cognoscat <seg>distinguat</seg> et ordinet, ideo posuit Plato
-    animam habere in se naturam numeri non quia essentia anime esset <hi>|</hi> numerus, set quia
-    per numeros operatur et conformatur cum illis in operando. Numerus <seg>autem</seg> est
+    sub ratione numeri ut per illa cognoscat <seg>distinguat</seg> et ordinet, ideo posuit <name>Plato</name>
+    animam habere in se naturam numeri non quia essentia anime esset
+    <pb ed="#V" n="73-v"/>
+    <cb ed="#V" n="a"/></hi> numerus, set quia per numeros operatur et conformatur cum illis in operando. Numerus <seg>autem</seg> est
     duplex: est quidam numerus numeratus et hic dicitur res numerate distincte et discrete. Est
       <seg>autem</seg> alius numerus qui est numerus numerans et hic est duplex: unus est numerus
     numerans <seg>quod</seg> anima numerat res et hic dicitur esse numerus exemplarium per quem
@@ -88,19 +93,23 @@
     numeratas. Cum <seg>autem</seg> dicitur anima est numerus numerans, <seg>hec</seg> est
     predicatio accidentis. Anima enim operatur secundum regulam exemplarium que sunt in ipsa que
     habent rationem et intensionem numeri. Et quia denominatur anima a suis operationibus, ideo a
-    numero denominatur ut dicatur numerus numerans. Aristoteles autem improbat hanc opinionem,
-    acsi Plato poneret animam esse numerum, qui est quantitas. Hoc autem non est uerum, quia anima
+    numero denominatur ut dicatur numerus numerans. <name>Aristoteles</name> autem improbat hanc opinionem,
+    acsi <name>Plato</name> poneret animam esse numerum, qui est quantitas. Hoc autem non est uerum, quia anima
     non est numerus nisi per accidens, quia, scilicet ipsa <seg>anima</seg> est numerus numerans
     per numeros quibus numerat res numeratas. Hec autem sunt exemplaria. Vnde per naturam illorum
     dicitur esse numerus, quia per illa operatur diffinite et ordinate, et ideo
-      <seg>appellatur</seg> numerus per illa, quia per illa numerat res numeratas.</p>
+      <seg>appellatur</seg> numerus per illa, quia per illa numerat res numeratas.
+    </p>
         <p xml:id="da-236-ed1e4957-d1e5064">Ad rationem in contrarium dicendum quod in anima sunt duo, scilicet substantia anime,
-    secundum est operatio anime que est cum distinctione et ordinatione. Quantum | autem ad
-    substantiam non <seg>habet</seg> intensionem numeri, quia simplex est et indiuisibilis, et
-    quantum ad hoc improbat Aristoteles. Quantum autem ad operationem suam que est distincta et
+    secundum est operatio anime que est cum distinctione et ordinatione.
+    Quantum
+    <pb ed="#K" n="90-r"/>
+    <cb ed="#K" n="b"/> autem ad substantiam non <seg>habet</seg> intensionem numeri, quia simplex est et indiuisibilis, et
+    quantum ad hoc improbat <name>Aristoteles</name>. Quantum autem ad operationem suam que est distincta et
     ordinata habet naturam numeri et intensionem, quia distincte et ordinate non potest operari
     nisi secundum regulationem et rationem numeralem quam in se habeat. Hec autem est ratio
-    exemplarium, et hec operatio anime est partibilis et diuisibilis. </p>
+    exemplarium, et hec operatio anime est partibilis et diuisibilis.
+   </p>
       </div>
     </body>
   </text>

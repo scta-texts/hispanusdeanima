@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -64,14 +64,13 @@
       <seg>rationem,</seg> quia <seg>nulla</seg> forma que dat esse solum est forma secundum
     rationem. Set anima est huiusmodi, ergo anima non est forma secundum rationem. Set anima est
     huiusmodi. Maior patet quia prima principia diffinitionis secundum rationem sunt forme
-    uniuersales de quibus dicit Ysaac quod dant se et sua nomina eis quorum <seg>sunt,</seg> et
+    uniuersales de quibus dicit <name>Ysaac</name> quod dant se et sua nomina eis quorum <seg>sunt,</seg> et
     hoc <seg>idem</seg> in <seg>uegetabilibus,</seg> et ita forma secundum rationem non dat esse
     solum. Minor patet quia anima suum nomen non dat corpori nec composito. </p>
         <p xml:id="da-236-ed1e11742-d1e11778">Secunda ratio hec est: nulla forma que non est principium diffinitionis secundum speciem est
     forma secundum rationem. Anima est huiusmodi, ergo anima non est forma secundum rationem.
-    Maior patet in <seg>specto</seg> illo quod dicit Aristoteles in principio <hi>De
-       <seg>anima</seg>
-          </hi> quod differenter diffiniunt phisicus et logicus, quia hic reddit
+    Maior patet in <seg>specto</seg> illo quod dicit <name>Aristoteles</name> in principio <title>De
+       anima</title> quod differenter diffiniunt phisicus et logicus, quia hic reddit
     speciem, scilicet logicus. Ille uero materiam, scilicet phisicus. Minor patet per hoc idem et
     quod uerum sit hoc <seg>pateat,</seg> cum sola diffinitio logica sit per principia secundum
       <seg>rationem</seg> cuius diffinitionis non est anima. </p>
@@ -82,12 +81,12 @@
     est huiusmodi, ergo quelibet forma nature est forma secundum rationem. Maior patebit inferius
     exposito quid <seg>est</seg> forma secundum rationem. Minor patet in libro
        <seg>
-            <hi>Phisicorum</hi>
+            <title>Phisicorum</title>
           </seg>
-          <hi/> per Aristotelem dicentem quod sub <seg>alia</seg>
+          <hi/> per <name>Aristotelem</name> dicentem quod sub <seg>alia</seg>
     forma <seg>alia</seg> erit materia. Deinde queritur utrum forma artis sit forma secundum
     rationem, et uidetur quod sic, quia sicut habetur in libro <seg>
-            <hi>Phisicorum</hi>
+            <title>Phisicorum</title>
           </seg>
           <hi/>
     ars imitatur naturam. Set forma nature <seg>comparatur</seg> ad materiam sicut forma secundum
@@ -99,8 +98,8 @@
     corpori et in ipso est principium operationis speciei <seg>conuenientes,</seg> et per sui
     recessum facit corpus esse in ratione <seg>materiale</seg> non susceptibilis alterius forme
     que ei dat <seg>esse</seg> secudum speciem et est in ipso priuatio operationis predicte, ita
-    enim <seg>corpus</seg> quod est materia anime quod non est sus<hi>|</hi>ceptibile alterius
-    forme, sicut materia solum in genere <hi>|</hi>
+    enim <seg>corpus</seg> quod est materia anime quod non est sus<hi><pb ed="#K" n="110-r"/><cb ed="#K" n="b"/></hi>ceptibile alterius
+    forme, sicut materia solum in genere <hi><pb ed="#V" n="82-v"/><cb ed="#V" n="b"/></hi>
           <seg>suo</seg> appropriatur sue forme sub qua est tota. Set aliter de forma <seg>est</seg> que
     separata a materia non manebit materia sub aliqua forma specifica, cum <seg>sit</seg> ad
     multas formas et quibus sub <seg>alio</seg> et alio esse, sicut dictum est, et <seg>idem</seg>

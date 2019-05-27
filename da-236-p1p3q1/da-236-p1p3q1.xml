@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,18 +50,75 @@
         <body>
             <div>
                 <head>Preambula, Problema 3, Quaestio 1</head>
-                <p>Prima est de modo abstractionis in hac sciencia, et queritur utrum abstractio sit necessaria in sciencia naturali. Et ostenditur quod sic: sciencia est de aliquo fixo finito et stabili. Singularia uero sunt infinita instabilia et non fixa, ergo de ipsis non est sciencia, ergo est necesse aliquid existens incorruptibile per quod ipsa singularia, manens unum et fixum. Hoc autem non est nisi uniuersale, ergo in qualibet sciencia cadit uniuersale. Set uniuersale non cadit in sciencia, ergo in qualibet sciencia est abstractio uniuersalis, ergo et in ista sciencia. </p>  
-                <p>Secunda ratio hec est, in secundo <title>Posteriorum</title> scribitur quod ex pluribus sensibus fit unum experimentum et ex pluribus experimentis una memoria, et ex pluribus memoriis unum memorabile uel unum uniuersale, quod est principium cuiuslibet artis et scientie. Hoc autem non est nisi per abstractionem, ergo in hac scientia est abstractio uniuersalis.</p>
-                <p>Tercia ratio hec est, scientia est de omnibus illis que sub illo genere continentur. Sic sciencia de anima est de omni anima, set proprietates cuiuslibet anime non possunt in arte comprehendi sicut nec proprietates rerum omnium singularium in quantum diuerse sunt, quia intellectus non cadit supra res infinitas et dispersas, set supra rem unam et certam. Ergo si omnes huiusmodi cadunt in sciencia, necesse est quod hoc sit per aliquam naturam communem proportionalem intellectui que manens una omnes illas comprehendat. Hoc autem est similitudo uera, quod est uniuersale omnium singularium et hoc per abstractionem, ergo in qualibet sciencia est speculatio circa uniuersale quod uniuersale non accipitur secundum hanc unitatem nisi per abstractionem. Ergo in hac sciencia et in qualibet est abstractio. </p>
-                <p>Quarta ratio hec est, ut habetur in <title> Posterioribus</title>, unius sciencie unum est subiectum cuius passiones et per se accidentia considerat et proprietates. Ergo necesse est quod si singularia cadunt in sciencia quod cadant ratione illius ratione cuius habent unita<cb ed="#K" n="51vb"/>tem. Hoc autem est uniuersale, quod est unum in multis; habet tamen modum unius preter multa. Ergo de rebus ratione uniuersalis est sciencia. Hec autem non est nisi per naturam abstractionis. Ergo in qualibet sciencia et in ista est abstractio necessaria. </p>
-                <p>Ad oppositum sunt rationes sic: prima, res naturales sunt coniuncte motui et materie prout cadunt in sciencia, et hoc uult <name>Aristoteles</name> distinguens negotia philosophie. Et etiam dicit <name>Aristoteles</name> in libro <title>De anima</title> quod passiones anime considerantur a naturali prout sunt in materia et in motu et in corpore, et etiam dicit quod phisicus diffinit per materiam, set nulla sciencia que considerat res in motu et materia necessario abstrahit, ergo naturalis sciencia non abstrahit necessario.</p>
-                <p>Secunda ratio hec est, in sciencia ista determinatur de anima a parte suarum operationum. Operationes autem circa singularia consistunt ut habetur in libro <title>Methaphisice</title>, ergo sciencia ista determinat de illis que circa singularia consistunt. Nulla autem talis sciencia abstrahit, ergo hec sciencia non abstrahit.</p>
-                <p>Tercia ratio hec est, sicut habetur in libro <title> De substantia et accidente</title> qui est de ortu scienciarum, sciencia naturalis est de rebus mobilibus que continue uariantur secundum omnes modos uariationis. Set nulle tales res abstrahunt a motu et a materia, ergo sciencie de illis non abstrahunt in quantum has considerant. Set sciencie naturales sunt huiusmodi, ergo non abstrahunt.</p>
-                <p>Solutio. Dicendum est quod ista sciencia et quelibet sciencia sicut ostendunt rationes. Abstractio autem multis est. Vno modo est abstractio uniuersalis a particulari et secundum hanc abstrahit ista sciencia et quelibet sciencia naturalis. Alia est abstractio que est forme a materia, et secundum hanc abstrahunt sciencie mathematice que sunt de quantitate abstracta. Tercia est que est separatio rerum a motu et materia que est in substantiis spiritualibus separatis, et talem abstractionem intendit metaphysicus. Quarta uero abstractio est acceptio speciarum a sensibilibus secundum representationem earum ad uirtutem intellectiuam, et hec abstractio est uia in cognitionem. Et per hoc soluuntur quedam predictarum rationum, prima, secunda et quarta.</p>
-                <p>Ad terciam autem dicendum est quod operationes dupliciter considerantur. Vno modo considerantur in suo esse singulari prout sequuntur singularia. Alio modo in suo esse uniuersali prout sequuntur subiectum uniuersale, sicut enim subiectum abstrahit, eodem modo et operationes et proprietates subiecti. Non considerantur autem in sciencia primo modo set secundo.</p>
+                <p>
+                  Prima est de modo abstractionis in hac scientia, et queritur utrum abstractio sit necessaria in scientia naturali.
+                Et ostenditur quod sic: scientia est de aliquo fixo finito et stabili.
+               Singularia uero sunt infinita instabilia et non fixa, ergo de ipsis non est scientia,
+               ergo est necesse aliquid existens incorruptibile per quod ipsa singularia, manens unum et fixum.
+              Hoc autem non est nisi uniuersale, ergo in qualibet scientia cadit uniuersale.
+               Set uniuersale non cadit in scientia, ergo in qualibet scientia est abstractio uniuersalis, ergo et in ista scientia.
+             </p>
+                <p>
+                Secunda ratio hec est, in secundo <title>Posteriorum</title> scribitur quod ex pluribus sensibus fit unum experimentum et ex
+                 pluribus experimentis una memoria, et ex pluribus memoriis unum memorabile uel unum uniuersale, quod est principium cuiuslibet artis et scientie.
+                 Hoc autem non est nisi per abstractionem, ergo in hac scientia est abstractio uniuersalis.
+               </p>
+                <p>
+                Tercia ratio hec est, scientia est de omnibus illis que sub illo genere continentur.
+                Sic scientia de anima est de omni anima, set proprietates cuiuslibet anime non possunt in arte
+                 comprehendi sicut nec proprietates rerum omnium singularium in quantum diuerse sunt,
+                quia intellectus non cadit supra res infinitas et dispersas, set supra rem unam et certam.
+                Ergo si omnes huiusmodi cadunt in scientia, necesse est quod hoc sit per aliquam naturam
+                communem proportionalem intellectui que manens una omnes illas comprehendat. Hoc autem est similitudo uera,
+               quod est uniuersale omnium singularium et hoc per abstractionem,
+                ergo in qualibet scientia est speculatio circa uniuersale quod uniuersale non accipitur secundum hanc unitatem nisi per abstractionem.
+                Ergo in hac scientia et in qualibet est abstractio.
+              </p>
+                <p>
+                Quarta ratio hec est, ut habetur in <title>Posterioribus</title>, unius scientie unum est subiectum cuius passiones et per se accidentia considerat et proprietates.
+                Ergo necesse est quod si singularia cadunt in scientia quod cadant ratione illius ratione cuius habent
+                 unita <pb ed="#K" n="51-v"/><cb ed="#K" n="b"/>tem.
+                 Hoc autem est uniuersale, quod est unum in multis; habet tamen modum unius preter multa.
+                  Ergo de rebus ratione uniuersalis est scientia. Hec autem non est nisi per naturam abstractionis.
+                 Ergo in qualibet scientia et in ista est abstractio necessaria. </p>
+                <p>
+                  Ad oppositum sunt rationes sic: prima, res naturales sunt coniuncte motui et materie prout cadunt in scientia,
+                   et hoc uult <name>Aristoteles</name> distinguens negotia philosophie.
+                 Et etiam dicit <name>Aristoteles</name> in libro <title>De anima</title> quod passiones anime considerantur a naturali prout sunt
+                  in materia et in motu et in corpore, et etiam dicit quod phisicus diffinit per materiam,
+                 set nulla scientia que considerat res in motu et materia necessario abstrahit,
+                  ergo naturalis scientia non abstrahit necessario.
+                </p>
+                <p>
+                Secunda ratio hec est, in scientia ista determinatur de anima a parte suarum operationum.
+                Operationes autem circa singularia consistunt ut habetur in libro <title>Methaphisice</title>,
+                ergo scientia ista determinat de illis que circa singularia consistunt. Nulla autem talis scientia abstrahit, ergo hec scientia non abstrahit.
+               </p>
+                <p>
+                  Tercia ratio hec est, sicut habetur in libro <title>De substantia et accidente</title> qui est <title>De ortu scientiarum</title>,
+                scientia naturalis est de rebus mobilibus que continue uariantur secundum omnes modos uariationis.
+                Set nulle tales res abstrahunt a motu et a materia, ergo scientie de illis non abstrahunt in quantum has considerant.
+                Set scientie naturales sunt huiusmodi, ergo non abstrahunt.
+              </p>
+                <p>
+                  Solutio. Dicendum est quod ista scientia et quelibet scientia sicut ostendunt rationes.
+                  Abstractio autem multis est. Vno modo est abstractio uniuersalis a particulari et secundum hanc abstrahit ista scientia
+                   et quelibet scientia naturalis.
+                  Alia est abstractio que est forme a materia, et secundum hanc abstrahunt scientie mathematice que sunt de quantitate abstracta.
+                  Tercia est que est separatio rerum a motu et materia que est in substantiis spiritualibus separatis,
+                   et talem abstractionem intendit metaphysicus.
+                  Quarta uero abstractio est acceptio speciarum a sensibilibus secundum representationem earum ad uirtutem intellectiuam,
+                   et hec abstractio est uia in cognitionem.
+                  Et per hoc soluuntur quedam predictarum rationum, prima, secunda et quarta.
+                </p>
+                <p>
+                  Ad terciam autem dicendum est quod operationes dupliciter considerantur.
+                  Vno modo considerantur in suo esse singulari prout sequuntur singularia.
+                  Alio modo in suo esse uniuersali prout sequuntur subiectum uniuersale, sicut enim subiectum abstrahit,
+                   eodem modo et operationes et proprietates subiecti.
+                Non considerantur autem in scientia primo modo set secundo.
+              </p>
             </div>
         </body>
     </text>
 </TEI>
-    
-          

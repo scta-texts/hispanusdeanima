@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -56,44 +56,48 @@
     <body>
       <div xml:id="da-236-ed1e2777" >
         <head>Praeambulum</head>
-        <p xml:id="da-236-ed1e2777-d1e2782">Pars secunda de opinionibus diffinientium animam per cognitionem. Continuatio
-    intensionis.</p>
+        <p xml:id="da-236-ed1e2777-d1e2782">Pars secunda de opinionibus diffinientium
+           animam per cognitionem. Continuatio intensionis.</p>
         <p xml:id="da-236-ed1e2777-d1e2785">
           <hi>Quicumque autem in sentiendo <seg>que</seg> cognoscendo ea que sunt</hi> et cetera,
-    philosophus ex quo complete terminauit sermonem suum circa <seg>opiniones</seg> diffinentium
+    Philosophus ex quo complete terminauit sermonem suum circa <seg>opiniones</seg> diffinentium
     animam per motum secundum ordinem determinat opiniones diffinientium animam per cognitionem,
-    et hec pars spectat ad presentem lectionem. </p>
-        <p xml:id="da-236-ed1e2777-d1e2796">Diuisio. Recipit autem hec pars diuisionem | in tres partes, in quarum prima tangit
-    uniuersalem intensionem in qua communicant omnes philosophi <seg>diffinientes</seg> animam per
-    cognitionem. In secunda, scilicet in hac, <hi>sicut Empedocles ex elementis <seg>omnis</seg>
-            <seg>omnibus</seg>
-          </hi> et cetera, tangit opinionem Empedoclis specialiter. In tercia,
-    scilicet in hac, <hi>eodem autem modo Plato in Thimeo animam fecit ex
-      <seg>elementis</seg>
-          </hi> et cetera, tangit specialiter opinionem Platonis. Hec est diuisio
-    huius partis. Particule autem minime in explanatione distinguentur. </p>
-        <p xml:id="da-236-ed1e2777-d1e2815">Sententia prime partis <seg>de</seg> intensione uniuersali diffinientium animam per
-    cognitionem. </p>
-        <p xml:id="da-236-ed1e2777-d1e2822">Circa primam <seg>uero</seg> partem <seg>procedit</seg> hoc modo: inquit philosophus illi
-    philosophi qui posuerunt animam diffiniri per cognitionem et sensum ut omnia cognosceret et
-      <seg>sentiret</seg> ponunt animam esse ex principiis omnium rerum, quia ex principiis et
+    et hec pars spectat ad presentem lectionem.
+  </p>
+        <p xml:id="da-236-ed1e2777-d1e2796">Diuisio. Recipit autem hec pars diuisionem
+          <pb ed="#K" n="85-r"/>
+          <cb ed="#K" n="b"/>in tres partes, in quarum prima tangit uniuersalem intensionem in qua communicant omnes philosophi
+           <seg>diffinientes</seg> animam per cognitionem.
+           In secunda, scilicet in hac, <hi>sicut <name>Empedocles</name> ex elementis <seg>omnis</seg> <seg>omnibus</seg>
+          </hi> et cetera, tangit opinionem <name>Empedoclis</name> specialiter.
+           In tercia, scilicet in hac, <hi>eodem autem modo <name>Plato</name> in <title>Thimeo</title> animam fecit ex
+      <seg>elementis</seg> </hi> et cetera, tangit specialiter opinionem <name>Platonis</name>. Hec est diuisio
+    huius partis. Particule autem minime in explanatione distinguentur.
+  </p>
+        <p xml:id="da-236-ed1e2777-d1e2815">Sententia prime partis <seg>de</seg> intensione uniuersali
+        diffinientium animam per cognitionem.
+       </p>
+        <p xml:id="da-236-ed1e2777-d1e2822">Circa primam <seg>uero</seg> partem <seg>procedit</seg>
+    hoc modo: inquit Philosophus illi philosophi qui posuerunt animam diffiniri per
+    cognitionem et sensum ut omnia cognosceret et
+    <seg>sentiret</seg> ponunt animam esse ex principiis omnium rerum, quia ex principiis et
     causis res perfecte cognoscuntur. Set differunt philosophi in suis <seg>opinionibus,</seg>
     quia sicut diuersitas est inter eos a parte numeri principiorum similiter a parte anime, cum
     ipsam <seg>ponant</seg> esse ex rerum <seg>principiis.</seg> Alii <seg>igitur</seg> ponunt
     plura principia et hii ponunt animam ex pluribus principiis. Alii ponunt unum principium, et
     isti ponunt animam esse ex uno principio. Positiones autem principiorum edite a philosophis in
-       <seg>
-            <hi>Physice</hi>
+       <seg><title>Physice</title>
           </seg>
           <hi/> scientie parte <seg>prima</seg> et
        <seg>
-            <hi>Methaphysice</hi>
+            <title>Methaphysice</title>
           </seg>
           <hi/> tanguntur complete.</p>
-        <p xml:id="da-236-ed1e2777-d1e2860">Sententia secunde partis specialiter de opinione Empedoclis. Consequenter specialius
-    procedens tangit opinionem Empedoclis ponentis animam esse ex <seg>pluribus</seg> principiis.
+        <p xml:id="da-236-ed1e2777-d1e2860">Sententia secunde partis specialiter de opinione <name>Empedoclis</name>.
+         Consequenter specialius procedens tangit opinionem <name>Empedoclis</name> ponentis animam esse ex
+         <seg>pluribus</seg> principiis.
       <seg>Dicit</seg> igitur quod inter ponentes animam esse ex pluribus principiis fuit
-    Empedocles qui posuit <seg>ipsam</seg> constitui ex omnibus elementis ponens animam habere
+    <name>Empedocles</name> qui posuit <seg>ipsam</seg> constitui ex omnibus elementis ponens animam habere
     naturam <seg>uniuscuiuslibet</seg> elementi, et causa sue <seg>positionis</seg> fuit hec, quia
     anima cognoscit terram per naturam terre et aquam per naturam aque et aerem per naturam aeris
     et ignem per naturam ignis, et concordiam per naturam concordie et discordiam per naturam
@@ -106,26 +110,32 @@
     principia, ergo anima gerit in se omnium principiorum <seg>similitudines.</seg> Set omnis
     talis substantia habet naturam omnium, ergo habet <seg>anima</seg> in se naturam omnium rerum
       <seg>et</seg> principiorum ipsarum et est participans constitutionem ex omnium rerum
-    principiis per conformitatem cognitionis, et ideo dicit Augustinus anima ad totius sapientie
-      <seg>similitudinem</seg>
-          <seg>facta</seg> similitudines in se gerit, et ideo appellata <hi>|</hi> est a philosophis
-    omnium <seg>similitudo.</seg> Vnde hec constitutio non est quantum ad esse corporale set
+    principiis per conformitatem cognitionis, et ideo dicit <name>Augustinus</name> anima ad totius sapientie
+      <seg>similitudinem</seg> <seg>facta</seg> similitudines in se gerit, et ideo appellata
+      <pb ed="#V" n="70-r"/>
+      <cb ed="#V" n="b"/>est a philosophis omnium <seg>similitudo.
+    </seg> Vnde hec constitutio non est quantum ad esse corporale set
     quantum ad similitudines que in anima representantur per quas res <seg>omnes</seg> cognoscit,
-    et ideo secundum diuersitatem | principiorum et similitudinum ipsorum per quas omnes res
+    et ideo secundum diuersitatem
+    <pb ed="#K" n="85-v"/>
+    <cb ed="#K" n="a"/>principiorum et similitudinum ipsorum per quas omnes res
     cognoscuntur philosophi diuersimodi posuerunt animam ex principiis constitui et fuit hec
-    diuersitas in numero principiorum et substantia ipsorum. </p>
-        <p xml:id="da-236-ed1e2777-d1e2923">Sententia tercie partis de opinione Platonis. Consequenter accedit philosophus ad
-    recitationem opinionis Platonis in cuius opinione sunt due positiones. Posuit enim Plato
-    numeros esse principia rerum, ergo cum anima <seg>cognoscat</seg> omnia per similitudinem
+    diuersitas in numero principiorum et substantia ipsorum.
+   </p>
+        <p xml:id="da-236-ed1e2777-d1e2923">Sententia tercie partis de opinione <name>Platonis</name>.
+    Consequenter accedit Philosophus ad recitationem opinionis <name>Platonis</name> in cuius opinione sunt due positiones.
+     Posuit enim <name>Plato</name> numeros esse principia rerum, ergo cum anima <seg>cognoscat</seg> omnia per similitudinem
     suorum principiorum posuit ipsam obtinere naturam numerorum quos posuit esse principia omnium
     rerum et ita posuit animam numerorum habere naturam, et hec fuit prima positio in sua
-    opinione. </p>
-        <p xml:id="da-236-ed1e2777-d1e2929">Secunda est quia posuit uirtutes anime secundum <seg>numerorum</seg> proportiones operari, et
+    opinione.
+  </p>
+        <p xml:id="da-236-ed1e2777-d1e2929">Secunda est quia posuit uirtutes anime secundum
+          <seg>numerorum</seg> proportiones operari, et
     ideo numerorum principalium proprietates singularis eius uirtutibus et operationibus
     adaptauit. Primo igitur recitat primam positionem dicens quod secundum predictum modum uel
-      <seg>numerum</seg> secundum quem posuit Anaxagoras, animam esse ex rerum
-      <seg>principiis.</seg> Secundum eumdem posuit Plato in <seg>
-            <hi>Thimeo</hi>
+      <seg>numerum</seg> secundum quem posuit <name>Anaxagoras</name>, animam esse ex rerum
+      <seg>principiis.</seg> Secundum eumdem posuit <name>Plato</name> in <seg>
+            <title>Thimeo</title>
           </seg>
           <hi/> et
     ratio sua talis est: omnes res cognoscuntur ex eorum <seg>similitudinibus</seg> ex quibus
@@ -136,13 +146,13 @@
           </hi> et cetera. Tangit modum secundum quem posuit animam
     esse ex principiis <seg>et</seg> ex quibus principiis per similitudinem <seg>eam</seg>
     constitui dixit. Dicit igitur quod similiter posuit animam esse ex rerum principiis in
-    sermonibus quos <seg>tangit</seg> ipse Plato in <seg>eis</seg> que <seg>cum</seg> in suis
-    scolis et disputationibus de <seg>physica</seg> proposuit. Posuit enim Plato mundum
+    sermonibus quos <seg>tangit</seg> ipse <name>Plato</name> in <seg>eis</seg> que <seg>cum</seg> in suis
+    scolis et disputationibus de <seg>physica</seg> proposuit. Posuit enim <name>Plato</name> mundum
     uniuersalem quem <seg>appellauit</seg> magnum <seg>animal</seg> ex numeris constitui
       <seg>principalibus,</seg> unde dixit ipsum mundum qui est <seg>animal</seg> magnum esse ex
     similitudine <seg>sine</seg>
           <hi>y</hi>dea unitatis et ex prima longitudine que in dualitate consistit et ex prima
-    latitudine que in trinitate consisit et ex prima altitudine que in quaternario consisit; et
+    latitudine que in trinitate consistit et ex prima altitudine que in quaternario consistit; et
     intensio sua declaratur per hoc quod posuit quantitates <seg>mathematicas</seg> esse rerum
     corporalium principia et maxime omnium numeros posuit esse principia et posuit exemplaria
     rerum in mente artificis primum existentia numeros esse. Et secundum ipsorum existentiam res
@@ -152,43 +162,48 @@
     terminetur sicut ad sua principia, et posuit latitudinem siue superficiem habere naturam
     ternarii, cum fiat cum longitudine ex tribus punctis et posuit profunditatem <seg>sine</seg>
           <seg>latitudinem</seg> habere naturam quaternarii, quia fit ex longitudine et latitudine ex
-    quatuor punctis, cum igitur Plato <seg>posuit</seg> numeros esse principia rerum, necesse fuit
-    apud ipsum ut poneret ipsos <seg>esse</seg> principia corporum sensibilium et sicut | agens
-    per cognitionem operatur secundum regulationem numerorum <seg>sic</seg> ipsos
+    quatuor punctis, cum igitur <name>Plato</name> <seg>posuit</seg> numeros esse principia rerum, necesse fuit
+    apud ipsum ut poneret ipsos <seg>esse</seg> principia corporum sensibilium et sicut
+    <pb ed="#K" n="85-v"/>
+    <cb ed="#K" n="b"/>agens per cognitionem operatur secundum regulationem numerorum <seg>sic</seg> ipsos
       <seg>posint</seg> esse principia mundi sensibilis et posuit numeros primarios unitatem,
       <seg>scilicet</seg> et binarium et ternarium et quaternarium esse principia mundi primi quod
     est animal primum et secundum istorum numerorum exigentiam et exitum aliorum ex ipsis posuit
     corpora <seg>alia</seg> et <seg>altera</seg> particularia constitui. Cum <seg>autem</seg>
     anima omnia per suorum principiorum similitudines cognoscat, principia autem omnium
-      <seg>eorum</seg> sunt numeri posuit animam ex numeris constitui, et dicit Aristoteles quod
-    non fuit Plato uniformis in <seg>suis</seg> sermonibus. </p>
+      <seg>eorum</seg> sunt numeri posuit animam ex numeris constitui, et dicit <name>Aristoteles</name> quod
+    non fuit <name>Plato</name> uniformis in <seg>suis</seg> sermonibus.
+  </p>
         <p xml:id="da-236-ed1e2777-d1e3062">Aliter enim dixit de anima in <seg>
-            <hi>Thimeo</hi>
+            <title>Thimeo</title>
           </seg>
           <hi/> et aliter dixit in suis
-    disputationibus. Ponebat autem Plato animam esse mediam inter formas abstractas simplices que
+    disputationibus. Ponebat autem <name>Plato</name> animam esse mediam inter formas abstractas simplices que
     apud ipsum uocantur ydee et res corporales. Ydeas autem posuit habere naturam numerorum et
     ordine ipsorum procedere, et ipsos numeros posuit principia ydealia per que anima omnia
     cognoscit. Deinde secundo cum dicit, <hi>adhuc autem et aliter intellectum <seg>quidem</seg>
-      dicit unitatem</hi> et cetera, tangit alteram positionem Platonis <seg>qui</seg> posuit
+      dicit unitatem</hi> et cetera, tangit alteram positionem <name>Platonis</name> <seg>qui</seg> posuit
     animam esse ex numeris quo ad suas potentias et ipsarum habitus et operationes. Dicit igitur
-    quod <seg>Plato</seg> aliter posuit animam esse ex numeris dicens quod intellectus habet
-    naturam unitatis, quia intellectus prout est nomen uirtutis est <seg>acceptiua</seg>
+    quod <name>Plato</name> aliter posuit animam esse ex numeris dicens quod intellectus habet
+    naturam unitatis, quia intellectus prout est nomen uirtutis est <seg>acceptiuus</seg> acceptiua
     principiorum, prout autem est nomen operis <seg>uel</seg>
           <seg>habitus</seg> principiorum qui est simplex et sine aliqua collatione, et ideo ipsum
     unitati adaptauit. Posuit autem scientiam habere naturam dualitatis, quia est habitus
-    conclusionis qui est decursus a premissis <seg>ad</seg> conclusionem per ipsas certificatam,
+    conclusionis, qui est decursus a premissis <seg>ad</seg> conclusionem per ipsas certificatam,
     et ideo dualitati comparatur. Posuit autem habere naturam superficiei uel <seg>natura</seg>
-      superficialis<hi> |</hi> quem comparauit primo ternario eo quod in habitu <seg>quia</seg>
+      superficialis
+      <pb ed="#V" n="71-r"/>
+      <cb ed="#V" n="a"/>quem comparauit primo ternario eo quod in habitu, <seg>quia</seg>
     est opinio est triplex status, scilicet status cognitionis <seg>premissarum</seg>
-          <seg>et</seg>
-          <seg>contradictionis</seg> cum formidine alterius. Set habitus scientie est <seg>unius</seg>
+          <seg>et</seg> status habitus conclusionis et status appositione conclusionis,
+      quia operatio est ueri et falis acceptio, unde est acceptio unius partis conclusionis cum formidine alterius.
+    Set habitus scientie est <seg>unius</seg>
     partis solius que per <seg>premissam</seg> obtinet certitudinem. Posuit autem sensum esse
     solidum, scilicet habens tres dimensiones quibus, sicut dictum <seg>est,</seg> quaternarius
     consistit, quia altitudo constat cum longitudine et latitudine ex quatuor punctis. Hoc autem
     dixit, quia sensus comprehendit corpora solum et formas corporales. Corporalium autem
       <seg>formarum</seg> secundum ipsum principium est quaternarius, sicut dictum est. Ponebat
-    autem Plato hos numeros esse principia <seg>omnium</seg> et ipsorum rationes. Res autem
+    autem <name>Plato</name> hos numeros esse principia <seg>omnium</seg> et ipsorum rationes. Res autem
     cognoscuntur per sua principia et ideo posuit ab anima <seg>res</seg> per numeros cognosci.
     Set res non cognoscuntur nisi secundum has uias aut secundum uiam intellectus aut secundum
     uiam <seg>scientie</seg> aut secundum uiam <seg>operationis</seg> aut secundum uiam sensus,
@@ -196,25 +211,26 @@
     rationis talis, omnia illa per que omnes res ab anima cognoscuntur, necesse est ut
       <seg>habitibus</seg> et uirtutibus et operationibus anime <seg>adeptentur</seg> per quas
     anima omnes res cognoscit. Set illa sunt intellectus scientia, <seg>operatio</seg> et sensus,
-    ergo predictos | numeros necesse est predictis adaptari ut ex ipsis numeris consistant
-    predicta, deinde fiat talis ratio<hi>ci</hi>natio: ex illis anima constituitur et illorum
-    habet <seg>naturam</seg> et secundum <seg>quorum</seg>
-          <seg>exigentiam</seg> habitus <seg>et</seg> uirtutes et opera eius constituunt, set numeri
+    ergo predictos
+    <pb ed="#K" n="86-r"/>
+    <cb ed="#K" n="a"/>numeros necesse est predictis adaptari ut ex ipsis numeris consistant predicta,
+     deinde fiat talis ratio<hi>ci</hi>natio: ex illis anima constituitur et illorum habet <seg>naturam</seg>
+     et secundum <seg>quorum</seg> <seg>exigentiam</seg> habitus <seg>et</seg> uirtutes et opera eius constituunt, set numeri
     predicti <seg>primi</seg> sunt huiusmodi, ergo ex numeris primis predictis anima constituitur
-    et <seg>ipsorum</seg> habet naturam, et sic posuit Plato animam secundum numerorum
+    et <seg>ipsorum</seg> habet naturam, et sic posuit <name>Plato</name> animam secundum numerorum
     proportionem in suis operationibus et habitibus ordinari, cum numeri sint rerum principia et
     ex quorum similitudinibus et proportionibus omnes res posuit cognosci et eius opinionem in
     sermonibus inquisitiuis latius discutiemus. Per <seg>hec</seg> autem philosophi intensio in
     hac parte <seg>declaratur.</seg> Postquam compleuimus sermonem <seg>nostrum.</seg>
         </p>
-        <p xml:id="da-236-ed1e2777-d1e3184">[Questiones] Circa opiniones diffinientium animam per motum <seg>inquiramus</seg> de
-    opinionibus diffinientium animam per sensum, et circa hoc queruntur <seg>tria:</seg> primum
-    est de opinionibus <seg>illorum</seg>
-          <seg>in</seg> uniuersali; secundum est de opinione <seg>Empedoclis;</seg> tercium est de
-    opinione ipsius Platonis. </p>
-        <p xml:id="da-236-ed1e2777-d1e3203">Circa primum queruntur sex: Prima [lec 11 q1] est utrum anima habeat naturam omnium ita quod
-    gerat in se omnes res et habeat conformitatem cum rebus omnibus gerendo ipsas in se.
-      <seg>Secunda</seg> [lec 11 q2] est utrum anima habeat conformitatem cum rebus secundum
+        <p xml:id="da-236-ed1e2777-d1e3184">[Questiones] Circa opiniones diffinientium animam per
+          motum <seg>inquiramus</seg> de  opinionibus diffinientium animam per sensum,
+          et circa hoc queruntur <seg>tria:</seg> primum est de opinionibus <seg>illorum</seg>
+          <seg>in</seg> uniuersali; secundum est de opinione <name>Empedoclis</name>; tercium est de
+    opinione ipsius <name>Platonis</name>. </p>
+        <p xml:id="da-236-ed1e2777-d1e3203">Circa primum queruntur sex: Prima [lec 11 q1] est
+    utrum anima habeat naturam omnium ita quod gerat in se omnes res et habeat conformitatem cum rebus omnibus
+   gerendo ipsas in se. <seg>Secunda</seg> [lec 11 q2] est utrum anima habeat conformitatem cum rebus secundum
     ueritatem uel cum similitudinibus rerum <seg>gerendo</seg> res secundum ueritatem uel
     similitudines rerum, unde queritur utrum in ipsa sint res secundum ueritatem aut
       <seg>secundum</seg> similitudines suas. <seg>Tercia</seg> [lec 11 q3] est utrum res sint in
@@ -223,8 +239,7 @@
       <seg>utrum</seg> forme uniuersales uel forme alie sicut forme partis. <seg>Quinta</seg> [lec
     11 q5] est utrum forme que sunt in anima <seg>sicut</seg>
           <seg>exemplaria</seg> per que <seg>cognoscit</seg> anima res sint uera principia
-      <seg>rerum</seg>
-          <seg>sint</seg> eadem cum ueris principiis rerum. <seg>Sexta</seg> [lec 11 q6] est utrum
+      <seg>rerum</seg> <seg>sint</seg> eadem cum ueris principiis rerum. <seg>Sexta</seg> [lec 11 q6] est utrum
     comformitas quam habet anima cum rebus gerendo similitudines rerum in se sit ei innata uel
     acquisita per experientiam et <seg>sensum.</seg>
         </p>

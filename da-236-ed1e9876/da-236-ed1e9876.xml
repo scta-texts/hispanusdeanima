@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -57,17 +57,18 @@
       <div xml:id="da-236-ed1e9876" >
         <head>Quaestio 9</head>
         <head type="question-title">
-    Utrum habeat animam tanquam sui 
+    Utrum habeat animam tanquam sui
     perfectionem sicut habet animata ut possit dici
     animal uel corpus animatum
    </head>
-        <p xml:id="da-236-ed1e9876-d1e9884">[lec1 q9] Circa nonam <seg>questionem</seg> sic proceditur et queritur utrum habeat animam
+        <p xml:id="da-236-ed1e9876-d1e9884">[lec1 q9] Circa nonam <seg>questionem</seg> sic
+         proceditur et queritur utrum habeat animam
     tanquam <seg>sui</seg> perfectionem sicut <seg>habet</seg> animata ut possit <seg>dici</seg>
     animal uel corpus animatum, et ostenditur quod sic: et ad hoc ostendendum adducantur tres
       <seg>prime</seg> rationes que sunt posite in questione superius inmediate dicta et alie
-    similiter, quarum prima talis <seg>est:</seg> sicut dicit <seg>Auicenna</seg> in libro <hi>De
-       <seg>anima</seg>
-          </hi> quedam corpora recipiunt formam uite <seg>et</seg> quedam non.
+    similiter, quarum prima talis <seg>est:</seg> sicut dicit <name>Auicenna</name> in libro <title>De
+       anima</title>
+          quedam corpora recipiunt formam uite <seg>et</seg> quedam non.
     Corpora que formam uite recipiunt sunt ea que maxime distant a contrarietate et que maxime
     accidunt ad naturam corporis celestis in sua equalitate. Corpora autem que maxime distant ab
     ipso et habent naturam contrarietatis <seg>illi</seg> non sunt habilia ad recipiendum formam
@@ -81,21 +82,23 @@
     huiusmodi, ergo regitur a tali forma que est nobilissima. Talis uero forma est anima
       <seg>nobilissima</seg> que <seg>est</seg> supra omnes differentias anime et supra
     intellectum, ergo a tali forma regitur corpus celeste, set anima regit et illud corpus
-      <hi>|</hi> quod regit et <seg>perficit,</seg> ergo celum perficitur ab <seg>anima</seg> ita
-    quod possit dici animatum uel anima. Minor <seg>scripta</seg> in libro <hi>Vegetabilium</hi>
-    in quo dicit Aristoteles quod celum habet <seg>nobilium</seg> regimen nostro regimine. </p>
-        <p xml:id="da-236-ed1e9876-d1e9964">&lt;Tercia ratio hec est: omne corpus quod est diuerse nature in toto et in partibus
+      <hi><pb ed="#K" n="106-r"/><cb ed="#K" n="a"/></hi> quod regit et <seg>perficit,</seg> ergo celum perficitur ab <seg>anima</seg> ita
+    quod possit dici animatum uel anima. Minor <seg>scripta</seg> in libro <title>Vegetabilium</title>
+    in quo dicit <name>Aristoteles</name> quod celum habet <seg>nobilium</seg> regimen nostro regimine. </p>
+        <p xml:id="da-236-ed1e9876-d1e9964">Tercia ratio hec est: omne corpus quod est diuerse nature in toto et in partibus
     perficitur a forma que perficit totum et partes ratione diuersa que forma per diuersitatem
     suarum uirtutum diuersas exercet operationes et que exigit in corpore diuersas partes per quas
     diuersas operationes proportionales ipsis partibus exerceat. Set corpus celeste est huiusmodi,
     ergo perficitur a tali forma que exigit in corpore diuersitatem partium per quas diuersas
+    uite. Natura enim uniuscuiusque <seg>illorum</seg> corporum habet contrarietatem, et ideo
     operationes exercet. Talis autem forma est anima, ergo corpus celeste perficitur ab anima quod
     autem corpus celeste sit huiusmodi patet, quia corpus celeste habet diuersas stellas que sunt
     eius membra per quas diuersas exercet operationes et celum primum quod est principium plurium
     operationum plures habet partes diuersas secundum diuersas operationes, sicut dicit
-      <seg>Aristoteles.&gt;</seg>
+      <name>Aristoteles</name>.
         </p>
-        <p xml:id="da-236-ed1e9876-d1e9970">Ad oppositum: duplex est motor: quidam est dependens a mobili, quidam autem non, et iterum
+        <p xml:id="da-236-ed1e9876-d1e9970">Ad oppositum: duplex est motor: quidam est dependens a mobili,
+           quidam autem non, et iterum
     dependentia motoris a mobili est causa coartationis et insufficientie motus, et quanto magis
       <seg>dependet</seg> a mobili tanto magis est insufficiens. Quanto autem minus ab ipso
     dependet tanto magis est insufficiens, <seg>et</seg> ideo differentie anime que sunt in
@@ -105,12 +108,12 @@
     corporis celestis non dependet a <seg>corpore</seg> celesti, ergo non est ei unitus, sicut
     forma materie et sicut anima corpori, ut dicatur corpus celeste ab anima perfici, ergo corpus
     celeste non potest dici animal <seg>nec</seg> corpus animatum. </p>
-        <p xml:id="da-236-ed1e9876-d1e9988">Secunda ratio hec est: nullum perfectibile <seg>quod</seg> est eiusdem rationis in toto et in
+        <p xml:id="da-236-ed1e9876-d1e9988">Secunda ratio hec est: nullum perfectibile <seg>quod</seg> est eiusdem
+         rationis in toto et in
     parte est susceptibile perfectionis que exigit corpus perfectibile habens diuersas rationes in
     partibus et diuersas operationes secundum speciem. Set corpus celeste est huiusmodi
     perfectibile et anima est huiusmodi perfectio, ergo corpus celeste non est suceptibile anime.
-    Maior patet in secundo <hi>De <seg>anima</seg>
-          </hi>, <seg>ubi</seg> icit Aristoteles quod
+    Maior patet in secundo <title>De anima</title>, <seg>ubi</seg> dicit <name>Aristoteles</name> quod
       <seg>omnis</seg> actus ad propriam materiam ordinantur. Minor patet quia anima est perfectio
     corporis organici quod est alterius rationis in partibus et in toto. Celum autem est corpus
     minime organicum et uniforme in partibus et in toto. </p>
@@ -120,7 +123,7 @@
     uerum, quia anima est solum perficio corporis elementati organici, unde non est ponere
       <seg>ipsam</seg> perfectionem esse corporis celestis. Ponimus tamen ipsum moueri ab
     intellectu qui intellectus non est forma completiua ipsius, sicut forma est perfectio materie,
-    et sicut anima est perfectio corporis, <hi>|</hi> set solum sicut motor est perfectio mobilis.
+    et sicut anima est perfectio corporis, <hi><pb ed="#V" n="80-v"/><cb ed="#V" n="a"/></hi> set solum sicut motor est perfectio mobilis.
     Est enim motor perfectio mobilis, quia educit mobile de potentia mouendi ad actum nec unitur
     ei ille intellectus sicut materie, nec dependet ab eo, sicut anima a corpore et forma a
     materia. Si autem uirtus istius motoris secundum quam celum mouetur dicatur anima, tunc
@@ -128,13 +131,13 @@
     Concedente sunt ergo rationes quibus ostenditur quod corpus celeste non habet animam tanquam
     perfectionem sui intra et <seg>quod</seg> celum non est corpus animatum ut possit dici animal
     nisi equiuoce, unde <seg>etsi</seg>
-          <seg>Auicenna</seg> dicat ipsum habere animam et perfici ab anima hoc non <seg>est</seg>
-    secundum propriam rationem et intentionem <hi>|</hi> anime. </p>
+          <name>Auicenna</name> dicat ipsum habere animam et perfici ab anima hoc non <seg>est</seg>
+    secundum propriam rationem et intentionem <hi><pb ed="#K" n="106-r"/><cb ed="#K" n="b"/></hi> anime. </p>
         <p xml:id="da-236-ed1e9876-d1e10035">Ad primam <seg>rationem</seg> autem illarum que <seg>ponitur</seg> in hac questione dicendum
     quod recessus a contrarietate est duobus modis. Uno modo est per contrariorum confractionem in
     mixto et talis facit equalitatem complexionis et talis est dispositio ad receptionem
       <seg>anime</seg> et uite in corporibus inferioribus, sicut dictum est et sicut dicit
-      <seg>Auicenna.</seg> Alio modo est recessus a contrarietate non per naturam mixtionis et
+      <name>Auicenna</name>. Alio modo est recessus a contrarietate non per naturam mixtionis et
     confractionis contrariorum in mixto set propter omnimodam differentiam a contrario, et hoc
     modo est recessus a contrarietate in celo et iste recessus non est dispositio ad hoc ut
       <seg>corpus</seg> recipiat influentiam motoris nobilissimi qui mouet per intellectum et hoc
@@ -146,14 +149,14 @@
     contrarietate et quantum ad hoc corpus <seg>celeste</seg> habet nobile <seg>regimen</seg> et
     nobilius nostro, quia motor a quo regitur nobilissimus est. Set huic regimini non respondet
     anima set primo regimini, et <seg>ideo</seg> celum non habet animam.</p>
-        <p xml:id="da-236-ed1e9876-d1e10068">&lt;Ad terciam dicendum quod diuersitas partium est dupliciter: quedam que prouenit ab
+        <p xml:id="da-236-ed1e9876-d1e10068">Ad terciam dicendum quod diuersitas partium est dupliciter: quedam que prouenit ab
     exigentia uirtutum anime et operationum eius in quibus sunt diuersitates miscibilium, diuersi
     mode componentium et talis non est in corpoe colecti et in partibus suis, et hec est
     dispositio ad animam recipiendam. Alia est diuersitas corporum in a quo corpore que est a
     creatione corporis que prouenit a creatore ordinante ipsum ad diuersos effectos per
-    diuersitatem partium et talis diuersitas est in celo. Unde dicit Aristoteles quod corpus
+    diuersitatem partium et talis diuersitas est in celo. Unde dicit <name>Aristoteles</name> quod corpus
     primum habet plures stellas fixas, quia principium est plurium operationum. Hec autem
-    diuersitas partium non est dispositio ad receptionem anime nec <seg>uite.&gt;</seg>
+    diuersitas partium non est dispositio ad receptionem anime nec <seg>uite.</seg>
         </p>
       </div>
     </body>

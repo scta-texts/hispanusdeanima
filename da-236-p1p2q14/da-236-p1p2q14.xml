@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,15 +50,50 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 14</head>
-                <p>Quartadecima questio es de comparatione huius sciencie ad alias in ordine, sicut ad scienciam <title>De animalibus</title> et <title>Vegetalibus</title>, que sit prior inter illas. Et uidetur quod sciencia de animalibus et sciencia de uegetabilibus priores sint quam sciencia de anima sit, quia in illis determinatur de corpore uiuenti anima uegetali et sensibili et de partibus et dispositionibus eius. In hac autem sciencia determinatur de operationibus quas anima per corpus exercercet, set prius est corpus et partes et dispositiones eius quam anima et operationes eius supra corpus, ergo ille sciencie priores sunt quam hec sciencia de anima. </p>
-                <p>Secunda ratio hec est, materia fundamentum est omnium rerum naturalium, et ideo materia prior est forma, ergo cum corpus sit materia anime et fundamentum omnium operationum anime, prius est corpus quam anima et eius operationes, ergo priores sunt sciencie uegetabilium et animalium in quibus determinatur de corpore animato, quam hec sciencia de anima et de operationibus suis supra corpus. </p>
-                <p>Tercia ratio hec est, sicut ordinantur res in natura sic ordinantur in sciencia. Procedunt enim sciencie secundum ordinem nature, set in natura prius est corpus et postea, secundum naturam, habet operationes anime, ergo in sciencia prius est determinandum de corpore et operationibus eius quam de anima et de operationibus eius supra corpus,<cb ed="#K" n="50va"/> ergo priores sunt sciencia uegetabilium et animalium in quibus determinatur de corpore animato quam hec sciencia de anima.</p> 
-                <p>Ad oppositum sunt rationes, prima hec est, omnis sciencia que superat alias eiusdem generis quantum ad certitudinem demonstrationis et nobilitatem subiecti precedit alias sciencias. Hec est talis, ergo hec sciencia precedit alias sciencias, ergo prior est quam sciencia uegetabilium et animalium. </p>
-                <p>Secunda ratio hec est, omnis sciencia cuius subiectum est principium omnium que sunt in aliis scienciis eiusdem generis et que magnam affert utilitatem et iuuamentum et influentiam aliis eiusdem generis est prior illis. Hec sciencia de anima est huius, ut dicit <name>Aristoteles</name>, ergo hec sciencia de anima est prior aliis naturalibus scienciis. </p>
-                <p>Tercia ratio hec est, sicut dicit <name>philosophus</name> in libro <title>De sensu et sensato</title>, dictum est de anima secundum se et postea continuat scienciam illam de sensu et sensato, et omnes alias sciencias naturales ad scienciam de anima, et dicit quod ea que determinantur in hac sciencia debent supponi tamquam principia in aliis scienciis naturalibus. Omnis autem sciencia cuius dicta supponuntur tamquam principia in aliis scienciis est prior aliis. Hec est talis, ergo hec sciencia prior est aliis scienciis naturalibus.</p> 
-                <p>Solutio. Dicendum est quod prioritas est dupliciter, quedam est in sciencia, quedam autem est in re. Hec autem sciencia de anima prior est sciencia animalium et uegetabilium et aliis prioritate sciencie, et hoc propter multas causas. Prima causa est propter subiecti nobilitatem. Secunda propter certitudinem demonstrationis. Tercia causa est quia subiectum eius est causa omnium eorum que determinantur in libris de rebus animatis et sunt omnia ea propter animam. Quarta causa est iuuamentum quod affert omnibus aliis. Influit enim certitudinem super omnes alias sciencias et debent supponi dicta eius in aliis scienciis. A parte autem rerum est duplex ordo, est enim prius in uia generationis et incomplectionis, et sic materia est ante formam et corpus animatum ante animam, et sic sciencia de animalibus et de uegetabilibus precedunt istam. Alia est prioritas in uia complectionis et perfectionis et nobilitatis et dignitatis, et sic forma precedit materiam et anima corpus, et sic hec sciencia de anima a parte rerum precedit alias que dicte sunt, et per hoc patent solutiones ad rationes ad utramque partem.</p>
+                <p>
+                Quartadecima questio est de comparatione huius scientie ad alias in ordine, sicut ad scientiam <title>De animalibus</title> et <title>Vegetalibus</title>, que sit prior inter illas.
+                Et uidetur quod scientia de animalibus et scientia de uegetabilibus priores sint quam scientia de anima sit, quia in illis determinatur de corpore uiuenti anima uegetali et sensibili et de partibus
+                et dispositionibus eius. In hac autem scientia determinatur de operationibus quas anima per corpus exercercet, set prius est corpus et partes et dispositiones eius quam anima et operationes eius
+                supra corpus, ergo ille scientie priores sunt quam hec scientia de anima.
+              </p>
+                <p>
+                  Secunda ratio hec est, materia fundamentum est omnium rerum naturalium, et ideo materia prior est forma, ergo cum corpus sit materia anime et fundamentum omnium operationum anime,
+                  prius est corpus quam anima et eius operationes, ergo priores sunt scientie uegetabilium et animalium in quibus determinatur de corpore animato, quam hec scientia de anima et de operationibus
+                 suis supra corpus.
+               </p>
+                <p>
+                  Tercia ratio hec est, sicut ordinantur res in natura sic ordinantur in scientia.
+                Procedunt enim scientie secundum ordinem nature, set in natura prius est corpus et postea, secundum naturam,
+               habet operationes anime, ergo in scientia prius est determinandum de corpore et operationibus
+               eius quam de anima et de operationibus eius supra corpus,
+               <pb ed="#K" n="50-v"/>
+               <cb ed="#K" n="a">ergo priores sunt scientia uegetabilium et animalium
+                in quibus determinatur de corpore animato quam hec scientia de anima.
+              </p>
+                <p>
+                Ad oppositum sunt rationes, prima hec est, omnis scientia que superat alias eiusdem generis quantum ad certitudinem demonstrationis et nobilitatem subiecti precedit alias scientias.
+                Hec est talis, ergo hec scientia precedit alias scientias, ergo prior est quam scientia uegetabilium et animalium.
+               </p>
+                <p>
+                  Secunda ratio hec est, omnis scientia cuius subiectum est principium omnium que sunt in aliis scientiis eiusdem generis et que magnam affert utilitatem et iuuamentum et influentiam aliis
+                   eiusdem generis est prior illis. Hec scientia de anima est huius, ut dicit <name>Aristoteles</name>, ergo hec scientia de anima est prior aliis naturalibus scientiis.
+               </p>
+                <p>
+                  Tercia ratio hec est, sicut dicit <name>Philosophus</name> in libro <title>De sensu et sensato</title>, dictum est de anima secundum se et postea continuat scientiam illam de sensu et sensato,
+                 et omnes alias scientias naturales ad scientiam de anima, et dicit quod ea que determinantur in hac scientia debent supponi tamquam principia in aliis scienciis naturalibus.
+                  Omnis autem scientia cuius dicta supponuntur tamquam principia in aliis scientiis est prior aliis. Hec est talis, ergo hec scientia prior est aliis scienciis naturalibus.
+                </p>
+                <p>
+                  Solutio. Dicendum est quod prioritas est dupliciter, quedam est in scientia, quedam autem est in re. Hec autem scientia de anima prior est scientia animalium et uegetabilium et aliis prioritate
+                   scientie, et hoc propter multas causas. Prima causa est propter subiecti nobilitatem. Secunda propter certitudinem demonstrationis.
+                 Tercia causa est quia subiectum eius est causa omnium eorum que determinantur in libris de rebus animatis et sunt omnia ea propter animam.
+                 Quarta causa est iuuamentum quod affert omnibus aliis; influit enim certitudinem super omnes alias scientias et debent supponi dicta eius in aliis scientiis.</p>
+                 <p>
+                 A parte autem rerum est duplex ordo, est enim prius in uia generationis et incomplectionis, et sic materia est ante formam et corpus animatum ante animam,
+                 et sic scientia de animalibus et de uegetabilibus precedunt istam. Alia est prioritas in uia complectionis et perfectionis et nobilitatis et dignitatis, et sic forma precedit materiam et anima corpus,
+                 et sic hec scientia de anima a parte rerum precedit alias que dicte sunt, et per hoc patent solutiones ad rationes ad utramque partem.
+               </p>
             </div>
         </body>
     </text>
 </TEI>
-

@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -57,18 +57,22 @@
       <div xml:id="da-236-ed1e7191" >
         <head>Quaestio 8</head>
         <head type="question-title">Utrum hec passio sit corporalis an spiritualis</head>
-        <p xml:id="da-236-ed1e7191-d1e7199">[lec 15 q8] <hi>|</hi> Circa octauam questionem sic proceditur, et queritur utrum hec passio
+        <p xml:id="da-236-ed1e7191-d1e7199">[lec 15 q8]
+          <pb ed="#K" n="98-v"/>
+          <cb ed="#K" n="b">Circa octauam questionem sic proceditur, et queritur utrum hec passio
     sit corporalis an spiritualis. Et ostenditur quod sit spiritualis: omne quod recipitur in
     aliquo recipitur recipitur secundum possibilitatem recipientis et non rei recepte, set res a
     quibus patitur anima recipiuntur in anima, ergo recipiuntur in ea secundum possibilitatem
     anime. Set anima est substantia spiritualis, ergo modo spirituali recipiuntur res in anima et
     eo modo quo recipiuntur in anima patitur anima ab illis, ergo patitur ab illis passione
-    spirituali. </p>
+    spirituali.
+  </p>
         <p xml:id="da-236-ed1e7191-d1e7205">Ad oppositum: omnis forma que per sui actionem rem corporalem corrumpit est existens in
     propria materia, set obiecta sensibilia sunt huiusmodi, prout inmutant sensus sunt in propria
     materia et eo modo quod sunt inmutant animam et mouent. Ergo inmutant animam uel sensum in
       <seg>mutatione</seg> corporali et non spirituali. Ergo anima patitur a rebus passione
-    corporali et non spirituali. </p>
+    corporali et non spirituali.
+   </p>
         <p xml:id="da-236-ed1e7191-d1e7211">
           <seg>Solutio.</seg> Ad hoc dicendum est quod illa actio et passio secundum quam anima patitur
     a rebus sensibilibus extra est passio et actio spiritualis et non corporalis, sicut ostendit
@@ -76,15 +80,17 @@
     enim recipiuntur res in intellectu quam in sensu, et spiritualius recipiuntur res in
     sensibilibus uirtutibus interioribus, sicut in memoria et sensu communi, quam in uirtutibus
     partibus et inter uirtutes sensitiuas particulares. Spiritualius enim recipiuntur res in uisu
-    quam in aliis sensibilibus. </p>
+    quam in aliis sensibilibus.
+  </p>
         <p xml:id="da-236-ed1e7191-d1e7217">Ad rationem in contrarium dicendum est quod receptio corporalis est duplex: quedam est que
     est receptio subiecti et hoc modo non recipiuntur res corporaliter in sensu, unde corpus
-    odoriferum non recipitur in organo olfatus set solus fumus* qui resoluitur ab illo corpore. Et
+    odoriferum non recipitur in organo olfatus set solus fumus qui resoluitur ab illo corpore. Et
     similiter est de saporibus et de aliis. Est autem alia receptio corporalis que est receptio
     alicuius resoluti a subiecto corporali, sicut receptio fumi resoluti a substantia odorifera,
     et hec est duplex, quia quedam est in organo, alia est in uirtute. Receptio autem in organo
     est corporalis quodam modo que autem est in uirtute spiritualis est. Horum autem uerificatio
-    in sequentibus patebit. </p>
+    in sequentibus patebit.
+  </p>
       </div>
     </body>
   </text>

@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -49,15 +49,28 @@
   <text>
       <body>
          <div>
-            
+
             <head>Preambula, Problema 1, Quaestio 5</head>
-            <p>Quinto queritur utrum cognitio anime sui ipsius sit inmediate cadens et primo supra se aut supra res primo et per res supra se, ita quod anima prius cognoscat res et per res cognoscat se sciencem aut prius cognoscat se sciencem. Et uidetur quod aspectus anime prius cadat supra se, quia cognitio fit per unionem cognoscibilis cum cognoscente. Set prius est unio anime ad se quam ad res supra quas cadit, ergo prius cognoscit se quam res.</p>
-            <p>Secunda ratio hec est, anima habet cognitionem sui innatam, ergo cum illa cognitio que est supra res sit acquisita, et innatum prius sit quam acquisitum, ergo prius est cognitio anime per reflectionem supra se quam supra res, primo ergo cadit aspectus anime supra se quam supra res.</p>
+            <p>
+            Quinto queritur utrum cognitio anime sui ipsius sit inmediate cadens et primo supra se aut supra res primo et per res supra se,
+            ita quod anima prius cognoscat res et per res cognoscat se scientem aut prius cognoscat se scientem.
+            Et uidetur quod aspectus anime prius cadat supra se, quia cognitio fit per unionem cognoscibilis cum cognoscente.
+            Set prius est unio anime ad se quam ad res supra quas cadit, ergo prius cognoscit se quam res.
+          </p>
+            <p>
+            Secunda ratio hec est, anima habet cognitionem sui innatam, ergo cum illa cognitio que est supra res sit acquisita, et innatum prius sit quam acquisitum,
+            ergo prius est cognitio anime per reflectionem supra se quam supra res, primo ergo cadit aspectus anime supra se quam supra res.
+          </p>
            <p>Ad oppositum, anima cognoscendo alia cognoscit se, ut habetur in tercio. Ergo prius comparatur cognitio anime ad res quam ad animam, ergo prius cadit supra res, et per res supra animam.</p>
-         	<p>Solutio. Dicendum est quod cognitio anime sui ipsius est duplex: una est per reflectionem sui supra se, et hec prius cadit supra se et hec est ei innata, et hec non datur cuilibet anime, set magis abstracte a sensibilibus, non dico separate set abstracte, quia talis est sibi presens et quanto est abstractior tanto est sibi presentior. Est autem alia cognitio anime per informationem sciencie acquisite, et hec incipit a rebus exterioribus et terminatur ad animam, et de hac loquitur <name>Aristoteles</name>. Et hec prius cadit supra res et per res supra animam. Prima autem super animam primo. Et per hec soluuntur obiectiones.</p>
+         	<p>
+            Solutio. Dicendum est quod cognitio anime sui ipsius est duplex: una est per reflectionem sui supra se, et hec prius cadit supra se et hec est ei innata,
+          et hec non datur cuilibet anime, set magis abstracte a sensibilibus, non dico separate set abstracte, quia talis est sibi presens et quanto est abstractior tanto est sibi presentior.
+          Est autem alia cognitio anime per informationem scientie acquisite, et hec incipit a rebus exterioribus et terminatur ad animam, et de hac loquitur <name>Aristoteles</name>.
+          Et hec prius cadit supra res et per res supra animam. Prima autem super animam primo. Et per hec soluuntur obiectiones.
+        </p>
          </div>
       </body>
   </text>
-  
- 
+
+
 </TEI>

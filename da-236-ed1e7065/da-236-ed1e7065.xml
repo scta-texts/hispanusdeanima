@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -65,21 +65,26 @@
     mouet corpus quam ad ipsum corpus moueat. <seg>Iterum</seg> cum mouet corpus ad locum per
     apprehensionem mouet se et dirigit se ad motum corporis et dirigendo se mouet et dirigit
     corpus. Omnis talis uero substantia mouetur ab alio et mouendo se mouet aliud, ergo anima
-    mouendo corpus localiter mouetur aliquo modo motu locali ad minus* secundum intensionem et
-    estimationem. </p>
-        <p xml:id="da-236-ed1e7065-d1e7088">Secunda ratio hec est: sicut uult Aristoteles in septimo <seg>
-            <hi>Metaphisice</hi>,</seg>
-    omnis actio<hi>|</hi>nes reducuntur ad uniuocationem, et dicit Auerrois super hoc in undecimo
+    mouendo corpus localiter mouetur aliquo modo motu locali adminus secundum intensionem et
+    estimationem.
+  </p>
+        <p xml:id="da-236-ed1e7065-d1e7088">Secunda ratio hec est: sicut uult <name>Aristoteles</name> in septimo <seg>
+            <title>Metaphsice</title>,</seg>
+    omnis actio
+    <pb ed="#K" n="98-r"/>
+    <cb ed="#K" n="b"/>nes reducuntur ad uniuocationem, et dicit <name>Auerrois</name> super hoc in undecimo
     quod uulnera que facit percutiens per corrigias in dorso reducuntur ad uniuocationem per
     intensionem quia uulnera que sunt in dorso sunt in mente percutientis secundum
       <seg>intensionem.</seg> Set anima mouet corpus et influit motum supra ipsum, ergo hec
     influentia reducitur ad uniuocationem. Set hoc non potest esse nisi ad minus anima
       <seg>participet</seg> motum localem secundum intensionem, set non potest
       <seg>participare</seg> motum secundum intensionem nisi moueatur se ipsa secundum intensionem
-    mouendo corpus, ergo anima mouendo corpus localiter aliquo modo participat motum localem. </p>
+    mouendo corpus, ergo anima mouendo corpus localiter aliquo modo participat motum localem.
+  </p>
         <p xml:id="da-236-ed1e7065-d1e7108">Ad oppositum: omne quod mouetur ad locum est natum occupare locum. Omne autem tale est
     corpus, ergo omne quod mouetur ad locum est corpus. Set anima non est corpus, ergo anima non
-    mouetur ad locum, ergo anima nullo modo mouetur motu locali nec ipsum participat. </p>
+    mouetur ad locum, ergo anima nullo modo mouetur motu locali nec ipsum participat.
+  </p>
         <p xml:id="da-236-ed1e7065-d1e7112">
           <seg>Solutio.</seg> Ad hoc dicendum eset quod anima mouet corpus motu locali et cum mouet
     corpus motu locali mouetur aliquo modo ad locum ad quem mouet corpus secundum apprehensionem,
@@ -91,7 +96,8 @@
     ad locum estimat illum locum et estimat se esse in illo loco ante quam sit ibi et per istam
     estimationem corpus ad locum dirigit, sicut si aliquis uelit ire Romam, anima sua prius
     estimat locum illum Rome et mouetur ad illum intendendo ipsum et estimando et postea mouet
-    corpus ad illum. </p>
+    corpus ad illum.
+  </p>
         <p xml:id="da-236-ed1e7065-d1e7120">Dicendum est igitur ad rationes quod motus est duplex, scilicet corporalis et spiritualis.
     Motus autem corporalis competit soli corpori; motus autem spiritualis est motus secundum
     intensionem et apprehensionem et talis competit anime in mouendo se et dirigendo. Cum enim
@@ -104,8 +110,11 @@
     anime, sicut principio regulanti et effectiuo et intendenti. Corpori autem competit sicut
     subiecto in quo est. Et ita patet quod anima participat aliquo modo motum localem mouendo
     corpus localiter, scilicet secundum intensionem ipsum participat solum et
-    esti<hi>|</hi>mationem, et hoc probat ratio prima. Et per hoc soluuntur omnes rationes ad
-    oppositum. </p>
+    esti
+    <pb ed="#K" n="98-v"/>
+    <cb ed="#K" n="a"/>mationem, et hoc probat ratio prima. Et per hoc soluuntur omnes rationes ad
+    oppositum.
+  </p>
       </div>
     </body>
   </text>

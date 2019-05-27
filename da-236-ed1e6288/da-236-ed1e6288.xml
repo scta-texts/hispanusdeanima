@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -70,7 +70,8 @@
     cognoscimus diuersitatem in partibus <seg>celi</seg> secundum maiorem et minorem
       <seg>participationem</seg> speciei. Et hec ratio confirmatur in hunc modum, quia quidam
     posuerunt stellas causari ex aqua purissima et solem ex igne. Reliquas autem partes celi
-    constare ex aere et terra. </p>
+    constare ex aere et terra.
+  </p>
         <p xml:id="da-236-ed1e6288-d1e6321">Ad <seg>oppositum:</seg> omne compositum ex elementis est compositum ex contrariis. Set omne
     tale natum est dissolui dissolutione que est a contrario, ergo omne compositum ex elementis
     natum est dissolui dissolutione que est a contrario. Set corpus celeste non est ita
@@ -78,11 +79,13 @@
     compositum ex elementis haberet aliquas partes coagulatas aquosas, set coagulatum aquosum
     natum est dissolui a calido. Ergo partes aquose quas haberet <seg>dissoluentur</seg> a calido.
     Hoc autem est inconueniens in corpore celesti cum nullo modo sit dissolubile a contrario nec
-    in toto nec in partibus. </p>
+    in toto nec in partibus.
+  </p>
         <p xml:id="da-236-ed1e6288-d1e6336">Secunda ratio hec est: omne compositum ex elementis mouetur secundum exigentiam elementorum,
-    ergo si corpus celeste esset compositum ex elementis, moueretur secundum motum <hi>|</hi> et
-    exigentiam elementorum. Set elementa mouentur motu recto et finito, ergo celum non moueretur
-    motu circulari et infinito, set motu recto et finito. Hoc autem est contra Aristotelem et
+    ergo si corpus celeste esset compositum ex elementis, moueretur secundum motum
+    <pb ed="#K" n="94-v"/>
+    <cb ed="#K" n="b"/>et exigentiam elementorum. Set elementa mouentur motu recto et finito, ergo celum non moueretur
+    motu circulari et infinito, set motu recto et finito. Hoc autem est contra <name>Aristotelem</name> et
     inconueniens <seg>planum.</seg>
         </p>
         <p xml:id="da-236-ed1e6288-d1e6346">
@@ -100,7 +103,7 @@
     orbe et ideo est diuersitas stellarum secundum maiorem et minorem aggregationem in
       <seg>natura</seg> lucis. Tercio modo est diuersitas in partibus <seg>alicuius</seg> a parte
     causantis, ordinantis res secundum operationem et hoc modo habent etiam stelle diuersitatem.
-    Quelibet enim habet proprium effectum et propriam operationem, unde dicit <seg>Auicenna</seg>
+    Quelibet enim habet proprium effectum et propriam operationem, unde dicit <name>Auicenna</name>
           <seg>quod</seg> celum est principium multarum operationum et effectuum, ideo multas habet
     stellas per quas diuersa <seg>operatur</seg> et diuersos producit effectus. Et quia hoc habet
     celum a <seg>causante,</seg> scilicet quod sit principium multarum operationum, ideo hanc

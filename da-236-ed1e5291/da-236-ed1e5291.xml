@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -57,39 +57,44 @@
       <div xml:id="da-236-ed1e5291" >
         <head>Praeambulum</head>
         <p xml:id="da-236-ed1e5291-d1e5296">
-          <hi>Anaxagoras autem uidetur quidem alterum dicere animam et intellectum sicut diximus
-      prius</hi> et cetera, prosequitur philosophus secundum ordinem superius memoratum opiniones
+          <hi><name>Anaxagoras</name> autem uidetur quidem alterum dicere animam et intellectum sicut diximus
+      prius</hi> et cetera, prosequitur Philosophus secundum ordinem superius memoratum opiniones
     philosophorum et in lectione presenti prosequitur quinque opiniones secundum quas diuiditur
-    lectio <seg>presens</seg> in quinque partes, in quarum prima recitat opinionem Anaxagore, in
-    secunda recitat opinionem <seg>ytalis,</seg> in tercia recitat opinionem Dyogenis, in quarta
-    recitat opinionem Eracliti, in quinta recitat opinionem <seg>Almeonitis.</seg>
+    lectio <seg>presens</seg> in quinque partes, in quarum prima recitat opinionem <name>Anaxagore</name>, in
+    secunda recitat opinionem <seg>ytalis,</seg> in tercia recitat opinionem <name>Dyogenis</name>, in quarta
+    recitat opinionem <name>Eracliti</name>, in quinta recitat opinionem <name>Almeonitis.</name>
         </p>
-        <p xml:id="da-236-ed1e5291-d1e5309">Hec autem est diuisio huius partis. </p>
-        <p xml:id="da-236-ed1e5291-d1e5312">Circa opinionem Anaxagore tria facit philosophus: primum est quod posuit intellectum et
-    animam idem esse, sicut superius determinatum est. Secundum est quod quamuis ponat intellectum
+        <p xml:id="da-236-ed1e5291-d1e5309">Hec autem est diuisio huius partis.
+        </p>
+        <p xml:id="da-236-ed1e5291-d1e5312">Circa opinionem <name>Anaxagore</name> tria facit Philosophus:
+    primum est quod posuit intellectum et animam idem esse, sicut superius determinatum est. Secundum est quod quamuis ponat intellectum
     idem esse cum anima tamen <seg>non</seg> ponit intellectum nobiliorem et ponit ipsum esse
     principium omnium que sunt asserens ipsum esse simplicem et impermixtum et purum, et dicit
-    simplex, quia omni caret compositione per se et per accidens. impermixtus, quia est omnino
-    abstractus, purus, quia a rei <seg>materiali</seg> fecis cum <seg>mixtione</seg> uel
-    contrarietatis <seg>passiuis,</seg> et hunc intellectum posuit Anaxagoras omnia mouere,
+    simplex, quia omni caret compositione per se et per accidens. Impermixtus, quia est omnino
+    abstractus; purus, quia a rei <seg>materiali</seg> fecis cum <seg>mixtione</seg> uel
+    contrarietatis <seg>passiuis,</seg> et hunc intellectum posuit <name>Anaxagoras</name> omnia mouere,
     disponere et ordinare ponens ipsum principium ordinationis rerum mundanarum. Hunc autem
     intellectum solum Deum credidit, cuius nomen est excelsum super omnia benedictum, et hoc
     tangit cum dicit et cetera,<hi> utitur autem utriusque sicut una natura </hi>et cetera.
-    Tercium autem est quod tangit circa predictam opinionem quod Anaxa<hi>|</hi>goras attribuit
-    intellectui predicto cognitionem et motum, asserens ipsum omnia mouere. </p>
+    Tercium autem est quod tangit circa predictam opinionem quod
+    Anaxa
+    <pb ed="#K" n="90-v"/>
+    <cb ed="#K" n="b"/></hi>goras attribuit intellectui predicto cognitionem et motum, asserens ipsum omnia mouere.
+  </p>
         <p xml:id="da-236-ed1e5291-d1e5334">
           <hi>Videtur autem <seg>ytalis</seg> ex quibus reminiscuntur</hi> et cetera. Post opinionem
-    Anaxagore ordinat philosophus opinionem <seg>ytalis</seg> qui attribuit motum anime et
-    concordat cum Anaxagora in duobus: in uno, quia ponit animam et intellectum esse idem et in
+    <name>Anaxagore</name> ordinat Philosophus opinionem <seg>ytalis</seg> qui attribuit motum anime et
+    concordat cum <name>Anaxagora</name> in duobus: in uno, quia ponit animam et intellectum esse idem et in
     alio, quia ponit <seg>omnium</seg> intellectum mouere. Errauit autem, quia posuit intellectum
     coniunctum omnibus et intellexit de intellectu creato. Dicit igitur quod uidetur
       <seg>ytalis</seg> sine mellitius dicere per ea que prius sunt rememorata quod anima et
     intellectus mouet omnia et si adamas <seg>ferrum</seg>
-          <seg>attrahat,</seg> hec atractio est per uirtutem anime et intellectus.</p>
+          <seg>attrahat,</seg> hec atractio est per uirtutem anime et intellectus.
+        </p>
         <p xml:id="da-236-ed1e5291-d1e5358">
-          <hi>Dyogenes autem sicut el alteri quidem aerem</hi> et cetera. In hac parte tangit
-    philosophus opinionem Dyogenis ponentis animam esse aerem subtilissimum et primo tangit
-    opinionem eius dicens quod Dyogenes et multi alii sequentes ipsum posuerunt animam esse aerem
+          <hi><name>Dyogenes</name> autem sicut el alteri quidem aerem</hi> et cetera. In hac parte tangit
+    Philosophus opinionem <name>Dyogenis</name> ponentis animam esse aerem subtilissimum et primo tangit
+    opinionem eius dicens quod <name>Dyogenes</name> et multi alii sequentes ipsum posuerunt animam esse aerem
     subtilissimum, qui est principium omnium corporum, secundo cum dicit, <hi>propter hoc
       cognoscere quod est mouere</hi> et cetera, tangit rationem sue opinionis dicens quod anima
     propter naturam aeris cognoscere et mouere, set dicitur differenter, quia secundum quod aer
@@ -98,45 +103,49 @@
     ipsius <seg>naturam</seg> est motiuum. Ratio autem sic formatur: omne illud quod est maxime
     cognoscitium et motiuum est ex eo quod est principium rerum per quod res cognoscuntur et quod
     est subtilissimum, quod maxime est causa motus. Set anima est huiusmodi, et aer est tale
-    principium, ergo anima est ex aere. </p>
+    principium, ergo anima est ex aere.
+  </p>
         <p xml:id="da-236-ed1e5291-d1e5369">
-          <hi>Eraclitus autem principium esse dicit uaporem</hi> et cetera, in hac distinctione recitat
-    philosophus opinionem Eracliti ponentis animam esse ex uapore et primo tangit eius opinionem
-    dicens quod Eraclitus opinabatur animam esse ex uapore, et primo tangit eius opinionem dicens
-    quod Eraclitus opinabatur animam esse ex uapore subtilissimo et incorporalissimo, qui semper
+          <hi><name>Eraclitus</name> autem principium esse dicit uaporem</hi> et cetera, in hac distinctione recitat
+    Philosophus opinionem <name>Eracliti</name> ponentis animam esse ex uapore et primo tangit eius opinionem
+    dicens quod <name>Eraclitus</name> opinabatur animam esse ex uapore, et primo tangit eius opinionem dicens
+    quod <name>Eraclitus</name> opinabatur animam esse ex uapore subtilissimo et incorporalissimo, qui semper
     in continuo fluxu existit ex quo uniuersa corpora dixit esse constituta. Secundo cum dicit,
        <seg>
             <hi>que</hi>
           </seg>
           <hi> uero mouentur mobili cognosci </hi>et cetera, tangit rationem
-    sue opinionis. Dicebat igitur Eraclitus quod omnia que sunt in motu continuo per mobile per
+    sue opinionis. Dicebat igitur <name>Eraclitus</name> quod omnia que sunt in motu continuo per mobile per
     quod habent continuum motum cognoscuntur, set omnes res sicut ipse credidit et multi alii sunt
     in motu continuo, ergo per mobile predictum cognoscuntur. Vapor autem est huiusmodi, ergo res
     per uaporem cognoscuntur, sicut per suum principium, set ex illo est anima per quod res
       <seg>cognoscuntur,</seg> cum sit constituta ex principiis per que res . Ergo anima est ex
-    uapore, et iterum formatur ex dictis Eracliti talis ratio: omne maxime motiuum et maxime
+    uapore, et iterum formatur ex dictis <name>Eracliti</name> talis ratio: omne maxime motiuum et maxime
     cognoscitiuum est ex eo quod est causa continui motus et causa cognitionis omnium mobilium.
-    Set anima est huiusmodi, et uapor est huiusmodi principium, ergo anima maxime est <hi>|</hi>
-    ex uapore. </p>
+    Set anima est huiusmodi, et uapor est huiusmodi principium, ergo anima maxime est
+    <pb ed="#K" n="91-r"/>
+    <cb ed="#K" n="a">ex uapore.
+     </p>
         <p xml:id="da-236-ed1e5291-d1e5386">
-          <hi>Similiter autem et hiis Almeon de anima opinari uisus est</hi> et cetera, hic tangit
-    opinionem <seg>Almeontis</seg> ponentis animam esse inmortalem propter continuationem sui
+          <hi>Similiter autem et hiis <name>Almeon</name> de anima opinari uisus est</hi> et cetera, hic tangit
+    opinionem <name>Almeontis</name> ponentis animam esse inmortalem propter continuationem sui
     motus, asserens illud esse perpetuum quod semper et continue mouetur. Primo igitur recitat
-    opinionem eius dicens quod Almeon opinatur, sicut et alii, in hoc quod posuit animam diffiniri
+    opinionem eius dicens quod <name>Almeon</name> opinatur, sicut et alii, in hoc quod posuit animam diffiniri
     per motum et dixit ipsam esse inmortalem. Deinde tangit causam sue opinionis dicens quod dixit
     ipsam esse immortalem, quia comparari uidit inmortalibus et hec inmortalitas inest ipsi anime
     propterea quod sempre mouetur, unde ei inest immortalitas sicut illis que semper mouentur
     propter motum continuum. Res enim diuine in continuo et sempiterno sunt motu, sicut sol et
-    stelle et uniuersaliter celum et elementum et partes eius. <seg>Vidit</seg> enim Almeon quod
-    celum elementum*, quia est in continuo motu et partes eius habent perpetuitatem propter
+    stelle et uniuersaliter celum et elementum et partes eius. <seg>Vidit</seg> enim <name>Almeon</name> quod
+    celum elementum, quia est in continuo motu et partes eius habent perpetuitatem propter
     continuationem sui motus, eodem modo <seg>credit</seg> animam esse inmortalem propter
     continuationem sui motus. Est igitur sua ratio talis: omne quod est in motu continuo est
-    perpetuum et inmortale. Set anima est huiusmodi, ergo est perpetua et inmortalis. </p>
+    perpetuum et inmortale. Set anima est huiusmodi, ergo est perpetua et inmortalis.
+  </p>
         <p xml:id="da-236-ed1e5291-d1e5400">
-          <hi>Magis autem grossiores et aquam quidem contulerunt sicut Ypus</hi> et cetera. In hac
-    ultima parte recitat opinionem Ypi et sequentium ipsum et omnium aliorum ponentium animam
+          <hi>Magis autem grossiores et aquam quidem contulerunt sicut <name>Ypus</name></hi> et cetera. In hac
+    ultima parte recitat opinionem <name>Ypi</name> et sequentium ipsum et omnium aliorum ponentium animam
     habere naturam humoris et per humorem habere naturam aque, et dum <seg>dicitur</seg> ista pars
-    in partes tres, in quarum prima recitat opinionem Ypi et sequentium eius que asserit animam
+    in partes tres, in quarum prima recitat opinionem <name>Ypi</name> et sequentium eius que asserit animam
     habere naturam humoris sanguinis supermatici, qui est principium generationis. In secunda,
     scilicet in hac, <hi>alii autem sanguinem quemadmodum <seg>netias</seg>
           </hi> et cetera, tangit
@@ -145,25 +154,30 @@
       terram</hi>, quia a diuersis opinionibus philosophorum posita est anima habere elementorum
     diuersorum naturam. Quidam enim posuerunt ipsam habere naturam ignis, quidam aeris, quidam
     aque, ne uertatur in dubium quare non tangitur opinio ponens ipsam habere naturam terre
-    ostendit quod nullus philosophus iudicauit animam participare naturam terre propter
-    grossitudinem terre et subtilitatem anime. </p>
-        <p xml:id="da-236-ed1e5291-d1e5416">Hec est diuisio huius partis. </p>
-        <p xml:id="da-236-ed1e5291-d1e5419">Circa primam partem procedit philosophus hoc modo: primo tangit opinionem Ypi et aliorum
+    ostendit quod nullus Philosophus iudicauit animam participare naturam terre propter
+    grossitudinem terre et subtilitatem anime.
+  </p>
+        <p xml:id="da-236-ed1e5291-d1e5416">Hec est diuisio huius partis.
+        </p>
+        <p xml:id="da-236-ed1e5291-d1e5419">Circa primam partem procedit Philosophus hoc modo: primo tangit opinionem <name>Ypi</name> et aliorum
     similiter opinantium dicens quod philosophi grossiori modo procedentes in suis opinionibus
-    dixerunt animam habere naturam aque, sicut posuit Ypus et multi alii. Secundo autem tangit
+    dixerunt animam habere naturam aque, sicut posuit <name>Ypus</name> et multi alii. Secundo autem tangit
     rationem opinionis ipsorum cum dicit, <hi>suadere enim uidetur ex genitura </hi>et cetera, hec
     est ratio talis: omne quod est generatum existens principium generationis in uiuentibus
     generatis est ex illo quod est principium generationis omnium uiuentium. Set anima est
     huiusmodi, ergo est ex tali principio. Tale autem principium est humiditas spermatica. Set
-    talis humiditas habet naturam aque, quia aqua est omni<hi>|</hi>um corporum grossorum
-    humidissima, ergo anima habet naturam aque. Tercio tangit modum secundum quem Ypus reprehendit
+    talis humiditas habet naturam aque, quia aqua est omni
+    <pb ed="#K" n="91-r"/>
+    <cb ed="#K" n="b"/>um corporum grossorum humidissima, ergo anima habet naturam aque.
+    Tercio tangit modum secundum quem <name>Ypus</name> reprehendit
     alios, <seg>dicentes</seg> animam habere naturam sanguinis cum dicit, <hi>et namque arguit
-      sanguinem animam esse</hi> et cetera. Ypus enim arguebat alios ponentes animam habere
+      sanguinem animam esse</hi> et cetera. <name>Ypus</name> enim arguebat alios ponentes animam habere
     naturam singuinis, dicens ex illo non constat anima ex quo non est genitura, set ex sanguine
     non est genitura, ergo ex sanguine non est anima. Ponebat enim perma non habere naturam
-    humiditatis sanguinee set aquose. </p>
+    humiditatis sanguinee set aquose.
+  </p>
         <p xml:id="da-236-ed1e5291-d1e5435">Consequenter agreditur opinionem ponentium animam habere naturam sanguinis dicens quod alii
-    philosophi posuerunt animam esse sanguinem, sicut posuit <seg>Cretias</seg> et sequaces
+    philosophi posuerunt animam esse sanguinem, sicut posuit <name>Cretias</name> et sequaces
     ipsius, et ratio opinionis ipsorum fuit talis: ex illius natura est anima per quod est sensus
     et uita, set sanguis est huiusmodi ex natura sanguinis est anima. Vita enim stat per calidum
     et humidum. Huius autem nature et complectionis est sanguis, et ideo cum priuato sanguine
@@ -182,12 +196,14 @@
     omnibus in cognoscendo. Isti enim per consequens posuerunt ipsam habere naturam terre. Causa
     autem propter quam non posuerunt ipsam habere naturam terre est groscities terre que multum
     habet de materia et parum de specie et subtilitas anime. Et sic terminatur expositio huius
-    partis. </p>
+    partis.
+   </p>
         <p xml:id="da-236-ed1e5291-d1e5447">Questiones. Circa partem istam queruntur quatuor questiones. Prima [lec 13 q1] est utrum
     intellectus, qui est motor uniuersalis omnium, scit omnia in omnibus sicut multi decepti
     crediderunt. Secunda [lec 13 q2] est utrum anima moueat omnia sicut posuit <seg>italis.</seg>
     Tercia [lec 13 q3] est utrum adamas attrahat <seg>ferrum</seg> per uirtutem anime. Quarta [lec
-    13 q4] est que sit hec uirtus atractiua. </p>
+    13 q4] est que sit hec uirtus atractiua.
+  </p>
       </div>
     </body>
   </text>

@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -58,29 +58,35 @@
         <head>Quaestio 5</head>
         <head type="question-title">Utrum anima cognoscat per
     numeros</head>
-        <p xml:id="da-236-ed1e4921-d1e4929">[lec 12 q5] Circa quintam questionem sic proceditur et queritur utrum anima cognoscat per
+        <p xml:id="da-236-ed1e4921-d1e4929">[lec 12 q5] Circa quintam questionem sic proceditur et
+    queritur utrum anima cognoscat per
     numeros, et ostenditur quod sic: omnis substantia que distincte et secundum ordinem operatur
     operatur secundum exigentiam rationis distinctionis et ordinationis rerum. Set anima est
     huiusmodi, ergo operatur secundum exigentiam illius rationis distinctionis et ordinationis
     rerum. Hec autem ratio numerus est, ergo anima cognoscit secundum exigentiam numerorum. Anima
-    ergo cognoscit per numeros. </p>
-        <p xml:id="da-236-ed1e4921-d1e4932">Ad oppositum: cognitio intellectiua est per uera rerum principia, set numeri non sunt uera
+    ergo cognoscit per numeros.
+  </p>
+        <p xml:id="da-236-ed1e4921-d1e4932">Ad oppositum: cognitio intellectiua est per uera rerum principia,
+    set numeri non sunt uera
     rerum principia, immo quidditates rerum et principia quidditatum sunt uera rerum principia,
-    ergo cognitio intellectiua non <seg>sit</seg> per numeros. </p>
+    ergo cognitio intellectiua non <seg>sit</seg> per numeros.
+  </p>
         <p xml:id="da-236-ed1e4921-d1e4938">
-          <seg>Solutio.</seg> Ad hoc dicendum est quod Plato posuit animam cognoscere res per numeros.
+          <seg>Solutio.</seg> Ad hoc dicendum est quod <name>Plato</name> posuit animam cognoscere res per numeros.
     Posuit enim numeros esse principia rerum exemplaria, sicut dictum est. Et quia cognitio
     intellectiua fit per exemplaria rerum, ideo posuit quod anima cognoscit per numeros cognitione
     intellectiua et eo modo quo sunt exemplaria cognoscit anima res per illos et secundum uiam
     istam concedimus rationem que ostendit quod anima cognoscit per numeros. </p>
-        <p xml:id="da-236-ed1e4921-d1e4944">Ad rationem in contrarium dicendum est quod ad cognitionem anime requiruntur tria: primum est
-    substantia cognoscens, et hec est anima. secundum est illud quo fit cognitio, et hec sunt
+        <p xml:id="da-236-ed1e4921-d1e4944">Ad rationem in contrarium dicendum est quod ad
+    cognitionem anime requiruntur tria: primum est substantia cognoscens, et hec est anima. secundum est illud quo fit cognitio, et hec sunt
     exemplaria uel species rerum que exultant in anima. Tercium est modus existentie rerum
     exemplarium in anima et modus secundum quem anima dirigitur in cognitione et operatione rerum
     per exemplaria et <seg>huius</seg> modus in anima est numerus uel ratio et proportio
     numeralis. Cognoscit igitur anima per numeros, non quia <seg>sint</seg> uera rerum principia
-    set quia dicunt modum existentie exemplarium in anima per que anima cognos|cit et ducit
-    directionem anime in cognitione et operatione sua per illa <seg>exemplaria.</seg>
+    set quia dicunt modum existentie exemplarium in anima per que anima
+    cognos
+    <pb ed="#K" n="90-r"/>
+    <cb ed="#K" n="a"/>cit et ducit directionem anime in cognitione et operatione sua per illa <seg>exemplaria.</seg>
         </p>
       </div>
     </body>

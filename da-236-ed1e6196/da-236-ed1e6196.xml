@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -64,13 +64,15 @@
     anima habeat conformitatem <seg>cum</seg> elementis, et ostenditur quod sic: omnis forma
     corporis mixti ex quatuor elementis habet conformitatem cum quatuor elementis, quia resultat
     ex illis. Set anima est forma corporis mixti ex quatuor elementis, ergo habet conformitatem
-    cum quatuor elementis.</p>
+    cum quatuor elementis.
+  </p>
         <p xml:id="da-236-ed1e6196-d1e6216">Ad <seg>oppositum:</seg> duplex est substantia, <seg>scilicet</seg> corporalis et
     spiritualis. Corporali autem substantie debetur <seg>distensio</seg> per materiam. Nulli
       <seg>autem</seg> tali debetur cognitio nec motus sufficiens ita quod moueat sufficienter.
     Set anima habet cognitionem et est substantia spiritualis et mouet sufficienter. Ergo anima
-    non est substantia corporalis, Si non est substantia corporalis, ergo cum elementa sint
-    corporalia non habet conformitatem cum elementis.</p>
+    non est substantia corporalis. Si non est substantia corporalis, ergo cum elementa sint
+    corporalia non habet conformitatem cum elementis.
+  </p>
         <p xml:id="da-236-ed1e6196-d1e6231">Secunda ratio hec est: omne quod habet conformitatem et naturam essentialem cum elementis
     mouetur per <seg>motum</seg> elementorum, ergo si anima haberet conformitatem cum elementis
     moueret et moueretur secundum exigentiam et motum elementorum. Set motus elementorum est ad
@@ -88,7 +90,9 @@
       <seg>dominium</seg> elementi secundum cuius exigentiam et proportionem anima operatur per
     organum. Vnde anima non operatur nec sentit per occulum nisi illud quod habet naturam
     dyaphani, perspicui et lucidi, propter hoc quod occulus est ex aqua et aere que habent naturam
-    perspicuitatis. <hi>|</hi> Sic ergo patet quo <seg>modo</seg> anima habet proportionem cum
+    perspicuitatis.
+    <pb ed="#K" n="94-v"/>
+    <cb ed="#K" n="a"/>Sic ergo patet quo <seg>modo</seg> anima habet proportionem cum
     elementis et non est ponere quod habeat comformitatem cum elementis participando naturas
     elementorum, ita quod ex illis sit composita et constituta, set habet conformitatem cum illis
     per representationem <seg>specierum</seg> et quantum ad operationem mediantibus organis in
@@ -96,8 +100,8 @@
     conformitatem cum elementis ita quod ex illis sit constituta, ideo ad <seg>illam</seg>
     respondendum <seg>est.</seg>
         </p>
-        <p xml:id="da-236-ed1e6196-d1e6269">Ad rationem in <seg>contrarium</seg> dicendum est quod duplex est forma corporis mixti: una
-    est que est forma mixtionis et hec resultat ex elementis sicut est forma lapidis. Est autem
+        <p xml:id="da-236-ed1e6196-d1e6269">Ad rationem in <seg>contrarium</seg> dicendum est quod
+    duplex est forma corporis mixti: una est que est forma mixtionis et hec resultat ex elementis sicut est forma lapidis. Est autem
     alia que est forma addita mixtioni et supra mixtionem sicut anima, et talis non resultat ex
     elementis. Set hec est duplex, quia quedam est a natura et habet radicationem in materia et
     ducitur de potentia materie ad actum per operationem nature. Non tamen habet a

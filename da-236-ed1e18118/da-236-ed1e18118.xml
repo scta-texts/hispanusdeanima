@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -68,7 +68,7 @@
         </p>
         <p xml:id="da-236-ed1e18118-d1e18144">
           <hi>Secunda ratio </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="91-r"/><cb ed="#V" n="b"/></hi>
           <hi> hec est: nichil quod comparatur ad alterum sicut figura cere ad ceram comparatur ad ipsum
       sicut nauta ad nauem. Set anima hoc modo <seg>comparatur</seg> ad corpus, ergo non
       comparatur anima ad corpus sicut nauta ad nauem. Maior patet, cum idem non fiat secundum
@@ -80,9 +80,9 @@
           <hi>Tercia ratio hec est: sicut se habet nauta ad nauem ita se habet anima ad corpus. Set
       nauta non est in tota naui per essentiam set uirtute solum, ergo anima non est in toto
       corpore essentia set uirtute <seg>solum,</seg> et hoc est contra predicta et contra
-      Augustinum dicentem ipsam esse in corpore <seg>ubique</seg> nec in maioribus partibus
+      <name>Augustinum</name> dicentem ipsam esse in corpore <seg>ubique</seg> nec in maioribus partibus
       maximam nec in minoribus minimam. Set in omnibus totam simul. Et ipse <seg>item</seg> dicit </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="124-r"/><cb ed="#K" n="b"/></hi>
           <hi>
             <seg>quod</seg> sicut Deus est in suo maiori mundo ita anima est in suo minori mundo,
       scilicet in homine uel in animali, set Deus est ubique totus in qualibet parte mundi, ergo
@@ -102,15 +102,14 @@
           <hi> Ad hoc dicendum est quod nauta comparatur ad nauem sicut motor ad mobile in quo est et
       quod mouet ipso per se in mobili existente. Set motu ipsius nauis ipse per accidens mouetur
       et hoc modo omnis anima et uegetabilis et sensibilis et intellectiua comparatur ad corpus
-      sicut nauta ad nauem, et hoc modo intelligit Aristoteles hanc comparationem in primo libro,
+      sicut nauta ad nauem, et hoc modo intelligit <name>Aristoteles</name> hanc comparationem in primo libro,
       in illo capitulo </hi>
           <hi>considerandum <seg>est</seg> autem </hi>
           <hi>et <seg>cetera.</seg> Alio modo comparatur nauta ad nauem sicut motor ad mobile a quo non
       dependet secundum actum existendi et ideo separari potest ab ipsa et <seg>sine</seg> ipsa
       continuari in esse, et hoc modo sola intellectiua comparatur ad corpus sicut nauta ad nauem,
-      et hoc modo intelligit Aristoteles alibi in secundo </hi>
-          <hi>De <seg>anima</seg>
-          </hi>
+      et hoc modo intelligit <name>Aristoteles</name> alibi in secundo </hi>
+          <title>De anima</title>
           <hi>. Item est alia similitudo anime ad corpus et naute ad nauem, quia sicut nauta per sui
        <seg>presentiam</seg> est causa salutis nauis et per sui absentiam est causa
        <seg>subuersionis</seg> eius, sic anima corporis, quia egrediente anima a corpore expirat

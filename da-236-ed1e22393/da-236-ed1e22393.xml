@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -62,15 +62,15 @@
           <hi>[lec9 q6] Circa sextam questionem sic proceditur et queritur per quam uiam est deuenire in
       cognitionem potenciarum anime. Et ostenditur quod per operationes et obiecta: per illa que
        <seg>manifesta</seg> sunt in scientia est deuenire ad minus manifesta, quia, sicut uult
-      Aristoteles, innata est nobis uia a prioribus et certioribus <seg>et</seg> ignotiora et in
+      <name>Aristoteles</name>, innata est nobis uia a prioribus et certioribus <seg>et</seg> ignotiora et in
       certiora. Set operationes et <seg>obiecta</seg> sunt manifestiora quam potencie, sicut uult
-      Aristoteles, <seg>ergo</seg> per operationes et obicta est deuenire in cognitione
+      <name>Aristoteles</name>, <seg>ergo</seg> per operationes et obicta est deuenire in cognitione
       potenciarum. </hi>
         </p>
         <p xml:id="da-236-ed1e22393-d1e22419">
           <hi>Secunda ratio hec est: </hi>
-          <hi>|</hi>
-          <hi> sicut uult Aristoteles, actus et obiecta precedunt potencias secundum uiam
+          <hi><pb ed="#K" n="133-r"/><cb ed="#K" n="b"/></hi>
+          <hi> sicut uult <name>Aristoteles</name>, actus et obiecta precedunt potencias secundum uiam
        <seg>rationis</seg> et diffinitionis et cognitionis set ab illis est incipiendum in
        <seg>substantia,</seg> que sunt priora in uia cognitionis, ergo ad habendum cognitionem
       potenciarum est incipiendum ab operationibus et obiectis. </hi>
@@ -96,10 +96,10 @@
           <seg>
             <hi>Solutio.</hi>
           </seg>
-          <hi> Ad hoc dicendum est quod in scientia de anima incipit Aristoteles ab obiectis et
+          <hi> Ad hoc dicendum est quod in scientia de anima incipit <name>Aristoteles</name> ab obiectis et
        <seg>operationibus</seg>
           </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="96-r"/><cb ed="#V" n="a"/></hi>
           <hi> ad potencias anime. Substantia enim anime cognoscitur per suas potencias et potencie
       cognoscuntur per operationes. Operationes autem cognoscuntur per obiecta, <seg>et</seg> ideo
       ab obiectis ad operationes procedendum est, et ab operationibus ad potencias. </hi>

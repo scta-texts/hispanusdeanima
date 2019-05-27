@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -57,26 +57,32 @@
       <div xml:id="da-236-ed1e4763" >
         <head>Quaestio 3</head>
         <head type="question-title">Utrum substantia
-    possit poni principium exemplare omnium, 
+    possit poni principium exemplare omnium,
     sicut res habens modum quantitatis, scilicet numerus</head>
-        <p xml:id="da-236-ed1e4763-d1e4771">[lec 12 q3] Circa terciam <seg>questionem</seg> sic proceditur et queritur utrum substantia
+        <p xml:id="da-236-ed1e4763-d1e4771">[lec 12 q3] Circa terciam <seg>questionem</seg>
+    sic proceditur et queritur utrum substantia
     possit poni principium exemplare omnium, sicut res habens modum quantitatis, scilicet numerus,
     et ostenditur quod sic: illud maxime est principium <seg>exemplare</seg> quod est primum in
     genere rerum. Set substantia est <seg>prima</seg> in genere rerum et non quantitas, ergo
-    substantia magis debet <seg>dici</seg> principium omnium quam quantitas. </p>
-        <p xml:id="da-236-ed1e4763-d1e4786">Ad <seg>oppositum:</seg> omne agens per exemplar agit secundum mensuram rerum et ratio agendi
+    substantia magis debet <seg>dici</seg> principium omnium quam quantitas.
+   </p>
+        <p xml:id="da-236-ed1e4763-d1e4786">Ad <seg>oppositum:</seg> omne agens per exemplar agit
+    secundum mensuram rerum et ratio agendi
     est ratio mensure et non cuiuslibet mensure, set mensure discretionis. Mensura autem
     discretionis non est substantia set quantitatis que est numerus, ergo substantia non
-      <seg>debet</seg>
-          <seg>esse</seg> principium <seg>exemplare:</seg> Immo potius quantitas uel habens modum
-    quantitatis. </p>
-        <p xml:id="da-236-ed1e4763-d1e4801">Ad hoc dicendum est quod sola quantitas uel habens modum <seg>uel</seg> intensionem
+      <seg>debet</seg> <seg>esse</seg> principium <seg>exemplare:</seg> Immo potius quantitas uel habens modum
+    quantitatis.
+  </p>
+        <p xml:id="da-236-ed1e4763-d1e4801">Ad hoc dicendum est quod sola quantitas uel habens modum
+    <seg>uel</seg> intensionem
     quantitatis est principium exemplare omnium et sumatur ibi quantitas pro <seg>eodem</seg> quod
     habet modum quantitatis. Res enim exemplares formaliter habent modum numerorum, quia agens per
     exemplar agit secundum mensuram. Mensure autem est res regulare sicut carpentator
       <seg>regulat</seg> omnes res secundum mensuram et quia quantitates regulant mensurando, ideo
-    ponuntur esse principia exemplaria et omnia quantum ad hoc habent modum quantitatis. </p>
-        <p xml:id="da-236-ed1e4763-d1e4814">Ad rationem in contrarium dicendum <seg>est</seg> quod prius est duobus modis: est enim prius
+    ponuntur esse principia exemplaria et omnia quantum ad hoc habent modum quantitatis.
+  </p>
+        <p xml:id="da-236-ed1e4763-d1e4814">Ad rationem in contrarium dicendum <seg>est</seg>
+    quod prius est duobus modis: est enim prius
     in uia existendi et hoc modo <seg>substantia</seg> est <seg>prior</seg> omnibus aliis. Secundo
     modo est prius in uia regulandi operationes et hoc modo quantitas discreta que est
       <seg>numerus</seg> prior est omnibus aliis, quia agens secundum cognitionem habet regulam
@@ -86,7 +92,8 @@
     existendi substantia sit prior et principium, non tamen secundum uiam regulandi, <seg>et</seg>
     quia secundum uiam regulandi in operationes debetur alicui quod sit principium exemplare, quia
     exemplar regulat operationes, ideo quantitas discreta que est numerus est principium exemplare
-    et non substantia.</p>
+    et non substantia.
+  </p>
       </div>
     </body>
   </text>

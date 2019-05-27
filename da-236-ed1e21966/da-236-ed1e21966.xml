@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -65,7 +65,7 @@
        <seg>illa</seg> in uegetabili, ergo differunt iste <seg>uirtutes</seg> uitales. </hi>
         </p>
         <p xml:id="da-236-ed1e21966-d1e21996">
-          <hi>Ad oppositum: ponit Aristoteles radicem et primum principium uite esse animam uegetabilem,
+          <hi>Ad oppositum: ponit <name>Aristoteles</name> radicem et primum principium uite esse animam uegetabilem,
       ergo omnis uirtus uitalis ad animam uegetabilem reducitur, ergo non differt illa que
       radicatur in anima uegetabili ab illa que in corde radicatur, quia illa etiam que in corde
       radicatur ad animam uegetabilem reducitur et non differt ab <seg>alia</seg>
@@ -87,7 +87,7 @@
       anima uegetabili et operatur sicut natura in nutriendo, augendo, generando. Alia est que
       mouet cor et arterias quam <seg>appellant</seg> uitalem uel spiritualem. Terciam enim
       apellant </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="95-v"/><cb ed="#V" n="b"/></hi>
           <hi> animalem uel sensibilem et una radicatur in anima uegetabili. Alie due in sensibili. Set
       tercia radicatur in ipsa propter cognitionem, scilicet sensibilis. </hi>
         </p>

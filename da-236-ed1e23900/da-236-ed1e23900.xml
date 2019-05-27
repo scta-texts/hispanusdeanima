@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -57,12 +57,12 @@
       <div xml:id="da-236-ed1e23900" >
         <head>Quaestio 6</head>
         <head type="question-title">
-    Utrum generatio sit ab anima secundum quamlibet 
+    Utrum generatio sit ab anima secundum quamlibet
     sui differentiam an ab anima uegetabili solum
    </head>
         <p xml:id="da-236-ed1e23900-d1e23908">
           <hi>[lec10 q6] Circa sextam questionem <seg>sic</seg> proceditur. </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="136-r"/><cb ed="#K" n="b"/></hi>
           <hi> Supposito quod generatio sit in rebus uiuentibus animatis ab anima, queritur utrum
       generatio sit ab anima secundum quamlibet sui differentiam <seg>an</seg> ab anima uegetabili
       solum. Quod autem generatio sit ab anima secundum quamlibet sui differentiam, sic
@@ -88,10 +88,10 @@
         </p>
         <p xml:id="da-236-ed1e23900-d1e23959">
           <hi>Tercia ratio hec est: sicut habetur in libro </hi>
-          <hi>De generatione</hi>
+          <title>De generatione</title>
           <hi>, peccant illi qui ponunt formas accidentales esse principium generationis et non
        <seg>formas</seg> substantiales, cum forme substantiales sint principia in generatione. Et
-      intelligimus in sermone Aristotelis quod forme substantiales agunt sicut principia primo
+      intelligimus in sermone <name>Aristotelis</name> quod forme substantiales agunt sicut principia primo
       mouentia. Forme uero accidentales sicut instrumenta et substantiales <seg>regulant</seg>
       accidentales, ergo cum <seg>anima</seg> sensibilis in bruto <seg>sit</seg> forma
        <seg>completiua</seg> et substantialis, anima uero uegetabilis in bruto sit dispositio ad
@@ -103,15 +103,15 @@
         </p>
         <p xml:id="da-236-ed1e23900-d1e23991">
           <hi>Ad oppositum: sicut habetur in libro </hi>
-          <hi>De anima</hi>
+          <title>De anima</title>
           <hi>, anima uegetabilis est principium uite in omni uiuente, et per ipsam inest cuilibet
       uiuenti generatio et augmentatio et nutri</hi>
           <hi>c</hi>
-          <hi>io. Ergo secundum Aristotelem ipsa sola est principium generationis. </hi>
+          <hi>io. Ergo secundum <name>Aristotelem</name> ipsa sola est principium generationis. </hi>
         </p>
         <p xml:id="da-236-ed1e23900-d1e24009">
-          <hi>Secunda ratio hec est: sicut ponit Auicenna, </hi>
-          <hi>|</hi>
+          <hi>Secunda ratio hec est: sicut ponit <name>Auicenna</name>, </hi>
+          <hi><pb ed="#K" n="136-v"/><cb ed="#K" n="a"/></hi>
           <hi> differentie anime habent distinctas operationes. Quibusdam enim debetur cognitio sicut
       intellectiue et sensibili et hee non operantur per se ad conseruationem corporis nec in se
       nec <seg>in</seg> simili. Alii enim debetur corporis <seg>conseruatio</seg> in se et in suo
@@ -129,7 +129,7 @@
       nutribili per suas operationes et uirtutes et que etiam ex superfluo nutrimento semen
        <seg>decindit</seg> et ex ipso format et membra eius extendit secundum lineares
       extensiones. Talis uero est sola anima uegetabilis et non alia differentia anime, sicut uult
-      Auicenna. Ergo sola anima uegetabilis est principium generationis in rebus
+      <name>Auicenna</name>. Ergo sola anima uegetabilis est principium generationis in rebus
        <seg>uiuentibus</seg> animatis et non aliqua alia differentia anime. Maior patet
        <seg>secundum</seg> quod illa differentia <seg>anime</seg> sit principium generationis que
       predictas exercet operationes, quia in hoc consistit tota generatio. </hi>
@@ -152,7 +152,7 @@
        <seg>coartet</seg> operationem alterius principii ut secundum eius <seg>exigentiam</seg>
       operetur in generatione. Et hoc modo anima sensibilis est principium generationis in bruto,
       quia secundum eius exigentiam operatur </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="97-v"/><cb ed="#V" n="b"/></hi>
           <hi> uegetabilis ad generationem bruti. Hoc etiam modo est anima intellectiua principium
       generationis in homine quia secundum eius <seg>exigentiam</seg>
             <seg>operantur</seg>
@@ -160,7 +160,7 @@
        <seg>et</seg> uegetabilis est magis accedens <seg>ad</seg> generationis operationem quam
       anima intellectiua, cum anima sensibilis sit radicem habens in corpore et non anima
       intellectiua, </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="136-v"/><cb ed="#K" n="b"/></hi>
           <hi> tamen operatur anima <seg>intellectiua</seg> ad generationem in homine sicut finis et
       regula et complementum. Omnes enim dispositiones operantur secundum exigentiam dispositionis
        <seg>ultime.</seg> Et hoc modo soluuntur rationes ultime ad utramque partem, quia quedam

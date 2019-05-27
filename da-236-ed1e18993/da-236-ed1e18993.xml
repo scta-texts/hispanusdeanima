@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -79,7 +79,7 @@
           </seg>
           <hi> Ad hoc dicendum <seg>est</seg> quod illud quod dat uitam est substantia et illud quod dat
       uitam complet illud cui dat uitam </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="126-r"/><cb ed="#K" n="a"/></hi>
           <hi> in esse specifico et ei exhibet operationes sue speciei conuenientes. Hoc autem non
       potest facere accidens set solum substantia, et propter hoc illud quod dat uitam est
       substantia et non accidens. </hi>
@@ -87,7 +87,7 @@
         <p xml:id="da-236-ed1e18993-d1e19047">
           <hi>Ad rationem in contrarium dicendum <seg>est</seg> quod aliquid est principium uite
       dupliciter: uno modo, sicut dans uitam, alio modo sicut dispositio </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="96-r"/><cb ed="#V" n="b"/></hi>
           <hi> ad uitam. Primo modo est anima principium uite. Principium autem uite sicut dispositio
       est dupliciter, quia uel est sicut illud quo influit uita toti corpori, et hoc modo calor
       est principium uite, et non est dans uitam, uel est sicut illud quod est dispositio a parte

@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -49,22 +49,37 @@
   <text>
       <body>
          <div>
-            
-            <head><supplied>Preambula, Problema 1, Quaestio 10 </supplied></head>
-            <p>Decimo queritur utrum de anima separata a corpore aliqua possit esse sciencia. Et ostenditur quod sic per talem rationem: cuiuslibet substantie spiritualis cui competunt operationes et proprietates preter inclinationem ad materiam possibile est esse sciencia. Set anima separata a corpore est huiusmodi, ergo de anima separata a corpore potest esse sciencia. Maior patet, quia sciencia habetur de spirituali substantia a parte suarum proprietatum et operationum. Minor patet, quia dicit <name>Aristoteles</name> in primo <title>De anima </title> quod anima habet passiones proprias et operationes per quas possit a corpore separari.</p>
-               <p>Ad oppositum est talis, substantie separate non cadunt in cognitionem nisi per operationes et motus quos exercent in corporibus naturalibus. Set anima separata non dirigit motus nec operationes supra corpora naturalia, ergo anima separata non cadit in cognitionem. De nullo autem tali est sciencia, ergo de anima separata non potest esse sciencia. Maior patet quia <name>Aristoteles</name>  non determinat de substantiis separatis nec naturam ipsarum nisi per numerum motuum et mobilium.</p> 
-                  <p>Solutio. Ad hoc dicendum est quod anima separata cadit in scienciam et cognitionem. </p> 
-            <p>Ad rationem in contrarium dicendum est quod sciencia respicit duo, scilicet naturam rerum, et respicit indigentiam inquisitionis nostre. A parte autem nature rerum potest esse sciencia de anima separata. A parte autem inquisitionis nostre supra res cadit anima separata in cognitionem nostram multis modis: uno modo considerando ordinem rerum corporalium et spiritualium. Considerando enim ordinem rerum corporalium et spiritualium consideramus nos ipsam animam in sciencia tanquam rem spiritualem. Secundo modo cadit in cognitionem nostram a parte inquisitionis nostre considerando operationes eius, quas primo in corpore acquisiuit, et modum. Per hoc enim quod ipsa existens in <cb ed="#K" n="47vb"/> corpore prius non erat alicuius partis corporis actus, per hoc cognoscimus ipsam esse recte separabilem. Tercio modo per ymaginationem aliarum rerum sensibilium, unde sicut per ymaginationem rerum inferiorum cognoscimus substantias separatas ita per ymaginationem rerum sensibilium cognoscimus substantiam spiritualem que est anima. </p> 
-            
-               
-               
-         
-               
 
-            
+            <head><supplied>Preambula, Problema 1, Quaestio 10 </supplied></head>
+            <p>
+              Decimo queritur utrum de anima separata a corpore aliqua possit esse scientia. Et ostenditur quod sic per talem rationem:
+              cuiuslibet substantie spiritualis cui competunt operationes et proprietates preter inclinationem ad materiam possibile est esse scientia.
+              Set anima separata a corpore est huiusmodi, ergo de anima separata a corpore potest esse scientia.
+              Maior patet, quia scientia habetur de spirituali substantia a parte suarum proprietatum et operationum. Minor patet, quia dicit <name>Aristoteles</name> in primo <title>De anima</title>
+              quod anima habet passiones proprias et operationes per quas possit a corpore separari.
+            </p>
+               <p>
+                 Ad oppositum est talis, substantie separate non cadunt in cognitionem nisi per operationes et motus quos exercent in corporibus naturalibus.
+              Set anima separata non dirigit motus nec operationes supra corpora naturalia, ergo anima separata non cadit in cognitionem.
+              De nullo autem tali est scientia, ergo de anima separata non potest esse scientia. Maior patet quia <name>Aristoteles</name> non determinat de substantiis separatis
+              nec naturam ipsarum nisi per numerum motuum et mobilium.
+            </p>
+                  <p>Solutio. Ad hoc dicendum est quod anima separata cadit in scienciam et cognitionem.
+                  </p>
+            <p>
+             Ad rationem in contrarium dicendum est quod scientia respicit duo, scilicet naturam rerum, et respicit indigentiam inquisitionis nostre.
+             A parte autem nature rerum potest esse scientia de anima separata. A parte autem inquisitionis nostre supra res cadit anima separata in cognitionem nostram multis modis:
+             uno modo considerando ordinem rerum corporalium et spiritualium. Considerando enim ordinem rerum corporalium et spiritualium consideramus nos ipsam animam in scientia tanquam rem spiritualem.
+             Secundo modo cadit in cognitionem nostram a parte inquisitionis nostre considerando operationes eius, quas primo in corpore acquisiuit, et modum.
+             Per hoc enim quod ipsa existens in
+             <pb ed="#K" n="47-v"/>
+             <cb ed="#K" n="b"/>corpore prius non erat alicuius partis corporis actus, per hoc cognoscimus ipsam esse recte separabilem.
+             Tercio modo per ymaginationem aliarum rerum sensibilium, unde sicut per ymaginationem rerum inferiorum cognoscimus substantias separatas ita per ymaginationem rerum sensibilium
+             cognoscimus substantiam spiritualem que est anima.
+            </p>
          </div>
       </body>
   </text>
-  
- 
+
+
 </TEI>

@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -65,7 +65,7 @@
       respectu corpori, ergo anima intellectiua perficit ipsum corpus secundum
        <seg>quamlibet</seg> sui <seg>partem.</seg>
           </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="123-v"/><cb ed="#K" n="a"/></hi>
           <hi> Set anima est huiusmodi respectu corporis, ergo anima intellectiua perficit ipsum corpus
       secundum quamlibet sui <seg>partem</seg> et ita saltim secundum se totam erit
        <seg>alicuius</seg> corporis actus. </hi>
@@ -81,9 +81,9 @@
       potencia anime, que est principium artis. Set manus et consimile membrum si
        <seg>aliquid</seg> sit tale deputatum <seg>est</seg> ad artificialia, ergo mouetur a
       potencia anime, que est principium artis. Set talis est potencia intellectiua, ergo
-       <seg>huius</seg> membrum mouetur a potencia intellectiua, quia dicit Aristoteles in </hi>
+       <seg>huius</seg> membrum mouetur a potencia intellectiua, quia dicit <name>Aristoteles</name> in </hi>
           <seg>
-            <hi>Metaphisica</hi>
+            <title>Metaphisica</title>
           </seg>
           <hi/>
           <hi> quod idem est ars et uoluntas, et si uerum est ista duo <seg>esse</seg> in homine in
@@ -95,10 +95,9 @@
       non operante. Anima sensibili mouet organa procedendi, set <seg>uirtus</seg> siue potencia
       intellectiua sic se habet, ergo per se non operante anima sensibili mouet organa
        <seg>procedendi.</seg> Maior patet per <seg>se,</seg> minor patet in multis, quia,
-      secundum Aristotelem, multociens <seg>sensus</seg> contradicit intellectui, sicut habetur in
+      secundum <name>Aristotelem</name>, multociens <seg>sensus</seg> contradicit intellectui, sicut habetur in
       tercio </hi>
-          <hi>De <seg>anima</seg>
-          </hi>
+          <title>De anima</title>
           <hi>. Et anima intellectiua ab appetibili extra mouetur ad quod consequendum dirigit corpus.
       Set anima intellectiua est actus eius quod mouet, ergo anima intellectiua est actus partium
       corporis. </hi>
@@ -109,11 +108,10 @@
       apprehensiua. Set anima intellectiua non ita se habet, ergo anima intellectiua non est
       alicuius partis corporis actus. Maior patet in uisu et in aliis sensibus que secundum
       naturam <seg>organi</seg> ad obiecta <seg>propria</seg>
-            <seg>determinantur</seg> propter proportionem organi ad obiecta, quia secundum Aristotelem
+            <seg>determinantur</seg> propter proportionem organi ad obiecta, quia secundum <name>Aristotelem</name>
       eadem est natura medii organi et obiecti. Minor patet in tercio </hi>
-          <hi>De <seg>anima</seg>
-          </hi>
-          <hi>, ut dicit Aristoteles quod anima intellectiua quodam modo est <seg>omnia,</seg> et hoc
+          <title>De anima</title>
+          <hi>, ut dicit <name>Aristoteles</name> quod anima intellectiua quodam modo est <seg>omnia,</seg> et hoc
       per cognitionem. </hi>
         </p>
         <p xml:id="da-236-ed1e17756-d1e17895">
@@ -121,7 +119,7 @@
             <hi>Solutio.</hi>
           </seg>
           <hi> Ad hoc </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="91-r"/><cb ed="#V" n="a"/></hi>
           <hi> dicendum <seg>est</seg> quod anima intellectiua sicut distinctum est superius non est
       actus alicuius partis <seg>corporis.</seg> Vnde dicendum <seg>est</seg> quod anima
       rationalis ita est perfectio totius quod non partis, cum nullo modo habeat contractionem a
@@ -138,7 +136,7 @@
        <seg>que</seg> non se habet ad corpus ut partes corporis nisi secundum uegetabilem et
       sensibilem que secundum eius imperium mouetur et corpus et partes corporis mouent et hoc
       planum </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="123-v"/><cb ed="#K" n="b"/></hi>
           <hi> est, supposito quod <seg>iste</seg> tres sint una substantia in homine et tunc secundum
       predictas potencias perficit corporis <seg>partes.</seg>
           </hi>

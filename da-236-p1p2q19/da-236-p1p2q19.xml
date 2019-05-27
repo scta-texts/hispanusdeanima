@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,11 +50,28 @@
         <body>
             <div>
                 <head>Preambula, Problema 2, Quaestio 19</head>
-                <p>Nonadecima questio est propter quid in eodem tractatu huius sciencie, sicut in secundo libro, determinatur de anima uegetabili et sensibili; in alia parte huius sciencie determinatur de intellectiua, sicut in tercio libro. Et uidetur oppositum: quia magis communicant operationes uirtutis cognitiue cum operationibus uirtutis cognitiue quam cum operationibus uirtutis non cognitiue. Set anima intellectiua et sensitiua sunt cognoscitiue, uegetabilis autem non est cognoscitiua, ergo plus communicant operationes intellectiue et sensitiue quam operationes sensitiue et uegetabiles, set propter communicantiam est idemptitas in scienciis et in tractatibus, ergo magis debet determinare in eodem tractatu de operationibus sensitiue et intellectiue quam de operationibus sensitiue et uegetabilis.</p>
-                <p>Secunda ratio hec est, sicut se habent corpora inuicem ita se habent inuicem anime que sunt perfectione illorum corporum. Set in eodem libro determinatur de corpore perfecto anima sensibili et intellectiua, et non de corpore uegetabili cum illis, ergo similiter in eadem parte sciencie debet determinari de anima intellectiua et sensibili et non de uegetabili et sensibili simul.</p>
-                <p>Solutio. Dicendum est quod anima uegetabilis et sensibilis in eodem tractatu huius sciencie debent determinari, scilicet in secundo, quia communicant in hoc quod sunt alicuius partis corporis actus, et ita sunt uirtutes corporales, et propter hanc communicantiam determinantur in eodem tractatu. Intellectiua autem est magis spiritualis, nec est alicuius partis corporis actus, unde per oppositum se habet cum illis quantum ad istam naturam, et ideo non cadit cum sensitiua in eadem parte sciencie.</p>
-                <p>Ad primam rationem in contrarium dicendum est quod non ordinantur hic differentie anime secundum processum illius rationis, set secundum predictam causam, et ideo non cogit ratio illa. </p>
-                <p>Ad secundam patet solutio per predictam, quia aliam habent comparationem corpora ad inuicem et differentie anime, et ideo non ualet ratio illa set supponit falsum.</p>
+                <p>
+                  Nonadecima questio est propter quid in eodem tractatu huius scientie, sicut in secundo libro, determinatur de anima uegetabili et sensibili;
+                 in alia parte huius scientie determinatur de intellectiua, sicut in tercio libro. Et uidetur oppositum:
+                 quia magis communicant operationes uirtutis cognitiue cum operationibus uirtutis cognitiue quam cum operationibus uirtutis non cognitiue.
+                 Set anima intellectiua et sensitiua sunt cognoscitiue, uegetabilis autem non est cognoscitiua, ergo plus communicant operationes intellectiue et sensitiue quam operationes sensitiue et uegetabiles.
+                Set propter communicantiam est idemptitas in scientiis et in tractatibus, ergo magis debet determinare in eodem tractatu de operationibus
+               sensitiue et intellectiue quam de operationibus sensitiue et uegetabilis.
+             </p>
+                <p>
+                Secunda ratio hec est, sicut se habent corpora inuicem ita se habent inuicem anime, que sunt perfectione illorum corporum.
+                Set in eodem libro determinatur de corpore perfecto anima sensibili et intellectiua, et non de corpore uegetabili cum illis,
+               ergo similiter in eadem parte scientie debet determinari de anima intellectiua et sensibili et non de uegetabili et sensibili simul.
+             </p>
+                <p>
+                  Solutio. Dicendum est quod anima uegetabilis et sensibilis in eodem tractatu huius sciencie debent determinari,
+                 scilicet in secundo, quia communicant in hoc quod sunt alicuius partis corporis actus, et ita sunt uirtutes corporales, et propter hanc communicantiam determinantur in eodem tractatu.
+                 Intellectiua autem est magis spiritualis, nec est alicuius partis corporis actus, unde per oppositum se habet cum illis, quantum ad istam naturam, et ideo non cadit cum sensitiua in eadem parte scientie.
+               </p>
+                <p>Ad primam rationem in contrarium dicendum est quod non ordinantur hic differentie anime secundum processum illius rationis set secundum predictam causam, et ideo non cogit ratio illa.
+                </p>
+                <p>Ad secundam patet solutio per predictam, quia aliam habent comparationem corpora ad inuicem et differentie anime, et ideo non ualet ratio illa set supponit falsum.
+                </p>
             </div>
         </body>
     </text>

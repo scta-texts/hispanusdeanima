@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -49,15 +49,28 @@
   <text>
       <body>
          <div>
-            
+
             <head>Preambula, Problema 1, Quaestio 7</head>
-            <p>Septimo queritur propter quid ita est in uirtute intellectiua quod eadem uirtus intellectiua cognoscit se ipsam, in uirtute autem sensitiua non est ita quod se ipsa possit cognosci set per aliam sibi superiorem, sicut sensus particulares et operationes eorum cognoscuntur per sensum communem, qui est uirtus illis superior.</p> 
-            <p>Ad istas duas questiones dicendum est, et primo ad primam. Dicit enim <name>Auicenna</name> quod quedam uirtus non alligatur organo et sibi presens est, et non est medium inter ipsam et se ipsam, nec obumbratur aliqua caligine. Et quia intellectiua talis est <cb ed="#K" n="47rb"/>, ideo cognoscit se ipsam per se ipsam. Virtus autem sensibilis obumbratur umbra organi, et non est ita sibi presens nec sibi lucet, quia inter ipsam et se est organum medium, unde non est sibi unita nec presens nec sibi lucens. Et propter hoc anima sensibilis se ipsam per se non potest cognoscere nec apprehendere, nec potest reflecti supra se nec supra se suum actum, et propter hoc soluitur ratio in contrarium.</p>
-                 <p>Et per hoc patet solutio ad septimum. Sensus enim obfuscatus est organo, et propter hoc suam operationem non cognoscit set alia uirtus interior abstractior est et potencior, scilicet, sensus communis, qui est superior ad sensus particulares. Sic autem non est de anima intellectiua, quia sic non est obumbrata, et propter hoc ipsa se et suum actum potest apprehendere.</p> 
- 
+            <p>
+            Septimo queritur propter quid ita est in uirtute intellectiua quod eadem uirtus intellectiua cognoscit se ipsam,
+            in uirtute autem sensitiua non est ita quod se ipsa possit cognosci set per aliam sibi superiorem, sicut sensus particulares et operationes eorum cognoscuntur per sensum communem,
+            qui est uirtus illis superior.
+          </p>
+            <p>Ad istas duas questiones dicendum est, et primo ad primam.
+            Dicit enim <name>Auicenna</name> quod quedam uirtus non alligatur organo et sibi presens est, et non est medium inter ipsam et se ipsam, nec obumbratur aliqua caligine.
+            Et quia intellectiua talis est,
+            <pb ed="#K" n="47-r"/>
+            <cb ed="#K" n="b"/>ideo cognoscit se ipsam per se ipsam.
+            Virtus autem sensibilis obumbratur umbra organi, et non est ita sibi presens nec sibi lucet,
+            quia inter ipsam et se est organum medium, unde non est sibi unita nec presens nec sibi lucens.
+            Et propter hoc anima sensibilis se ipsam per se non potest cognoscere nec apprehendere, nec potest reflecti supra se nec supra se suum actum, et propter hoc soluitur ratio in contrarium.</p>
+           <p>
+            Et per hoc patet solutio ad septimum. Sensus enim obfuscatus est organo, et propter hoc suam operationem non cognoscit set alia uirtus interior abstractior est et potencior,
+          scilicet, sensus communis, qui est superior ad sensus particulares. Sic autem non est de anima intellectiua, quia sic non est obumbrata, et propter hoc ipsa se et suum actum potest apprehendere.</p>
+
          </div>
       </body>
   </text>
-  
- 
+
+
 </TEI>

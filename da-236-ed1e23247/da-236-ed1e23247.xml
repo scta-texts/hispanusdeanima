@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -69,7 +69,7 @@
       confirmatur <seg>sic:</seg> differentie enim secundum rationem fundantur in principiis
       nature, <seg>ergo</seg> cum hec differentia animatum sit communis omnibus uiuentibus,
       necesse </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="135-r"/><cb ed="#K" n="a"/></hi>
           <hi> est quod illud quod est radix illius sit principium commune omnibus. Hoc autem est anima
       uegetabilis, ergo anima uegetabilis est communis omnibus uiuentibus, ergo cum ipsa ubicumque
       est sit <seg>principium</seg> uite manifestum est quod ipsa est principium uite in omnibus
@@ -105,7 +105,7 @@
           <hi> Ad hoc dicendum <seg>est</seg> quod anima uegetabilis est commune principium et
       uniuersale uite in omnibus uiuentibus. In illa enim primo radicatur uita uniuersaliter per
       quam perficitur corpus in genere uiuentium et per cuius operationes conseruatur in se et in
-      suo simili, et concedente sunt rationes, et hoc patet per uerbum Arisotelis dicentis quod
+      suo simili, et concedente sunt rationes, et hoc patet per uerbum <name>Aristotelis</name> dicentis quod
       per ipsam primo inest <seg>uiuere</seg> omnibus uiuentibus. </hi>
         </p>
         <p xml:id="da-236-ed1e23247-d1e23349">
@@ -122,10 +122,10 @@
       communicant omnia uiuentia, et hec uita non est <seg>communis</seg> per predicationem set
       quia radicatur in quodam principio communi omni uiuenti, ideo necesse est eam esse in omni
       uiuente, et huiusmodi est </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="135-r"/><cb ed="#K" n="b"/></hi>
           <hi> principium anime uegetabilis et non aliarum. Per hoc autem soluitur ad primam
        <seg>rationem</seg> in contrarium. </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="97-r"/><cb ed="#V" n="a"/></hi>
           <hi> Ad <seg>secundam</seg>
             <seg>autem</seg> quia procedit de uita propria et de esse proprio cuiuslibet
       uiuentibus.</hi>

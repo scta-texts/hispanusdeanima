@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -50,8 +50,15 @@
         <body>
         	<div>
                 <head>Preambula, Problema 2, Quaestio 6</head>
-                <p>Sexta questio est quomodo differenter determinetur de colore in libro <title>De anima</title>  et in libro <title> De sensu et sensato</title> et in Medicina.</p>
-                <p>Solutio. Dicendum est quod color tripliciter consideratur: uno modo a parte sue prime generationis secundum quod resultat ex natura perspicui et quattuor qualitatibus, et sic determinatur de colore in libro De sensu et sensato. Secundo modo consideratur color prout est obiectum uisus immutans uisum, et sic determinatur de colore in sciencia <title>De anima</title>. Tercio modo consideratur color secundum quod est signum attestans complexionem humane uel bene uel male disposite, et sic consideratur color ab ipso medico, scilicet secundum quod est signum bone uel male dispositonis in complexione humana.</p> 
+                <p>
+                  Sexta questio est quomodo differenter determinetur de colore in libro <title>De anima</title> et in libro <title> De sensu et sensato</title> et in Medicina.</p>
+                <p>
+                  Solutio. Dicendum est quod color tripliciter consideratur: uno modo a parte sue prime generationis secundum quod resultat ex natura perspicui et quattuor qualitatibus,
+                 et sic determinatur de colore in libro <title>De sensu et sensato</title>.
+                 Secundo modo consideratur color prout est obiectum uisus immutans uisum, et sic determinatur de colore in scientia <title>De anima</title>.
+                 Tercio modo consideratur color secundum quod est signum attestans complexionem humane uel bene uel male disposite, et sic consideratur color ab ipso medico,
+                 scilicet secundum quod est signum bone uel male dispositonis in complexione humana.
+               </p>
             </div>
         </body>
     </text>

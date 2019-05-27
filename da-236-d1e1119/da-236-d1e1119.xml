@@ -59,10 +59,11 @@
         <head>Quaestio 3</head>
         <head type="question-title">Utrum anima uegetabilis et sensibilis sint forme tantum uel
           forme et hoc aliquid composite ex quo est et quod est</head>
-        <p xml:id="da-236-d1e1119-d1e1124">[lec3 q3] <pb ed="#V" n="59-v"/> <cb ed="#V" n="a"/>|
-         Circa terciam questionem sic proceditur et
-          queritur utrum anima uegetabilis et sensibilis sint forme tantum uel forme et hoc aliquid
-          composite ex quo est et quod est.</p>
+        <p xml:id="da-236-d1e1119-d1e1124">[lec3 q3]
+          <pb ed="#V" n="59-v"/>
+          <cb ed="#V" n="a"/>Circa terciam questionem sic proceditur et queritur utrum anima uegetabilis et sensibilis
+           sint forme tantum uel forme et hoc aliquid composite ex quo est et quod est.
+         </p>
         <!-- inconsistent paragraph break -->
         <p xml:id="da-236-d1e1119-d1e1127">Ostenditur autem quod sint forme et substantie per duas
           rationes, quarum prima talis est: forma que est forma tantum nichil habet preter illud
@@ -71,23 +72,27 @@
           materia mouet aliam materiam respectu cuius cum sua materia est hoc aliquid. Ergo necesse
           est quod forma que mouet sufficienter sit forma hoc aliquid uel substantia. Set anima est
           huiusmodi secundum omnem sui differentiam, ergo anima uegetabilis et sensibilis sunt forme
-          et substantie.</p>
+          et substantie.
+        </p>
         <p xml:id="da-236-d1e1119-d1e1130">Secunda ratio talis est: omnis forma uel substantia in
           qua est distinctio potentiarum actiuarum et passiuarum est hoc aliquid, quia soli illi
           quod est substantia et hoc aliquid competit distinctio. Set anima uegetabilis et
           sensibilis habent potentias actiuas et passiuas distinctas, ergo sunt forme et substantie
-          que sunt hoc aliquid.</p>
+          que sunt hoc aliquid.
+        </p>
         <p xml:id="da-236-d1e1119-d1e1133">Ad oppositum due sunt rationes, prima talis est: omnis
           substantia que est hoc aliquid habet principia sufficientia in suo genere. Set anima
           uegetabilis et sensibilis non habent principia sufficientia in suo genere per que stent,
-          quia sic haberent proprias <pb ed="#K" n="67-v"/> <cb ed="#K" n="a"/> |
-           operationes, et sic essent separabiles, ergo non sunt
-          substantie hoc aliquid. </p>
+          quia sic haberent proprias
+          <pb ed="#K" n="67-v"/>
+          <cb ed="#K" n="a"/>operationes, et sic essent separabiles, ergo non sunt substantie hoc aliquid.
+         </p>
         <p xml:id="da-236-d1e1119-d1e1137">Secunda ratio hec est: ex corpore et anima fit unum,
           sicut ex cera et figura. Set unio cere cum figura est uera unio compositionis que est ex
           materia et forma. Ergo ex anima et corpore resultat compositio ex materia et forma, set
           nichil ex quo cum altero resultat compositum sicut cum materia uel forma est hoc aliquid,
-          ergo anima nullo modo est substantia que sit hoc aliquid.</p>
+          ergo anima nullo modo est substantia que sit hoc aliquid.
+        </p>
         <p xml:id="da-236-d1e1119-d1e1140">Solutio. Ad hoc dicendum est quod quidam posuerunt quod
           anima uegetabilis et sensibilis sint forme tantum et non forme et substantie que sint hoc
           aliquid. Posuerunt autem animam intellectiuam esse formam et substantiam que est hoc
@@ -101,14 +106,16 @@
           aliquid, id est, singulare. Tercio modo dicitur hoc aliquid res que per quam essentiam
           complete mouet et operatur et est completa licet non componatur, et sic anima uegetalis et
           sensibilis est hoc aliquid tamen sicut in aliis spiritualibus differt quo est et quod est,
-          ita et in istis. </p>
+          ita et in istis.
+        </p>
         <p xml:id="da-236-d1e1119-d1e1143">Ad rationes in contrarium respondendum est, et primo ad
           primam, quia substantia completa est duobus modis: uno modo est substantia completa cuius
           principium dependet a materia corporali et que habet radicem in materia corporali et
           coartatur secundum exigentiam partis materie corporalis, et sic talis non est separabilis
           et tales sunt anima uegetabilis et sensibilis. Alia est que non habet radicem in materia
           nec sua principia, set solum dependet ab eo quantum ad exitum et quantum ad quasdam
-          operationes et talis est separabilis et talis est anima intellectiua. </p>
+          operationes et talis est separabilis et talis est anima intellectiua.
+         </p>
         <p xml:id="da-236-d1e1119-d1e1146">Ad secundam rationem dicendum est quod unio anime cum
           corpore est tribus modis: una est sicut materie cum forma, et secundum hanc comparatur
           anima ad corpus sicut cera ad figuram et e conuerso, et de hac loquitur <name>Aristoteles</name>, et
@@ -117,7 +124,8 @@
           qua distat per essentiam et ab hac habet anima quod sit hoc aliquid. Tercia est sicut
           motoris cum mobili et ab hac habet anima similiter, quod sit completa et hoc aliquid, quia
           secundum hanc distat a corpore per substantiam et sic anima uegetabilis et sensibilis est
-          forma et hoc aliquid. </p>
+          forma et hoc aliquid.
+        </p>
       </div>
     </body>
   </text>

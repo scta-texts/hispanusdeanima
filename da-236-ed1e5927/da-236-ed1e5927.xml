@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -58,39 +58,46 @@
         <head>Quaestio 3</head>
         <head type="question-title">Utrum adamas per
     uirtutem anime attrahat ferrum</head>
-        <p xml:id="da-236-ed1e5927-d1e5935">[lec 13 q3] Circa terciam questionem sic proceditur et queritur utrum adamas <hi>|</hi> per
-    uirtutem anime attrahat ferrum et ostenditur quod sic: omnis motus qui fit secundum electionem
+        <p xml:id="da-236-ed1e5927-d1e5935">[lec 13 q3] Circa terciam questionem sic proceditur et queritur utrum adamas
+          <pb ed="#K" n="93-r"/>
+          <cb ed="#K" n="a"/>per uirtutem anime attrahat ferrum et ostenditur quod sic: omnis motus qui fit secundum electionem
     alicuius elementi inter diuersa est a uirtute cognoscitiua cuius est res eligere. Set
     attractio secundum quam adamas attrahit ferrum est huiusmodi, quia secundum electionem
     attrahit ferrum. Vnde posito ferro cum auro <seg>attrahet</seg> ferrum eligendo partes ferri,
     ergo attractio huiusmodi est per uirtutem anime, ergo adamas per uirtutem anime attrahit
-    ferrum. </p>
-        <p xml:id="da-236-ed1e5927-d1e5944">Secunda ratio hec est: sicut dicit <seg>Auicenna,</seg> omnis motus qui fit secundum omnem
+    ferrum.
+  </p>
+        <p xml:id="da-236-ed1e5927-d1e5944">Secunda ratio hec est: sicut dicit <name>Auicenna,</name> omnis motus qui fit secundum omnem
     partem est ab anima. Set adamas attrahit ferrum et mouet secundum diuersas partes et secundum
     oppositos situs, ergo motus ille est ab anima, ergo per uirtutem anime est hoc quod adamas
-    attrahat ferrum. </p>
+    attrahat ferrum.
+   </p>
         <p xml:id="da-236-ed1e5927-d1e5950">Ad oppositum: uirtus anime solum est in corpore organico quod est alterius nature in partibus
     et in toto. Set adamas non est alterius nature in partibus et in toto set eiusdem. Ergo in
-    adamante non est uirtus anime, ergo adamas per uirtutem anime non attrahit ferrum. </p>
+    adamante non est uirtus anime, ergo adamas per uirtutem anime non attrahit ferrum.
+  </p>
         <p xml:id="da-236-ed1e5927-d1e5954">Solutio: ad hoc dicendum est quod quidam philosophorum posuerunt adamantem trahere ferrum per
       <seg>uirtutes</seg>
           <seg>anime</seg> et causa huius fuit quia in adamante est uirtus sufficiens in attractione
     ferri et etiam uirtus electionis per quam ferrum inter omnia metalla eligit et quia uirtutis
       <seg>anime</seg> hoc facere. Ideo posuerunt quod attractio ista fiat per uirtutem anime.
     Dicendum autem est quod hec attractio non <seg>est</seg> per uirtutem anime set per uirtutem
-    nature, que postea declarabitur. </p>
+    nature, que postea declarabitur.
+  </p>
         <p xml:id="da-236-ed1e5927-d1e5969">Ad primam rationem in contrarium dicendum est quod electio est duplex: quedam est que est a
     uirtute cognoscitiua, alia est a uirtute nature per quam natura dat aspectum corpori ut
     uirtutem suam ad aliam rem dirigat. Prima electio est ab anima et a uirtute anime, secunda
     autem non. Set est a natura. Et quia hec secunda est in adamante, ideo dicendum est quod
-      a<hi>dd</hi>amas attrahit ferrum non per uirtutem anime set per uirtutem nature. </p>
+      adamas attrahit ferrum non per uirtutem anime set per uirtutem nature.
+    </p>
         <p xml:id="da-236-ed1e5927-d1e5975">Ad secundam rationem dicendum est quod motus ad opposita est duobus modis: uno modo est motus
     ad opposita propter ymaginationem diuersorum, et hoc modo motus est ab anima. Alio modo est
     motus ad opposita et diuersa propter existentiam corporis in diuersis sitibus ad quod attrahit
     aliud corpus supra quod uiuat, et hoc modo adamas ferrum attrahit ad diuersos situs. Si enim
     ponatur in dextra parte ferrum attrahit ad dextram; si enim ponatur adamas in sinistra parte
     attrahit ad sinistram partem. Hec autem attractio uel motus ad <seg>diuersas</seg> non est a
-    uirtute anime set a uirtute nature. </p>
+    uirtute anime set a uirtute nature.
+  </p>
       </div>
     </body>
   </text>

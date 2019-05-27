@@ -16,10 +16,10 @@
       </editionStmt>
       <publicationStmt>
         <authority>
-          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref> 
+          <ref target="http://petrushispanus.eu/project1">Project Petrus Hispanus Works</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
             <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -49,19 +49,39 @@
   <text>
       <body>
          <div>
-            
+
             <head>Preambula, Problema 1, Quaestio 11</head>
-            <p>Vndecima questio est de cuius sciencie consideratione sit anima separata. Et uidetur quod metaphysice, quia, sicut ponit <name>Aristoteles</name> , status rerum triplex est: quedam enim res coniuncte sunt motui et materie secundum esse et diffinitionem et de illis est sciencia naturalis. Alie autem coniuncte sunt motui et materie secundum esse non secundum definitionem,  et de illis sunt mathematice sciencie. Alie autem sunt res separate a motu et materia omnino, et secundum esse et secundum diffinitionem, et tales sunt de consideratione metaphisice. Set anima separata onmino priuata est motu et materia, et omnino accepta preter materiam, ergo anima separata erit de consideratione sciencie metaphysice.</p> 
-               <p>Secunda ratio hec est, anima dicitur separari per reductionem ad creatorem suum et per acceptionem status spiritualis. Ergo ad scienciam illam spectat, in qua est reductio rerum ad suum creatorem, et que sciencia considerat res in statu spiritualitatis. Hec autem est metaphysica, ergo anima separata est de consideratione sciencie metaphysice. Maior se patet et minor similiter per <name>Aristotelem</name>. </p>
-               <p>Ad oppositum hec est ratio, illius sciencie est considerare de anima separata, cuius est considerare meritum et demeritum eius post separationem et unionem cum creatore uel recessum et beatitudinem uel penam eius. Set consideratio istorum spectat ad theologiam uel moralem, ergo anima separata potius est de consideratione moralis sciencie uel theologie quam metaphysice.</p>
-            <p>Solutio. Dicendum est quod anima separata est de consideratione <cb ed="#V" n="54va"/> metaphysice, sicut ostendunt rationes ad hoc posite. Dicendum autem quod tripliciter contingit loqui de anima separada: primo modo a parte illa qua est ens et a parte sui status > et sui esse et sue uite separate; et sic est de consideratione metaphysice cuius est considerare substantias separatas et status earum in quantum sunt entes. Secundo modo contingit loqui de anima separata a parte illa qua fruitur beatitudine per uirtutes acquisitas in corpore et a parte modi acquirendi uirtutes in corpore, per quas anima adquirit beatitudinem. Et sic spectat sciencia de anima separata ad scienciam moralem et maxime ad scienciam de felicitate et maxime iterum ad illas que uocantur a <name>Macrobio</name> sciencie de puris animabus. Tercio modo contingit loqui de anima separata a parte illa qua unitur creatori et fruitur uisione sui creatoris, et habet ordinationem cum aliis substantiis spiritualibus respectu sui creatoris; et a parte gradus meriti et demeriti eius et a parte eleuationis maioris uel minoris quantum ad meritum uel demeritum cum aliis creaturis, et sic spectat consideratio de anima separata ad theologiam. 
-               
-          
+            <p>
+              Vndecima questio est de cuius scientie consideratione sit anima separata. Et uidetur quod metaphysice, quia, sicut ponit <name>Aristoteles</name>,
+            status rerum triplex est: quedam enim res coniuncte sunt motui et materie secundum esse et diffinitionem et de illis est scientia naturalis.
+            Alie autem coniuncte sunt motui et materie secundum esse non secundum definitionem, et de illis sunt mathematice scientie. Alie autem sunt res separate a motu et materia omnino,
+             et secundum esse et secundum diffinitionem, et tales sunt de consideratione metaphisice. Set anima separata onmino priuata est motu et materia, et omnino accepta preter materiam,
+           ergo anima separata erit de consideratione scientie metaphysice.
+         </p>
+            <p>
+              Secunda ratio hec est, anima dicitur separari per reductionem ad creatorem suum et per acceptionem status spiritualis. Ergo ad scientiam illam spectat,
+              in qua est reductio rerum ad suum creatorem, et que scientia considerat res in statu spiritualitatis.
+              Hec autem est metaphysica, ergo anima separata est de consideratione sciencie metaphysice. Maior se patet et minor similiter per <name>Aristotelem</name>.
+             </p>
+            <p>
+              Ad oppositum hec est ratio, illius scientie est considerare de anima separata, cuius est considerare meritum et demeritum eius post separationem et unionem cum creatore
+              uel recessum et beatitudinem uel penam eius. Set consideratio istorum spectat ad theologiam uel moralem, ergo anima separata potius est de consideratione moralis scientie
+              uel theologie quam metaphysice.
             </p>
-            
+            <p>
+              Solutio. Dicendum est quod anima separata est de consideratione
+              <pb ed="#V" n="54-v"/>
+              <cb ed="#V" n="a"/>metaphysice, sicut ostendunt rationes ad hoc posite.
+             Dicendum autem quod tripliciter contingit loqui de anima separada: primo modo a parte illa qua est ens et a parte sui status et sui esse et sue uite separate;
+            et sic est de consideratione metaphysice cuius est considerare substantias separatas et status earum in quantum sunt entes. Secundo modo contingit loqui de anima separata a parte illa qua
+            fruitur beatitudine per uirtutes acquisitas in corpore et a parte modi acquirendi uirtutes in corpore, per quas anima adquirit beatitudinem.
+           Et sic spectat scientia de anima separata ad scientiam moralem et maxime ad scientiam de felicitate et maxime iterum ad illas que uocantur a <name>Macrobio</name> scientie de puris animabus.
+           Tercio modo contingit loqui de anima separata a parte illa qua unitur creatori et fruitur uisione sui creatoris, et habet ordinationem cum aliis substantiis spiritualibus respectu sui creatoris;
+         et a parte gradus meriti et demeriti eius et a parte eleuationis maioris uel minoris quantum ad meritum uel demeritum cum aliis creaturis, et sic spectat consideratio de anima separata ad theologiam.
+            </p>
          </div>
       </body>
   </text>
-  
- 
+
+
 </TEI>

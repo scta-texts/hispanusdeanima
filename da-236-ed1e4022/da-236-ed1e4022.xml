@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -58,46 +58,51 @@
         <head>Quaestio 6</head>
         <head type="question-title">
     Utrum conformitas
-    anime quam habet cum speciebus rerum 
+    anime quam habet cum speciebus rerum
     uel principiorum rerum sit ei innata uel acquisita
    </head>
-        <p xml:id="da-236-ed1e4022-d1e4030">[lec 11 q6] Circa sextam <seg>questionem</seg> sic proceditur et queritur utrum conformitas
+        <p xml:id="da-236-ed1e4022-d1e4030">[lec 11 q6] Circa sextam <seg>questionem</seg>
+    sic proceditur et queritur utrum conformitas
     anime quam habet cum speciebus rerum uel principiorum rerum sit ei innata uel acquisita, et
-    ostenditur quod sit ei innata, quia, sicut dicit <seg>Algazel,</seg> quelibet substantia nata
+    ostenditur quod sit ei innata, quia, sicut dicit <name>Algazel</name>, quelibet substantia nata
     est ut ex ipsa <seg>eliciatur</seg> propria <seg>operatio.</seg> Ergo anima nata est ad hoc ut
     ex ipsa <seg>eliciatur</seg> propria operatio, set propria rei <seg>operatio</seg> innascitur
     cum re, ergo <seg>propria</seg> operatio anime innascitur cum anima. Hec autem est cognoscere,
     ergo cognitio innascitur cum anima et innata est anime. Set cognitio anime non est nisi per
     conformitatem eius cum speciebus et per representationem specierum, ergo conformitas anime cum
-    speciebus rerum est ei <seg>innata</seg> et non acquisita. </p>
-        <p xml:id="da-236-ed1e4022-d1e4058">Secunda ratio hec est: sicut dicit <seg>Algazel,</seg> quanto aliqua substantia est magis
-    spiritualis tanto sub pleniori luce cognoscit res <seg>et</seg> manifestius et sub maiori
-    delectatione. Ergo anima quanto magis <seg>erit</seg>
+    speciebus rerum est ei <seg>innata</seg> et non acquisita.
+  </p>
+        <p xml:id="da-236-ed1e4022-d1e4058">Secunda ratio hec est: sicut dicit <name>Algazel</name>,
+    quanto aliqua substantia est magis spiritualis tanto sub pleniori luce cognoscit res <seg>et</seg>
+    manifestius et sub maiori delectatione. Ergo anima quanto magis <seg>erit</seg>
           <seg>spiritualis</seg> tanto manifestius <seg>cognoscet</seg> res et sub pleniori luce.
-      <seg>Iterum,</seg> sicut dicitur in libro <hi>Fontis uite</hi>, forme colliguntur in
-    substantiis <seg>spiritualibus.</seg>
-          <seg>intellectus</seg> est substantia spiritualis, intellectus dico agens, ergo in ipso
+      <seg>Iterum,</seg> sicut dicitur in libro <title>Fontis uite</title>, forme colliguntur in
+    substantiis <seg>spiritualibus.</seg> <seg>Intellectus</seg> est substantia spiritualis, intellectus dico agens, ergo in ipso
     colliguntur forme et manifeste cognoscit res, ergo habet in se representationem specierum
     rerum aut ergo <seg>habet</seg> species rerum per impressionem et acquisitas <seg>in</seg>
           <seg>ipso</seg> aut innatas <seg>si</seg> acquistas et impressas, ergo intellectus agens est
     possibilis ad illas et <seg>iterum</seg> non semper <seg>est</seg> in suo actu, set
-      <seg>cognoscit</seg> per receptionem <seg>rerum,</seg> et quia non semper recipit, | ideo
-    non <seg>semper</seg> in suo actu. Hec autem sunt inconuenientia, ergo intellectus habet
-    conformitatem cum speciebus rerum innatam sibi et non acquisitam. </p>
-        <p xml:id="da-236-ed1e4022-d1e4118">Ad <seg>oppositum,</seg> sicut habetur in tercio <hi>De <seg>anima</seg>
-          </hi>, anima creata
-    est sicut tabula rasa in qua nichil actu scriptum est, ergo anima creata est sine speciebus
+      <seg>cognoscit</seg> per receptionem <seg>rerum,</seg> et quia non semper
+    recipit,
+    <pb ed="#K" n="88-r"/>
+    <cb ed="#K" n="a"/>ideo non <seg>semper</seg> in suo actu.
+    Hec autem sunt inconuenientia, ergo intellectus habet conformitatem cum speciebus rerum innatam sibi et non acquisitam.
+  </p>
+        <p xml:id="da-236-ed1e4022-d1e4118">Ad <seg>oppositum,</seg> sicut habetur in tercio <title>De anima</title>,
+    anima creata est sicut tabula rasa in qua nichil actu scriptum est, ergo anima creata est sine speciebus
     rerum et sine <seg>representatione,</seg> ergo representatio specierum rerum non est ei innata
     set acquisita postea et per <seg>eas</seg> habet conformitatem cum rebus, ergo conformitas
     anime cum rebus non est ei <seg>innata</seg> set <seg>acquisita.</seg>
         </p>
-        <p xml:id="da-236-ed1e4022-d1e4143">Secunda ratio hec est: si anima est cognoscitiua omnium principiorum a natiuitate, tunc non
+        <p xml:id="da-236-ed1e4022-d1e4143">Secunda ratio hec est: si anima est cognoscitiua
+    omnium principiorum a natiuitate, tunc non
     indigeret sensu propter acquisitionem cognitionis et scientie rerum et iterum haberemus
     nobilissimos habitus et nos laterent. Hec autem sunt inconuenientia, ergo cognitio
     principiorum rerum non est innata anime, ergo conformitas <seg>anima</seg> cum speciebus
     illorum non est innata anime se <seg>acquisita.</seg>
         </p>
-        <p xml:id="da-236-ed1e4022-d1e4152">Solutio. <seg>Dicimus</seg> quod anima habet conformitatem cum rebus sibi innata, non tamen
+        <p xml:id="da-236-ed1e4022-d1e4152">Solutio. <seg>Dicimus</seg> quod anima habet conformitatem
+    cum rebus sibi innata, non tamen
     completam nisi per representationem specierum que non est sibi innata. Habet enim anima
     potentias in se per quas nata est omnia inuestigare et quas per conformitatem quam habet cum
     omnibus ducit <seg>ad</seg> effectum. Habet enim potentiam <seg>qua</seg> est omnia facere et
@@ -108,8 +113,10 @@
     omnia facere, alia est potentia qua est omnia fieri, et ita conformitas anime cum rebus est ei
     innata. Completio autem illius <seg>est</seg> acquisita, scilicet per representationem, unde
     non posimus quod representatio specierum sit innata ipsi anime, quia tamen rationes inducte ad
-    primam partem ostendunt species rerum esse innatas ipsi anime.</p>
-        <p xml:id="da-236-ed1e4022-d1e4167">Propter hoc ad illas respondendum est, et <seg>primo</seg> ad primam rationem in contrarium
+    primam partem ostendunt species rerum esse innatas ipsi anime.
+  </p>
+        <p xml:id="da-236-ed1e4022-d1e4167">Propter hoc ad illas respondendum est, et <seg>primo</seg>
+    ad primam rationem in contrarium
     dicendum <seg>est</seg> quod anima habet propriam operationem que est intelligere. Set propria
     operatio substantie duplex est: quedam est que dependet, quedam autem non. Intelligere autem
     species rerum est propria <seg>operatio</seg> anime que dependet a rebus extra et ideo
@@ -118,10 +125,12 @@
     acquisita, conformitas tamen cum rebus non est acquisita set completio illius conformitatis,
     scilicet representatio <seg>rerum.</seg>
         </p>
-        <p xml:id="da-236-ed1e4022-d1e4181">Ad secundam rationem dicendum <seg>est</seg> quod quedam est substantia spiritualis que a
-    nullo dependet quantum ad cognitionem, nec recipit ab aliquo sicut intellectiua, et ista
-    quanto magis est spiritualis tanto plura in <seg>ipso</seg> | representantur et sine
-    dependentia ab altero. Est autem alia substantia spiritualis que in sui cognitione dependet ab
+        <p xml:id="da-236-ed1e4022-d1e4181">Ad secundam rationem dicendum <seg>est</seg> quod quedam est substantia
+    spiritualis que a nullo dependet quantum ad cognitionem, nec recipit ab aliquo sicut intellectiua, et ista
+    quanto magis est spiritualis tanto plura in <seg>ipso</seg>
+    <pb ed="#K" n="88-r"/>
+    <cb ed="#K" n="b"/>representantur et sine dependentia ab altero.
+    Est autem alia substantia spiritualis que in sui cognitione dependet ab
     aliquo cognoscente per receptionem sicut intellectus agens dependet ab intellectu possibili,
     qui <seg>cogit</seg> per receptionem. Vnde licet intellectus agens non <seg>cognoscit</seg>
           <seg>per</seg>
@@ -130,8 +139,8 @@
     irradiatione agentis supra species receptas <seg>in</seg> possibili resultat perfecta cognitio
     et completa, et ita intellectus agens non habet species rerum sibi innatas, set cognoscit
     illas per impressionem et receptionem in alio, sicut in intellectu possibili et ita per
-    acquisitionem <seg>et</seg>
-          <seg>representantur</seg> species rerum et non sunt ei innate. </p>
+    acquisitionem <seg>et</seg> <seg>representantur</seg> species rerum et non sunt ei innate.
+        </p>
       </div>
     </body>
   </text>

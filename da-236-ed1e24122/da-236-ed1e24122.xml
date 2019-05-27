@@ -22,7 +22,7 @@
           <ref target="http://ifilosofia.up.pt/meirinhos/petrushispanus/projeto_fct_2016_2019">Projeto FCT 2016-2019: Petrus Hispanus Project</ref>
         </authority>
         <availability status="free">
-          <p>Published under a 
+          <p>Published under a
            <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref>
           </p>
         </availability>
@@ -91,7 +91,6 @@
             <hi>at</hi>
           </seg>
           <hi/>
-          <hi> </hi>
           <hi>uero <seg>per</seg> quod unum principium est <seg>quodquid</seg>
             <seg>est</seg>
           </hi>
@@ -99,7 +98,7 @@
       causarum de anima uegetabili sunt intelligende in hac parte. Prime autem due partes remanent
       indiuise. Tercia autem <seg>pars</seg> diuiditur in duas, in quarum prima ostendit
        <seg>animam</seg> causam efficientem </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="137-r"/><cb ed="#K" n="a"/></hi>
           <hi> in corpore ratione motus localis in animalibus habentibus differentiam anime que est
       motiua secundum locum. In secunda, scilicet in hac, </hi>
           <hi>est autem alteratio et augmentum secundum <seg>animam</seg>
@@ -109,7 +108,7 @@
             <seg>indiuisa.</seg> Secunda <seg>autem</seg>
             <seg>pars</seg> diuiditur in duas, in quarum prima ostendit animam esse causam efficientem
       motus alterationis et augmenti et detrimenti. In secunda, scilicet in hac, </hi>
-          <hi>Empedocles autem non benedixit hec addens augmentum accidere plantis</hi>
+          <hi><name>Empedocles</name> autem non benedixit hec addens augmentum accidere plantis</hi>
           <hi> et cetera, improbat opinionem Empedoclis ponentis augmentum et detrimentum non esse ab
       anima set a natura elementorum.</hi>
         </p>
@@ -137,9 +136,9 @@
       causa hiis tribus modis respectu corporis. Est autem causa formalis sicut patet in eius
       diffinitione. Est causa efficiens quantum ad <seg>motum</seg> generationis et nutrimenti et
       augmenti et detrimenti, et est causa finalis quia sicut declaratum est </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="98-r"/><cb ed="#V" n="a"/></hi>
           <hi> in </hi>
-          <hi>Phisicis</hi>
+          <title>Phisicis</title>
           <hi>, materia est propter formam et necessitas <seg>materie</seg> est propter necessitatem
       forme et non propter aliud consequens. </hi>
         </p>
@@ -147,7 +146,7 @@
           <hi>Sentencia secunde partis in qua ostendit animam habere <seg>rationem</seg> cause formalis,
       consequenter ostendit animam habere rationem singulorum istorum modorum, et primo ostendit
       eam habere intensionem forme per duas rationes, et <seg>ratio</seg> prima </hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="137-r"/><cb ed="#K" n="b"/></hi>
           <hi> talis est: omnis causa que est principium esse rei est causa formalis ipsius. Set anima
       est principium esse rei, scilicet corporis animati, ergo est causa formalis corporis
       animati. Minor ostenditur sic: uiuere in uiuentibus est esse. Set anima est causa uite in
@@ -192,7 +191,7 @@
       rationem cause efficientis. Anima igitur est principium efficiens motus in corpore et
       secundum ueros motus et estimatiuos, et ostendit quod est principium motus localis. Hoc
       autem non est in omnibus uiuen</hi>
-          <hi>|</hi>
+          <hi><pb ed="#K" n="137-v"/><cb ed="#K" n="a"/></hi>
           <hi>tibus, quia <seg>non</seg> in plantis set solum in quibusdam <seg>animalibus</seg> in
       quibus est uirtus motiua secundum motum progressiuum.</hi>
         </p>
@@ -226,7 +225,7 @@
           <hi> Circa partem istam inquirendum est est operationibus anime in semine circa actum
       generationis. Nouem autem occurrunt questiones. Prima [lec11 q1] est utrum in semine deciso
       sit aliqua natura anime. Secunda [lec11 q2] <seg>est</seg> utrum </hi>
-          <hi>|</hi>
+          <hi><pb ed="#V" n="98-r"/><cb ed="#V" n="b"/></hi>
           <hi>
             <seg>illa</seg> natura sit anima an uirtus anime. Tercia [lec11 q3] est quo modo illa uirtus
       procedat cum semine utrum per decisionem an aliter. Quarta [lec11 q4] <seg>est</seg> utrum
