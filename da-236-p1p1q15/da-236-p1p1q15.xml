@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,18 +44,18 @@
   </teiHeader>
   <text>
       <body>
-         <div>
+        <div xml:id="da-236-p1p1q15">
 
-            <head>Preambula, Problema 1, Quaestio 15</head>
-            <p>
+            <head xml:id="da-236-p1p1q15-Hd1e87">Preambula, Problema 1, Quaestio 15</head>
+            <p xml:id="da-236-p1p1q15-d1e90">
               Quintadecima questio est propter quid hec forma, cum sit forma corporis, potius facit scientiam separatam quam aliqua alia forma. Obicitur enim sic: sicut se habet materia uniuersalis et forma
              uniuersalis ad scientiam ita se habet materia particularis et forma particularis ad scientiam. Set in eadem scientia determinatur de principiis nature, que sunt materia et forma,
              et non faciunt scientiam separatam, ergo similiter corpus et anima non faciunt scientiam separatam.
            Hoc autem falsum est, quia in libro <title>De animalibus</title> et <title>De uegetalibus</title> determinatur de corpore non referendo ipsum ad animam, sicut uisum est.
           </p>
-            <p>Ad oppositum, patet per hoc quod in libro <title>Vegetalium</title> et <title>Animalium</title> determinatur de corpore animato. Hic autem de anima et de operationibus eius.
+            <p xml:id="da-236-p1p1q15-d1e99">Ad oppositum, patet per hoc quod in libro <title>Vegetalium</title> et <title>Animalium</title> determinatur de corpore animato. Hic autem de anima et de operationibus eius.
           </p>
-             <p>
+             <p xml:id="da-236-p1p1q15-d1e108">
                Solutio. Dicendum est quod duplex est forma, scilicet forma que est forma tantum, et forma que est forma et substantia.
                Forma que est forma tantum non habet operationes nec passiones que ab ipsa egrediantur sine materia. Forma autem que est substantia habet operationes et pasiones preter materiam tamen in materia,
                et item materia sua habet alias dispositiones suarum partium a suis principiis causatis que faciunt scientiam separatam, quas non est necesse quod simul cadant cum scientia de forma sua.
@@ -67,7 +63,7 @@
                Non autem sic est de forma que est forma tantum, que est principium nature, et propter hoc talis forma non facit scientiam separatam a materia, set simul in eadem scientia determinatur,
                scilicet in scientia physicorum.
              </p>
-              <p>
+              <p xml:id="da-236-p1p1q15-d1e111">
                Et sic patet iustificatio eorum que queruntur de problemate principali et cetera.
             </p>
 

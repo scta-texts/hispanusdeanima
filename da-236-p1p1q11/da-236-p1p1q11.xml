@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,27 +44,27 @@
   </teiHeader>
   <text>
       <body>
-         <div>
+        <div xml:id="da-236-p1p1q11">
 
-            <head>Preambula, Problema 1, Quaestio 11</head>
-            <p>
+            <head xml:id="da-236-p1p1q11-Hd1e87">Preambula, Problema 1, Quaestio 11</head>
+            <p xml:id="da-236-p1p1q11-d1e90">
               Vndecima questio est de cuius scientie consideratione sit anima separata. Et uidetur quod metaphysice, quia, sicut ponit <name>Aristoteles</name>,
             status rerum triplex est: quedam enim res coniuncte sunt motui et materie secundum esse et diffinitionem et de illis est scientia naturalis.
             Alie autem coniuncte sunt motui et materie secundum esse non secundum definitionem, et de illis sunt mathematice scientie. Alie autem sunt res separate a motu et materia omnino,
              et secundum esse et secundum diffinitionem, et tales sunt de consideratione metaphisice. Set anima separata onmino priuata est motu et materia, et omnino accepta preter materiam,
            ergo anima separata erit de consideratione scientie metaphysice.
          </p>
-            <p>
+            <p xml:id="da-236-p1p1q11-d1e96">
               Secunda ratio hec est, anima dicitur separari per reductionem ad creatorem suum et per acceptionem status spiritualis. Ergo ad scientiam illam spectat,
               in qua est reductio rerum ad suum creatorem, et que scientia considerat res in statu spiritualitatis.
               Hec autem est metaphysica, ergo anima separata est de consideratione sciencie metaphysice. Maior se patet et minor similiter per <name>Aristotelem</name>.
              </p>
-            <p>
+            <p xml:id="da-236-p1p1q11-d1e102">
               Ad oppositum hec est ratio, illius scientie est considerare de anima separata, cuius est considerare meritum et demeritum eius post separationem et unionem cum creatore
               uel recessum et beatitudinem uel penam eius. Set consideratio istorum spectat ad theologiam uel moralem, ergo anima separata potius est de consideratione moralis scientie
               uel theologie quam metaphysice.
             </p>
-            <p>
+            <p xml:id="da-236-p1p1q11-d1e105">
               Solutio. Dicendum est quod anima separata est de consideratione
               <pb ed="#V" n="54-v"/>
               <cb ed="#V" n="a"/>metaphysice, sicut ostendunt rationes ad hoc posite.

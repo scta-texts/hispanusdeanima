@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -45,42 +41,42 @@
         </change>
       </listChange>
     </revisionDesc>
-  </teiHeader>>
+  </teiHeader>&gt;
   <text>
       <body>
-         <div>
+        <div xml:id="da-236-p1p1q9">
 
-            <head>Preambula, Problema 1, Quaestio 9</head>
-            <p>
+            <head xml:id="da-236-p1p1q9-Hd1e87">Preambula, Problema 1, Quaestio 9</head>
+            <p xml:id="da-236-p1p1q9-d1e90">
               Nono queritur utrum cognitio anime quam habet sui sit per presentiam aut per speciem.
                Et uidetur quod non sit per speciem, quia nichil est inmediatius anime quam ipsa.
               Ergo cum species non sit ei ita inmediata, uidetur quod cognitio anime quam habet sui sit per presentiam et non per speciem.
             </p>
-             <p>
+             <p xml:id="da-236-p1p1q9-d1e93">
                Secunda ratio hec est, in separatis a materia non differt quod intelligitur et quo intelligitur, ut habetur in tercio <title>De anima</title>.
             Set anima que habet hanc operationem est aliquo modo abstracta a materia, ergo se per sui presentiam cognoscit et non per speciem mediam.
           </p>
-           <p> Ad oppositum, uirtutis superioris est cognoscere substantiam et operationem uirtutis inferioris, sicut sensus communis cognoscit sensus particulares.
+           <p xml:id="da-236-p1p1q9-d1e99"> Ad oppositum, uirtutis superioris est cognoscere substantiam et operationem uirtutis inferioris, sicut sensus communis cognoscit sensus particulares.
             Set intellectus agens est superior respectu potencialis, ergo cum anima cognoscit se, intellectus agens cognoscit possibilem.
             Set res in uirtute superiori sunt modo magis spirituali quam inferiori, et sic res in uirtute superiori abstracte sunt.
             Ergo si superior uirtus, que est intellectus agens, cognoscit potencialem, cognoscet eum per abstractionem speciei,
              set unus non differt ab altero per essentiam, ergo anima cognoscit se ipsam per sui speciem et non per presentiam.
            </p>
-            <p>
+            <p xml:id="da-236-p1p1q9-d1e102">
               Secunda ratio hec est, possibile est animam memorare suam substantiam, set memoria est conseruatio
               <pb ed="#K" n="47-v"/>
               <cb ed="#K" n="a"/>intercisa, ergo possibile est quod cognitio quam habet de se transeat et postea rehabeatur.
                Set illud quod iam transactum est non idem numero uenit in memoria,
             ergo hec memoria erit per simile, ergo cognitio anime sui ipsius erit per simile, et non per se ipsam. Cognitio autem rei per simile erit per speciem, et non per presentiam.
           </p>
-               <p>Solutio. Dicendum est quod cognitio quam habet anima de se est per sui presentiam et non per speciem.
+               <p xml:id="da-236-p1p1q9-d1e110">Solutio. Dicendum est quod cognitio quam habet anima de se est per sui presentiam et non per speciem.
                </p>
-              <p>
+              <p xml:id="da-236-p1p1q9-d1e113">
                 Ad primam rationem in contrarium dicendum est quod intellectus agens cognoscit potencialem, set hec cognitio non est per receptionem,
               quia sic esset per speciem, set est per reflectionem et illuminationem.
               In sensibilibus autem uirtutibus est cognitio per receptionem, et ideo necesse est quod in illa fiat abstractio et quod fiat in illis cognitio per speciem, non autem in aliis.
             </p>
-              <p>
+              <p xml:id="da-236-p1p1q9-d1e116">
                 Ad secundam rationem dicendum est quod cognitio anime sui ipsius est duplex, una est per reflectionem sui ipsius supra se, et hec est cognitio per naturam.
               Alia autem est per reflectionem sui supra res supra quas se reflectendo reflectitur supra se; et in ista est cognitio a parte rerum supra se, et si hec deleatur,
               ipsa ratio semper stat sibi presens et eadem, et de hac procedit ratio a parte rerum. Prima autem cognitio similiter fit per presentiam solum, et de illa non procedit ratio predicta.

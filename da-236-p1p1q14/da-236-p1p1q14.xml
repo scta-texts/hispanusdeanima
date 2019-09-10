@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,34 +44,34 @@
   </teiHeader>
   <text>
       <body>
-         <div>
+        <div xml:id="da-236-p1p1q14">
 
-            <head>Preambula, Problema 1, Quaestio 14</head>
-            <p>
+            <head xml:id="da-236-p1p1q14-Hd1e87">Preambula, Problema 1, Quaestio 14</head>
+            <p xml:id="da-236-p1p1q14-d1e90">
               Quartadecima questio est utrum de anima secundum omnem sui differentiam determinatur in hac scientia.
                Et uidetur quod sic, quia omnis scientia que considerat operationes et obiecta cuiuslibet differentie anime determinat de omni differentia anime.
                Set hec scientia de anima est huiusmodi, ergo in hac scientia determinatur de anima secundum omnem sui differentiam. Maior per se patet, minor patet quia in secundo <title>De anima</title>
               a determinatur de operationibus, obiectis et uirtutibus anime uegetabilis et sensibilis. In tercio autem determinatur de operationibus obiectis et uirtutibus anime intellectiue.
             </p>
-            <p>
+            <p xml:id="da-236-p1p1q14-d1e96">
               Ad oppositum est hec ratio, primo omnis forma que est alicuius partis corporis actus in eadem scientia cum corpore debet determinari. Set alie differentie anime ab intellectiua sunt huiusmodi,
               ergo debent in alia scientia determinari cum corpore et non in eadem scientia cum intellectiua, cum per oppositum se habeant, quia intellectiua nullius partis corporis est actus,
               ergo in hac scientia non determinatur simul de omni differentia anime.
             </p>
-                  <p>Secunda ratio hec est, scientie de rebus animatis habent pro subiecto corpus animatum. Set in libro <title>De uegetalibus</title> determinatur de corpore animato perfecto anima uegetabili.
+                  <p xml:id="da-236-p1p1q14-d1e99">Secunda ratio hec est, scientie de rebus animatis habent pro subiecto corpus animatum. Set in libro <title>De uegetalibus</title> determinatur de corpore animato perfecto anima uegetabili.
               In libro autem <title>Animalium</title> determinatur de corpore animato perfecto anima sensibili. Ergo necesse est ponere aliam scientiam ab illis in qua determinatur de corpore animato
               perfecto anima intellectiua.
               <pb ed="#V" n="55-r"/>
               <cb ed="#V" n="a"/>Hec autem est ista scientia de anima, ergo in scientia de anima non determinatur de anima secundum omnem sui differentiam
               set solum de intellectiua.
             </p>
-            <p>
+            <p xml:id="da-236-p1p1q14-d1e112">
               Solutio. Dicendum est quod quidam posuerunt quod subiectum in hac scientia non nisi corpus animatum anima intellectiua, et posuerunt quod in libro <title>De uegetabilibus</title>
             determinatur de corpore animato anima uegetabili; in libro autem <title>De animalibus</title> de corpore animato anima sensibili; in hac autem scientia de corpore animato anima intellectiua.
             Et si in hac scientia determinetur de aliis differentiis anime, hoc est per accidens et prout sunt dispositiones ad intellectiuam, unde non principaliter determinatur hic de aliis set in aliis libris
             qui dicti sunt. Hic autem de intellectiua principaliter. Dicendum est autem quod hic determinatur de anima secundum omnem sui differentiam.
           </p>
-            <p>
+            <p xml:id="da-236-p1p1q14-d1e122">
             Ad primam autem rationem in contrarium dicendum est quod duplex est forma, quedam est que est forma tantum, quedam que est forma et substantia. Prima forma non habet operationes alias nisi quas habet
              in materia. Forma autem que est substantia habet alias operationes preter illas quas habet siue contrahit a materia, tamen illas in materia exercet et egrediuntur ab illa preter materiam.
              Forma uero prima nullam habet sine materia, unde habet illas et a materia et in materia. Forma autem illa que habet operationes omnes preter materiam ita quod non est a materia potest cadere in
@@ -83,7 +79,7 @@
              <pb ed="#K" n="48-v"/>
              <cb ed="#K" n="b"/>possunt cadere quam corpora quorum sunt.
             </p>
-            <p>
+            <p xml:id="da-236-p1p1q14-d1e129">
               Ad secundam rationem dicendum est quod in corpore animato sunt tria, scilicet complexio corporis, et dispositio partium eius, et ortus et ordinatio illarum,
              et sic determinatur de corpore animato in libro <title>Animalium</title> et <title>Vegetabilium</title>.
             Set in libro <title>Animalium</title> determinatur hoc modo de omni corpore sensibili tam bruti quam hominis.

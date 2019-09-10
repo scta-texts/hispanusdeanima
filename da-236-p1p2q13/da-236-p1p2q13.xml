@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,13 +44,13 @@
   </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 2, Quaestio 13</head>
-                <p>
+          <div xml:id="da-236-p1p2q13">
+                <head xml:id="da-236-p1p2q13-Hd1e87">Preambula, Problema 2, Quaestio 13</head>
+                <p xml:id="da-236-p1p2q13-d1e90">
                 Terciadecima questio est quomodo differenter determinatur de morte et uita in Medicina et in Astrologia et in libro
                  <title>Mortis et uite</title> et <title>De anima</title>, unde dicitur quod uiuere in uiuentibus est ab anima uegetabili.
                </p>
-                <p>
+                <p xml:id="da-236-p1p2q13-d1e99">
                  Solutio. Dicendum est quod multipliciter est loqui de morte et uita: uno modo secundum quod sunt operationes fluentes ab anima uegetabili per sui presentiam et absentiam,
                  et sic determinatur de illis in libro <title>De anima</title>, ubi dicitur quod uiuere est in uiuentibus ab anima uegetali.
                  Secundo modo est loqui de his a parte causarum quas habent in corpore et a parte dispositionum corporis, et sic de illis determinatur in libro <title>Mortis et uite</title>.

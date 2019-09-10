@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,9 +44,9 @@
   </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 3, Quaestio 5</head>
-                <p>
+          <div xml:id="da-236-p1p3q5">
+                <head xml:id="da-236-p1p3q5-Hd1e87">Preambula, Problema 3, Quaestio 5</head>
+                <p xml:id="da-236-p1p3q5-d1e90">
                   Quinta questio est principium abstractionis in rebus naturalibus. Et ostenditur quod necesse est quod non habeant speciale principium abstractionis:
                   quelibet scientia habet modum abstrahendi, set modus uniuersalis est ille qui est uniuersalis a particulari,
                   ergo supra modum illum addit scientia naturalis alium modum specialiter et non appropriat illum sibi,
@@ -58,7 +54,7 @@
                   et modus separationis secundum quem procedit scientia metaphisica.
                   Nullum autem talium modorum habet scientia naturalis, ergo uidetur quod nullo modo abstrahat, ergo non habet principium abstractionis.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q5-d1e93">
                   Alia autem ratio talis est scientia
                   <pb ed="#K" n="53-r"/>
                   <cb ed="#K" n="a"/>naturalis est de corporibus mundi.
@@ -66,29 +62,29 @@
                   non est alius ignis nisi hic ignis et sic de aliis corporibus elementatis que sunt fixa unum solum indiuiduum habentia.
                   Ergo cum sit de talibus non est de uniuersalibus, ergo non abstrahit abstractione que est uniuersalis a particulari nec alia abstractione, ut uisum est.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q5-d1e100">
                   Tercia ratio hec est, scientia naturalis est de rebus mobilibus in quantum mobilia sunt et generabilibus et corruptibilibus,
                  set talia non sunt uniuersalia set singularia, quia iste operationes circa singularia sunt, ergo scientia naturalis non habet modum abstractionis.
                </p>
-                <p>
+                <p xml:id="da-236-p1p3q5-d1e103">
                   Ad oppositum, omnis scientia est de rebus prout cadunt in cognitionem anime secundum modum necessitatis et fixionis earum et certitudinis.
                   Si ergo res naturales cadunt in scientiam necesse est quod habeant huiusmodi statum set illum non habent nisi secundum modum abstractionis, ergo habent modum abstractionis.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q5-d1e107">
                   Solutio. Dicendum est quod scientia naturalis habet modum abstractionis et principium illius est uniuersale.
                   Non enim abstrahit abstractione forme a materia nec separatione set sola illa que est uniuersalis a particulari.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q5-d1e110">
                   Ad primam rationem in contrarium dicendum est quod scientia naturalis non habet alium modum abstractionis nisi illum qui est uniuersalis a particulari,
                   set illum sibi appropriat per exigentiam rerum quas considerat, et hec abstractio est contractio materialis et non addit alium modum supra illum modum set illum considerat et contrahit.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q5-d1e113">
                   Ad secundam rationem dicendum est quod, sicut dicit <name>Aristoteles</name> in <title>Posterioribus</title>,
                   non fit demonstratio de hoc sole uel de hac luna in quantum hic sol uel hec luna set in quantum luna simpliciter uel sol simpliciter,
                   et hoc est in quantum habet naturam uniuersalis.
                   Eodem autem modo scientia naturalis considerat hec corpora sub ratione uniuersalis sui et ideo hec abstrahit considerando rationem uniuersalis et causarum uniuersalium.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q5-d1e122">
                   Ad terciam rationem dicendum est quod dupliciter est loqui de corporibus.
                   Vno modo a parte nature singularis ipsorum, et hoc modo non cadunt in scientia per se set per accidens.
                   Eodem modo nec operationes nec generationes ipsorum cadunt in scientiam alio modo considerantur a parte sui uniuersalis per quod cognoscuntur et per quod

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,14 +44,14 @@
   </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 2, Quaestio 3</head>
-                <p>
+          <div xml:id="da-236-p1p2q3">
+                <head xml:id="da-236-p1p2q3-Hd1e87">Preambula, Problema 2, Quaestio 3</head>
+                <p xml:id="da-236-p1p2q3-d1e90">
                   Tercia questio est propter quid in eadem scientia determinatur de corpore animato sensibili, humano et bruto, non autem de uegetabili in eadem scientia cum aliquo istorum,
                   unde non cadit corpus humanum cum uegetabili in scientia nec brutum similiter.
                   Et obicitur sic: secantur sciencie sicut et subiecta, cum ergo corpus humanum sit diuersum a bruto, debet determinari in alia scientia quam brutum et non cum bruto.
                 </p>
-                   <p>
+                   <p xml:id="da-236-p1p2q3-d1e93">
                      Solutio. Dicendum est quod corpus uegetale non determinatur cum bruto nec cum humano in eadem scientia, set brutum et humanum simul, et hoc est propter duas causas,
                      prima causa est quia complexio corporis bruti et humani communicant in eisdem principiis, scilicet in carne et osse et organis.
                      Vtrumque enim habet carnem et ossa et organa formata. Vegetale autem corpus non habet hanc naturam, et propter hoc non habet communicantiam cum corpore bruto et humano,

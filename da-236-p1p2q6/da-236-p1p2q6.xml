@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,11 +44,11 @@
   </teiHeader>
     <text>
         <body>
-        	<div>
-                <head>Preambula, Problema 2, Quaestio 6</head>
-                <p>
+          <div xml:id="da-236-p1p2q6">
+                <head xml:id="da-236-p1p2q6-Hd1e87">Preambula, Problema 2, Quaestio 6</head>
+                <p xml:id="da-236-p1p2q6-d1e90">
                   Sexta questio est quomodo differenter determinetur de colore in libro <title>De anima</title> et in libro <title> De sensu et sensato</title> et in Medicina.</p>
-                <p>
+                <p xml:id="da-236-p1p2q6-d1e99">
                   Solutio. Dicendum est quod color tripliciter consideratur: uno modo a parte sue prime generationis secundum quod resultat ex natura perspicui et quattuor qualitatibus,
                  et sic determinatur de colore in libro <title>De sensu et sensato</title>.
                  Secundo modo consideratur color prout est obiectum uisus immutans uisum, et sic determinatur de colore in scientia <title>De anima</title>.

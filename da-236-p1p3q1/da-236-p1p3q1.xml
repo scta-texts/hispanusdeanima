@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,9 +44,9 @@
   </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 3, Quaestio 1</head>
-                <p>
+          <div xml:id="da-236-p1p3q1">
+                <head xml:id="da-236-p1p3q1-Hd1e87">Preambula, Problema 3, Quaestio 1</head>
+                <p xml:id="da-236-p1p3q1-d1e90">
                   Prima est de modo abstractionis in hac scientia, et queritur utrum abstractio sit necessaria in scientia naturali.
                 Et ostenditur quod sic: scientia est de aliquo fixo finito et stabili.
                Singularia uero sunt infinita instabilia et non fixa, ergo de ipsis non est scientia,
@@ -58,12 +54,12 @@
               Hoc autem non est nisi uniuersale, ergo in qualibet scientia cadit uniuersale.
                Set uniuersale non cadit in scientia, ergo in qualibet scientia est abstractio uniuersalis, ergo et in ista scientia.
              </p>
-                <p>
+                <p xml:id="da-236-p1p3q1-d1e93">
                 Secunda ratio hec est, in secundo <title>Posteriorum</title> scribitur quod ex pluribus sensibus fit unum experimentum et ex
                  pluribus experimentis una memoria, et ex pluribus memoriis unum memorabile uel unum uniuersale, quod est principium cuiuslibet artis et scientie.
                  Hoc autem non est nisi per abstractionem, ergo in hac scientia est abstractio uniuersalis.
                </p>
-                <p>
+                <p xml:id="da-236-p1p3q1-d1e99">
                 Tercia ratio hec est, scientia est de omnibus illis que sub illo genere continentur.
                 Sic scientia de anima est de omni anima, set proprietates cuiuslibet anime non possunt in arte
                  comprehendi sicut nec proprietates rerum omnium singularium in quantum diuerse sunt,
@@ -74,14 +70,14 @@
                 ergo in qualibet scientia est speculatio circa uniuersale quod uniuersale non accipitur secundum hanc unitatem nisi per abstractionem.
                 Ergo in hac scientia et in qualibet est abstractio.
               </p>
-                <p>
+                <p xml:id="da-236-p1p3q1-d1e102">
                 Quarta ratio hec est, ut habetur in <title>Posterioribus</title>, unius scientie unum est subiectum cuius passiones et per se accidentia considerat et proprietates.
                 Ergo necesse est quod si singularia cadunt in scientia quod cadant ratione illius ratione cuius habent
                  unita <pb ed="#K" n="51-v"/><cb ed="#K" n="b"/>tem.
                  Hoc autem est uniuersale, quod est unum in multis; habet tamen modum unius preter multa.
                   Ergo de rebus ratione uniuersalis est scientia. Hec autem non est nisi per naturam abstractionis.
                  Ergo in qualibet scientia et in ista est abstractio necessaria. </p>
-                <p>
+                <p xml:id="da-236-p1p3q1-d1e112">
                   Ad oppositum sunt rationes sic: prima, res naturales sunt coniuncte motui et materie prout cadunt in scientia,
                    et hoc uult <name>Aristoteles</name> distinguens negotia philosophie.
                  Et etiam dicit <name>Aristoteles</name> in libro <title>De anima</title> quod passiones anime considerantur a naturali prout sunt
@@ -89,18 +85,18 @@
                  set nulla scientia que considerat res in motu et materia necessario abstrahit,
                   ergo naturalis scientia non abstrahit necessario.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q1-d1e124">
                 Secunda ratio hec est, in scientia ista determinatur de anima a parte suarum operationum.
                 Operationes autem circa singularia consistunt ut habetur in libro <title>Methaphisice</title>,
                 ergo scientia ista determinat de illis que circa singularia consistunt. Nulla autem talis scientia abstrahit, ergo hec scientia non abstrahit.
                </p>
-                <p>
+                <p xml:id="da-236-p1p3q1-d1e130">
                   Tercia ratio hec est, sicut habetur in libro <title>De substantia et accidente</title> qui est <title>De ortu scientiarum</title>,
                 scientia naturalis est de rebus mobilibus que continue uariantur secundum omnes modos uariationis.
                 Set nulle tales res abstrahunt a motu et a materia, ergo scientie de illis non abstrahunt in quantum has considerant.
                 Set scientie naturales sunt huiusmodi, ergo non abstrahunt.
               </p>
-                <p>
+                <p xml:id="da-236-p1p3q1-d1e139">
                   Solutio. Dicendum est quod ista scientia et quelibet scientia sicut ostendunt rationes.
                   Abstractio autem multis est. Vno modo est abstractio uniuersalis a particulari et secundum hanc abstrahit ista scientia
                    et quelibet scientia naturalis.
@@ -111,7 +107,7 @@
                    et hec abstractio est uia in cognitionem.
                   Et per hoc soluuntur quedam predictarum rationum, prima, secunda et quarta.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q1-d1e142">
                   Ad terciam autem dicendum est quod operationes dupliciter considerantur.
                   Vno modo considerantur in suo esse singulari prout sequuntur singularia.
                   Alio modo in suo esse uniuersali prout sequuntur subiectum uniuersale, sicut enim subiectum abstrahit,

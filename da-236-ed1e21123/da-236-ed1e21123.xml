@@ -53,8 +53,8 @@
     </front>
     <body>
       <div xml:id="da-236-ed1e21123">
-        <head xml:id="da-ed1e21123-Hd1e102">Quaestio 4</head>
-        <head xml:id="da-ed1e21123-Hd1e105" type="question-title">Utrum substantia anime sit
+        <head xml:id="da-236-ed1e21123-Hd1e102">Quaestio 4</head>
+        <head xml:id="da-236-ed1e21123-Hd1e105" type="question-title">Utrum substantia anime sit
     eadem cum suis potenciis</head>
         <p xml:id="da-236-ed1e21123-d1e21131">
           <hi>[lec8 q4] Circa quartam questionem sic proceditur et queritur utrum substantia anime sit
@@ -68,7 +68,7 @@
           <hi>Secunda ratio hec est: sicut dicit 
             <name>Aristoteles</name> in secundo </hi>
           <title>De anima</title>
-          <hi>, <quote xml:id="da-ed1e21123-Qd1e136" source="http://scta.info/resource/aristpa-l8"><!-- phy8.4, B254b30-->sicut se habet tota anima ad totum corpus ita partes anime ad partes corporis</quote>, quia
+          <hi>, <quote xml:id="da-236-ed1e21123-Qd1e136" source="http://scta.info/resource/aristpa-l8"><!-- phy8.4, B254b30-->sicut se habet tota anima ad totum corpus ita partes anime ad partes corporis</quote>, quia
       partes anime sunt perfectio cuiuslibet partis corporis. Set partes anime sunt potencie
       anime, quia alias <seg>partes</seg> non habet <seg>anima,</seg> ergo necesse est quod
       quelibet potencia anime perficiat partes corporis. Set nichil </hi>

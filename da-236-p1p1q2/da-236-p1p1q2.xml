@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,31 +44,31 @@
   </teiHeader>
   <text>
       <body>
-         <div>
+        <div xml:id="da-236-p1p1q2">
 
-            <head>Preambula, Problema 1, Quaestio 2</head>
-            <p>Secundo queritur utrum cognitio de anima sit nobis innata uel acquisita. Et uidetur quod sit nobis innata, quia, sicut dicit <name>Augustinus</name>,
+            <head xml:id="da-236-p1p1q2-Hd1e87">Preambula, Problema 1, Quaestio 2</head>
+            <p xml:id="da-236-p1p1q2-d1e90">Secundo queritur utrum cognitio de anima sit nobis innata uel acquisita. Et uidetur quod sit nobis innata, quia, sicut dicit <name>Augustinus</name>,
             anima ad similitudinem totius sapientie facta omnium similitudines in se gerit, et ideo apellatur omnium similitudo. Set ex similibus res cognoscuntur,
             ergo cum anima a prima sui creatione gerat in se omnium similitudines, a principio suo cognoscit omnia,
             ergo illud maxime cognoscit quod est ei inmediatius a principio et cuius inmediate habet similitudinem. Hoc autem est ipsa, ergo a principio suo se cognoscit, ergo cognitio sui est innata.
             Cognitio ergo de anima nobis est innata.
           </p>
-            <p>Secunda
+            <p xml:id="da-236-p1p1q2-d1e96">Secunda
               <pb ed="#K" n="46-v"/>
               <cb ed="#K" n="a"/>ratio hec est, sicut dicitur in libro <title>Fontis uite</title>, forme colliguntur in substantiis spiritualibus,
             id est, species, ergo cum anima sit substantia spiritualis et hoc etiam ab initio suo et maxime ante molem carnis, ergo ab initio relucent in ea species rerum,
             ergo ab initio cognoscit res quarum sunt species. Ergo cognitio rerum extra est ei innata, ergo cognitio illius que est ei inmediatius maxime est ei innata.
             Hoc autem est ipsa, ergo cognitio de anima est nobis innata.
            </p>
-            <p>Tercia ratio hec est, duplex est cognitio, scilicet sensitiua et intellectiua. Set intellectiua est magis abstracta, sensitiua uero minus.
+            <p xml:id="da-236-p1p1q2-d1e106">Tercia ratio hec est, duplex est cognitio, scilicet sensitiua et intellectiua. Set intellectiua est magis abstracta, sensitiua uero minus.
             Set in spirituali magis relucent species et uelocior est cognitio spiritualis in suas operationes, ergo intellectus est uelocior quam sensus.
             Set operatio sensus est a generante, quia quam cito sensus est tam cito uidet et audit, ergo operatio intellectus est uelocior, ergo quam cito est anima tam cito cognoscit se ipsam.
             Ergo cognitio de anima est nobis innata.
           </p>
-            <p>Ad oppositum, sicut habetur in tercio <title>De anima</title>, anima creata est imperfecta, sicut tabula rasa, et est imperfecta uirtutibus et scientiis.
+            <p xml:id="da-236-p1p1q2-d1e109">Ad oppositum, sicut habetur in tercio <title>De anima</title>, anima creata est imperfecta, sicut tabula rasa, et est imperfecta uirtutibus et scientiis.
             Ergo habet scientiam acquisitam et non innatam, et iterum, si esset innata non indigeremus scientia de ipsa.
           </p>
-            <p>Solutio. Dicendum est quod multiplex fuit opinio circa rerum cognitionem, sicut uult <name>Averroes</name>.
+            <p xml:id="da-236-p1p1q2-d1e116">Solutio. Dicendum est quod multiplex fuit opinio circa rerum cognitionem, sicut uult <name>Averroes</name>.
             Quidam enim posuerunt quod anima creatur perfecta scientiis et uirtutibus, set propter obumbrationem carnis non habet in actu que habuit primo,
             set obfuscatur et obumbratur; et isti posuerunt quod nichil esset aliud scire quam memorari, et sic posuit <name>Plato</name>.
             Dicebat enim quod quecumque anima scit modo, prius sciuit et quod postea memoratur. Alii posuerunt quod anima cognoscit per acquisitionem solum,
@@ -87,17 +83,17 @@
             De prima autem non est uerum. Anima enim illuminata est a primo et data est ei uirtus a principio ut cognoscat se ipsam et diuinum bonum, et de hac cognitione uerum est quod est ei innata;
             et hec non est cognitio sciencifica ipsius animae, set est cognitio sui. De cognitione autem scientifica dicendum est quod non est nobis innata set potius acquisita.
           </p>
-            <p>Ad primam rationem in contrarium dicendum est quod anima gerit similitudines a primo ortu et non actu set habitu.
+            <p xml:id="da-236-p1p1q2-d1e138">Ad primam rationem in contrarium dicendum est quod anima gerit similitudines a primo ortu et non actu set habitu.
               Et propter hoc, si offerantur statim cognoscet actu, set ista cognitio actualis fit per acquisitionem et per fantasmata.
             </p>
-            <p>Ad secundum dicendum est quod forme relucent in aliquo dupliciter: uno modo naturaliter,
+            <p xml:id="da-236-p1p1q2-d1e141">Ad secundum dicendum est quod forme relucent in aliquo dupliciter: uno modo naturaliter,
               <pb ed="#K" n="46-v"/>
               <cb ed="#K" n="b"/>alio modo per receptionem.
             Primo modo relucent forme rerum intelligentiis; alio autem modo relucent in anima, set hoc est adhuc dupliciter, quia aut relucent per receptionem in se patiendo,
             et sic relucent in intellectu possibili siue potenciali, aut relucent in alio patiendo et in se ipso agendo, et sic relucent in intellectu agente, et ex uno cum altero habetur cognitio completa.
             De illo in quo primo modo relucent forme bene obicit, de alio autem non.
           </p>
-            <p>Ad tercium dicendum est quod operatio sensitiua est quasi naturalis, et propter hoc quam cito incipit esse animal cognoscit sensitiua cognitione.
+            <p xml:id="da-236-p1p1q2-d1e148">Ad tercium dicendum est quod operatio sensitiua est quasi naturalis, et propter hoc quam cito incipit esse animal cognoscit sensitiua cognitione.
            Set intellectiua non est naturalis set eget multo experimento et tempore, sensitiua uero sola applicatione obiecti ad organum;
            intelligentia uero multiplici inuestigatione causarum. Et ideo cognitio scientifica ipsius anime acquisita est, cognitio autem sui ignata est.
             </p>

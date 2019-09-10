@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,16 +44,16 @@
   </teiHeader>
   <text>
       <body>
-         <div>
+        <div xml:id="da-236-p1p1q13">
 
-            <head>Preambula, Problema 1, Quaestio 13</head>
-            <p>
+            <head xml:id="da-236-p1p1q13-Hd1e87">Preambula, Problema 1, Quaestio 13</head>
+            <p xml:id="da-236-p1p1q13-d1e90">
               Terciadecima questio est utrum anima sit subiectum in scientia de anima aut corpus animatum. Et uidetur quod corpus animatum sit subiectum in scientia de anima.
                Scientia enim ista non considerat passiones anime separate set passiones communes anime et corporis. Hee autem passiones causantur ab anima cum corpore,
               ergo passiones hic inquisite causantur ab anima cum corpore et non ab anima solum. Set illud est subiectum in scientia a quo causantur passiones inquisite et probate in illa,
               ergo anima solum non erit subiectum huius scientie, set anima cum corpore. Hoc autem est corpus animatum, ergo corpus animatum est subiectum huius scientie.
             </p>
-            <p>
+            <p xml:id="da-236-p1p1q13-d1e93">
               Secunda ratio hec est, nulla forma in quantum forma considerata per relationem ad ma
               <pb ed="#K" n="48-r"/>
               <cb ed="#K" n="b"/>teriam habet quod denotetur in scientia sine materia, nec materia sine illa.
@@ -65,21 +61,21 @@
              <pb ed="#V" n="54-v"/>
              <cb ed="#V" n="b"/> Hoc autem est corpus animatum, ergo corpus animatum est subiectum in hac scientia.
            </p>
-            <p>
+            <p xml:id="da-236-p1p1q13-d1e104">
               Tercia ratio hec est, uniuersale subiectum per predicationem totius scientie denominat omnia substantia in illa scientia.
               Set sicut uult <name>Algazel</name> et <name>Avicenna</name>, subiectum scientie naturalis est corpus mobile in quantum mobile,
              ergo in qualibet parte scientie naturalis subiectum est corpus mobile cum alia differentia superadita.
             Ergo in hac scientia subiectum est corpus mobile cum alia supraddita. Non autem nisi cum ista que est animatum, ergo subiectum in hac scientia est corpus animatum et non anima.
           </p>
-               <p> Ad oppositum est hec ratio, primo dicit <name>Aristoteles</name> quod hec scientia est de anima et inquisitio in hac scientia est de anima,
+               <p xml:id="da-236-p1p1q13-d1e113"> Ad oppositum est hec ratio, primo dicit <name>Aristoteles</name> quod hec scientia est de anima et inquisitio in hac scientia est de anima,
                 et hoc dicit in principio <title>De anima</title>, nullam faciens mentionem de corpore. Set illud est subiectum in scientia de quo est inquisitio in scientia,
                  ergo anima subiectum est in hac scientia et non animatum corpus.
                </p>
-            <p>
+            <p xml:id="da-236-p1p1q13-d1e123">
           Secunda ratio talis est, scribitur in principio <title>De sensu et sensato</title> quod in libro <title>De anima</title> dictum est de anima secundum se.
            Set dicere de anima secundum se est dicere quod anima sit subiectum in hac scientia. Ergo anima est subiectum in hac scientia et non corpus animatum.
          </p>
-               <p>
+               <p xml:id="da-236-p1p1q13-d1e132">
                Solutio. Dicendum est quod corpus animatum est subiectum in hac scientia, set intelligendum est quod subiectum in scientia est multis modis:
                uno modo appellatur subiectum in scientia illud indiuisibile ad quod reducuntur et a quo fluunt omnia in illa scientia;
                et sic primum est subiectum in metaphysica, quia ad ipsum reducuntur omnia in illa scientia tamquam ad primum principium indiuisibile, sicut uult <name>Aristoteles</name>.
@@ -97,7 +93,7 @@
                Et in libro <title>De animalibus</title> determinatur de corpore animato non in quantum refertur ad animam set in quantum refertur ad complexionem suam et dispositiones suarum partium.
                In hac autem scientia determinatur de corpore animato <pb ed="#K" n="48-v"/><cb ed="#K" n="a"/>in quantum refertur ad animam et ad operationes anime, et per hoc soluitur prima ratio in contrarium.
              </p>
-               <p>
+               <p xml:id="da-236-p1p1q13-d1e147">
                  Ad secundam dicendum est quod determinare de anima secundum se est dupliciter: uno modo sine relatione ad corpus, et sic non determinatur in hac scientia secundum se.
                Alio modo est determinare de anima secundum se ut est in corpore a parte operationum que ab ipsa incipiunt et diffunduntur ad corpus, et non a parte operationum que habent ortum a corpore,
               set habent ortum in corpore. Et sic determinatur in hac scientia de anima secundum se non tamen sine corpore, et sic corpus animatum est subiectum in hac scientia.

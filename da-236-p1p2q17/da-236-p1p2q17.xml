@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,13 +44,13 @@
   </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 2, Quaestio 17</head>
-                <p>
+          <div xml:id="da-236-p1p2q17">
+                <head xml:id="da-236-p1p2q17-Hd1e87">Preambula, Problema 2, Quaestio 17</head>
+                <p xml:id="da-236-p1p2q17-d1e90">
                   Septimodecima questio est propter quid operationes anime intellectiue secundum <name>Aristotelem</name> non faciunt scientiam separatam ab anima intellectiua
                  sicut operationes anime sensitiue faciunt scientiam separatam ab anima sensitiua, quia de illis determinatur in <title>Minoribus</title> libris.
                </p>
-                <p>
+                <p xml:id="da-236-p1p2q17-d1e99">
                   Solutio. Dicendum est quod operationes anime intellectiue que proprie sunt non habent ortum a parte corporis, quia anima intellectiua nullius partis corporis est actus,
                  unde totaliter habent relationem ad animam. Et propter hoc non addunt alias dispositiones uel principia supra illas quas contrahunt ab anima intellectiua,
                et propter hoc non faciunt scientiam separatam ab illa. Operationes autem anime sensitiue habent relationem ad animam, et sic in eadem scientia cum anima determinantur.

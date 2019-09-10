@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,13 +44,13 @@
   </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 2, Quaestio 16</head>
-                <p>
+          <div xml:id="da-236-p1p2q16">
+                <head xml:id="da-236-p1p2q16-Hd1e87">Preambula, Problema 2, Quaestio 16</head>
+                <p xml:id="da-236-p1p2q16-d1e90">
                 Sextadecima questio est propter quid quedam operationes anime faciunt scientiam separatam, quedam autem non.
                  Queritur enim propter quid motus progressiuus non facit aliam scientiam separatam ab anima, sicut et alie quedam operationes anime.
                </p>
-                <p>
+                <p xml:id="da-236-p1p2q16-d1e93">
                   Solutio. Dicendum est quod quedam operationes anime oriuntur ab anima et ad ipsam referuntur, et tales in eadem scientia determinantur cum anima.
                  Talis enim est motus progressiuus, quia motus progressiuus comparatur ad uirtutem appetitiuam a qua habet ortum precedentibus operationibus uirtutum sensibilium apprehendentium a longe.
                  In solis enim illis est motus progressiuus in quibus est uirtus appetitiua et uirtutes sensibiles apprehendentes a longe.

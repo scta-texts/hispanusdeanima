@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -45,18 +41,18 @@
         </change>
       </listChange>
     </revisionDesc>
-  </teiHeader>>
+  </teiHeader>&gt;
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 2, Quaestio 12</head>
-                <p>
+          <div xml:id="da-236-p1p2q12">
+                <head xml:id="da-236-p1p2q12-Hd1e87">Preambula, Problema 2, Quaestio 12</head>
+                <p xml:id="da-236-p1p2q12-d1e90">
                 Duodecima questio est cum de animalibus determinetur in libro <title>De animalibus</title> et in Medicina queritur quomodo differenter.
                 Item cum de plantis determinetur in libro <title>Vege
                 <pb ed="#K" n="50-r"/>
                 <cb ed="#K" n="b"/>tabilium</title> et in Medicina in <title>Dietis</title> queritur questio differenter.
               </p>
-                <p>
+                <p xml:id="da-236-p1p2q12-d1e106">
                  Solutio. Dicendum est quod dupliciter est loqui de natura animalium et plantarum: uno modo a parte sui et a parte suorum principiorum, et sic de illis determinatur in scientia naturali,
                  ut de animalibus in libro <title>Animalium</title> et de plantis in libro <title>Plantarum</title> uel <title>Vegetabilium</title>, quod idem est.
                  Secundo modo est loqui de ipsis a parte illa qua referuntur ad corpus humanum inferendo ei principia dispositionis sanitatis uel egritudinis, et sic determinatur de illis in Medicina,

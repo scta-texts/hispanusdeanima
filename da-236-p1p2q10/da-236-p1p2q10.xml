@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,18 +44,18 @@
   </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 2, Quaestio 10</head>
-                <p>Decima questio est quomodo differenter determinatur in hac scientia de quattuor qualitatibus tangibilibus et in aliis scientiis.
+          <div xml:id="da-236-p1p2q10">
+                <head xml:id="da-236-p1p2q10-Hd1e87">Preambula, Problema 2, Quaestio 10</head>
+                <p xml:id="da-236-p1p2q10-d1e90">Decima questio est quomodo differenter determinatur in hac scientia de quattuor qualitatibus tangibilibus et in aliis scientiis.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p2q10-d1e93">
                   Solutio. Dicendum est quod quatuor qualitates multipliciter considerantur: uno modo prout sunt relate ad quattuor elementa et sunt principia eorum distinctiua et sunt ea que operantur elementa,
                   et sic de quattuor qualitatibus determinatur in libro <title>De generatione</title>; secundo modo considerantur prout sunt principia corporum mixtorum, et sic determinatur de ipsis in quarto
                  <title>Meteororum</title>; tercio modo considerantur prout sunt principia diuersitatis complexionis humane a parte illa qua decidit in sanitate uel egritudine, et sic determinatur de illis in
                  Medicina; quarto modo considerantur prout sunt obiecta tactus, et sic de illis determinatur in libro <title>De anima</title>.
                  Et propter hoc soluitur questio predicta propter quid, scilicet non determinatur de obiecto tactus complete in libro <title>De sensu et sensato</title>.
                </p>
-                <p>In aliis enim libris, ut uisum est, determinatum est sufficienter de obiecto tactus quod est quattuor qualitates, et ideo non necesse est quod de illis fiat tractatus alius specialis in libro
+                <p xml:id="da-236-p1p2q10-d1e108">In aliis enim libris, ut uisum est, determinatum est sufficienter de obiecto tactus quod est quattuor qualitates, et ideo non necesse est quod de illis fiat tractatus alius specialis in libro
                    <title>De sensu et sensato</title>.
                   </p>
             </div>

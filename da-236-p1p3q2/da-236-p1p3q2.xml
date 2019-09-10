@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,18 +44,18 @@
   </teiHeader>
   <text>
       <body>
-          <div>
-              <head>Preambula, Problema 3, Quaestio 2</head>
-              <p>
+        <div xml:id="da-236-p1p3q2">
+              <head xml:id="da-236-p1p3q2-Hd1e87">Preambula, Problema 3, Quaestio 2</head>
+              <p xml:id="da-236-p1p3q2-d1e90">
               Secunda questio est propter quid quelibet scientia utitur prima abstractione que est uniuersalis a particulari;
                mathematice uero spiritualiter utuntur illa que est illa que est forme a materia.
              </p>
-              <p>
+              <p xml:id="da-236-p1p3q2-d1e93">
               Videtur enim oppositum hac ratione, quia omnis forma que inmediatius adheret siue inheret materie et dispositionibus materialibus minime
                abstrahit a materia. Set quantitas est huiusmodi,
                ergo quantitas minime abstrahit a materia; ergo si abstrahat, abstrahet solum abstractione que est uniuersalis a particulari.
              </p>
-              <p>
+              <p xml:id="da-236-p1p3q2-d1e96">
               Secunda ratio hec est, inmediatum subiectum motus est continuum, sicut patet in libro <title>Phisicorum</title>.
               Omnes enim dispositiones motus in continuo fundantur, ergo continuum minime abstrahit a motu. Set numerus resultat ex decisione continui, ut habetur in <title>Phisicis</title>,
               ergo eodem modo non abstrahit numerus, sicut nec continuum. Ergo scientia, que est de utraque differentia quantitatis, scilicet continua et discreta,
@@ -67,18 +63,18 @@
               <pb ed="#K" n="52-r"/>
               <pb ed="#K" n="a"/>abstrahit abstractione que est forma a materia, ergo si abstrahat, abstrahit abstractione que est uniuersalis a particulari.
             </p>
-              <p>
+              <p xml:id="da-236-p1p3q2-d1e109">
               Ad oppositum, ille res abstrahunt que habent principia preter materiam, per que possunt intelligi et diffiniri preter materiam et passiones et proprietates preter materiam et motum.
               Set quantitates sunt huiusmodi, ergo abstrahunt illa abstractione que est forme a materia.
             </p>
-              <p>
+              <p xml:id="da-236-p1p3q2-d1e113">
                 Solutio. Dicendum est quod sciencie mathematice abstrahunt abstractione, que est uniuersalis a particulari, que est communis omnibus scientiis, et alia abstractione que est forme a materia.
                 Et causa huius est quia inter omnia accidentia sola quantitas habet principia diffinitionis et essentie preter materiam et proprietates consequentes ipsam,
                unde dicit <name>Aristoteles</name> quod alia est diffinitio circuli et circuli cuprei. Potest enim diffinitioni circulus preter materiam.
                Caro uero et quelibet forma naturalis non possunt diffiniri nisi per relationem ad materiam, et ideo res naturales non abstrahunt nisi abstractione una que est uniuersalis a particulari,
              et non abstractione que es forme a materia, cum suum totum esse fundetur in materia. Res autem mathematice utraque abstractione abstrahunt.
            </p>
-              <p>
+              <p xml:id="da-236-p1p3q2-d1e119">
               Ad rationes autem dicendum est quod quantitates dupliciter considerantur. Primo modo secundum esse essentie qua sunt id quod sunt, et secundum quod sunt entes, et cadunt in speculatione methaphysica.
               Secundo modo considerantur secundum quod sunt ordinabiles in genere, et cadunt super eos aspectus rationis et sic cadunt in speculatione logica.
               Tercio modo considerantur secundum quod causantur a principiis subiecti mobilis et concernunt motum et materiam, et sic cadunt in speculatione philosophie naturalis.

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,25 +44,25 @@
   </teiHeader>
   <text>
       <body>
-         <div>
+        <div xml:id="da-236-p1p1q10">
 
-            <head><supplied>Preambula, Problema 1, Quaestio 10 </supplied></head>
-            <p>
+            <head xml:id="da-236-p1p1q10-Hd1e87"><supplied>Preambula, Problema 1, Quaestio 10 </supplied></head>
+            <p xml:id="da-236-p1p1q10-d1e91">
               Decimo queritur utrum de anima separata a corpore aliqua possit esse scientia. Et ostenditur quod sic per talem rationem:
               cuiuslibet substantie spiritualis cui competunt operationes et proprietates preter inclinationem ad materiam possibile est esse scientia.
               Set anima separata a corpore est huiusmodi, ergo de anima separata a corpore potest esse scientia.
               Maior patet, quia scientia habetur de spirituali substantia a parte suarum proprietatum et operationum. Minor patet, quia dicit <name>Aristoteles</name> in primo <title>De anima</title>
               quod anima habet passiones proprias et operationes per quas possit a corpore separari.
             </p>
-               <p>
+               <p xml:id="da-236-p1p1q10-d1e100">
                  Ad oppositum est talis, substantie separate non cadunt in cognitionem nisi per operationes et motus quos exercent in corporibus naturalibus.
               Set anima separata non dirigit motus nec operationes supra corpora naturalia, ergo anima separata non cadit in cognitionem.
               De nullo autem tali est scientia, ergo de anima separata non potest esse scientia. Maior patet quia <name>Aristoteles</name> non determinat de substantiis separatis
               nec naturam ipsarum nisi per numerum motuum et mobilium.
             </p>
-                  <p>Solutio. Ad hoc dicendum est quod anima separata cadit in scienciam et cognitionem.
+                  <p xml:id="da-236-p1p1q10-d1e106">Solutio. Ad hoc dicendum est quod anima separata cadit in scienciam et cognitionem.
                   </p>
-            <p>
+            <p xml:id="da-236-p1p1q10-d1e109">
              Ad rationem in contrarium dicendum est quod scientia respicit duo, scilicet naturam rerum, et respicit indigentiam inquisitionis nostre.
              A parte autem nature rerum potest esse scientia de anima separata. A parte autem inquisitionis nostre supra res cadit anima separata in cognitionem nostram multis modis:
              uno modo considerando ordinem rerum corporalium et spiritualium. Considerando enim ordinem rerum corporalium et spiritualium consideramus nos ipsam animam in scientia tanquam rem spiritualem.

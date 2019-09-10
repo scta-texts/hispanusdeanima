@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,15 +44,15 @@
   </teiHeader>
   <text>
       <body>
-         <div>
+        <div xml:id="da-236-p1p1q7">
 
-            <head>Preambula, Problema 1, Quaestio 7</head>
-            <p>
+            <head xml:id="da-236-p1p1q7-Hd1e87">Preambula, Problema 1, Quaestio 7</head>
+            <p xml:id="da-236-p1p1q7-d1e90">
             Septimo queritur propter quid ita est in uirtute intellectiua quod eadem uirtus intellectiua cognoscit se ipsam,
             in uirtute autem sensitiua non est ita quod se ipsa possit cognosci set per aliam sibi superiorem, sicut sensus particulares et operationes eorum cognoscuntur per sensum communem,
             qui est uirtus illis superior.
           </p>
-            <p>Ad istas duas questiones dicendum est, et primo ad primam.
+            <p xml:id="da-236-p1p1q7-d1e93">Ad istas duas questiones dicendum est, et primo ad primam.
             Dicit enim <name>Auicenna</name> quod quedam uirtus non alligatur organo et sibi presens est, et non est medium inter ipsam et se ipsam, nec obumbratur aliqua caligine.
             Et quia intellectiua talis est,
             <pb ed="#K" n="47-r"/>
@@ -64,7 +60,7 @@
             Virtus autem sensibilis obumbratur umbra organi, et non est ita sibi presens nec sibi lucet,
             quia inter ipsam et se est organum medium, unde non est sibi unita nec presens nec sibi lucens.
             Et propter hoc anima sensibilis se ipsam per se non potest cognoscere nec apprehendere, nec potest reflecti supra se nec supra se suum actum, et propter hoc soluitur ratio in contrarium.</p>
-           <p>
+           <p xml:id="da-236-p1p1q7-d1e103">
             Et per hoc patet solutio ad septimum. Sensus enim obfuscatus est organo, et propter hoc suam operationem non cognoscit set alia uirtus interior abstractior est et potencior,
           scilicet, sensus communis, qui est superior ad sensus particulares. Sic autem non est de anima intellectiua, quia sic non est obumbrata, et propter hoc ipsa se et suum actum potest apprehendere.</p>
 

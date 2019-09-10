@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,11 +44,11 @@
   </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 2, Quaestio 20</head>
-                <p>Vicesima questio est que est causa distinctionis scientie a scientia et partium scientie ad inuicem.
+          <div xml:id="da-236-p1p2q20">
+                <head xml:id="da-236-p1p2q20-Hd1e87">Preambula, Problema 2, Quaestio 20</head>
+                <p xml:id="da-236-p1p2q20-d1e90">Vicesima questio est que est causa distinctionis scientie a scientia et partium scientie ad inuicem.
                  </p>
-                <p>
+                <p xml:id="da-236-p1p2q20-d1e93">
                  Solutio. Dicendum est quod diuersitas ista prouenit a parte subiecti et a parte eorumque in subiecto indicantur, set hec diuersitas multiplex est.
                  Etenim quoddam subiectum distinguitur ab altero subiecto secundum genus abstractionis, sicut res coniuncta motui et materie distinguitur a re omnino separata
                  a materia et a motu et ab illa que est coniuncta secundum esse separata secundum distinctionem, et hec diuersitas facit diuersitatem distinctionum in scientiis principalibus sicut
@@ -67,7 +63,7 @@
                  facit distintionem in paragraphis in scientia. Hec autem distinctio scientie penes diuersitates predictas non procedit secundum exigentiam traditionis nostre, set secundum exigentiam rerum et status
                  scientie et rationem ipsius.
                </p>
-                <p>Et sic patet uerificatio et notificatio eorum que circa secundum probleuma principale propositum inquiruntur.
+                <p xml:id="da-236-p1p2q20-d1e100">Et sic patet uerificatio et notificatio eorum que circa secundum probleuma principale propositum inquiruntur.
                 </p>
             </div>
         </body>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -31,8 +28,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/develop/src/1.0/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -48,26 +44,26 @@
   </teiHeader>
     <text>
         <body>
-            <div>
-                <head>Preambula, Problema 3, Quaestio 4</head>
-                <p>
+          <div xml:id="da-236-p1p3q4">
+                <head xml:id="da-236-p1p3q4-Hd1e87">Preambula, Problema 3, Quaestio 4</head>
+                <p xml:id="da-236-p1p3q4-d1e90">
                   Quarta questio est quid est principium abstractionis, et ostenditur quod uniuersale.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q4-d1e93">
                    Prima ratio talis est, abstractio est in rebus prout cadunt in aspectum anime intellectiue cognoscentis.
                    Ergo principium abstractionis in illis est obiectum proportionale ipsi anime intellectiue, cum igitur anima intellectiua sit spiritualis,
                    necesse est illud obiectum habere naturam spiritualitatis.
                    Item cum illa cognitio que est secundum abstractionem sit per uera principia rei, illum spirituale est uerum principium rei.
                    Nullum autem spirituale quod sit uerum principium in rebus est in rebus nisi species uniuersalis, ergo principium abstractionis est uniuersale.
                  </p>
-                <p>
+                <p xml:id="da-236-p1p3q4-d1e96">
                   Secunda ratio est, anima enim in abstractione secundum quam scientia procedit per abstractionem cognoscit omnia que sunt in illa scientia.
                   Non cognoscit autem illa secundum quod sunt sub propriis existentiis singularibus que sunt infinite et corporales et fluxibiles,
                   ergo cognoscit illas per aliquam naturam communem existentem in eis secundum quam omnia ad scientiam reducuntur.
                   Hec autem est natura substantialis in eis. Cum ista cognitio sit per substantalia, ergo nulla communis natura substantialis est in rebus singularibus nisi sola natura uniuersalis,
                   ergo necesse est naturam uniuersalis esse principium abstractionis in scientia.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q4-d1e99">
                   Tercia ratio hec est, duplex est cognitio, quedam est per uera rei principia, quedam autem est per posteriora.
                   Cognitio autem que est per uera rei principia est intellectiua, cognitio uero per posteriora est sensitiua, set unumquodque sicut se habet ad esse ita se habet ad cognitionem,
                   que est per uera principia rei.
@@ -80,27 +76,27 @@
                   Ergo cum hec sit forma uniuersalis, per formam uniuersalem est cognitio, set illud per quos est cognitio est principium abstractionis,
                   ergo necesse est quod forma uniuersalis sit principium abstractionis.
                 </p>
-                <p>
-                  Quarta ratio hec est, sicut dicit <name>Algazel</name>, <quote>uirtus intellectiua est in nobis que cognoscit propriam essentiam rei prout a conditionibus accidentalibus denudatur</quote>,
+                <p xml:id="da-236-p1p3q4-d1e107">
+                  Quarta ratio hec est, sicut dicit <name>Algazel</name>, <quote xml:id="da-236-p1p3q4-Qd1e112">uirtus intellectiua est in nobis que cognoscit propriam essentiam rei prout a conditionibus accidentalibus denudatur</quote>,
                   que cognoscit hominem in quantum est homo, non in quantum est album uel stans uel aliis accidentibus informatum,
                   set hominem in quantum est homo, ergo proprium obiectum eius est uera essentia rei qua res est id quod est nomine abstracto, ergo hoc est principium cognoscendi,
                   et hoc est quod dicit <name>Aristoteles</name>, quod obiectum intellectus est quidditas rei et illud per quod cognoscitur res est principium abstractionis in ea,
                   ergo essentia illa est principium abstractionis. Hoc autem est uniuersale, ergo uniuersale est principium abstractionis rerum.
                 </p>
-                <p>Ad oppositum, illud quod abstractum est extra rem a qua extrahitur, si ergo uniuersale esset, principium esset extra res naturales et ita esset separatum, quod est inconueniens.</p>
-                <p>
+                <p xml:id="da-236-p1p3q4-d1e119">Ad oppositum, illud quod abstractum est extra rem a qua extrahitur, si ergo uniuersale esset, principium esset extra res naturales et ita esset separatum, quod est inconueniens.</p>
+                <p xml:id="da-236-p1p3q4-d1e122">
                   Secunda ratio hec est, uniuersale est forma compositi, ergo non solum uniuersale esset principium abstractionis,
                   illa que non habent compositum non possent abstrahi, set talia sunt accidentia et forma et materia, ergo de illis non posset esse abstractio ista.
                 </p>
-                <p>Solutio. Dicendum est quod principium uniuersalis abstractionis est forma et species uniuersalis, sicut ostendunt rationes.
+                <p xml:id="da-236-p1p3q4-d1e125">Solutio. Dicendum est quod principium uniuersalis abstractionis est forma et species uniuersalis, sicut ostendunt rationes.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q4-d1e128">
                   Ad rationes autem in contrarium dicendum est, et primo ad primam, quod in uniuersali tria sunt, scilicet essentia et hec est eadem cum substantia in singulari,
                   sicut eadem est essentia huius hominis et <name>Sortis</name>, et hec predicatiuo est separata, nec simul in multis.
                   Secundum est similitudo uniuersalis in qua multa communicant, et hec est simul multorum, quia in multis est, et ad multa referitur.
                   Tercium est species uniuersalis que cadit in anima; hec separata est et in intellectu existens sicut multorum.
                 </p>
-                <p>
+                <p xml:id="da-236-p1p3q4-d1e134">
                   Ad secundam autem rationem dicendum est quod uniuersale est multis modis.
                    Vno modo est uniuersale forma compositi et hec est in rebus compositis.
                    Alio modo est uniuersale simillitudo rei simplicis et composite, et prima primum est principium abstractionis in simplicibus.
