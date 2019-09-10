@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,9 +52,9 @@
       <div xml:id="starts-on"/>
     </front>
     <body>
-      <div xml:id="da-236-ed1e21123" >
-        <head>Quaestio 4</head>
-        <head type="question-title">Utrum substantia anime sit
+      <div xml:id="da-236-ed1e21123">
+        <head xml:id="da-ed1e21123-Hd1e102">Quaestio 4</head>
+        <head xml:id="da-ed1e21123-Hd1e105" type="question-title">Utrum substantia anime sit
     eadem cum suis potenciis</head>
         <p xml:id="da-236-ed1e21123-d1e21131">
           <hi>[lec8 q4] Circa quartam questionem sic proceditur et queritur utrum substantia anime sit
@@ -67,9 +65,10 @@
       potenciis. </hi>
         </p>
         <p xml:id="da-236-ed1e21123-d1e21143">
-          <hi>Secunda ratio hec est: sicut dicit <name>Aristoteles</name> in secundo </hi>
+          <hi>Secunda ratio hec est: sicut dicit 
+            <name>Aristoteles</name> in secundo </hi>
           <title>De anima</title>
-          <hi>, sicut se habet tota anima ad totum corpus ita partes anime ad partes corporis, quia
+          <hi>, <quote xml:id="da-ed1e21123-Qd1e136" source="http://scta.info/resource/aristpa-l8"><!-- phy8.4, B254b30-->sicut se habet tota anima ad totum corpus ita partes anime ad partes corporis</quote>, quia
       partes anime sunt perfectio cuiuslibet partis corporis. Set partes anime sunt potencie
       anime, quia alias <seg>partes</seg> non habet <seg>anima,</seg> ergo necesse est quod
       quelibet potencia anime perficiat partes corporis. Set nichil </hi>
