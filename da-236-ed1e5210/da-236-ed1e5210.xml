@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -167,14 +170,17 @@
           <p xml:id="da-236-ed1e5254-d1e5268">Ad hoc dicendum est quod athomi secundum ueritatem non sunt principia corporum, immo sunt
       compositi ex materia et forma.
      </p>
-          <p xml:id="da-236-ed1e5254-d1e5272">Ad rationem in contrarium dicendum quod corpora duobus modis possunt resolui: uno modo
+          <p xml:id="da-236-ed1e5254-d1e5272">
+            Ad rationem in contrarium dicendum quod corpora duobus modis possunt resolui: uno modo
       diuisione continui et resolutione, et hoc modo non stat eorum diuisio per se, quia sunt
       eiusdem nature in partibus et toto, immo prius ad naturale quam staret eorum diuisio, et
       sic non stat ad athomos, quia sic non habet athomos partes indiuisibiles, set diuiditur sic
       in supra diuisibilia. Alio modo resoluuntur corpora resolutione substantie et diuisione cum
       corpora substantie sint et sic eorum resolutio stat ad principia substantie, que sunt materia
       et forma, et forma in illa resolutione corrumptur. Materia autem stat, qua sicut uult
-      <ref xml:id="da-236-ed1e5210-Rd1e181" target="http://scta.info/resource/aristpa-l1"><name>Aristoteles</name> in primo <title>Phisicorum</title></ref>, materia est ex quia fit res et si coartatur in hac
+            <ref xml:id="da-236-ed1e5210-Rd1e181" target="http://scta.info/resource/aristdp-d1e48">
+        <name>Aristoteles</name> in primo <title>Phisicorum</title>
+      </ref>, materia est ex quia fit res et si coartatur in hac
       ultimum cum ergo fiant corpora ex materia resoluuntur in materiam. Set duplex est forma
       corporum: quodam primum, et hoc modo a primo facta sunt cum suis principiis, et quiddam
       secundum et sic facta sunt ex suis principiis que sunt materia et forma, et ita patet quod

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,9 +52,9 @@
       <div xml:id="starts-on"/>
     </front>
     <body>
-      <div xml:id="da-236-ed1e23686" >
-        <head>Quaestio 5</head>
-        <head type="question-title">Utrum generatio
+      <div xml:id="da-236-ed1e23686">
+        <head xml:id="da-236-ed1e23686-Hd1e102">Quaestio 5</head>
+        <head xml:id="da-236-ed1e23686-Hd1e105" type="question-title">Utrum generatio
     sit ab anima.</head>
         <p xml:id="da-236-ed1e23686-d1e23694">
           <hi>[lec10 q5] Circa quintam questionem <seg>sic</seg> proceditur et queritur utrum generatio
@@ -123,17 +121,22 @@
       corpus animatum in suo simili conseruatur. Et concedente sunt rationes ad hoc inducte. </hi>
         </p>
         <p xml:id="da-236-ed1e23686-d1e23835">
-          <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod duplex est generatio in
+          Ad primam rationem in contrarium dicendum <seg>est</seg> quod duplex est generatio in
       rebus naturalibus. Quedam enim est per <seg>conuersionem</seg> mutuam unius in alterum,
       sicut generatio elementorum, et hec generatio est per naturam contrarietatis et de hac etiam
-      dicit <name>Aristoteles</name> quod <quote source="http://scta.info/resource/nh776y-d1e51"><!--(Aristotle, GC, 1 319022)-->generatio unius est corruptio alterius</quote> et hec etiam generatio quantum
+      dicit <name>Aristoteles</name> quod 
+            <quote xml:id="da-236-ed1e23686-Qd1e263" 
+              source="http://scta.info/resource/nh776y-d1e51"><!--(Aristotle, GC, 1 319022)-->
+              generatio unius est corruptio alterius
+            </quote> 
+            et hec etiam generatio quantum
       ad transmutationem et mutuam conuersionem fit per naturam contrarietatis; quantum uero ad
       impressionem fit per naturam similis. Est enim <seg>alia</seg> generatio que fit per
       propagationem et emissionem seminis et hec est generatio animatorum et de hac non est uerum
       quod generatio unius sit corruptio alterius nisi modo equiuoco ut dicatur quod corruptio
       forme nutrimenti sit generatio forme spermatis et corruptio forme spermatis sit generatio
       forme <seg>fetus.</seg> Vnde in ista non est contrarietas et <seg>huiusmodi</seg> potest
-      esse principium illud quod non habet contrarietatem. Hoc autem est anima.</hi>
+      esse principium illud quod non habet contrarietatem. Hoc autem est anima.
         </p>
         <p xml:id="da-236-ed1e23686-d1e23856">
           <hi>Ad secundam rationem dicendum <seg>est</seg> quod corporale dicitur duobus modis. Vno modo

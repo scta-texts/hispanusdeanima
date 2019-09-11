@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -34,8 +33,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-              url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,9 +52,9 @@
       <div xml:id="starts-on"/>
     </front>
     <body>
-      <div xml:id="da-236-ed1e23247" >
-        <head>Quaestio 2</head>
-        <head type="question-title">
+      <div xml:id="da-236-ed1e23247">
+        <head xml:id="da-236-ed1e23247-Hd1e102">Quaestio 2</head>
+        <head xml:id="da-236-ed1e23247-Hd1e105" type="question-title">
     Utrum anima uegetabilis
     sit principium uite in omni uiuente.
    </head>
@@ -102,11 +100,13 @@
           <seg>
             <hi>Solutio.</hi>
           </seg>
-          <hi> Ad hoc dicendum <seg>est</seg> quod anima uegetabilis est commune principium et
+          Ad hoc dicendum <seg>est</seg> quod anima uegetabilis est commune principium et
       uniuersale uite in omnibus uiuentibus. In illa enim primo radicatur uita uniuersaliter per
       quam perficitur corpus in genere uiuentium et per cuius operationes conseruatur in se et in
       suo simili, et concedente sunt rationes, et hoc patet per uerbum <name>Aristotelis</name> dicentis quod
-      <quote source="http://scta.info/resource/aristda-l2"><!--II, 2, 4123a32-413b2-->per ipsam primo inest <seg>uiuere</seg> omnibus uiuentibus</quote>. </hi>
+      <quote xml:id="da-236-ed1e23247-Qd1e199" source="http://scta.info/resource/aristda-l2">
+        <!--II, 2, 4123a32-413b2-->per ipsam primo inest <seg>uiuere</seg> omnibus uiuentibus
+      </quote>.
         </p>
         <p xml:id="da-236-ed1e23247-d1e23349">
           <hi>Ad primam rationem in contrarium dicendum <seg>est</seg> quod uita est duobus modis. Est
